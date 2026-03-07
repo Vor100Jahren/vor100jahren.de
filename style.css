@@ -335,9 +335,10 @@
             color: var(--accent);
             font-weight: 900;
         }
-        .article--lead .article-body { font-size: 1.15rem; }
+        .article--lead .article-body { font-size: 1.06rem; }
+        .article--standard .article-body { font-size: 1.06rem; }
         .article--brief .article-body,
-        .article--feuilleton .article-body { font-size: 1.05rem; }
+        .article--feuilleton .article-body { font-size: 1.06rem; }
         .article-body a {
             color: var(--link);
             border-bottom: 1px dotted var(--link);
@@ -365,6 +366,7 @@
             width: 100%;
             max-height: 400px;
             object-fit: cover;
+            object-position: top center;
         }
 
         /* Kurzbeitrag: Bild über dem Text, volle Breite */
@@ -377,6 +379,7 @@
             width: 100%;
             max-height: 180px;
             object-fit: cover;
+            object-position: top center;
         }
 
         /* ===== ARTICLE IMAGE ===== */
