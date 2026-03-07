@@ -233,7 +233,9 @@
             } else {
                 part += escHtml(s.newspaper);
             }
-            part += ` <span class="source-archive">(${escHtml(s.archive)})</span>`;
+            if (s.archive && s.archive.toLowerCase() !== 'unbekannt') {
+                part += ` <span class="source-archive">(${escHtml(s.archive)})</span>`;
+            }
             if (s.pages_cited && s.pages_cited !== 'diverse') {
                 part += ` <span class="source-pages">S. ${escHtml(s.pages_cited)}</span>`;
             }
