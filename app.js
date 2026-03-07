@@ -340,13 +340,28 @@
         const year = parseInt(dateStr.split('-')[0]);
         const month = parseInt(dateStr.split('-')[1]);
 
-        document.getElementById('archive-year').textContent = year;
+        // Collect available years from edition dates
+        const availableYears = [...new Set(editionDates.map(d => parseInt(d.split('-')[0])))].sort();
 
-        // Determine which months have editions
+        // Render year selector with buttons
+        let yearHtml = '';
+        if (availableYears.length > 1) {
+            availableYears.forEach(y => {
+                const isActive = (y === year);
+                yearHtml += `<span class="archive-year-btn ${isActive ? 'active' : ''}" onclick="selectArchiveYear(${y})">${y}</span>`;
+            });
+        } else {
+            yearHtml = `<span class="archive-year-single">${year}</span>`;
+        }
+        document.getElementById('archive-year').innerHTML = yearHtml;
+
+        // Determine which months have editions FOR THIS YEAR
         const monthsWithEditions = new Set();
         editionDates.forEach(d => {
-            const m = parseInt(d.split('-')[1]);
-            monthsWithEditions.add(m);
+            const parts = d.split('-');
+            if (parseInt(parts[0]) === year) {
+                monthsWithEditions.add(parseInt(parts[1]));
+            }
         });
 
         let monthsHtml = '';
@@ -366,7 +381,7 @@
         const daysInMonth = new Date(year, month, 0).getDate();
         const editionsInMonth = editionDates.filter(d => {
             const parts = d.split('-');
-            return parseInt(parts[1]) === month;
+            return parseInt(parts[0]) === year && parseInt(parts[1]) === month;
         });
         const editionDays = new Set(editionsInMonth.map(d => parseInt(d.split('-')[2])));
         const currentDay = parseInt(dateStr.split('-')[2]);
@@ -386,6 +401,17 @@
             }
         }
         document.getElementById('archive-days').innerHTML = daysHtml;
+    }
+
+    function selectArchiveYear(year) {
+        // Find first edition in that year and navigate to it
+        const editionsInYear = editionDates.filter(d => d.startsWith(`${year}-`));
+        if (editionsInYear.length > 0) {
+            loadEditionByDate(editionsInYear[0]);
+        } else {
+            // Just update calendar display
+            renderArchiveCalendar(`${year}-01-01`);
+        }
     }
 
     function renderFooter(dateStr, allSources) {
