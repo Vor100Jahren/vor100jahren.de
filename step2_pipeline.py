@@ -1902,13 +1902,29 @@ WICHTIG – Eigennamen nicht-deutscher Herkunft:
   zeitgenössische Name identisch sind, genügt [[Name]].
 
 WICHTIG – Wikipedia-Verlinkung (Qualitätsregeln):
-- Setze [[Wikipedia-Marker]] NUR für Personen, Orte und Begriffe, die im obigen
-  Quellenmaterial NAMENTLICH GENANNT werden. Verlinke KEINE Personen oder Begriffe,
-  die du aus eigenem Wissen ergänzt und die nicht in den Quellen erscheinen.
+
+GRUNDSATZ: Jeder Artikel MUSS mindestens 2–3 [[Wiki]]-Marker enthalten!
+Wenn du am Ende deines Artikels weniger als 2 Marker gesetzt hast, prüfe erneut,
+ob Personen, das zentrale Thema oder historische Konzepte verlinkbar sind.
+
+A) ZENTRALES THEMA VERLINKEN:
+- Das ZENTRALE THEMA oder Ereignis des Artikels MUSS als [[Wiki]]-Marker gesetzt
+  werden, sofern ein passender Wikipedia-Artikel existiert.
+  Beispiele: [[Rifkrieg (1921–1926)|Rif-Aufstand]], [[Völkerbund]],
+  [[Prohibition in den Vereinigten Staaten|Prohibition]],
+  [[Locarno-Verträge|Locarno-Pakt]], [[Dawes-Plan]].
+- Das Thema sollte beim ERSTEN Vorkommen im Text verlinkt werden.
+
+B) PERSONEN – VOLLSTÄNDIGE NAMEN UND PRIORITÄT:
+- Bei ALLEN Personen MUSS der VOLLSTÄNDIGE NAME (Vor- und Zuname) als Linkziel
+  verwendet werden. Suche den vollen Namen im Quellenmaterial.
+  RICHTIG: [[Martin Schiele|Schiele]], [[Oskar Hergt|Hergt]], [[Jimmy Doolittle|Doolittle]]
+  FALSCH:  [[Schiele]], [[Hergt]], [[Doolittle]] (ohne Vornamen als Linkziel)
 - ALLE im Artikel namentlich genannten Personen mit enzyklopädischer Relevanz MÜSSEN
-  verlinkt werden – auch wenn sie nur mit Nachnamen genannt werden. Verwende dann die
-  [[Vollständiger Name|Nachname]]-Form, z.B. [[Julius Barmat|Barmat]],
-  [[Émile Vandervelde|Vandervelde]], [[Gustav Stresemann|Stresemann]].
+  verlinkt werden – auch wenn sie nur mit Nachnamen genannt werden.
+- Personen, die in der HAUPTÜBERSCHRIFT oder UNTERZEILE genannt werden, sind die
+  WICHTIGSTEN Verlinkungen. Stelle sicher, dass diese Personen IMMER verlinkt werden
+  und im Artikeltext VOR weniger wichtigen Personen ihren [[Wiki]]-Marker erhalten.
 - Wenn eine Person nur beiläufig ohne vollen Namen erwähnt wird oder du dir nicht
   sicher bist, welcher Wikipedia-Artikel gemeint ist, setze KEINEN Link.
 - Der NACHNAME im Linkziel MUSS zum Anzeigenamen passen.
@@ -1916,6 +1932,13 @@ WICHTIG – Wikipedia-Verlinkung (Qualitätsregeln):
   FALSCH:   [[Ignaz Seipel|Dr. Ramek]] (Nachname "Seipel" ≠ "Ramek")
 - Verlinke KEINE Personen, die offensichtlich keine enzyklopädische Relevanz haben
   (z.B. Verbrechensopfer, Unfallbeteiligte, lokale Privatpersonen).
+
+C) QUELLENREGEL:
+- Setze [[Wikipedia-Marker]] NUR für Personen, Orte und Begriffe, die im obigen
+  Quellenmaterial NAMENTLICH GENANNT werden. Verlinke KEINE Personen oder Begriffe,
+  die du aus eigenem Wissen ergänzt und die nicht in den Quellen erscheinen.
+
+D) NICHT VERLINKEN:
 - Verlinke KEINE Städtenamen oder Ortsnamen (z.B. Berlin, Paris, Wien, Genf, Tientsin,
   Washington, Moskau, London, Rom, Peking). Städte sollen als reiner Text erscheinen.
 - Verlinke KEINE Ländernamen oder Staatenbezeichnungen (z.B. Deutschland, Frankreich,
@@ -1923,13 +1946,18 @@ WICHTIG – Wikipedia-Verlinkung (Qualitätsregeln):
 - Verlinke KEINE Zeitungsnamen oder Pressebezeichnungen (z.B. Vossische Zeitung,
   Berliner Tageblatt, Le Temps, The Times, Vorwärts, Echo de Paris, Figaro).
   Zeitungsnamen werden in den Quellenangaben separat erfasst.
+- Verlinke KEINE generischen Alltagsbegriffe (z.B. Truppen, Soldaten, Aufstand,
+  Regierung, Parlament, Krieg). Nur SPEZIFISCHE Fachbegriffe, Ereignisse oder
+  Konzepte mit eigenem Wikipedia-Artikel sind verlinkbar.
+
+E) SCHREIBWEISE:
 - Die Schreibweise des Linkziels folgt weiterhin den Eigennamen-Regeln oben
   (moderne Form als Linkziel).
 
 Markierungen (werden später automatisch aufgelöst):
-- [[Begriff]] für Wikipedia-Links (z.B. [[Völkerbund]], [[Stresemann]])
+- [[Begriff]] für Wikipedia-Links (z.B. [[Völkerbund]], [[Gustav Stresemann|Stresemann]])
 - [[Ziel|Anzeige]] für alternative Anzeige (z.B. [[Aristide Briand|Briand]])
-- BEVORZUGE die [[Ziel|Anzeige]]-Form, besonders bei nicht-deutschen Eigennamen!
+- BEVORZUGE die [[Ziel|Anzeige]]-Form, IMMER mit vollständigem Namen als Linkziel!
 - {{Bild: Beschreibung}} für ein passendes historisches Bild (max. 1 pro Artikel)
 
 Antworte AUSSCHLIESSLICH mit einem validen JSON-Objekt."""
@@ -1965,7 +1993,11 @@ QUELLENVIELFALT:
 - Jede Quelle, die THEMENRELEVANTES Material enthält, soll im Artikel verarbeitet werden.
 - In der Quellenangabe (primary_sources) ALLE genutzten Zeitungen auflisten.
 
-Verwende [[Wikipedia]]-Marker für wichtige Personen, Orte und Begriffe.
+PFLICHT – [[Wikipedia]]-Marker (mindestens 2–3 pro Artikel!):
+- Zentrales Thema: [[Artikelname|Anzeigename]] z.B. [[Rifkrieg (1921–1926)|Rif-Aufstand]]
+- Personen: [[Vollständiger Name|Nachname]] z.B. [[Gustav Stresemann|Stresemann]]
+- Historische Konzepte: [[Völkerbund]], [[Dawes-Plan]], [[Locarno-Verträge]]
+- Personen aus der Überschrift haben HÖCHSTE PRIORITÄT und MÜSSEN verlinkt werden.
 Füge genau einen {{{{Bild: Beschreibung}}}}-Marker ein.
 
 PFLICHTFELD – Redaktionelle Anmerkung (editorial_note):
@@ -1981,7 +2013,7 @@ Antworte als JSON:
   "headline": "Schlagzeile im 1920er-Stil",
   "subheadline": "Erklärende Unterzeile mit Spiegelstrichen",
   "dateline": "Ortsname, {date_day}. {date_month}.",
-  "body_raw": "Der vollständige Artikeltext mit [[Wiki]]- und {{{{Bild:}}}}-Markern",
+  "body_raw": "Der vollständige Artikeltext mit mind. 2–3 [[Vollständiger Name|Anzeige]]-Markern UND einem {{{{Bild:}}}}-Marker",
   "editorial_note": "PFLICHT: Einordnung aus heutiger Sicht (was wurde aus dem Ereignis? 2–4 Sätze, NIEMALS leer lassen)"
 }}"""
 
@@ -3787,17 +3819,6 @@ def main():
 
     # Stufe 2: Kontextextraktion
     contexts = run_context_extraction(corpus, article_plan)
-
-    # Kontexte speichern
-    contexts_file = os.path.join(args.output, f"contexts_{TARGET_DATE}.json")
-    serializable_contexts = {}
-    for topic, hits in contexts.items():
-        serializable_contexts[topic] = [
-            {"text": h["text"][:500], "source": h["source"], "score": h["keyword_score"]}
-            for h in hits[:10]
-        ]
-    with open(contexts_file, 'w', encoding='utf-8') as f:
-        json.dump(serializable_contexts, f, ensure_ascii=False, indent=2)
 
     # Stufe 3: Artikelgenerierung per Claude API
     articles = generate_articles(article_plan, contexts)
