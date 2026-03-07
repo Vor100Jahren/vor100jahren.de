@@ -1,0 +1,601 @@
+[
+  {
+    "index": 1,
+    "headline": "Polens Außenminister reist zu Völkerbund-Vorbesprechungen nach Paris",
+    "subheadline": "Skrzynski will mit Briand und Chamberlain vor der Genfer Sitzung konferieren — Deutsche Protestnote wegen Oberschlesien überreicht",
+    "dateline": "Warschau, 4. März.",
+    "type": "Artikel",
+    "category": "Diplomatie",
+    "actual_words": 350,
+    "body_html": "<p>Ministerpräsident und Außenminister <a href=\"https://de.wikipedia.org/wiki/Aleksander_Skrzyński\">Skrzynski</a> hat gestern abend 8 Uhr mit dem Pariser Expresszug seine Reise nach <a href=\"https://de.wikipedia.org/wiki/Genf\">Genf</a> angetreten, um dort an den entscheidenden Beratungen über Deutschlands Aufnahme in den <a href=\"https://de.wikipedia.org/wiki/Völkerbund\">Völkerbund</a> teilzunehmen. Indes führt sein Weg zunächst nach Paris, wo er vor der eigentlichen Völkerbundstagung mit dem französischen Außenminister <a href=\"https://de.wikipedia.org/wiki/Aristide_Briand\">Briand</a> und seinem britischen Kollegen <a href=\"https://de.wikipedia.org/wiki/Austen_Chamberlain\">Chamberlain</a> zusammentreffen will.</p>\n<p>Die Gespräche in der französischen Hauptstadt dürften von besonderer Bedeutung sein, zumal Polen neben Spanien und Brasilien gleichfalls einen ständigen Sitz im Völkerbundsrat beansprucht. Wie aus London gemeldet wird, befindet sich die dortige Regierung in einer heiklen parlamentarischen Lage, da die Arbeiterpartei einen Antrag in Bereitschaft hält, der zwar Deutschlands Aufnahme als ständiges Mitglied befürwortet, gleichwohl den Zeitpunkt für nicht geeignet hält, auch anderen Mächten Dauersitze zuzusprechen.</p>\n<p>In Genfer Kreisen ist man indes gänzlich auf Mutmaßungen angewiesen, da die Lösung der Völkerbundsschwierigkeiten so ausschließlich von den Verhandlungen der Kabinette und führenden Staatsmänner abhängt. Was die Formalitäten der Aufnahme Deutschlands betrifft, so gilt nach wie vor der 10. März als der Tag, an dem dieser Akt vollzogen werden soll. An der Versammlung wird, mit Ausnahme der amerikanischen Völkerbundsstaaten, ungefähr dieselbe Zahl von Delegierten teilnehmen wie an den regelmäßigen Versammlungen im September.</p>\n<p>Unterdessen haben sich die deutsch-polnischen Beziehungen durch die jüngsten Ereignisse in <a href=\"https://de.wikipedia.org/wiki/Oberschlesien\">Oberschlesien</a> weiter verschärft. Der deutsche Gesandte in Warschau hat am 1. März im Auftrage der Reichsregierung dem polnischen Ministerpräsidenten eine Note überreicht, in welcher gegen die zügellose polnische Pressekampagne schärfster Einspruch eingelegt wird. Diese richtet sich anlässlich der letzten deutschen Verhaftungen in Polnisch-Oberschlesien insbesondere auch gegen das deutsche Generalkonsulat in <a href=\"https://de.wikipedia.org/wiki/Katowice\">Kattowitz</a>.</p>\n<p>In der heutigen Senatssitzung antwortete Justizminister Biechocki auf die Interpellation der deutschen Senatoren, dass die Untersuchungen gegen die Verhafteten binnen vier Wochen durchgeführt werden. Die einen seien wegen Verrats militärischer Geheimnisse, die anderen wegen wirtschaftlicher Spionage verhaftet worden. Ausdrücklich stellte er fest, dass der polnischen Presse von amtlicher Seite keine Mitteilung gemacht worden sei, gleichwohl diese über die Verhaftungen umfangreiche schwindelhafte Artikel veröffentlicht hat.</p>\n<p>Alles in allem steht Minister Skrzynski vor schwierigen Verhandlungen, bei denen sowohl die polnischen Ambitionen im Völkerbund als auch die bilateralen Spannungen mit Deutschland eine Rolle spielen dürften.</p>",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bundesarchiv_Bild_102-11831%2C_Genf%2C_V%C3%B6lkerbundpalast.jpg/800px-Bundesarchiv_Bild_102-11831%2C_Genf%2C_V%C3%B6lkerbundpalast.jpg",
+        "credit": "Bundesarchiv, Bild 102-11831 / CC BY-SA 3.0 DE",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-11831,_Genf,_V%C3%B6lkerbundpalast.jpg",
+        "alt_text": "Völkerbundpalast in Genf",
+        "caption": "Der Völkerbundpalast in Genf – Hier soll am 8. März über Deutschlands Aufnahme entschieden werden"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Skrzynski",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Aleksander_Skrzyński",
+        "link_target": "Aleksander Skrzyński"
+      },
+      {
+        "term": "Genf",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Genf",
+        "link_target": "Genf"
+      },
+      {
+        "term": "Völkerbund",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Völkerbund",
+        "link_target": "Völkerbund"
+      },
+      {
+        "term": "Briand",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Aristide_Briand",
+        "link_target": "Aristide Briand"
+      },
+      {
+        "term": "Chamberlain",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Austen_Chamberlain",
+        "link_target": "Austen Chamberlain"
+      },
+      {
+        "term": "Oberschlesien",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Oberschlesien",
+        "link_target": "Oberschlesien"
+      },
+      {
+        "term": "Kattowitz",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Katowice",
+        "link_target": "Katowice"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Berliner Tageblatt",
+        "date": "1926-03-04",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "diverse",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Badische Presse",
+        "date": "1926-03-04",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "diverse",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "editorial_note": "Die März-Tagung des Völkerbunds 1926 führte tatsächlich zu einer Krise: Deutschland konnte zunächst nicht aufgenommen werden, da sich die Mitgliedstaaten nicht über die Erweiterung des Rats einigen konnten. Erst im September 1926 wurde Deutschland schließlich Mitglied des Völkerbunds. Skrzynski, der als Außenminister und Ministerpräsident in Personalunion amtierte, konnte Polens Ansprüche auf einen ständigen Ratssitz nicht durchsetzen. Die deutsch-polnischen Spannungen in Oberschlesien blieben bis zum Zweiten Weltkrieg ein Dauerthema der bilateralen Beziehungen.",
+    "score": 30.0
+  },
+  {
+    "index": 2,
+    "headline": "Luther sucht engere Fühlung mit Regierungsparteien",
+    "subheadline": "Demokraten fordern neuen Minister ohne Portefeuille — Interfraktioneller Ausschuss soll Zusammenarbeit gewährleisten",
+    "dateline": "Berlin, 4. März.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 470,
+    "body_html": "<p>Der <a href=\"https://de.wikipedia.org/wiki/Hans_Luther\">Reichskanzler Dr. Luther</a> sieht sich angesichts der fortdauernden Unstimmigkeiten zwischen den Regierungsparteien veranlasst, eine engere Zusammenarbeit mit den ihn tragenden Fraktionen anzustreben. In einer gestrigen Besprechung, die nahezu zwei Stunden währte, erörterten der Kanzler und die Vertreter der Regierungsparteien die verschiedenen Misshelligkeiten, die das notwendige Zusammenwirken zwischen Kabinett und Parlament erheblich erschweren.</p>\n<p>Die Vorgeschichte dieser Aussprache ist hinlänglich bekannt. Zu den Gründen, die eine solche Besprechung unumgänglich machten, gehört in erster Linie das unglückliche Auftreten des Reichskanzlers vor dem entsprechenden Reichstagsausschuss, das zur Ablehnung der von ihm beantragten sofortigen Beratung des Regierungsprogramms führte. Gleichwohl sind es vor allen Dingen die Extratouren der <a href=\"https://de.wikipedia.org/wiki/Deutsche_Demokratische_Partei\">demokratischen</a> Reichstagsfraktion, die sich noch nicht vollends an den Übergang aus der Opposition zur positiven Mitarbeit und der damit verbundenen Verpflichtung zum Stangehalten zu gewöhnen vermag.</p>\n<p>Selbst die neuen demokratischen Minister haben mehrfach das Verständnis für die Notwendigkeit des Zusammenhaltens innerhalb der Regierung und der sie tragenden Parteien vermissen lassen. Der <a href=\"https://de.wikipedia.org/wiki/Peter_Reinhold\">Reichsfinanzminister Dr. Reinhold</a> hat in seiner ersten Rede die Polemik gegen die von den anderen Regierungsparteien im Vorjahr geübte Finanzwirtschaft derart parteipolemisch zugespitzt, dass er von dem Zentrumsredner Ersing eine scharfe Zurechtweisung einstecken und im Ausschuss seinem Finanzplan eine vollkommen andere Färbung geben musste. Sein demokratischer Kollege vom <a href=\"https://de.wikipedia.org/wiki/Reichsinnenministerium\">Reichsinnenministerium</a>, <a href=\"https://de.wikipedia.org/wiki/Wilhelm_Külz\">Dr. Külz</a>, ist vollkommen in die Fußstapfen Dr. Reinholds getreten, indem er im Ausschuss über die politische Meinungsfreiheit der Beamten Äußerungen tat, die in einer Vorstandssitzung des <a href=\"https://de.wikipedia.org/wiki/Reichsbanner_Schwarz-Rot-Gold\">Reichsbanners</a>, aber nicht im Deutschen Reichstag am Platze waren.</p>\n<p>Die demokratische Reichstagsfraktion selbst kann sich von der sie früher orientierenden <a href=\"https://de.wikipedia.org/wiki/SPD\">Sozialdemokratie</a> noch schwer trennen. Das beweist namentlich ihre Haltung in der <a href=\"https://de.wikipedia.org/wiki/Fürstenenteignung\">Fürstenabfindung</a>, wo sie mit der Sozialdemokratie an einem Strang zieht und mit fast noch größerer Wärme als diese Partei für das Volksbegehren eintritt. Es ist selbstverständlich, dass es außer diesen parteipolitischen Unstimmigkeiten, die namentlich von den Demokraten ausgehen, auch sachliche Meinungsverschiedenheiten innerhalb der Regierungsparteien gibt.</p>\n<p>In der gestrigen Besprechung haben die Demokraten vorgeschlagen, einen Minister ohne Portefeuille dem Kabinett einzufügen, der die politische Verbindung mit den Regierungsparteien zu halten habe. Die demokratischen Abgeordneten <a href=\"https://de.wikipedia.org/wiki/Koch\">Koch</a> und <a href=\"https://de.wikipedia.org/wiki/Erkelenz\">Erkelenz</a> vertraten die Auffassung, dass der vom Reichskanzler gewünschte Zweck am besten dadurch erreicht würde, wenn ein solcher Minister unausgesetzt mit dem Reichstag Fühlung nehme, den Ältestenrat besuche und sich über alle einschlägigen Dinge mit den Regierungsparteien in Verbindung setze. Dieses Mittel ist indes zweifellos abwegig, denn man beseitigt Schwierigkeiten nicht dadurch, dass man eine neue Umstandsinstanz schafft.</p>\n<p>Zu einem positiven Ergebnis sind die gestrigen Besprechungen noch nicht gekommen. Sie sollen nach der Rückkehr des Kanzlers aus <a href=\"https://de.wikipedia.org/wiki/Genf\">Genf</a> fortgesetzt werden. Inzwischen aber haben sich die Parteiführer dahin verständigt, dass sie, ehe sie einzeln ihre Fraktionen vor der Öffentlichkeit festlegen, in einem interfraktionellen Ausschuss, zu dem die Regierung zugezogen werden soll, Rücksprache nehmen. Auf diese Weise soll angestrebt werden, dass, sobald es möglich ist, die Regierungsparteien mit der Regierung nach außen hin einheitlich auftreten können.</p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "Reichskanzler Dr. Luther",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Hans_Luther",
+        "link_target": "Hans Luther"
+      },
+      {
+        "term": "demokratischen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Deutsche_Demokratische_Partei",
+        "link_target": "Deutsche Demokratische Partei"
+      },
+      {
+        "term": "Reichsfinanzminister Dr. Reinhold",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Peter_Reinhold",
+        "link_target": "Peter Reinhold"
+      },
+      {
+        "term": "Reichsinnenministerium",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Reichsinnenministerium",
+        "link_target": "Reichsinnenministerium"
+      },
+      {
+        "term": "Dr. Külz",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Wilhelm_Külz",
+        "link_target": "Wilhelm Külz"
+      },
+      {
+        "term": "Reichsbanners",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Reichsbanner_Schwarz-Rot-Gold",
+        "link_target": "Reichsbanner Schwarz-Rot-Gold"
+      },
+      {
+        "term": "Sozialdemokratie",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/SPD",
+        "link_target": "SPD"
+      },
+      {
+        "term": "Fürstenabfindung",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Fürstenenteignung",
+        "link_target": "Fürstenenteignung"
+      },
+      {
+        "term": "Koch",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Koch",
+        "link_target": "Koch"
+      },
+      {
+        "term": "Erkelenz",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Erkelenz",
+        "link_target": "Erkelenz"
+      },
+      {
+        "term": "Genf",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Genf",
+        "link_target": "Genf"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Kölnische Zeitung",
+        "date": "1926-03-04",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "diverse",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Harburger Tageblatt",
+        "date": "1926-03-04",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "diverse",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "editorial_note": "Die hier beschriebenen Regierungsprobleme kennzeichneten die instabile Phase der späten Weimarer Republik. Luther konnte die Koalitionsprobleme nicht lösen und musste bereits im Mai 1926 zurücktreten. Die Schwierigkeiten der bürgerlichen Mitte, stabile Regierungen zu bilden, trugen letztlich zur Schwächung der Weimarer Demokratie bei.",
+    "score": 40.0
+  },
+  {
+    "index": 3,
+    "headline": "Stürmische Reichstagsdebatte um den Wehretat - Sozialdemokraten greifen Minister Geßler scharf an",
+    "subheadline": "Künstler (SPD) kritisiert Reichswehrführung - Brüninghaus verteidigt sparsame Haushaltsführung - 121 Selbstmorde in der Truppe geben zu denken",
+    "dateline": "Berlin, 4. März.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 498,
+    "body_html": "<p>Die gestrige Beratung des <a href=\"https://de.wikipedia.org/wiki/Reichswehr\">Reichswehretats</a> im <a href=\"https://de.wikipedia.org/wiki/Reichstag\">Reichstag</a> zeitigte eine der heftigsten Auseinandersetzungen der laufenden Legislaturperiode. Während die Regierungsparteien dem <a href=\"https://de.wikipedia.org/wiki/Otto_Geßler\">Reichswehrminister Geßler</a> und <a href=\"https://de.wikipedia.org/wiki/Hans_von_Seeckt\">Generaloberst von Seeckt</a> ihre volle Unterstützung zusicherten, gingen die <a href=\"https://de.wikipedia.org/wiki/SPD\">Sozialdemokraten</a> mit scharfer Kritik gegen die Führung der jungen Republik ins Feld.</p>\n<p>Der sozialdemokratische Abgeordnete Künstler ließ in seiner Wortmeldung kein gutes Haar an der bisherigen Reichswehrpolitik und warf der Heeresleitung vor, den demokratischen Geist noch nicht hinreichend verinnerlicht zu haben. Diese Attacke rief indes umgehend den Widerspruch des deutschvölkischen Abgeordneten Brüninghaus hervor, der dem Sozialdemokraten vorhielt, sich \"eine ganze Menge Agitationsbazillen\" einverleibt zu haben. Gleichwohl räumte auch Brüninghaus ein, dass einzelne bedenkliche Vorkommnisse in der Truppe nicht von der Hand zu weisen seien.</p>\n<p>Besondere Aufmerksamkeit fand in der Debatte die erschreckende Zahl von 121 Selbstmorden unter den Reichswehrangehörigen im vergangenen Jahre. Als Hauptursache für diese tragischen Fälle wurde die im <a href=\"https://de.wikipedia.org/wiki/Versailler_Vertrag\">Versailler Vertrag</a> festgeschriebene zwölfjährige Verpflichtungszeit genannt. Wie aus den Darlegungen hervorging, erkennen nicht wenige junge Männer erst nach einigen Dienstjahren, dass sie ihren Beruf verfehlt haben, und greifen dann \"in ihrer Verzweiflung zur Waffe\". Die Redner aller Fraktionen waren sich einig, dass für eine bessere Unterbringung der nach zwölf Jahren ausscheidenden Soldaten gesorgt werden müsse.</p>\n<p>Der Abgeordnete Brüninghaus wies die sozialdemokratischen Vorwürfe einer unsparsamen Haushaltsführung energisch zurück. Ein Vergleich mit den Kosten des alten Heeres in der Vorkriegszeit müsse berücksichtigen, dass ein Berufsheer selbstverständlich erheblich mehr koste als ein Heer mit allgemeiner Wehrpflicht. Von \"altpreußischer Sparsamkeit\" könne gleichwohl nicht abgerückt werden, auch wenn die besonderen Umstände eine gewisse Mehrbelastung des Etats zur Folge hätten.</p>\n<p>Mit besonderem Nachdruck wandte sich Brüninghaus gegen die \"systematisch betriebene Herabsetzung der alten Wehrmacht\". Der Zusammenbruch von 1918 sei nicht durch eine innere Fäulnis des Heeres erfolgt, und man tue allen Angehörigen der früheren Streitkräfte schweres Unrecht, wenn man dies behaupte. Lebhafte Zustimmung fand diese Stellungnahme namentlich auf der rechten Seite des Hauses.</p>\n<p>In der Frage der <a href=\"https://de.wikipedia.org/wiki/Abrüstung\">Abrüstung</a> zeigte sich der deutschvölkische Redner skeptisch. Von <a href=\"https://de.wikipedia.org/wiki/Frankreich\">Frankreich</a> sei noch nichts von entsprechenden Bestrebungen zu merken, eher das Gegenteil. Er verwies auf Äußerungen des französischen Generals <a href=\"https://de.wikipedia.org/wiki/Charles_Nollet\">Nollet</a>, wonach jeder Mann zur Verteidigung des Landes ausgebildet werden müsse. Auch stelle Frankreich bereits jetzt für Lastkraftwagenbesitzer Subventionen zur Verfügung, damit diese in einem Kriege bereit seien.</p>\n<p>Bezüglich der viel diskutierten <a href=\"https://de.wikipedia.org/wiki/Fememorde\">Fememorde</a> regte Brüninghaus eine grundsätzliche Regelung an, um zu verhindern, dass eine vom Reichstag behandelte Angelegenheit auch noch von einem Landtag, möglicherweise mit anderem Ergebnis, beraten werde. Von einer \"Schwarzen Reichswehr\" könne heute in nennenswertem Umfang keine Rede mehr sein.</p>\n<p>Abschließend bekannte sich der Redner zu dem Ziel, die <a href=\"https://de.wikipedia.org/wiki/Reichswehr\">Reichswehr</a> von parteipolitischen Einflüssen freizuhalten und sie als \"brauchbares und festes Instrument in der Hand der Regierung\" zu erhalten. Die patriotischen Verbände erkenne man durchaus an, doch hätten sich diese in letzter Zeit \"allzu viel mit Tagespolitik\" befasst.</p>\n<p>Die Mehrforderungen im Wehretat, so wurde deutlich, sind hauptsächlich die Folge bestehender Gesetze über die Versorgung der Soldaten. Den im Ausschuss beschlossenen Abstrichen am Etat stimmten auch die bürgerlichen Parteien nur \"mit schwerem Herzen als dem kleinsten Übel\" zu.</p>",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bundesarchiv_Bild_102-00145%2C_Berlin%2C_Reichstagsgebäude.jpg/800px-Bundesarchiv_Bild_102-00145%2C_Berlin%2C_Reichstagsgebäude.jpg",
+        "credit": "Bundesarchiv, Bild 102-00145 / CC BY-SA 3.0 DE",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-00145,_Berlin,_Reichstagsgeb%C3%A4ude.jpg",
+        "alt_text": "Reichstagsgebäude Berlin",
+        "caption": "Das Reichstagsgebäude in Berlin – Schauplatz heftiger Etatdebatten"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Reichswehretats",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Reichswehr",
+        "link_target": "Reichswehr"
+      },
+      {
+        "term": "Reichstag",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Reichstag",
+        "link_target": "Reichstag"
+      },
+      {
+        "term": "Reichswehrminister Geßler",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Otto_Geßler",
+        "link_target": "Otto Geßler"
+      },
+      {
+        "term": "Generaloberst von Seeckt",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Hans_von_Seeckt",
+        "link_target": "Hans von Seeckt"
+      },
+      {
+        "term": "Sozialdemokraten",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/SPD",
+        "link_target": "SPD"
+      },
+      {
+        "term": "Versailler Vertrag",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Versailler_Vertrag",
+        "link_target": "Versailler Vertrag"
+      },
+      {
+        "term": "Abrüstung",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Abrüstung",
+        "link_target": "Abrüstung"
+      },
+      {
+        "term": "Frankreich",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Frankreich",
+        "link_target": "Frankreich"
+      },
+      {
+        "term": "Nollet",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Charles_Nollet",
+        "link_target": "Charles Nollet"
+      },
+      {
+        "term": "Fememorde",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Fememorde",
+        "link_target": "Fememorde"
+      },
+      {
+        "term": "Reichswehr",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Reichswehr",
+        "link_target": "Reichswehr"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Kölnische Zeitung",
+        "date": "1926-03-04",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "diverse",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "editorial_note": "Die Reichswehr-Debatte von 1926 spiegelt die fundamentalen Spannungen der Weimarer Republik wider. Die von den Rednern beklagte mangelnde demokratische Verankerung der Reichswehr sollte sich als prophetisch erweisen - 1932/33 würde das Militär eine Schlüsselrolle bei der Machtübertragung an die Nationalsozialisten spielen. Die hohe Selbstmordrate unter den Soldaten verdeutlicht die psychologischen Belastungen der auf zwölf Jahre verpflichteten Berufssoldaten. Otto Geßler blieb bis 1928 Reichswehrminister, Hans von Seeckt wurde bereits im Oktober 1926 entlassen.",
+    "score": 50.0
+  },
+  {
+    "index": 4,
+    "headline": "Vandervelde warnt vor übermäßiger Ratserweiterung",
+    "subheadline": "Belgiens Außenminister plädiert für deutsche Aufnahme — Kritik an Polen-Kandidatur — Gefahr der Lähmung des Völkerbundes",
+    "dateline": "Brüssel, 4. März.",
+    "type": "Artikel",
+    "category": "Diplomatie",
+    "actual_words": 201,
+    "body_html": "<p>Der belgische Außenminister <a href=\"https://de.wikipedia.org/wiki/Émile_Vandervelde\">Émile Vandervelde</a> hat gestern in der Kammer eine bemerkenswerte Rede zur Erweiterung des <a href=\"https://de.wikipedia.org/wiki/Völkerbund\">Völkerbundsrats</a> gehalten, die als Kompromissvorschlag für die bevorstehenden Verhandlungen in <a href=\"https://de.wikipedia.org/wiki/Genf\">Genf</a> gedeutet werden kann.</p>\n<p>Vandervelde erklärte mit bemerkenswerter Offenheit, dass <a href=\"https://de.wikipedia.org/wiki/Belgien\">Belgien</a> keinen Anspruch auf einen ständigen Ratssitz erhebe, gleichwohl aber eine geordnete Rotation der nichtständigen Sitze fordere. Die <a href=\"https://de.wikipedia.org/wiki/Deutschland\">deutsche</a> Kandidatur finde, so der Minister, \"bis jetzt keinen Widerspruch\" und sei als \"notwendige Ergänzung\" der <a href=\"https://de.wikipedia.org/wiki/Verträge_von_Locarno\">Verträge von Locarno</a> anzusehen.</p>\n<p>Scharf kritisierte Vandervelde indes den \"Feldzug der Presse\", der gewisse Kandidaturen als \"Gegengewicht\" oder gar \"Gegengift\" gegen Deutschlands Eintritt darzustellen suche. Namentlich die Bewerbungen <a href=\"https://de.wikipedia.org/wiki/Brasilien\">Brasiliens</a>, <a href=\"https://de.wikipedia.org/wiki/Spanien\">Spaniens</a> und <a href=\"https://de.wikipedia.org/wiki/Polen\">Polens</a> sieht der belgische Außenminister mit Sorge, da sie eine bedenkliche Aufblähung des Rats zur Folge haben könnten.</p>\n<p>\"Wir werden dann 18 bis 20 Ratsmitglieder haben\", warnte Vandervelde und prophezeite als Folgen eine \"Ohnmacht der Völkerbundversammlung\" sowie die Bildung eines inoffiziellen engeren Ausschusses, der die wahren Entscheidungen träfe. Ein solcher Rat werde nur \"schwerfällig arbeiten\" können.</p>\n<p>Die Rede, die den Beifall der Kammermehrheit fand, wird als authentische Wiedergabe der belgischen Regierungsposition gewertet. Vandervelde plädierte dafür, sich zunächst auf die deutsche Aufnahme zu beschränken und eine definitive Regelung für die Rotation der nichtständigen Sitze zu schaffen, bevor weitere Erweiterungen erwogen werden.</p>",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bundesarchiv_Bild_102-11831%2C_Genf%2C_V%C3%B6lkerbundpalast.jpg/800px-Bundesarchiv_Bild_102-11831%2C_Genf%2C_V%C3%B6lkerbundpalast.jpg",
+        "credit": "Bundesarchiv, Bild 102-11831 / CC BY-SA 3.0 DE",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-11831,_Genf,_V%C3%B6lkerbundpalast.jpg",
+        "alt_text": "Völkerbundpalast in Genf",
+        "caption": "Der Völkerbundpalast in Genf – Hier soll am 8. März über Deutschlands Aufnahme entschieden werden"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Émile Vandervelde",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Émile_Vandervelde",
+        "link_target": "Émile Vandervelde"
+      },
+      {
+        "term": "Völkerbundsrats",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Völkerbund",
+        "link_target": "Völkerbund"
+      },
+      {
+        "term": "Genf",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Genf",
+        "link_target": "Genf"
+      },
+      {
+        "term": "Belgien",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Belgien",
+        "link_target": "Belgien"
+      },
+      {
+        "term": "deutsche",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Deutschland",
+        "link_target": "Deutschland"
+      },
+      {
+        "term": "Verträge von Locarno",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Verträge_von_Locarno",
+        "link_target": "Verträge von Locarno"
+      },
+      {
+        "term": "Brasiliens",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Brasilien",
+        "link_target": "Brasilien"
+      },
+      {
+        "term": "Spaniens",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Spanien",
+        "link_target": "Spanien"
+      },
+      {
+        "term": "Polens",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Polen",
+        "link_target": "Polen"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Kölnische Zeitung",
+        "date": "1926-03-04",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "diverse",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "editorial_note": "Deutschland trat im September 1926 tatsächlich dem Völkerbund bei und erhielt einen ständigen Ratssitz. Vanderveldes Befürchtungen erwiesen sich als prophetisch: Der Völkerbund litt zunehmend unter seiner schwerfälligen Struktur und konnte die Krisen der 1930er Jahre nicht bewältigen. Deutschland verließ die Organisation bereits 1933 unter Hitler wieder.",
+    "score": 20.0
+  },
+  {
+    "index": 5,
+    "headline": "Französische Kammer ratifiziert Locarno-Verträge mit überwältigender Mehrheit",
+    "subheadline": "413 gegen 71 Stimmen für Briands Versöhnungspolitik — Scharfe Debatte über Sicherheitsgarantien — Maginot warnt vor deutscher Aufrüstung",
+    "dateline": "Paris, 4. März.",
+    "type": "Artikel",
+    "category": "Diplomatie",
+    "actual_words": 414,
+    "body_html": "<p>Die französische Abgeordnetenkammer hat gestern mit 413 gegen 71 Stimmen die <a href=\"https://de.wikipedia.org/wiki/Verträge_von_Locarno\">Verträge von Locarno</a> ratifiziert und damit der von Außenminister <a href=\"https://de.wikipedia.org/wiki/Aristide_Briand\">Briand</a> inaugurierten Politik der Verständigung mit Deutschland ihre parlamentarische Billigung erteilt. Das deutliche Votum beendet eine mehrtägige Debatte im <a href=\"https://de.wikipedia.org/wiki/Palais_Bourbon\">Palais Bourbon</a>, die alle Aspekte der neuen europäischen Sicherheitsarchitektur gründlich durchleuchtete.</p>\n<p>Wie das Pariser Blatt \"<a href=\"https://de.wikipedia.org/wiki/Le_Temps\">Le Temps</a>\" in seinem gestrigen Bulletin des Tages berichtet, konnte gleichwohl über den Ausgang der Abstimmung kein Zweifel bestehen. Die ausführlichen Erörterungen hätten indes den Vorteil gehabt, dass nunmehr die wahren Möglichkeiten und Grenzen der am 1. Dezember vergangenen Jahres unterzeichneten Verträge klar umrissen seien. Man erwarte von <a href=\"https://de.wikipedia.org/wiki/Locarno-Verträge\">Locarno</a> keine Wunder mehr, schätze aber dessen realen Wert für die gegenwärtige Lage Europas angemessen ein.</p>\n<p>Besondere Aufmerksamkeit fanden die Ausführungen des Vorsitzenden des Auswärtigen Ausschusses, <a href=\"https://de.wikipedia.org/wiki/Henry_Franklin-Bouillon\">Franklin-Bouillon</a>, der bei aller grundsätzlichen Zustimmung zwei wesentliche Lücken des Vertragswerks hervorhob. Zum einen bedürfe es einer permanenten Inspektion der Streitkräfte in den entmilitarisierten Zonen, zum anderen müsse eine strenge Kontrolle der militärischen Vorbereitungen während der im Abkommen vorgesehenen Schiedsverfahren eingerichtet werden. Andernfalls drohten die Arbitragebestimmungen zu einer \"Prämie für Nationen schlechten Willens\" zu werden, die die Verzögerungen zur Aufrüstung gegen gutgläubige Vertragspartner nutzen könnten.</p>\n<p>Namentlich Kriegsminister <a href=\"https://de.wikipedia.org/wiki/André_Maginot\">Maginot</a> warnte eindringlich vor den Gefahren einer einseitigen französischen Abrüstung. Angesichts einer Deutschland, das seine Rüstungsbeschränkungen nicht einhalte, müsse Frankreich über eine starke Armee verfügen. \"Locarno droht uns andernfalls die zur Verteidigung Frankreichs notwendigen Waffen aus den Händen fallen zu lassen\", so der Minister, der damit die Bedenken weiter Kreise zum Ausdruck brachte.</p>\n<p>Ministerpräsident Briand widersprach indes der Auffassung, Locarno entwaffne die Geister. Vielmehr wende es diese dem Frieden zu, was durchaus nicht dasselbe sei. \"Um den Frieden zu haben und zu bewahren, muss man ihn wollen\", erklärte der Regierungschef in seiner gestrigen Intervention. \"Man darf nicht beständig zweifeln, man darf nicht immer nur an seine Zerbrechlichkeit denken.\" Diese \"Politik des Vertrauens\" entwickelte Briand mit gewohnter Beredsamkeit, wobei er nachdrücklich betonte, dass die Verträge Frankreich keines seiner Verteidigungsmittel nehmen und keinerlei Verzicht auf die aus dem <a href=\"https://de.wikipedia.org/wiki/Vertrag_von_Versailles\">Vertrag von Versailles</a> erwachsenden Rechte bedeuteten.</p>\n<p>Bemerkenswert ist der Umstand, dass Briands verschiedene Parlamentsreden im Ausland möglicherweise stärkeren Widerhall fanden als in Frankreich selbst. Namentlich zur rechten Stunde, da die Kontroverse um die Erweiterung des <a href=\"https://de.wikipedia.org/wiki/Völkerbund\">Völkerbundsrates</a> ein wahrhaftiges Unbehagen in der internationalen Lage geschaffen hat, bewirkten die Worte des französischen Regierungschefs eine spürbare Entspannung. Nicht allein die britische Presse kommentierte Briands Äußerungen durchweg wohlwollend - selbst die deutsche Presse erkennt im Allgemeinen an, dass der französische Außenminister dem Geist von Locarno treu bleibe.</p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "Verträge von Locarno",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Verträge_von_Locarno",
+        "link_target": "Verträge von Locarno"
+      },
+      {
+        "term": "Briand",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Aristide_Briand",
+        "link_target": "Aristide Briand"
+      },
+      {
+        "term": "Palais Bourbon",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Palais_Bourbon",
+        "link_target": "Palais Bourbon"
+      },
+      {
+        "term": "Le Temps",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Le_Temps",
+        "link_target": "Le Temps"
+      },
+      {
+        "term": "Locarno",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Locarno-Verträge",
+        "link_target": "Locarno-Verträge"
+      },
+      {
+        "term": "Franklin-Bouillon",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Henry_Franklin-Bouillon",
+        "link_target": "Henry Franklin-Bouillon"
+      },
+      {
+        "term": "Maginot",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/André_Maginot",
+        "link_target": "André Maginot"
+      },
+      {
+        "term": "Vertrag von Versailles",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Vertrag_von_Versailles",
+        "link_target": "Vertrag von Versailles"
+      },
+      {
+        "term": "Völkerbundsrates",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Völkerbund",
+        "link_target": "Völkerbund"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Le Temps",
+        "date": "1926-03-04",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34431794k/date19260304",
+        "archive": "Gallica (BnF)",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "editorial_note": "Die Locarno-Verträge von 1925 schufen tatsächlich nur eine trügerische Sicherheit. Die von Maginot befürchtete deutsche Aufrüstung begann bereits wenige Jahre später unter Hitler, während die Rheinlandbesetzung 1936 die Verträge faktisch beendete. Die hier diskutierten Sicherheitslücken erwiesen sich als prophetisch - ohne effektive Kontrollmechanismen blieb Locarno ein Papiertiger.",
+    "score": 20.0
+  },
+  {
+    "index": 6,
+    "headline": "Chinas Bürgerkrieg erreicht kritische Wende",
+    "subheadline": "Marshal Feng von drei Seiten bedrängt — Chang Tso-lin ordnet Generaloffensive an — Sowjetische Unterstützung für Peking gemeldet",
+    "dateline": "Peking, 4. März.",
+    "type": "Artikel",
+    "category": "International",
+    "actual_words": 333,
+    "body_html": "<p>Die militärische Lage im chinesischen Bürgerkrieg hat sich in den vergangenen Tagen dramatisch verschärft, nachdem <a href=\"https://de.wikipedia.org/wiki/Zhang_Zuolin\">Marshal Chang Tso-lin</a> den Befehl zur Generaloffensive gegen die Truppen <a href=\"https://de.wikipedia.org/wiki/Feng_Yuxiang\">Marshal Fengs</a> erteilte. Wie aus zuverlässigen Quellen in <a href=\"https://de.wikipedia.org/wiki/Mukden\">Mukden</a> verlautet, sollen die <a href=\"https://de.wikipedia.org/wiki/Fengtien-Clique\">Fengtien-Streitkräfte</a> bereits am 1. März mit konzertierten Angriffen begonnen haben, die darauf abzielen, die Kuominchun-Verbände aus ihren Stellungen zu verdrängen.</p>\n<p>Indes findet sich <a href=\"https://de.wikipedia.org/wiki/Feng_Yuxiang\">Marshal Feng Yu-hsiang</a>, dessen Diktat über <a href=\"https://de.wikipedia.org/wiki/Peking\">Peking</a> nunmehr in höchster Gefahr schwebt, einer dreifachen Bedrohung gegenüber. Während <a href=\"https://de.wikipedia.org/wiki/Wu_Peifu\">Marshal Wu Pei-fu</a> seine Truppen bereits bis zum <a href=\"https://de.wikipedia.org/wiki/Gelber_Fluss\">Gelben Fluss</a> vorgeschoben hat und dabei auf kaum nennenswerten Widerstand stieß, operiert <a href=\"https://de.wikipedia.org/wiki/Li_Jinglin\">General Li Ching-lin</a> höchst aktiv in der Nähe von <a href=\"https://de.wikipedia.org/wiki/Tianjin\">Tientsin</a>. Gleichzeitig rückt <a href=\"https://de.wikipedia.org/wiki/Zhang_Xueliang\">Chang Hsueh-liang</a>, der Sohn des mandschurischen Marschalls, von <a href=\"https://de.wikipedia.org/wiki/Shanhaiguan\">Shanhaiguan</a> aus vor, um eine zweite Front zu eröffnen.</p>\n<p>Wie das North China Herald berichtet, haben die rivalisierenden Armeen bei Tientsin in den letzten Tagen lediglich Positionskämpfe geführt, ohne dass es zu größeren Gefechten gekommen wäre. Gleichwohl senden die Kuominchun-Truppen vier frische Divisionen nach <a href=\"https://de.wikipedia.org/wiki/Baoding\">Paotingfu</a>, um ihre bedrohten Stellungen zu verstärken. Nach unbestätigten Meldungen soll Marshal Feng alsbald sein Hauptquartier nach <a href=\"https://de.wikipedia.org/wiki/Zhangjiakou\">Kalgan</a> verlegen, um von dort aus persönlich das Kommando über seine Feldarmeen zu übernehmen.</p>\n<p>Besondere Brisanz erhält die Lage durch Berichte über sowjetische Interventionspläne. Wie aus diplomatischen Kreisen in Peking verlautet, soll eine russische Konferenz beschlossen haben, der gegenwärtigen Militärführung der Hauptstadt weitgehende Unterstützung zu gewähren. Moskau habe demnach eine Summe von 6,5 Millionen Dollar sowie Waffenlieferungen zugesagt, da der Zusammenbruch der Kuominchun gleichbedeutend mit der Unterdrückung aller sowjetischen Aktivitäten in Nordchina wäre.</p>\n<p>Die Fengtien-Strategie sieht offenbar gleichzeitige Angriffe an den Fronten von Shanhaiguan und <a href=\"https://de.wikipedia.org/wiki/Jehol\">Jehol</a> vor, wobei die Kuominchun aus der Jehol-Region vertrieben und die Positionen konsolidiert werden sollen. Von <a href=\"https://de.wikipedia.org/wiki/Qingdao\">Tsingtao</a> aus haben indes bereits fünf Kriegsschiffe und drei Transportdampfer mit insgesamt 3000 Mann unter Vizekommandant Wu Kurs auf <a href=\"https://de.wikipedia.org/wiki/Dagu\">Taku</a> genommen, um die Offensive gegen Tientsin zu unterstützen.</p>\n<p>Angesichts der sich zuspitzenden militärischen Lage haben die Kuominchun-Truppen bereits mit dem Rückzug nördlich des <a href=\"https://de.wikipedia.org/wiki/Nankou-Pass\">Nankou-Passes</a> begonnen, da eine wirksame Verteidigung Tientsins als unmöglich erachtet wird.</p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "Marshal Chang Tso-lin",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Zhang_Zuolin",
+        "link_target": "Zhang Zuolin"
+      },
+      {
+        "term": "Marshal Fengs",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Feng_Yuxiang",
+        "link_target": "Feng Yuxiang"
+      },
+      {
+        "term": "Mukden",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Mukden",
+        "link_target": "Mukden"
+      },
+      {
+        "term": "Fengtien-Streitkräfte",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Fengtien-Clique",
+        "link_target": "Fengtien-Clique"
+      },
+      {
+        "term": "Marshal Feng Yu-hsiang",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Feng_Yuxiang",
+        "link_target": "Feng Yuxiang"
+      },
+      {
+        "term": "Peking",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Peking",
+        "link_target": "Peking"
+      },
+      {
+        "term": "Marshal Wu Pei-fu",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Wu_Peifu",
+        "link_target": "Wu Peifu"
+      },
+      {
+        "term": "Gelben Fluss",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Gelber_Fluss",
+        "link_target": "Gelber Fluss"
+      },
+      {
+        "term": "General Li Ching-lin",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Li_Jinglin",
+        "link_target": "Li Jinglin"
+      },
+      {
+        "term": "Tientsin",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Tianjin",
+        "link_target": "Tianjin"
+      },
+      {
+        "term": "Chang Hsueh-liang",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Zhang_Xueliang",
+        "link_target": "Zhang Xueliang"
+      },
+      {
+        "term": "Shanhaiguan",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Shanhaiguan",
+        "link_target": "Shanhaiguan"
+      },
+      {
+        "term": "Paotingfu",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Baoding",
+        "link_target": "Baoding"
+      },
+      {
+        "term": "Kalgan",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Zhangjiakou",
+        "link_target": "Zhangjiakou"
+      },
+      {
+        "term": "Jehol",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Jehol",
+        "link_target": "Jehol"
+      },
+      {
+        "term": "Tsingtao",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Qingdao",
+        "link_target": "Qingdao"
+      },
+      {
+        "term": "Taku",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Dagu",
+        "link_target": "Dagu"
+      },
+      {
+        "term": "Nankou-Passes",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Nankou-Pass",
+        "link_target": "Nankou-Pass"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "The New York Times (Metadaten)",
+        "date": "1926-03-04",
+        "url": "https://www.nytimes.com/",
+        "archive": "NYT Archive API",
+        "pages_cited": "diverse",
+        "license": "NYT Terms of Service"
+      },
+      {
+        "newspaper": "North China Herald (Shanghai)",
+        "date": "1926-03-04",
+        "url": "https://archive.org/search?query=title%3A%22North+China+Herald%22+AND+year%3A1926",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "editorial_note": "Der chinesische Bürgerkrieg der 1920er Jahre war geprägt von wechselnden Allianzen regionaler Kriegsherren. Feng Yuxiang, der \"christliche General\", verlor tatsächlich 1926 die Kontrolle über Peking. Zhang Zuolin dominierte bis zu seiner Ermordung 1928 die Mandschurei, während sein Sohn Zhang Xueliang später eine wichtige Rolle bei der Wiedervereinigung Chinas unter der Kuomintang spielen sollte.",
+    "score": 20.0
+  },
+  {
+    "index": 7,
+    "headline": "Amundsen zeigt sich gelassen über Ausladung in Washington",
+    "subheadline": "Norwegischer Polarforscher nach Nordpol-Kontroverse von Geographischer Gesellschaft wieder ausgeladen — Streit um Cook-Peary-Priorität wirkt nach",
+    "dateline": "New York, 4. März.",
+    "type": "Kurzbeitrag",
+    "category": "Wissenschaft",
+    "actual_words": 208,
+    "body_html": "<p>Der norwegische Polarforscher <a href=\"https://de.wikipedia.org/wiki/Roald_Amundsen\">Roald Amundsen</a> hat sich nach seiner Rückkehr von einer ausgedehnten Vortragsreise durch die Vereinigten Staaten mit bemerkenswerter Gelassenheit zu der jüngsten Kontroverse um seine Person geäußert. Wie aus unterrichteten Kreisen verlautet, zeigt sich der Entdecker des <a href=\"https://de.wikipedia.org/wiki/Südpol\">Südpols</a> amüsiert über die Rücknahme seiner Einladung durch die <a href=\"https://de.wikipedia.org/wiki/National_Geographic_Society\">National Geographic Society</a> in Washington.</p>\n<p>Die renommierte Gesellschaft hatte ihre Einladung an Amundsen zurückgezogen, nachdem dieser in einem Zeitungsinterview vom 24. Januar Äußerungen gemacht hatte, die nach Ansicht des Gesellschaftspräsidenten <a href=\"https://de.wikipedia.org/wiki/Gilbert_Hovey_Grosvenor\">Gilbert Hovey Grosvenor</a> \"ernsthafte Zweifel\" an den Verdiensten des amerikanischen Polarforschers <a href=\"https://de.wikipedia.org/wiki/Robert_Edwin_Peary\">Robert Edwin Peary</a> aufkommen ließen. Dr. Grosvenor betonte in einer förmlichen Erklärung, dass Amundsen noch 1913 bei der Entgegennahme einer Goldmedaille aus Pearys Hand diesem als seiner \"Inspiration\" für die Südpol-Expedition gehuldigt habe.</p>\n<p>Obgleich Amundsen später erklärte, das Interview sei entstellt worden, konnte auch ein durch den norwegischen Gesandten Bryn übermitteltes Telegramm die Gesellschaft nicht zur Rücknahme ihrer Entscheidung bewegen. Die alte Kontroverse zwischen den Anhängern <a href=\"https://de.wikipedia.org/wiki/Frederick_Cook\">Frederick Cooks</a> und Pearys um die Priorität bei der Entdeckung des <a href=\"https://de.wikipedia.org/wiki/Nordpol\">Nordpols</a> wirft somit auch Jahre nach deren vermeintlicher Beilegung noch ihre Schatten auf die wissenschaftliche Gemeinschaft.</p>\n<p>Amundsen, der gegenwärtig seine amerikanischen Gastgeber mit Berichten über seine spektakulären Polarexpeditionen fesselt, lässt sich indes durch die diplomatischen Verwicklungen keineswegs von seinen weiteren Plänen abbringen.</p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "Roald Amundsen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Roald_Amundsen",
+        "link_target": "Roald Amundsen"
+      },
+      {
+        "term": "Südpols",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Südpol",
+        "link_target": "Südpol"
+      },
+      {
+        "term": "National Geographic Society",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/National_Geographic_Society",
+        "link_target": "National Geographic Society"
+      },
+      {
+        "term": "Gilbert Hovey Grosvenor",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Gilbert_Hovey_Grosvenor",
+        "link_target": "Gilbert Hovey Grosvenor"
+      },
+      {
+        "term": "Robert Edwin Peary",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Robert_Edwin_Peary",
+        "link_target": "Robert Edwin Peary"
+      },
+      {
+        "term": "Frederick Cooks",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Frederick_Cook",
+        "link_target": "Frederick Cook"
+      },
+      {
+        "term": "Nordpols",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Nordpol",
+        "link_target": "Nordpol"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "The Sun (New York)",
+        "date": "1926-03-04",
+        "url": "https://www.loc.gov/resource/sn84026749/1926-03-04/ed-1/",
+        "archive": "Library of Congress – Chronicling America",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "The New York Times (Metadaten)",
+        "date": "1926-03-04",
+        "url": "https://www.nytimes.com/",
+        "archive": "NYT Archive API",
+        "pages_cited": "diverse",
+        "license": "NYT Terms of Service"
+      },
+      {
+        "newspaper": "The Washington Post",
+        "date": "1926-03-04",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+year%3A1926",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "editorial_note": "Die Cook-Peary-Kontroverse um die Erstbesteigung des Nordpols beschäftigte die Öffentlichkeit jahrzehntelang. Heute gilt als gesichert, dass weder Cook (1908) noch Peary (1909) tatsächlich den Nordpol erreichten. Der erste unbestrittene Nordpol-Erreicher zu Fuß war Wally Herbert 1969.",
+    "score": 20.0
+  }
+]
