@@ -377,7 +377,7 @@
         }
         .article--brief .article-image img {
             width: 100%;
-            max-height: 180px;
+            max-height: 260px;
             object-fit: cover;
             object-position: top center;
         }
