@@ -301,8 +301,9 @@
         .article--brief .article-headline,
         .article--feuilleton .article-headline { font-size: clamp(1.35rem, 2.8vw, 1.65rem); }
         .article-subheadline {
-            font-family: var(--font-display); font-style: italic;
-            font-size: 1.1rem; color: var(--ink-faded);
+            font-family: var(--font-body);
+            font-style: italic;
+            font-size: 1.05rem; color: var(--ink-faded);
             line-height: 1.5; margin-bottom: 0.75rem;
         }
         .article-separator {
@@ -314,6 +315,10 @@
             font-family: var(--font-ui); font-size: 0.8rem;
             letter-spacing: 0.08em; color: var(--ink-muted);
             margin-bottom: 0.5rem; text-transform: uppercase;
+        }
+        .article-body {
+            text-align: justify;
+            hyphens: auto;
         }
         .article-body p {
             margin-bottom: 0.8rem;
@@ -359,6 +364,18 @@
         .article--lead .article-image img {
             width: 100%;
             max-height: 400px;
+            object-fit: cover;
+        }
+
+        /* Kurzbeitrag: Bild über dem Text, volle Breite */
+        .article--brief .article-image {
+            float: none;
+            max-width: 100%;
+            margin: 0 0 0.75rem 0;
+        }
+        .article--brief .article-image img {
+            width: 100%;
+            max-height: 180px;
             object-fit: cover;
         }
 
@@ -581,16 +598,17 @@
         /* Newsletter */
         .newsletter-input { display: flex; gap: 0; margin-top: 0.5rem; }
         .newsletter-input input {
-            flex: 1; border: 1px solid var(--rule); border-right: none;
+            flex: 1; min-width: 0; border: 1px solid var(--rule); border-right: none;
             padding: 0.4rem 0.6rem; font-family: var(--font-body);
             font-size: 0.9rem; background: var(--paper); color: var(--ink);
         }
         .newsletter-input input::placeholder { color: var(--ink-muted); }
         .newsletter-input button {
+            flex-shrink: 0; white-space: nowrap;
             background: var(--accent); color: var(--paper-light);
-            border: 1px solid var(--accent); padding: 0.4rem 0.8rem;
-            font-family: var(--font-ui); font-size: 0.75rem;
-            letter-spacing: 0.1em; text-transform: uppercase;
+            border: 1px solid var(--accent); padding: 0.4rem 0.6rem;
+            font-family: var(--font-ui); font-size: 0.72rem;
+            letter-spacing: 0.08em; text-transform: uppercase;
             cursor: pointer; transition: background 0.2s;
         }
         .newsletter-input button:hover { background: var(--accent-dark); }
