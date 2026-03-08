@@ -142,9 +142,9 @@
         "newspaper": "LeMO Chronik",
         "date": "1926-03-08",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "Deutsches Historisches Museum (DHM) – LeMO",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "CC BY-NC-SA 4.0"
       }
     ],
     "editorial_note": "Das Volksbegehren zur Fürstenenteignung erreichte schließlich mit 12,5 Millionen Stimmen das erforderliche Quorum, scheiterte jedoch beim anschließenden Volksentscheid am 20. Juni 1926 knapp an der notwendigen Mehrheit. Obwohl 14,5 Millionen Bürger für die entschädigungslose Enteignung stimmten, reichte dies nicht für die absolute Mehrheit aller Wahlberechtigten. Das Scheitern markierte einen wichtigen Wendepunkt in der Weimarer Republik und schwächte die Position der Linksparteien nachhaltig.",
@@ -240,9 +240,9 @@
         "newspaper": "New York Times",
         "date": "1926-03-08",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "NYT Archive API",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "NYT Terms of Service"
       },
       {
         "newspaper": "The Washington Post",
@@ -347,9 +347,9 @@
         "newspaper": "New York Times",
         "date": "1926-03-08",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "NYT Archive API",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "NYT Terms of Service"
       },
       {
         "newspaper": "Kölnische Zeitung",
@@ -502,9 +502,9 @@
         "newspaper": "Wikipedia OnThisDay",
         "date": "1926-03-08",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "Wikipedia / Wikimedia Foundation",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "CC BY-SA 4.0"
       },
       {
         "newspaper": "Berliner Tageblatt",
