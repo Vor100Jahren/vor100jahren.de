@@ -93,9 +93,9 @@
         "newspaper": "LeMO Chronik",
         "date": "1918-11-11",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "Deutsches Historisches Museum (DHM) – LeMO",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "CC BY-NC-SA 4.0"
       }
     ],
     "editorial_note": "Der Waffenstillstand von Compiègne beendete den Ersten Weltkrieg und legte die Grundlagen für den Versailler Friedensvertrag von 1919. Die harten Bedingungen, insbesondere die Reparationszahlungen und Gebietsabtretungen, belasteten die Weimarer Republik schwer und trugen zur politischen Instabilität der Zwischenkriegszeit bei. Ironischerweise wurde im selben Eisenbahnwaggon 1940 die französische Kapitulation unterzeichnet, bevor das Fahrzeug von den Deutschen zerstört wurde.",
@@ -146,9 +146,9 @@
         "newspaper": "LeMO Chronik",
         "date": "1918-11-11",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "Deutsches Historisches Museum (DHM) – LeMO",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "CC BY-NC-SA 4.0"
       },
       {
         "newspaper": "Neue Freie Presse",
@@ -279,9 +279,9 @@
         "newspaper": "LeMO Chronik",
         "date": "1918-11-11",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "Deutsches Historisches Museum (DHM) – LeMO",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "CC BY-NC-SA 4.0"
       },
       {
         "newspaper": "Vorwärts",
@@ -391,9 +391,9 @@
         "newspaper": "LeMO Chronik",
         "date": "1918-11-11",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "Deutsches Historisches Museum (DHM) – LeMO",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "CC BY-NC-SA 4.0"
       },
       {
         "newspaper": "Neue Freie Presse",
@@ -468,17 +468,17 @@
         "newspaper": "LeMO Chronik",
         "date": "1918-11-11",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "Deutsches Historisches Museum (DHM) – LeMO",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "CC BY-NC-SA 4.0"
       },
       {
         "newspaper": "Wikipedia OnThisDay",
         "date": "1918-11-11",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "Wikipedia / Wikimedia Foundation",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "CC BY-SA 4.0"
       },
       {
         "newspaper": "Hamburger Echo",
@@ -609,9 +609,9 @@
         "newspaper": "Wikipedia OnThisDay",
         "date": "1918-11-11",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "Wikipedia / Wikimedia Foundation",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "CC BY-SA 4.0"
       },
       {
         "newspaper": "Vorwärts",
@@ -625,9 +625,9 @@
         "newspaper": "LeMO Chronik",
         "date": "1918-11-11",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "Deutsches Historisches Museum (DHM) – LeMO",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "CC BY-NC-SA 4.0"
       },
       {
         "newspaper": "Le Figaro",
@@ -755,20 +755,20 @@
     ],
     "primary_sources": [
       {
-        "newspaper": "The Sun (New York)",
+        "newspaper": "The Washington Times (Washington, D.C.)",
         "date": "1918-11-11",
-        "url": "",
-        "archive": "Unbekannt",
+        "url": "https://www.loc.gov/resource/sn84026749/1918-11-11/ed-1/",
+        "archive": "Library of Congress – Chronicling America",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "Public Domain"
       },
       {
         "newspaper": "New York Times",
         "date": "1918-11-11",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "NYT Archive API",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "NYT Terms of Service"
       },
       {
         "newspaper": "El Sol (Madrid)",
@@ -843,9 +843,9 @@
         "newspaper": "Wikipedia OnThisDay",
         "date": "1918-11-11",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "Wikipedia / Wikimedia Foundation",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "CC BY-SA 4.0"
       },
       {
         "newspaper": "Hamburger Echo",
@@ -867,9 +867,9 @@
         "newspaper": "LeMO Chronik",
         "date": "1918-11-11",
         "url": "",
-        "archive": "Unbekannt",
+        "archive": "Deutsches Historisches Museum (DHM) – LeMO",
         "pages_cited": "diverse",
-        "license": "Unbekannt"
+        "license": "CC BY-NC-SA 4.0"
       }
     ],
     "editorial_note": "Der Waffenstillstand von Compiègne beendete die Kampfhandlungen des Ersten Weltkriegs und führte zur Abdankung Kaiser Wilhelms II. Die hier beschriebene Koalition zwischen MSPD und USPD unter den Volksbeauftragten hielt nur bis Ende 1918, als die USPD-Vertreter wegen Meinungsverschiedenheiten über den Einsatz von Freikorps gegen Spartakisten austraten. Die Arbeiter- und Soldatenräte verloren rasch an Einfluss, als sich die parlamentarische Demokratie der Weimarer Republik etablierte. Die harten Waffenstillstandsbedingungen wurden später Grundlage des Versailler Vertrags von 1919.",
