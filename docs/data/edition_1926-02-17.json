@@ -111,7 +111,7 @@
         "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/",
         "archive": "Deutsche Digitale Bibliothek",
         "pages_cited": "diverse",
-        "license": "Gemeinfrei"
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
       },
       {
         "newspaper": "Badische Presse",
@@ -119,7 +119,7 @@
         "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/",
         "archive": "Deutsche Digitale Bibliothek",
         "pages_cited": "diverse",
-        "license": "Gemeinfrei"
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
       },
       {
         "newspaper": "Hamburger Echo",
@@ -127,7 +127,7 @@
         "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/",
         "archive": "Deutsche Digitale Bibliothek",
         "pages_cited": "diverse",
-        "license": "Gemeinfrei"
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
       }
     ],
     "editorial_note": "Sir Eric Drummond (1876–1951) war von 1920 bis 1933 der erste Generalsekretär des Völkerbundes. Deutschland wurde am 8. September 1926 in den Völkerbund aufgenommen. Die Ratssitzkrise vom März 1926, ausgelöst durch Brasiliens und Spaniens Forderungen, verzögerte die Aufnahme um ein halbes Jahr.",
@@ -268,7 +268,7 @@
         "license": "Public Domain"
       },
       {
-        "newspaper": "The Sun (New York)",
+        "newspaper": "The Washington Times (Washington, D.C.)",
         "date": "1926-02-17",
         "url": "https://www.loc.gov/resource/sn84026749/1926-02-17/ed-1/",
         "archive": "Library of Congress – Chronicling America",
@@ -341,10 +341,10 @@
         "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/",
         "archive": "Deutsche Digitale Bibliothek",
         "pages_cited": "diverse",
-        "license": "Gemeinfrei"
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
       },
       {
-        "newspaper": "The Sun (New York)",
+        "newspaper": "The Washington Times (Washington, D.C.)",
         "date": "1926-02-17",
         "url": "https://www.loc.gov/resource/sn84026749/1926-02-17/ed-1/",
         "archive": "Library of Congress – Chronicling America",
@@ -407,7 +407,7 @@
         "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/",
         "archive": "Deutsche Digitale Bibliothek",
         "pages_cited": "diverse",
-        "license": "Gemeinfrei"
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
       },
       {
         "newspaper": "Berliner Tageblatt",
@@ -415,7 +415,7 @@
         "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/",
         "archive": "Deutsche Digitale Bibliothek",
         "pages_cited": "diverse",
-        "license": "Gemeinfrei"
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
       }
     ],
     "editorial_note": "Die Deutsche Reichsbahn-Gesellschaft war seit 1924 durch den Dawes-Plan mit einer Schuldverpflichtung von 11 Milliarden Goldmark belastet. Der niederschlesische Bergbau litt unter der Konkurrenz billigerer oberschlesischer und britischer Kohle.",
