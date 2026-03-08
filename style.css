@@ -365,7 +365,7 @@
         .article--lead .article-image img {
             width: 100%;
             max-height: 600px;
-            object-fit: cover;
+            object-fit: contain;
             object-position: top center;
         }
 
