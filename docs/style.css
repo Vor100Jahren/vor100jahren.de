@@ -152,7 +152,7 @@
         }
         .masthead-overline {
             font-family: var(--font-ui);
-            font-size: 0.8rem;
+            font-size: 1.06rem;
             letter-spacing: 0.25em;
             text-transform: uppercase;
             color: var(--ink-muted);
@@ -171,13 +171,13 @@
         .masthead-subtitle {
             font-family: var(--font-display);
             font-style: italic;
-            font-size: clamp(0.95rem, 2.2vw, 1.2rem);
+            font-size: 1.06rem;
             color: var(--ink-faded);
             margin-bottom: 0.5rem;
         }
         .masthead-date {
             font-family: var(--font-display);
-            font-size: clamp(1.05rem, 2.2vw, 1.25rem);
+            font-size: clamp(1.18rem, 2.2vw, 1.4rem);
             letter-spacing: 0.12em;
             text-transform: uppercase;
             color: var(--ink);
@@ -250,7 +250,7 @@
         /* ===== TABLE OF CONTENTS ===== */
         .toc { background: var(--paper-light); border: 1px solid var(--rule); padding: 1.25rem 1.5rem; margin-bottom: 2rem; }
         .toc-header {
-            font-family: var(--font-ui); font-size: 0.85rem;
+            font-family: var(--font-ui); font-size: 0.94rem;
             letter-spacing: 0.2em; text-transform: uppercase;
             color: var(--accent); font-weight: 600;
             margin-bottom: 0.75rem; padding-bottom: 0.5rem;
@@ -296,7 +296,7 @@
             font-family: var(--font-display); font-weight: 900;
             line-height: 1.15; color: var(--ink); margin-bottom: 0.5rem;
         }
-        .article--lead .article-headline { font-size: clamp(2.0rem, 4.5vw, 3.1rem); }
+        .article--lead .article-headline { font-size: clamp(1.65rem, 4.5vw, 2.71rem); }
         .article--standard .article-headline { font-size: clamp(1.55rem, 3.3vw, 2.1rem); }
         .article--brief .article-headline,
         .article--feuilleton .article-headline { font-size: clamp(1.35rem, 2.8vw, 1.65rem); }
@@ -335,9 +335,10 @@
             color: var(--accent);
             font-weight: 900;
         }
-        .article--lead .article-body { font-size: 1.15rem; }
+        .article--lead .article-body { font-size: 1.06rem; }
+        .article--standard .article-body { font-size: 1.06rem; }
         .article--brief .article-body,
-        .article--feuilleton .article-body { font-size: 1.05rem; }
+        .article--feuilleton .article-body { font-size: 1.06rem; }
         .article-body a {
             color: var(--link);
             border-bottom: 1px dotted var(--link);
@@ -359,12 +360,13 @@
         .article--lead .article-image {
             float: none;
             max-width: 100%;
-            margin: 0 0 1rem 0;
+            margin: 0 auto 1rem auto;
+            text-align: center;
         }
         .article--lead .article-image img {
-            width: 100%;
-            max-height: 400px;
-            object-fit: cover;
+            max-width: 100%;
+            max-height: 600px;
+            height: auto;
         }
 
         /* Kurzbeitrag: Bild über dem Text, volle Breite */
@@ -375,8 +377,9 @@
         }
         .article--brief .article-image img {
             width: 100%;
-            max-height: 180px;
+            max-height: 260px;
             object-fit: cover;
+            object-position: top center;
         }
 
         /* ===== ARTICLE IMAGE ===== */
@@ -473,7 +476,7 @@
             margin-bottom: 1.5rem;
         }
         .sidebar-section-title {
-            font-family: var(--font-ui); font-size: 0.8rem;
+            font-family: var(--font-ui); font-size: 0.94rem;
             letter-spacing: 0.2em; text-transform: uppercase;
             color: var(--accent); font-weight: 600;
             margin-bottom: 0.75rem; padding-bottom: 0.4rem;
@@ -507,9 +510,32 @@
         }
         .archive-month.disabled { opacity: 0.3; cursor: default; }
         .archive-year {
-            font-family: var(--font-display); font-size: 1.65rem;
-            font-weight: 700; text-align: center;
-            margin-bottom: 0.5rem; color: var(--ink-light);
+            text-align: center;
+            margin-bottom: 0.5rem;
+            display: flex;
+            justify-content: center;
+            gap: 0.5rem;
+        }
+        .archive-year-btn {
+            font-family: var(--font-display); font-size: 1.5rem;
+            font-weight: 700; color: var(--ink-muted);
+            cursor: pointer; padding: 0.15rem 0.6rem;
+            border: 2px solid transparent;
+            border-radius: 4px;
+            transition: all 0.2s;
+        }
+        .archive-year-btn:hover {
+            color: var(--accent);
+            border-color: var(--accent);
+        }
+        .archive-year-btn.active {
+            color: var(--ink-light);
+            border-color: var(--accent);
+            background: rgba(139, 69, 19, 0.08);
+        }
+        .archive-year-single {
+            font-family: var(--font-display); font-size: 1.76rem;
+            font-weight: 700; color: var(--ink-light);
         }
 
         /* Archive day picker */
