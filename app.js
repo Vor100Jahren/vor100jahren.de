@@ -757,8 +757,14 @@
         banner.id = 'search-back-banner';
         banner.className = 'search-back-banner';
         banner.innerHTML = `<button onclick="returnToSearchResults()">&#9664; Zurück zu Suchergebnissen für „${escHtml(lastSearchQuery)}"</button>`;
-        const main = document.getElementById('main-content');
-        main.parentElement.insertBefore(banner, main);
+        // Banner VOR edition-layout einfügen (nicht innerhalb des Grid!)
+        const editionLayout = document.querySelector('.edition-layout');
+        if (editionLayout) {
+            editionLayout.parentElement.insertBefore(banner, editionLayout);
+        } else {
+            const main = document.getElementById('main-content');
+            main.parentElement.insertBefore(banner, main);
+        }
     }
 
     function returnToSearchResults() {
