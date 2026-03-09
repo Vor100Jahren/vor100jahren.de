@@ -4126,7 +4126,24 @@ def run_export(articles, corpus=None):
         json.dump(docx_data, f, ensure_ascii=False, indent=2)
     
     print(f"  DOCX-Daten: {os.path.basename(docx_data_path)}")
-    
+
+    # Suchindex neu aufbauen
+    try:
+        search_index_script = os.path.join(os.path.dirname(__file__), "build_search_index.py")
+        if os.path.exists(search_index_script):
+            import subprocess
+            result = subprocess.run(
+                [sys.executable, search_index_script],
+                capture_output=True, text=True, cwd=os.path.dirname(__file__)
+            )
+            if result.returncode == 0:
+                for line in result.stdout.strip().split('\n'):
+                    print(f"  [Suchindex] {line}")
+            else:
+                print(f"  ⚠ Suchindex-Fehler: {result.stderr[:200]}")
+    except Exception as e:
+        print(f"  ⚠ Suchindex konnte nicht erstellt werden: {e}")
+
     return tagesausgabe_path
 
 # ============ HILFSFUNKTIONEN ============

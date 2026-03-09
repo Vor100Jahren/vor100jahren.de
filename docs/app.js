@@ -532,6 +532,262 @@
     }
 
     // ═══════════════════════════════════════════════════════
+    // SEARCH
+    // ═══════════════════════════════════════════════════════
+
+    let searchIndex = null;      // Lunr.js Index
+    let searchDocs = null;       // Rohdaten (Array of {id, headline, ...})
+    let searchSuggestions = null; // Vorschlagsdaten
+    let searchLoading = false;
+
+    async function loadSearchData() {
+        if (searchDocs) return; // Bereits geladen
+        if (searchLoading) return;
+        searchLoading = true;
+        try {
+            const [indexResp, suggestResp] = await Promise.all([
+                fetch('data/search_index.json'),
+                fetch('data/search_suggest.json')
+            ]);
+            searchDocs = await indexResp.json();
+            searchSuggestions = await suggestResp.json();
+
+            // Lunr.js Index aufbauen
+            searchIndex = lunr(function () {
+                this.use(lunr.de);
+                this.ref('id');
+                this.field('headline', { boost: 10 });
+                this.field('subheadline', { boost: 5 });
+                this.field('entities', { boost: 8 });
+                this.field('captions', { boost: 2 });
+                this.field('category', { boost: 3 });
+                this.field('body');
+
+                searchDocs.forEach(doc => { this.add(doc); });
+            });
+        } catch (e) {
+            console.error('Suchindex konnte nicht geladen werden:', e);
+        }
+        searchLoading = false;
+    }
+
+    function showSuggestions(query) {
+        const container = document.getElementById('search-suggestions');
+        if (!query || query.length < 2 || !searchSuggestions) {
+            container.style.display = 'none';
+            return;
+        }
+        const q = query.toLowerCase();
+        let items = [];
+
+        // Headlines durchsuchen
+        searchSuggestions.headlines.forEach(h => {
+            if (h.text.toLowerCase().includes(q) || (h.sub && h.sub.toLowerCase().includes(q))) {
+                items.push({ type: 'article', text: h.text, sub: h.date, id: h.id });
+            }
+        });
+
+        // Entitäten durchsuchen
+        searchSuggestions.entities.forEach(e => {
+            if (e.text.toLowerCase().includes(q)) {
+                items.push({ type: 'entity', text: e.text, sub: `${e.count} Artikel` });
+            }
+        });
+
+        // Kategorien durchsuchen
+        searchSuggestions.categories.forEach(c => {
+            if (c.toLowerCase().includes(q)) {
+                items.push({ type: 'category', text: c, sub: 'Kategorie' });
+            }
+        });
+
+        // Begrenzen und nach Typ sortieren (Artikel zuerst, dann Entitäten, dann Kategorien)
+        const typeOrder = { article: 0, entity: 1, category: 2 };
+        items.sort((a, b) => typeOrder[a.type] - typeOrder[b.type]);
+        items = items.slice(0, 8);
+
+        if (items.length === 0) {
+            container.style.display = 'none';
+            return;
+        }
+
+        let html = '';
+        items.forEach((item, i) => {
+            const icon = item.type === 'article' ? '📰' : item.type === 'entity' ? '🔗' : '📂';
+            html += `<div class="suggestion-item" data-index="${i}" onclick="selectSuggestion('${escHtml(item.text)}', '${item.type}', '${item.id || ''}')">
+                <span class="suggestion-icon">${icon}</span>
+                <span class="suggestion-text">${highlightMatch(escHtml(item.text), q)}</span>
+                <span class="suggestion-sub">${escHtml(item.sub)}</span>
+            </div>`;
+        });
+        container.innerHTML = html;
+        container.style.display = 'block';
+    }
+
+    function highlightMatch(text, query) {
+        const idx = text.toLowerCase().indexOf(query.toLowerCase());
+        if (idx === -1) return text;
+        return text.slice(0, idx) + '<mark>' + text.slice(idx, idx + query.length) + '</mark>' + text.slice(idx + query.length);
+    }
+
+    function selectSuggestion(text, type, articleId) {
+        const input = document.getElementById('search-input');
+        if (type === 'article' && articleId) {
+            // Direkt zum Artikel navigieren
+            const parts = articleId.split('_');
+            const dateStr = parts[0];
+            const articleIndex = parseInt(parts[1]);
+            input.value = text;
+            document.getElementById('search-suggestions').style.display = 'none';
+            navigateToArticle(dateStr, articleIndex);
+        } else {
+            // Suchbegriff übernehmen und Volltextsuche starten
+            input.value = text;
+            document.getElementById('search-suggestions').style.display = 'none';
+            executeSearch(text);
+        }
+    }
+
+    async function executeSearch(query) {
+        if (!query || query.length < 2) return;
+        await loadSearchData();
+        if (!searchIndex) return;
+
+        // Lunr.js Suche — Wildcard für Teilwortsuche
+        let results;
+        try {
+            results = searchIndex.search(query + '~1'); // Fuzzy search
+        } catch (e) {
+            // Fallback bei ungültigen Suchbegriffen
+            try {
+                results = searchIndex.search(query);
+            } catch (e2) {
+                results = [];
+            }
+        }
+
+        // Ergebnisse mit Dokumentdaten anreichern
+        const docsById = {};
+        searchDocs.forEach(d => { docsById[d.id] = d; });
+
+        const enriched = results.map(r => {
+            const doc = docsById[r.ref];
+            if (!doc) return null;
+            return { ...doc, score: r.score };
+        }).filter(Boolean);
+
+        renderSearchResults(query, enriched);
+    }
+
+    function renderSearchResults(query, results) {
+        const container = document.getElementById('search-results-container');
+        const resultsDiv = document.getElementById('search-results');
+        const infoSpan = document.getElementById('search-results-info');
+
+        if (results.length === 0) {
+            infoSpan.textContent = `Keine Ergebnisse für „${query}"`;
+            resultsDiv.innerHTML = '<p class="search-no-results">Keine Artikel gefunden. Versuchen Sie einen anderen Suchbegriff.</p>';
+        } else {
+            infoSpan.textContent = `${results.length} Ergebnis${results.length !== 1 ? 'se' : ''} für „${query}"`;
+            let html = '';
+            results.forEach(r => {
+                const snippet = makeSnippet(r.body, query, 150);
+                html += `<div class="search-result-item" onclick="navigateToArticle('${r.date}', ${r.index})">
+                    <div class="search-result-meta">
+                        <span class="search-result-date">${formatDateShort(r.date)}</span>
+                        <span class="search-result-category">${escHtml(r.category)}</span>
+                        <span class="search-result-type">${escHtml(r.type)}</span>
+                    </div>
+                    <div class="search-result-headline">${highlightMatch(escHtml(r.headline), query)}</div>
+                    ${r.subheadline ? `<div class="search-result-subheadline">${highlightMatch(escHtml(r.subheadline), query)}</div>` : ''}
+                    <div class="search-result-snippet">${highlightMatch(escHtml(snippet), query)}</div>
+                </div>`;
+            });
+            resultsDiv.innerHTML = html;
+        }
+
+        container.style.display = 'block';
+        document.getElementById('page-wrapper').style.display = 'none';
+    }
+
+    function makeSnippet(text, query, maxLen) {
+        if (!text) return '';
+        const q = query.toLowerCase();
+        const idx = text.toLowerCase().indexOf(q);
+        if (idx === -1) return text.slice(0, maxLen) + (text.length > maxLen ? '…' : '');
+        const start = Math.max(0, idx - 60);
+        const end = Math.min(text.length, idx + query.length + 90);
+        let snippet = '';
+        if (start > 0) snippet += '…';
+        snippet += text.slice(start, end);
+        if (end < text.length) snippet += '…';
+        return snippet;
+    }
+
+    async function navigateToArticle(dateStr, articleIndex) {
+        closeSearch();
+        await loadEditionByDate(dateStr);
+        // Zum Artikel scrollen
+        setTimeout(() => {
+            const articles = document.querySelectorAll('#main-content article');
+            if (articles[articleIndex]) {
+                articles[articleIndex].scrollIntoView({ behavior: 'smooth', block: 'start' });
+                articles[articleIndex].classList.add('search-highlight');
+                setTimeout(() => articles[articleIndex].classList.remove('search-highlight'), 3000);
+            }
+        }, 300);
+    }
+
+    function closeSearch() {
+        document.getElementById('search-results-container').style.display = 'none';
+        document.getElementById('page-wrapper').style.display = '';
+        document.getElementById('search-input').value = '';
+        document.getElementById('search-suggestions').style.display = 'none';
+    }
+
+    // Event-Listener für Suchfeld
+    function initSearch() {
+        const input = document.getElementById('search-input');
+        if (!input) return;
+
+        let debounceTimer;
+
+        // Autocomplete bei Eingabe
+        input.addEventListener('input', () => {
+            clearTimeout(debounceTimer);
+            const q = input.value.trim();
+            debounceTimer = setTimeout(async () => {
+                if (q.length >= 2) {
+                    await loadSearchData();
+                    showSuggestions(q);
+                } else {
+                    document.getElementById('search-suggestions').style.display = 'none';
+                }
+            }, 200);
+        });
+
+        // Enter-Taste: Volltextsuche
+        input.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                document.getElementById('search-suggestions').style.display = 'none';
+                executeSearch(input.value.trim());
+            }
+            if (e.key === 'Escape') {
+                document.getElementById('search-suggestions').style.display = 'none';
+                input.blur();
+            }
+        });
+
+        // Vorschläge schließen bei Klick außerhalb
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.search-wrapper')) {
+                document.getElementById('search-suggestions').style.display = 'none';
+            }
+        });
+    }
+
+    // ═══════════════════════════════════════════════════════
     // INIT
     // ═══════════════════════════════════════════════════════
 
@@ -542,6 +798,9 @@
 
         // Load index and chronik in parallel
         await Promise.all([loadEditionsIndex(), loadChronik()]);
+
+        // Suchfunktion initialisieren
+        initSearch();
 
         // Render the latest edition
         await renderEdition(editionDates[currentEditionIndex]);
