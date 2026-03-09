@@ -2036,6 +2036,9 @@ ARTIKELTYP: {article_type} ({target_words} Wörter)
 KATEGORIE: {category}
 HEADLINE-VORSCHLAG: {headline_suggestion}
 
+QUELLENREGISTER:
+{source_register_display}
+
 QUELLENMATERIAL AUS ZEITUNGEN DES {date_upper}:
 {context_material}
 
@@ -2061,6 +2064,16 @@ QUELLENVIELFALT:
 - Jede Quelle, die THEMENRELEVANTES Material enthält, soll im Artikel verarbeitet werden.
 - In der Quellenangabe (primary_sources) ALLE genutzten Zeitungen auflisten.
 
+PFLICHT – Inline-Quellenverweise [Q...]:
+- Setze nach JEDER Passage, die auf einer konkreten Quelle basiert, den zugehörigen
+  Quellenmarker aus dem QUELLENREGISTER oben: [Q1], [Q2], [Q3] usw.
+- Ein Quellenmarker steht am SATZENDE, VOR dem Punkt: "...in eine Sackgasse geraten[Q1]."
+- Wenn ein Satz Informationen aus MEHREREN Quellen kombiniert: [Q1][Q3]
+- Setze Marker GROSSZÜGIG — lieber zu viele als zu wenige. Jeder faktische Satz sollte
+  mindestens einen Marker haben.
+- Verwende NUR die Quellenkennungen aus dem QUELLENREGISTER oben. Erfinde KEINE neuen.
+- Die Marker werden später automatisch zu Fußnoten aufgelöst.
+
 PFLICHT – [[Wikipedia]]-Marker (mindestens 2–3 pro Artikel!):
 - Zentrales Thema: [[Artikelname|Anzeigename]] z.B. [[Rifkrieg (1921–1926)|Rif-Aufstand]]
 - Personen: [[Vollständiger Name|Nachname]] z.B. [[Gustav Stresemann|Stresemann]]
@@ -2081,7 +2094,7 @@ Antworte als JSON:
   "headline": "Schlagzeile im 1920er-Stil",
   "subheadline": "Erklärende Unterzeile mit Spiegelstrichen",
   "dateline": "Ortsname, {date_day}. {date_month}.",
-  "body_raw": "Der vollständige Artikeltext mit mind. 2–3 [[Vollständiger Name|Anzeige]]-Markern UND einem {{{{Bild:}}}}-Marker",
+  "body_raw": "Artikeltext mit [[Wiki]]-Markern, {{{{Bild:}}}}-Marker UND [Q...]-Quellenverweisen an jedem faktischen Satz",
   "editorial_note": "PFLICHT: Einordnung aus heutiger Sicht (was wurde aus dem Ereignis? 2–4 Sätze, NIEMALS leer lassen)"
 }}"""
 
@@ -2147,9 +2160,15 @@ def format_context_for_prompt(context_hits, max_chars=15000):
 
     Quellenvielfalt: Pro Quelle wird mindestens der beste Treffer einbezogen,
     bevor das Budget mit weiteren Treffern aufgefüllt wird.
+
+    Jeder Kontextblock erhält eine eindeutige Quellenkennung [Q1], [Q2], ...
+    die Claude im generierten Text als Inline-Referenz verwenden soll.
+
+    Rückgabe: (formatierter_text, quellenregister)
+    quellenregister = {"Q1": "Vorwärts", "Q2": "Berliner Tageblatt", ...}
     """
     if not context_hits:
-        return "(Kein spezifisches Quellenmaterial verfügbar)"
+        return "(Kein spezifisches Quellenmaterial verfügbar)", {}
 
     # Phase 1: Pro Quelle den ersten (= besten) Treffer reservieren
     seen_sources = set()
@@ -2165,12 +2184,25 @@ def format_context_for_prompt(context_hits, max_chars=15000):
 
     sections = []
     total = 0
+    source_register = {}  # "Q1" -> "Vorwärts", ...
+    source_to_qid = {}    # "Vorwärts" -> "Q1", ...
+    qid_counter = 1
+
     for hit in phase1 + phase2:
         source = hit.get("source", "Unbekannt")
         text = hit.get("text", "").strip()
         if not text:
             continue
-        entry = f"[{source}]\n{text}"
+
+        # Quellenkennung zuweisen (pro Quelle eine ID)
+        if source not in source_to_qid:
+            qid = f"Q{qid_counter}"
+            source_to_qid[source] = qid
+            source_register[qid] = source
+            qid_counter += 1
+        qid = source_to_qid[source]
+
+        entry = f"[{qid} — {source}]\n{text}"
         if total + len(entry) > max_chars:
             if hit in phase1:
                 continue  # Skip statt break für Phase-1-Treffer
@@ -2178,7 +2210,8 @@ def format_context_for_prompt(context_hits, max_chars=15000):
         sections.append(entry)
         total += len(entry)
 
-    return "\n\n---\n\n".join(sections) if sections else "(Kein Quellenmaterial)"
+    formatted = "\n\n---\n\n".join(sections) if sections else "(Kein Quellenmaterial)"
+    return formatted, source_register
 
 
 def generate_articles(article_plan, contexts):
@@ -2207,8 +2240,14 @@ def generate_articles(article_plan, contexts):
 
         # Kontext-Treffer für dieses Thema
         context_hits = contexts.get(topic, [])
-        context_material = format_context_for_prompt(context_hits)
+        context_material, source_register = format_context_for_prompt(context_hits)
         print(f"    Kontext: {len(context_hits)} Treffer, {len(context_material):,} Zeichen")
+        print(f"    Quellenregister: {', '.join(f'{k}={v}' for k, v in source_register.items())}")
+
+        # Quellenregister als lesbare Tabelle für den Prompt
+        source_register_display = "\n".join(
+            f"  {qid} = {name}" for qid, name in source_register.items()
+        ) if source_register else "(keine Quellen)"
 
         user_prompt = ARTICLE_USER_PROMPT.format(
             date=date_str,
@@ -2219,6 +2258,7 @@ def generate_articles(article_plan, contexts):
             category=plan.get("category", "Vermischtes"),
             headline_suggestion=plan.get("headline_suggestion", topic),
             context_material=context_material,
+            source_register_display=source_register_display,
             date_day=dt.day,
             date_month=months_de[dt.month],
         )
@@ -2251,6 +2291,7 @@ def generate_articles(article_plan, contexts):
                 "dateline": article_data.get("dateline", ""),
                 "body_raw": article_data.get("body_raw", ""),
                 "editorial_note": article_data.get("editorial_note", ""),
+                "source_register": source_register,
             })
 
             word_count = len(article_data.get("body_raw", "").split())
@@ -2301,6 +2342,7 @@ def generate_articles(article_plan, contexts):
                 "dateline": "",
                 "body_raw": f"[Artikelgenerierung fehlgeschlagen: {e}]",
                 "editorial_note": "",
+                "source_register": source_register,
             })
 
         # Rate-Limiting zwischen API-Aufrufen
@@ -3727,6 +3769,70 @@ def _normalize_article_text(article):
     return article
 
 
+def resolve_source_markers(body_html, source_register, primary_sources):
+    """Löst [Q1], [Q2] etc. Marker im body_html zu Fußnoten-HTML auf.
+
+    Erzeugt hochgestellte Ziffern als klickbare Links und baut einen
+    Fußnotenapparat, der Quellennamen mit Archiv-URLs verknüpft.
+
+    Rückgabe: (body_html_with_footnotes, footnotes_list)
+    footnotes_list = [{"id": 1, "qid": "Q1", "newspaper": "Vorwärts", "url": "...", "archive": "..."}, ...]
+    """
+    if not source_register:
+        return body_html, []
+
+    # URL-Lookup aus primary_sources aufbauen
+    source_url_map = {}
+    for src in primary_sources:
+        name = src.get("newspaper", "")
+        source_url_map[name] = {
+            "url": src.get("url", ""),
+            "archive": src.get("archive", ""),
+            "date": src.get("date", ""),
+        }
+
+    # Alle verwendeten [Q...]-Marker finden und in Reihenfolge des Auftretens nummerieren
+    import re as _re
+    marker_pattern = _re.compile(r'\[Q(\d+)\]')
+    all_markers = marker_pattern.findall(body_html)
+
+    if not all_markers:
+        return body_html, []
+
+    # Fußnoten in Reihenfolge des ersten Auftretens zuweisen
+    seen_qids = {}
+    footnote_counter = 0
+    footnotes = []
+
+    for qnum in all_markers:
+        qid = f"Q{qnum}"
+        if qid not in seen_qids:
+            footnote_counter += 1
+            newspaper = source_register.get(qid, f"Quelle {qid}")
+            url_info = source_url_map.get(newspaper, {})
+            seen_qids[qid] = footnote_counter
+            footnotes.append({
+                "id": footnote_counter,
+                "qid": qid,
+                "newspaper": newspaper,
+                "url": url_info.get("url", ""),
+                "archive": url_info.get("archive", ""),
+                "date": url_info.get("date", ""),
+            })
+
+    # Marker im Text durch Fußnoten-HTML ersetzen
+    def replace_marker(match):
+        qid = f"Q{match.group(1)}"
+        fn_num = seen_qids.get(qid)
+        if fn_num is None:
+            return match.group(0)  # Unbekannten Marker belassen
+        return f'<sup class="source-ref"><a href="#fn-{fn_num}" id="fnref-{fn_num}" title="{source_register.get(qid, "")}">[{fn_num}]</a></sup>'
+
+    body_html = marker_pattern.sub(replace_marker, body_html)
+
+    return body_html, footnotes
+
+
 def enrich_article(article, context_hits, source_registry, used_image_urls=None):
     """Einen Artikel mit Links, Bildern und Quellenapparat anreichern."""
     if used_image_urls is None:
@@ -3769,6 +3875,18 @@ def enrich_article(article, context_hits, source_registry, used_image_urls=None)
         headline_targets=headline_targets
     )
     
+    # 2b. Quellenapparat VOR Marker-Auflösung bauen (für URL-Lookup)
+    primary_sources = build_source_apparatus(context_hits, source_registry)
+
+    # 2c. Quellenmarker [Q1], [Q2] etc. zu Fußnoten auflösen
+    article_source_register = article.get("source_register", {})
+    body_html, footnotes = resolve_source_markers(
+        body_html, article_source_register, primary_sources=primary_sources
+    )
+    article["footnotes"] = footnotes
+    if footnotes:
+        print(f"    Quellenverweise: {len(footnotes)} Fußnoten aus [Q]-Markern")
+
     # 3. HTML-Absätze formatieren
     paragraphs = [p.strip() for p in body_html.split('\n\n') if p.strip()]
     body_html = '\n'.join(f'<p>{p}</p>' for p in paragraphs)
@@ -3815,8 +3933,7 @@ def enrich_article(article, context_hits, source_registry, used_image_urls=None)
                       f"Text abgeschnitten ({len(editorial_note)} → {len(cleaned)} Zeichen).")
                 break
 
-    # 4. Quellenapparat – dynamisch aus Kontext-Treffern
-    primary_sources = build_source_apparatus(context_hits, source_registry)
+    # 4. Quellenapparat bereits oben in Schritt 2b gebaut
 
     article["body_html"] = body_html
     article["wikipedia_links"] = wiki_links
@@ -3898,6 +4015,7 @@ def export_article_json(article, index):
         "images": article.get("images", []),
         "wikipedia_links": article.get("wikipedia_links", []),
         "primary_sources": article.get("primary_sources", []),
+        "footnotes": article.get("footnotes", []),
         "editorial_note": article.get("editorial_note", ""),
         "score": article.get("score", 0),
         "domestic_source_count": len(domestic_sources),
@@ -3941,6 +4059,7 @@ def export_tagesausgabe_json(articles):
             "images": article.get("images", []),
             "wikipedia_links": article.get("wikipedia_links", []),
             "primary_sources": article.get("primary_sources", []),
+            "footnotes": article.get("footnotes", []),
             "editorial_note": article.get("editorial_note", ""),
             "score": article.get("score", 0)
         })
@@ -3998,6 +4117,7 @@ def run_export(articles, corpus=None):
             "body_html": article["body_html"],
             "images": article.get("images", []),
             "primary_sources": article.get("primary_sources", []),
+            "footnotes": article.get("footnotes", []),
             "editorial_note": article.get("editorial_note", ""),
             "wikipedia_links": article.get("wikipedia_links", [])
         })
