@@ -1947,6 +1947,12 @@ WICHTIG – Rechtschreibung und Grammatik:
 - Stattdessen: "dass", "muss", "Not", "Teil", "eigentümlich".
 - Der Stil und Tonfall soll an die 1920er erinnern, die Orthografie muss aber modern sein.
 
+WICHTIG – Satzzeichen und Gedankenstriche:
+- Verwende AUSSCHLIESSLICH den Geviertstrich (Em-Dash) — (U+2014) als Gedankenstrich.
+- KEIN Halbgeviertstrich (En-Dash) – (U+2013) als Gedankenstrich. Der En-Dash ist NUR für Zahlenbereiche (z.B. 1916–1922) zulässig.
+- KEIN Bindestrich mit Leerzeichen ( - ) als Gedankenstrich.
+- Gedankenstriche werden mit Leerzeichen umgeben: "Text — Einschub — Text".
+
 WICHTIG – Eigennamen nicht-deutscher Herkunft:
 - Verwende im Fließtext durchgängig die ZEITGENÖSSISCH-DEUTSCHE Schreibweise,
   wie sie in deutschen Zeitungen der 1920er Jahre üblich war.
@@ -3686,6 +3692,41 @@ def _retroactive_wiki_enrichment(body_text, topic, headline, subheadline):
     return enriched
 
 
+def _normalize_article_text(article):
+    """Post-Processing: Normalisiert Encoding, Gedankenstriche und Sonderzeichen.
+
+    Wird nach der Artikelgenerierung aufgerufen, BEVOR die Anreicherung stattfindet.
+    Korrigiert systematische Probleme, die das LLM trotz Prompt-Anweisungen produziert.
+    """
+    text_fields = ["headline", "subheadline", "dateline", "body_raw", "editorial_note"]
+
+    for field in text_fields:
+        text = article.get(field, "")
+        if not text or not isinstance(text, str):
+            continue
+
+        # 1. UTF-8 Double-Encoding reparieren
+        encoding_fixes = [
+            ('\u00e2\u20ac\u201c', '\u2014'),   # â€" → —
+            ('\u00e2\u20ac\u0153', '\u201e'),    # â€œ → „
+            ('\u00e2\u20ac\u009d', '\u201c'),    # â€ → "
+            ('\u00e2\u20ac\u2122', '\u2019'),    # â€™ → '
+        ]
+        for old, new in encoding_fixes:
+            text = text.replace(old, new)
+
+        # 2. En-Dashes (–) als Gedankenstriche → Em-Dashes (—)
+        #    NUR wenn NICHT zwischen Ziffern (Zahlenbereiche wie 1916–1922 behalten)
+        text = re.sub(r'(?<!\d)\u2013(?!\d)', '\u2014', text)
+
+        # 3. Spaced Hyphens ( - ) als Gedankenstriche → Em-Dashes
+        text = text.replace(' - ', ' \u2014 ')
+
+        article[field] = text
+
+    return article
+
+
 def enrich_article(article, context_hits, source_registry, used_image_urls=None):
     """Einen Artikel mit Links, Bildern und Quellenapparat anreichern."""
     if used_image_urls is None:
@@ -3879,7 +3920,7 @@ def export_tagesausgabe_json(articles):
         "project": "Vor 100 Jahren",
         "date_historical": TARGET_DATE,
         "date_modern": datetime.now().strftime("%Y-%m-%d"),
-        "edition_title": f"VOR 100 JAHREN – Freitag, den 13. Februar 1926",
+        "edition_title": build_edition_title(TARGET_DATE),
         "article_count": len(articles),
         "articles": []
     }
@@ -4063,8 +4104,21 @@ def main():
     # Stufe 3: Artikelgenerierung per Claude API
     articles = generate_articles(article_plan, contexts)
 
+    # Stufe 3b: Text-Normalisierung (Encoding, Gedankenstriche)
+    for article in articles:
+        _normalize_article_text(article)
+
     # Stufe 4: Anreicherung (Quellen dynamisch aus Kontext-Treffern)
     enriched_articles = run_enrichment(articles, article_plan, contexts, source_registry)
+
+    # Stufe 4b: Finale Text-Normalisierung (body_html nach Anreicherung)
+    for article in enriched_articles:
+        for field in ("body_html", "editorial_note"):
+            text = article.get(field, "")
+            if text and isinstance(text, str):
+                text = re.sub(r'(?<!\d)\u2013(?!\d)', '\u2014', text)
+                text = text.replace(' - ', ' \u2014 ')
+                article[field] = text
 
     # Stufe 5: Export (JSON)
     tagesausgabe_path = run_export(enriched_articles, corpus)
