@@ -7,7 +7,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Oswald:wght@300;400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css?v=2">
+    <link rel="stylesheet" href="style.css?v=3">
+    <!-- Lunr.js Volltextsuche mit deutschem Stemmer -->
+    <script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/lunr-languages@1.14.0/lunr.stemmer.support.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/lunr-languages@1.14.0/lunr.de.min.js" defer></script>
 </head>
 <body>
     <!-- TOP NAVIGATION BAR -->
@@ -19,6 +23,12 @@
                 <li><a href="chronik.html">Schlüsseldaten</a></li>
                 <li><a href="about.html">Über das Projekt</a></li>
             </ul>
+            <div class="topbar-search">
+                <div class="search-wrapper">
+                    <input type="text" id="search-input" class="search-input" placeholder="Artikel durchsuchen…" autocomplete="off">
+                    <div id="search-suggestions" class="search-suggestions" style="display:none;"></div>
+                </div>
+            </div>
             <div class="topbar-auth">
                 <button class="btn-login" onclick="document.getElementById('login-modal').style.display='flex'">Anmelden</button>
                 <button class="btn-register">Registrieren</button>
@@ -43,8 +53,17 @@
         <button id="btn-next" onclick="navigateEdition(1)">Nächste &#9654;</button>
     </div>
 
+    <!-- SEARCH RESULTS (hidden by default) -->
+    <div id="search-results-container" class="search-results-container" style="display:none;">
+        <div class="search-results-header">
+            <span id="search-results-info"></span>
+            <button id="search-close" class="search-close" onclick="closeSearch()">Suche schließen ×</button>
+        </div>
+        <div id="search-results" class="search-results"></div>
+    </div>
+
     <!-- MAIN CONTENT -->
-    <div class="page-wrapper">
+    <div class="page-wrapper" id="page-wrapper">
         <div class="edition-layout">
             <main class="main-content" id="main-content">
                 <div class="loading">Ausgabe wird geladen...</div>
