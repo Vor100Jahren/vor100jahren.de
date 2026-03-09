@@ -131,16 +131,36 @@ def build_suggest_index(articles):
         category_set.add(a["category"])
 
     # Entitäten direkt aus den Artikeln nochmal sauber extrahieren
+    # Deduplizierung über Wikipedia-URL als kanonischen Schlüssel:
+    # "Stresemann", "Stresemanns", "Dr. Stresemann" → gleiche URL → ein Eintrag
+    entity_by_url = {}  # url → {"terms": [term1, term2, ...], "count": N}
     pattern = os.path.join(DATA_DIR, "edition_*.json")
     for filepath in sorted(glob.glob(pattern)):
         with open(filepath, 'r', encoding='utf-8') as f:
             data = json.load(f)
         edition_articles = data if isinstance(data, list) else data.get("articles", [])
         for a in edition_articles:
+            seen_urls = set()  # Pro Artikel jede URL nur einmal zählen
             for wl in a.get("wikipedia_links", []):
                 term = wl.get("term", "") or wl.get("link_target", "")
-                if term:
-                    entity_counter[term] += 1
+                url = wl.get("wikipedia_url", "")
+                if not term:
+                    continue
+                if not url:
+                    # Ohne URL als eigenen Eintrag behandeln
+                    url = f"_nourl_{term}"
+                if url not in entity_by_url:
+                    entity_by_url[url] = {"terms": [], "count": 0}
+                if term not in entity_by_url[url]["terms"]:
+                    entity_by_url[url]["terms"].append(term)
+                if url not in seen_urls:
+                    entity_by_url[url]["count"] += 1
+                    seen_urls.add(url)
+
+    # Besten Anzeigenamen wählen: kürzester Term (ohne Titel/Genitiv)
+    for url, info in entity_by_url.items():
+        best = min(info["terms"], key=len)
+        entity_counter[best] += info["count"]
 
     # Entitäten nach Häufigkeit sortiert
     suggestions["entities"] = [

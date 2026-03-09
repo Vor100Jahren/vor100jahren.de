@@ -539,6 +539,7 @@
     let searchDocs = null;       // Rohdaten (Array of {id, headline, ...})
     let searchSuggestions = null; // Vorschlagsdaten
     let searchLoading = false;
+    let lastSearchQuery = '';    // Letzte Suchanfrage (für "Zurück zu Ergebnissen")
 
     async function loadSearchData() {
         if (searchDocs) return; // Bereits geladen
@@ -652,6 +653,7 @@
         if (!query || query.length < 2) return;
         await loadSearchData();
         if (!searchIndex) return;
+        lastSearchQuery = query;
 
         // Lunr.js Suche — Wildcard für Teilwortsuche
         let results;
@@ -725,7 +727,13 @@
     }
 
     async function navigateToArticle(dateStr, articleIndex) {
-        closeSearch();
+        // Suchergebnisse ausblenden, aber Query merken
+        document.getElementById('search-results-container').style.display = 'none';
+        document.getElementById('page-wrapper').style.display = '';
+
+        // "Zurück zu Ergebnissen"-Banner anzeigen
+        showSearchBackBanner();
+
         await loadEditionByDate(dateStr);
         // Zum Artikel scrollen
         setTimeout(() => {
@@ -738,11 +746,40 @@
         }, 300);
     }
 
+    function showSearchBackBanner() {
+        // Bestehenden Banner entfernen falls vorhanden
+        const existing = document.getElementById('search-back-banner');
+        if (existing) existing.remove();
+
+        if (!lastSearchQuery) return;
+
+        const banner = document.createElement('div');
+        banner.id = 'search-back-banner';
+        banner.className = 'search-back-banner';
+        banner.innerHTML = `<button onclick="returnToSearchResults()">&#9664; Zurück zu Suchergebnissen für „${escHtml(lastSearchQuery)}"</button>`;
+        const main = document.getElementById('main-content');
+        main.parentElement.insertBefore(banner, main);
+    }
+
+    function returnToSearchResults() {
+        // Banner entfernen
+        const banner = document.getElementById('search-back-banner');
+        if (banner) banner.remove();
+
+        // Suchergebnisse wieder anzeigen
+        document.getElementById('search-results-container').style.display = 'block';
+        document.getElementById('page-wrapper').style.display = 'none';
+    }
+
     function closeSearch() {
         document.getElementById('search-results-container').style.display = 'none';
         document.getElementById('page-wrapper').style.display = '';
         document.getElementById('search-input').value = '';
         document.getElementById('search-suggestions').style.display = 'none';
+        lastSearchQuery = '';
+        // Banner entfernen falls vorhanden
+        const banner = document.getElementById('search-back-banner');
+        if (banner) banner.remove();
     }
 
     // Event-Listener für Suchfeld
