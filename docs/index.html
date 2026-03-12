@@ -3,164 +3,119 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VOR 100 JAHREN</title>
+    <title>VOR 100 JAHREN — Wartungsarbeiten</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Oswald:wght@300;400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css?v=3">
-    <!-- Lunr.js Volltextsuche mit deutschem Stemmer -->
-    <script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js" defer></script>
-    <script src="https://cdn.jsdelivr.net/npm/lunr-languages@1.14.0/lunr.stemmer.support.min.js" defer></script>
-    <script src="https://cdn.jsdelivr.net/npm/lunr-languages@1.14.0/lunr.de.min.js" defer></script>
+    <style>
+        :root {
+            --paper: #F5F0E8;
+            --paper-light: #FAF8F3;
+            --ink: #1A1611;
+            --ink-muted: #5C5347;
+            --ink-faded: #8A7E70;
+            --accent: #8B6914;
+            --rule: #C4B99A;
+            --font-display: 'Playfair Display', Georgia, 'Times New Roman', serif;
+            --font-body: 'Lora', Georgia, serif;
+            --font-ui: 'Oswald', 'Helvetica Neue', sans-serif;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background: var(--paper);
+            color: var(--ink);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 640px;
+            text-align: center;
+        }
+        .overline {
+            font-family: var(--font-ui);
+            font-size: 0.75rem;
+            letter-spacing: 0.25em;
+            text-transform: uppercase;
+            color: var(--ink-muted);
+            margin-bottom: 1rem;
+        }
+        h1 {
+            font-family: var(--font-display);
+            font-size: clamp(2.5rem, 6vw, 4rem);
+            font-weight: 900;
+            letter-spacing: 0.08em;
+            line-height: 1.1;
+            margin-bottom: 0.5rem;
+        }
+        .subtitle {
+            font-family: var(--font-display);
+            font-size: 1.1rem;
+            font-style: italic;
+            color: var(--ink-muted);
+            margin-bottom: 2rem;
+        }
+        .deco-line {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.75rem;
+            margin-bottom: 2rem;
+        }
+        .deco-diamond {
+            width: 8px;
+            height: 8px;
+            background: var(--accent);
+            transform: rotate(45deg);
+            display: inline-block;
+        }
+        .deco-line::before,
+        .deco-line::after {
+            content: '';
+            width: 80px;
+            height: 1px;
+            background: var(--rule);
+        }
+        .message {
+            font-family: var(--font-body);
+            font-size: 1.05rem;
+            line-height: 1.7;
+            color: var(--ink-muted);
+            margin-bottom: 2rem;
+        }
+        .note {
+            font-family: var(--font-body);
+            font-size: 0.9rem;
+            font-style: italic;
+            color: var(--ink-faded);
+            border-top: 1px solid var(--rule);
+            padding-top: 1.5rem;
+            margin-top: 1rem;
+        }
+    </style>
 </head>
 <body>
-    <!-- TOP NAVIGATION BAR -->
-    <nav class="topbar">
-        <div class="topbar-inner">
-            <ul class="topbar-nav">
-                <li><a href="#" onclick="loadLatestEdition(); return false;">Heutige Ausgabe</a></li>
-                <li><a href="#" onclick="document.getElementById('archive-section').scrollIntoView({behavior:'smooth'}); return false;">Archiv</a></li>
-                <li><a href="chronik.html">Schlüsseldaten</a></li>
-                <li><a href="about.html">Über das Projekt</a></li>
-            </ul>
-            <div class="topbar-search">
-                <div class="search-wrapper">
-                    <input type="text" id="search-input" class="search-input" placeholder="Artikel durchsuchen…" autocomplete="off">
-                    <div id="search-suggestions" class="search-suggestions" style="display:none;"></div>
-                </div>
-            </div>
-            <div class="topbar-auth">
-                <button class="btn-login" onclick="document.getElementById('login-modal').style.display='flex'">Anmelden</button>
-                <button class="btn-register">Registrieren</button>
-            </div>
+    <div class="container">
+        <p class="overline">Geschichte im Spiegel der zeitgen&#246;ssischen Berichterstattung</p>
+        <h1>VOR 100 JAHREN</h1>
+        <p class="subtitle">Die historische Presseschau</p>
+        <div class="deco-line">
+            <span class="deco-diamond"></span>
+            <span class="deco-diamond"></span>
+            <span class="deco-diamond"></span>
         </div>
-    </nav>
-
-    <!-- MASTHEAD -->
-    <header class="masthead">
-        <p class="masthead-overline">Geschichte im Spiegel der zeitgenössischen Berichterstattung — Täglich neu erzählt</p>
-        <h1 class="masthead-title">VOR 100 JAHREN</h1>
-        <p class="masthead-subtitle">Die historische Presseschau</p>
-        <div class="deco-line"><span class="deco-diamond"></span><span class="deco-diamond"></span><span class="deco-diamond"></span></div>
-        <p class="masthead-date" id="masthead-date"></p>
-        <p class="masthead-stats" id="masthead-stats"></p>
-    </header>
-
-    <!-- EDITION NAVIGATION -->
-    <div class="edition-nav">
-        <button id="btn-prev" onclick="navigateEdition(-1)">&#9664; Vorige</button>
-        <span id="edition-indicator"></span>
-        <button id="btn-next" onclick="navigateEdition(1)">Nächste &#9654;</button>
+        <p class="message">
+            Wir &#252;berarbeiten derzeit unsere Ausgaben, um Ihnen eine noch h&#246;here
+            Quellenqualit&#228;t und historische Pr&#228;zision bieten zu k&#246;nnen.
+            Die Presseschau kehrt in K&#252;rze mit verbesserten Inhalten zur&#252;ck.
+        </p>
+        <p class="note">
+            Bei Fragen erreichen Sie uns unter
+            <a href="mailto:sgresse@web.de" style="color: var(--accent);">sgresse@web.de</a>
+        </p>
     </div>
-
-    <!-- SEARCH RESULTS (hidden by default) -->
-    <div id="search-results-container" class="search-results-container" style="display:none;">
-        <div class="search-results-header">
-            <span id="search-results-info"></span>
-            <button id="search-close" class="search-close" onclick="closeSearch()">Suche schließen ×</button>
-        </div>
-        <div id="search-results" class="search-results"></div>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div class="page-wrapper" id="page-wrapper">
-        <div class="edition-layout">
-            <main class="main-content" id="main-content">
-                <div class="loading">Ausgabe wird geladen...</div>
-            </main>
-
-            <!-- SIDEBAR -->
-            <aside class="sidebar">
-                <!-- ARCHIVE -->
-                <div class="sidebar-section" id="archive-section">
-                    <div class="sidebar-section-title">Archiv</div>
-                    <div class="archive-year" id="archive-year"></div>
-                    <div class="archive-months" id="archive-months"></div>
-                    <div class="archive-days" id="archive-days"></div>
-                    <p style="font-size:0.85rem; color:var(--ink-muted); text-align:center; font-style:italic;">
-                        Verfügbare Ausgaben sind hervorgehoben
-                    </p>
-                </div>
-
-                <!-- CHRONIK / KEY DATES -->
-                <div class="sidebar-section" id="chronik-section">
-                    <div class="sidebar-section-title">Schlüsseldaten</div>
-                    <ul class="key-dates-list" id="key-dates-list"></ul>
-                </div>
-
-                <!-- NEWSLETTER -->
-                <div class="sidebar-section">
-                    <div class="sidebar-section-title">Newsletter</div>
-                    <p style="font-size:0.85rem; color:var(--ink-faded); margin-bottom:0.5rem;">
-                        Die Tagesausgabe jeden Morgen in Ihrem Postfach.
-                    </p>
-                    <div class="newsletter-input">
-                        <input type="email" placeholder="Ihre E-Mail-Adresse">
-                        <button>Abonnieren</button>
-                    </div>
-                    <p class="newsletter-note">Auch als PDF verfügbar. Kein Spam. Jederzeit kündbar.</p>
-                </div>
-
-                <!-- SOURCES -->
-                <div class="sidebar-section">
-                    <div class="sidebar-section-title">Heutige Quellen</div>
-                    <ul class="source-list" id="source-list"></ul>
-                </div>
-            </aside>
-        </div>
-    </div>
-
-    <!-- FOOTER -->
-    <footer class="colophon">
-        <div class="colophon-inner">
-            <div>
-                <h3>Quellennachweis</h3>
-                <p>Diese Ausgabe wurde erstellt auf Grundlage historischer Zeitungsarchive aus über einem Dutzend internationaler Originalquellen. Alle Originaltexte sind gemeinfrei oder unter offenen Lizenzen zugänglich.</p>
-                <p style="margin-top:0.5rem;" id="footer-archives"></p>
-            </div>
-            <div>
-                <h3>Navigation</h3>
-                <ul>
-                    <li><a href="#" onclick="loadLatestEdition(); return false;">Heutige Ausgabe</a></li>
-                    <li><a href="#" onclick="document.getElementById('archive-section').scrollIntoView({behavior:'smooth'}); return false;">Archiv</a></li>
-                    <li><a href="chronik.html">Schlüsseldaten</a></li>
-                    <li><a href="about.html">Über das Projekt</a></li>
-                    <li><a href="#">Impressum</a></li>
-                </ul>
-            </div>
-            <div>
-                <h3>Konto</h3>
-                <ul>
-                    <li><a href="#" onclick="document.getElementById('login-modal').style.display='flex'; return false;">Anmelden</a></li>
-                    <li><a href="#">Registrieren</a></li>
-                    <li><a href="#">Newsletter</a></li>
-                    <li><a href="#">Premium</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="colophon-bottom" id="colophon-bottom"></div>
-    </footer>
-
-    <!-- LOGIN MODAL -->
-    <div id="login-modal" style="display:none; position:fixed; inset:0; background:rgba(26,22,17,0.7); z-index:1000; justify-content:center; align-items:center;" onclick="if(event.target===this)this.style.display='none'">
-        <div style="background:var(--paper-light); padding:2.5rem; max-width:380px; width:90%; border:2px solid var(--rule); position:relative;">
-            <button onclick="this.parentElement.parentElement.style.display='none'" style="position:absolute; top:0.75rem; right:1rem; background:none; border:none; font-size:0.9rem; cursor:pointer; color:var(--ink-muted);">×</button>
-            <h2 style="font-family:var(--font-display); font-size:0.9rem; margin-bottom:0.25rem;">Anmelden</h2>
-            <p style="font-size:0.9rem; color:var(--ink-faded); margin-bottom:1.25rem;">Zugang zum vollständigen Archiv</p>
-            <div style="margin-bottom:0.75rem;">
-                <label style="font-family:var(--font-ui); font-size:0.9rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--ink-muted); display:block; margin-bottom:0.25rem;">E-Mail</label>
-                <input type="email" style="width:100%; padding:0.5rem; border:1px solid var(--rule); background:var(--paper); font-family:var(--font-body); font-size:0.95rem;">
-            </div>
-            <div style="margin-bottom:1rem;">
-                <label style="font-family:var(--font-ui); font-size:0.95rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--ink-muted); display:block; margin-bottom:0.25rem;">Passwort</label>
-                <input type="password" style="width:100%; padding:0.5rem; border:1px solid var(--rule); background:var(--paper); font-family:var(--font-body); font-size:0.95rem;">
-            </div>
-            <button style="width:100%; padding:0.6rem; background:var(--accent); color:var(--paper-light); border:none; font-family:var(--font-ui); font-size:0.95rem; letter-spacing:0.15em; text-transform:uppercase; cursor:pointer; font-weight:500;">Anmelden</button>
-            <p style="text-align:center; margin-top:0.75rem; font-size:0.95rem; color:var(--ink-muted);">
-                Noch kein Konto? <a href="#" style="color:var(--accent);">Registrieren</a>
-            </p>
-        </div>
-    </div>
-    <script src="app.js"></script>
 </body>
 </html>
