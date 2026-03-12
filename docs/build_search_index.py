@@ -19,7 +19,7 @@ import os
 import re
 from collections import Counter
 
-DATA_DIR = os.path.join(os.path.dirname(__file__), "docs", "data")
+DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 
 
 def strip_html(html):
