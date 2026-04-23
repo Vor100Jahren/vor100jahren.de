@@ -266,7 +266,7 @@
         // Editorial note
         if (a.editorial_note && a.editorial_note.trim()) {
             html += `<details class="editorial-note" open>
-                <summary>Redaktionelle Anmerkung</summary>
+                <summary>Historische Einordnung</summary>
                 <p>${a.editorial_note}</p>
             </details>`;
         }
@@ -1067,4 +1067,47 @@
             if (scrollUpBtn) scrollUpBtn.classList.toggle('visible', show);
             if (scrollDownBtn) scrollDownBtn.classList.toggle('visible', show);
         });
+
+    // ===== NEWSLETTER SUBSCRIPTION =====
+    const nlBtn = document.getElementById('newsletter-submit');
+    if (nlBtn) nlBtn.addEventListener('click', async function() {
+        const email = document.getElementById('newsletter-email').value.trim();
+        const status = document.getElementById('newsletter-status');
+        const freq = document.querySelector('input[name="frequency"]:checked');
+
+        if (!email || !email.includes('@')) {
+            status.textContent = 'Bitte gültige E-Mail-Adresse eingeben.';
+            status.style.display = 'block';
+            status.style.color = 'var(--accent)';
+            return;
+        }
+
+        const tags = [];
+        if (freq.value === 'daily' || freq.value === 'both') tags.push('daily');
+        if (freq.value === 'weekly' || freq.value === 'both') tags.push('weekly');
+
+        try {
+            const resp = await fetch('https://api.buttondown.com/v1/subscribers', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ email: email, tags: tags })
+            });
+
+            if (resp.ok || resp.status === 201) {
+                status.textContent = 'Bitte bestätigen Sie Ihre E-Mail-Adresse.';
+                status.style.color = 'var(--ink)';
+                document.getElementById('newsletter-email').value = '';
+            } else if (resp.status === 409) {
+                status.textContent = 'Diese E-Mail ist bereits registriert.';
+                status.style.color = 'var(--accent)';
+            } else {
+                status.textContent = 'Fehler bei der Anmeldung. Bitte später erneut versuchen.';
+                status.style.color = 'var(--accent)';
+            }
+        } catch (e) {
+            status.textContent = 'Verbindungsfehler. Bitte später erneut versuchen.';
+            status.style.color = 'var(--accent)';
+        }
+        status.style.display = 'block';
+    });
     });

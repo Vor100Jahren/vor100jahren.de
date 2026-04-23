@@ -1093,6 +1093,9 @@
         }
         .newsletter-input button:hover { background: var(--accent-dark); }
         .newsletter-note { font-size: 0.8rem; color: var(--ink-muted); margin-top: 0.4rem; font-style: italic; }
+        .newsletter-frequency { display: flex; gap: 0.6rem; margin-bottom: 0.5rem; flex-wrap: wrap; }
+        .newsletter-radio { font-size: 0.78rem; color: var(--ink-faded); display: flex; align-items: center; gap: 0.25rem; cursor: pointer; }
+        .newsletter-radio input[type="radio"] { accent-color: var(--accent); margin: 0; }
 
         /* ===== FOOTER ===== */
         .colophon {
