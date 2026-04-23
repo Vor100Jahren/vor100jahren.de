@@ -1326,6 +1326,9 @@
             pointer-events: none;
             transition: opacity 0.3s;
             box-shadow: 0 2px 8px rgba(26, 22, 17, 0.2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
         .scroll-top .arrow-up,
         .scroll-top .arrow-down {
