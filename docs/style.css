@@ -577,9 +577,27 @@
         .page-wrapper { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
         .edition-layout {
             display: grid;
-            grid-template-columns: 1fr 280px;
-            gap: 2rem;
+            grid-template-columns: 1fr 40px 280px;
+            gap: 0;
+            column-gap: 0;
             margin-top: 1.5rem;
+        }
+        .main-content { padding-right: 1rem; }
+        .sidebar { padding-left: 1rem; }
+
+        /* Scroll-Button-Spalte */
+        .scroll-gutter {
+            position: relative;
+            width: 40px;
+        }
+        .scroll-gutter-inner {
+            position: sticky;
+            top: 50vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 6px;
+            transform: translateY(-50%);
         }
 
         /* ===== TABLE OF CONTENTS ===== */
@@ -1103,8 +1121,10 @@
 
         /* ===== RESPONSIVE ===== */
         @media (max-width: 900px) {
-            .edition-layout { grid-template-columns: 1fr; }
-            .sidebar { order: 1; }
+            .edition-layout { grid-template-columns: 1fr 40px; }
+            .sidebar { grid-column: 1 / -1; order: 1; }
+            .main-content { padding-right: 0; }
+            .sidebar { padding-left: 0; }
             .briefs-grid { grid-template-columns: 1fr; }
             .briefs-grid .article:nth-child(odd) { border-right: none; padding-right: 0; }
             .article--lead .article-image img { max-height: none; }
@@ -1271,15 +1291,8 @@
             hyphens: none;
         }
 
-        /* ===== SCROLL TO TOP ===== */
-        .scroll-top-anchor {
-            position: relative;
-            max-width: var(--max-width);
-            margin: 0 auto;
-        }
+        /* ===== SCROLL BUTTONS ===== */
         .scroll-top {
-            position: fixed;
-            right: 1rem; /* Fallback, wird per JS überschrieben */
             width: 26px;
             height: 26px;
             background: var(--accent);
@@ -1291,11 +1304,8 @@
             opacity: 0;
             pointer-events: none;
             transition: opacity 0.3s;
-            z-index: 100;
             box-shadow: 0 2px 8px rgba(26, 22, 17, 0.2);
         }
-        .scroll-up { bottom: calc(2rem + 32px); }
-        .scroll-down { bottom: 2rem; }
         .scroll-top.visible {
             opacity: 1;
             pointer-events: auto;
