@@ -1279,12 +1279,7 @@
         }
         .scroll-top {
             position: fixed;
-            /* Mitte des Gaps zwischen Main-Content und Sidebar:
-               (100vw - max-width)/2 = äußerer Rand
-               + 1.5rem = page-wrapper padding-right
-               + 280px = Sidebar-Breite
-               + (2rem - 26px)/2 = halber Gap minus halber Button */
-            right: calc((100vw - var(--max-width)) / 2 + 1.5rem + 280px + (var(--column-gap) - 26px) / 2);
+            right: 1rem; /* Fallback, wird per JS überschrieben */
             width: 26px;
             height: 26px;
             background: var(--accent);
@@ -1306,18 +1301,6 @@
             pointer-events: auto;
         }
         .scroll-top:hover { background: var(--accent-dark); }
-        @media (max-width: 1320px) {
-            .scroll-top {
-                right: 0.5rem;
-            }
-        }
-        @media (max-width: 900px) {
-            .scroll-top {
-                right: 1rem;
-                bottom: 1.5rem;
-            }
-            .scroll-up { bottom: calc(1.5rem + 36px); }
-        }
         .scroll-top.at-bottom { opacity: 0.4; pointer-events: none; }
 
         /* ===== LOADING ===== */
