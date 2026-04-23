@@ -1089,19 +1089,24 @@
         try {
             const resp = await fetch('https://api.buttondown.com/v1/subscribers', {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ email: email, tags: tags })
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': 'Token REMOVED'
+                },
+                body: JSON.stringify({ email_address: email, tags: tags })
             });
 
             if (resp.ok || resp.status === 201) {
                 status.textContent = 'Bitte bestätigen Sie Ihre E-Mail-Adresse.';
                 status.style.color = 'var(--ink)';
                 document.getElementById('newsletter-email').value = '';
-            } else if (resp.status === 409) {
-                status.textContent = 'Diese E-Mail ist bereits registriert.';
-                status.style.color = 'var(--accent)';
             } else {
-                status.textContent = 'Fehler bei der Anmeldung. Bitte später erneut versuchen.';
+                const data = await resp.json().catch(() => ({}));
+                if (resp.status === 409 || (data.code && data.code.includes('already'))) {
+                    status.textContent = 'Diese E-Mail ist bereits registriert.';
+                } else {
+                    status.textContent = 'Fehler bei der Anmeldung. Bitte später erneut versuchen.';
+                }
                 status.style.color = 'var(--accent)';
             }
         } catch (e) {
