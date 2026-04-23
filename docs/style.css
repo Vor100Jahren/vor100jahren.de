@@ -496,6 +496,15 @@
             margin-bottom: 0.15rem;
             font-variant-numeric: lining-nums;
         }
+        .masthead-title a {
+            color: inherit;
+            border: none;
+            text-decoration: none;
+        }
+        .masthead-title a:hover {
+            color: inherit;
+            border: none;
+        }
         .masthead-subtitle {
             font-family: var(--font-display);
             font-style: italic;
