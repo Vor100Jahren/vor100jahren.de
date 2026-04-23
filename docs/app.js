@@ -428,7 +428,7 @@
         if (availableYears.length > 1) {
             availableYears.forEach(y => {
                 const isActive = (y === year);
-                yearHtml += `<span class="archive-year-btn ${isActive ? 'active' : ''}" onclick="selectArchiveYear(${y})">${y}</span>`;
+                yearHtml += `<span class="archive-year-btn ${isActive ? 'active' : ''}" role="button" tabindex="0" onclick="selectArchiveYear(${y})">${y}</span>`;
             });
         } else {
             yearHtml = `<span class="archive-year-single">${year}</span>`;
@@ -453,7 +453,7 @@
             if (isActive) cls = 'active';
             else if (hasEditions) cls = 'has-editions';
             else cls = 'disabled';
-            monthsHtml += `<span class="archive-month ${cls}" onclick="selectArchiveMonth(${m})">${name}</span>`;
+            monthsHtml += `<span class="archive-month ${cls}" role="button" tabindex="0" onclick="selectArchiveMonth(${m})">${name}</span>`;
         });
         document.getElementById('archive-months').innerHTML = monthsHtml;
 
@@ -475,7 +475,7 @@
             if (isCurrent) cls = 'current';
             else if (hasEdition) cls = 'active';
             if (hasEdition || isCurrent) {
-                daysHtml += `<span class="archive-day ${cls}" onclick="loadEditionByDate('${dateKey}')">${day}</span>`;
+                daysHtml += `<span class="archive-day ${cls}" role="button" tabindex="0" onclick="loadEditionByDate('${dateKey}')">${day}</span>`;
             } else {
                 daysHtml += `<span class="archive-day" style="opacity:0.3; cursor:default;">${day}</span>`;
             }
@@ -543,7 +543,7 @@
         section.style.display = '';
         let html = '';
         SPECIALS_INDEX.forEach(s => {
-            html += `<li class="special-item" onclick="showSpecialEdition('${escHtml(s.id)}')">
+            html += `<li class="special-item" role="button" tabindex="0" onclick="showSpecialEdition('${escHtml(s.id)}')">
                 <span class="special-date">${formatDateShort(s.date_historical)}</span>
                 <span class="special-title">${escHtml(s.event)}</span>
                 <span class="special-meta">${s.article_count} Artikel · ${escHtml(s.kategorie)}</span>
@@ -744,7 +744,7 @@
         let html = '';
         items.forEach((item, i) => {
             const icon = item.type === 'article' ? '📰' : item.type === 'entity' ? '🔗' : '📂';
-            html += `<div class="suggestion-item" data-index="${i}" onclick="selectSuggestion('${escHtml(item.text)}', '${item.type}', '${item.id || ''}')">
+            html += `<div class="suggestion-item" data-index="${i}" role="button" tabindex="0" onclick="selectSuggestion('${escHtml(item.text)}', '${item.type}', '${item.id || ''}')">
                 <span class="suggestion-icon">${icon}</span>
                 <span class="suggestion-text">${highlightMatch(escHtml(item.text), q)}</span>
                 <span class="suggestion-sub">${escHtml(item.sub)}</span>
@@ -835,7 +835,7 @@
             let html = '';
             results.forEach(r => {
                 const snippet = makeSnippet(r.body, query, 150);
-                html += `<div class="search-result-item" onclick="navigateToArticle('${r.date}', ${r.index})">
+                html += `<div class="search-result-item" role="button" tabindex="0" onclick="navigateToArticle('${r.date}', ${r.index})">
                     <div class="search-result-meta">
                         <span class="search-result-date">${formatDateShort(r.date)}</span>
                         <span class="search-result-category">${escHtml(r.category)}</span>

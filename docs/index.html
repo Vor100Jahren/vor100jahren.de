@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@700&display=swap" as="style">
-    <link rel="stylesheet" href="style.css?v=15">
+    <link rel="stylesheet" href="style.css?v=16">
     <!-- Lunr.js Volltextsuche mit deutschem Stemmer -->
     <script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/lunr-languages@1.14.0/lunr.stemmer.support.min.js" defer></script>
@@ -94,7 +94,7 @@
 
                 <!-- SONDERAUSGABEN -->
                 <div class="sidebar-section" id="specials-section" style="display:none;">
-                    <div class="sidebar-section-title" style="cursor:pointer;" onclick="if(SPECIALS_INDEX.length) showSpecialEdition(SPECIALS_INDEX[0].id)">Sonderausgabe</div>
+                    <div class="sidebar-section-title" style="cursor:pointer;" role="button" tabindex="0" onclick="if(SPECIALS_INDEX.length) showSpecialEdition(SPECIALS_INDEX[0].id)">Sonderausgabe</div>
                     <ul class="specials-list" id="specials-list"></ul>
                 </div>
 
@@ -156,7 +156,7 @@
     <button class="scroll-top scroll-down" id="scroll-down-btn" title="Nach unten">&#9660;</button>
 
     <!-- LOGIN MODAL -->
-    <div id="login-modal" style="display:none; position:fixed; inset:0; background:rgba(26,22,17,0.7); z-index:1000; justify-content:center; align-items:center;" onclick="if(event.target===this)this.style.display='none'">
+    <div id="login-modal" role="dialog" style="display:none; position:fixed; inset:0; background:rgba(26,22,17,0.7); z-index:1000; justify-content:center; align-items:center; cursor:pointer;" onclick="if(event.target===this)this.style.display='none'">
         <div style="background:var(--paper-light); padding:2.5rem; max-width:380px; width:90%; border:2px solid var(--rule); position:relative;">
             <button onclick="this.parentElement.parentElement.style.display='none'" style="position:absolute; top:0.75rem; right:1rem; background:none; border:none; font-size:0.9rem; cursor:pointer; color:var(--ink-muted);">x</button>
             <h2 style="font-family:var(--font-display); font-size:0.9rem; margin-bottom:0.25rem;">Anmelden</h2>

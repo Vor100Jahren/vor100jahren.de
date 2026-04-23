@@ -27,6 +27,8 @@
 
         /* ===== RESET & BASE ===== */
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        /* iOS: Elemente mit cursor:pointer als klickbar behandeln */
+        [onclick], [role="button"] { cursor: pointer; -webkit-tap-highlight-color: rgba(139, 105, 20, 0.15); }
         html { font-size: 17px; scroll-behavior: smooth; }
         body {
             font-family: var(--font-body);
@@ -548,8 +550,8 @@
         }
         .edition-nav button {
             background: none;
-            border: 1px solid var(--rule);
-            color: var(--ink-faded);
+            border: 1px solid var(--accent);
+            color: var(--accent);
             padding: 0.25rem 0.6rem;
             font-family: var(--font-ui);
             font-size: 0.75rem;
@@ -558,7 +560,7 @@
             cursor: pointer;
             transition: all 0.2s;
         }
-        .edition-nav button:hover { border-color: var(--accent); color: var(--accent); }
+        .edition-nav button:hover { border-color: var(--accent-dark); color: var(--accent-dark); }
         .edition-nav button:disabled { opacity: 0.3; cursor: default; }
         .edition-nav span { color: var(--ink-faded); text-transform: uppercase; }
 
@@ -1205,9 +1207,11 @@
             padding: 0.6rem 0;
             border-bottom: 1px solid var(--rule-light, #e0d8c8);
             cursor: pointer;
+            -webkit-tap-highlight-color: rgba(139, 105, 20, 0.15);
             transition: background 0.15s;
         }
-        .special-item:hover {
+        .special-item:hover,
+        .special-item:active {
             background: var(--paper-light, #faf8f2);
         }
         .special-item:last-child {
@@ -1266,7 +1270,12 @@
         }
         .scroll-top {
             position: fixed;
-            right: calc((100vw - var(--max-width)) / 2 + 280px + (var(--column-gap) - 26px) / 2);
+            /* Mitte des Gaps zwischen Main-Content und Sidebar:
+               (100vw - max-width)/2 = äußerer Rand
+               + 1.5rem = page-wrapper padding-right
+               + 280px = Sidebar-Breite
+               + (2rem - 26px)/2 = halber Gap minus halber Button */
+            right: calc((100vw - var(--max-width)) / 2 + 1.5rem + 280px + (var(--column-gap) - 26px) / 2);
             width: 26px;
             height: 26px;
             background: var(--accent);
@@ -1292,6 +1301,13 @@
             .scroll-top {
                 right: 0.5rem;
             }
+        }
+        @media (max-width: 900px) {
+            .scroll-top {
+                right: 1rem;
+                bottom: 1.5rem;
+            }
+            .scroll-up { bottom: calc(1.5rem + 36px); }
         }
         .scroll-top.at-bottom { opacity: 0.4; pointer-events: none; }
 
