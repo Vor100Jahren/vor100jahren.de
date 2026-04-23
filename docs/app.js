@@ -600,7 +600,7 @@
         // Back-to-edition button in Chronik sidebar
         const chronikSection = document.getElementById('key-dates-list');
         if (chronikSection) {
-            chronikSection.innerHTML = `<li><a href="#" onclick="loadEditionByDate(editionDates[currentEditionIndex]); return false;" style="color:var(--accent); font-size:0.9rem;">&#9664; Zurück zur Tagesausgabe</a></li>`;
+            chronikSection.innerHTML = `<li><a href="#" onclick="loadEditionByDate(editionDates[currentEditionIndex]); return false;" style="color:var(--accent); font-size:0.9rem;"><span class="arrow-left" style="border-right-color:var(--accent)"></span> Zurück zur Tagesausgabe</a></li>`;
         }
 
         window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -897,7 +897,7 @@
         const banner = document.createElement('div');
         banner.id = 'search-back-banner';
         banner.className = 'search-back-banner';
-        banner.innerHTML = `<button onclick="returnToSearchResults()">&#9664; Zurück zu Suchergebnissen für „${escHtml(lastSearchQuery)}"</button>`;
+        banner.innerHTML = `<button onclick="returnToSearchResults()"><span class="arrow-left"></span> Zurück zu Suchergebnissen für „${escHtml(lastSearchQuery)}"</button>`;
         // Banner VOR edition-layout einfügen (nicht innerhalb des Grid!)
         const editionLayout = document.querySelector('.edition-layout');
         if (editionLayout) {
