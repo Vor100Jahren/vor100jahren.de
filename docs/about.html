@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Über das Projekt — VOR 100 JAHREN</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css?v=15">
+    <style>
+        /* About page specific styles */
+        .about-wrapper {
+            max-width: var(--max-width);
+            margin: 0 auto;
+            padding: 2rem 1.5rem 4rem;
+        }
+        .about-content {
+            max-width: 780px;
+            margin: 0 auto;
+        }
+        .about-lead {
+            font-size: 1.15rem;
+            line-height: 1.8;
+            color: var(--ink-light);
+            margin-bottom: 2rem;
+            font-style: italic;
+        }
+        .about-content h2 {
+            font-family: var(--font-body);
+            font-size: 1.6rem;
+            font-weight: 700;
+            color: var(--ink);
+            margin: 2.5rem 0 0.75rem;
+            border-bottom: 2px solid var(--rule);
+            padding-bottom: 0.4rem;
+        }
+        .about-content h3 {
+            font-family: var(--font-body);
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: var(--ink-light);
+            margin: 1.5rem 0 0.5rem;
+        }
+        .about-content p {
+            margin-bottom: 1rem;
+            text-align: justify;
+            hyphens: none;
+        }
+        .about-content strong {
+            color: var(--ink);
+        }
+        .method-box {
+            background: var(--paper-light);
+            border-left: 3px solid var(--accent);
+            padding: 1.25rem 1.5rem;
+            margin: 1.5rem 0;
+        }
+        .method-box h3 {
+            margin-top: 0;
+            color: var(--accent-dark);
+        }
+        .strength-weakness {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5rem;
+            margin: 1rem 0 1.5rem;
+        }
+        .strength-weakness > div {
+            padding: 1rem;
+            border: 1px solid var(--rule);
+        }
+        .strength-weakness > div:first-child {
+            background: rgba(139, 105, 20, 0.04);
+        }
+        .strength-weakness > div:last-child {
+            background: rgba(139, 32, 32, 0.03);
+        }
+        .strength-weakness h4 {
+            font-family: var(--font-ui);
+            font-size: 0.72rem;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            margin-bottom: 0.5rem;
+        }
+        .strength-weakness li {
+            font-size: 0.92rem;
+            margin-bottom: 0.4rem;
+            list-style: none;
+            padding-left: 0;
+            display: flex;
+            align-items: baseline;
+            gap: 0.4em;
+        }
+        .strength-weakness li::before {
+            flex-shrink: 0;
+            width: 0.8em;
+            text-align: center;
+        }
+        .strength-weakness > div:first-child li::before { content: "+"; color: var(--accent); font-weight: 700; }
+        .strength-weakness > div:last-child li::before { content: "–"; color: var(--red); font-weight: 700; }
+
+        .conclusion-box {
+            background: var(--deco-dark);
+            color: var(--paper-light);
+            padding: 1.5rem 2rem;
+            margin: 2rem 0;
+            font-size: 1.05rem;
+            line-height: 1.8;
+        }
+        .conclusion-box strong {
+            color: var(--deco-gold);
+        }
+
+        @media (max-width: 600px) {
+            .strength-weakness { grid-template-columns: 1fr; }
+            .about-wrapper { padding: 1rem 1rem 3rem; }
+            .about-content { max-width: 100%; }
+            .about-content h2 { font-size: 1.35rem; }
+        }
+    </style>
+</head>
+<body>
+    <!-- TOP NAVIGATION BAR -->
+    <nav class="topbar">
+        <div class="topbar-inner">
+            <button class="hamburger" id="hamburger-btn" aria-label="Menu" aria-expanded="false" onclick="toggleMobileMenu()">
+                <span></span><span></span><span></span>
+            </button>
+            <ul class="topbar-nav" id="topbar-nav">
+                <li><a href="index.html" onclick="closeMobileMenu()">Heutige Ausgabe</a></li>
+                <li><a href="index.html#archive-section" onclick="closeMobileMenu()">Archiv</a></li>
+                <li><a href="chronik.html" onclick="closeMobileMenu()">Schlüsseldaten</a></li>
+                <li><a href="about.html" style="color:var(--paper-light); border-bottom-color: var(--paper-light);" onclick="closeMobileMenu()">Über das Projekt</a></li>
+            </ul>
+            <div class="topbar-search">
+                <div class="search-wrapper">
+                    <input type="text" id="search-input" class="search-input" placeholder="Artikel durchsuchen…" autocomplete="off" onfocus="window.location.href='index.html?search=' + encodeURIComponent(this.value)">
+                </div>
+            </div>
+            <div class="topbar-auth" id="topbar-auth">
+                <button class="btn-login" onclick="document.getElementById('login-modal').style.display='flex'">Anmelden</button>
+                <button class="btn-register">Registrieren</button>
+            </div>
+        </div>
+    </nav>
+    <script>
+    function toggleMobileMenu() {
+        const nav = document.getElementById('topbar-nav');
+        const auth = document.getElementById('topbar-auth');
+        const btn = document.getElementById('hamburger-btn');
+        const open = nav.classList.toggle('mobile-open');
+        auth.classList.toggle('mobile-open', open);
+        btn.classList.toggle('active', open);
+        btn.setAttribute('aria-expanded', open);
+    }
+    function closeMobileMenu() {
+        document.getElementById('topbar-nav').classList.remove('mobile-open');
+        document.getElementById('topbar-auth').classList.remove('mobile-open');
+        const btn = document.getElementById('hamburger-btn');
+        btn.classList.remove('active');
+        btn.setAttribute('aria-expanded', 'false');
+    }
+    </script>
+
+    <!-- MASTHEAD -->
+    <header class="masthead">
+        <p class="masthead-overline">Geschichte im Spiegel der zeitgenössischen Berichterstattung — Täglich neu erzählt</p>
+        <a href="index.html" style="text-decoration:none; border:none;">
+            <h1 class="masthead-title">VOR 100 JAHREN</h1>
+        </a>
+        <p class="masthead-subtitle">Die historische Presseschau</p>
+    </header>
+
+    <!-- CONTENT -->
+    <div class="about-wrapper">
+      <div class="about-content">
+
+        <h2 style="border-bottom: none; font-size: 1.8rem; text-align: center; margin-bottom: 0.25rem;">Geschichtsvermittlung durch Künstliche Intelligenz</h2>
+        <p style="text-align: center; font-family: var(--font-body); font-style: italic; font-size: 1.1rem; color: var(--ink-faded); margin-bottom: 2.5rem;">Zwei Wege im Vergleich</p>
+
+        <p class="about-lead">
+            Große Sprachmodelle wie Claude, ChatGPT oder Gemini verfügen über ein enormes Allgemeinwissen, das auch historische Zusammenhänge umfasst. Wer ein solches System bittet, über den 18.&nbsp;Februar 1926 zu berichten, erhält in der Regel eine flüssig formulierte, plausibel klingende Antwort. Doch wie verlässlich ist dieses Wissen — und wo liegen seine Grenzen?
+        </p>
+        <p>
+            Das Projekt <em>Vor 100 Jahren</em> verfolgt einen grundlegend anderen Ansatz: Statt historische Inhalte aus dem Trainingswissen eines Sprachmodells zu reproduzieren, werden digitalisierte Zeitungsarchive aus über einem Dutzend internationaler Quellen systematisch ausgewertet und durch KI aufbereitet. Die Originalberichterstattung von vor hundert Jahren wird so Tag für Tag neu zugänglich gemacht.
+        </p>
+        <p>
+            Beide Ansätze nutzen Künstliche Intelligenz — doch sie unterscheiden sich fundamental in dem, was sie leisten können und wo ihre jeweiligen Stärken und Schwächen liegen.
+        </p>
+
+        <!-- METHODE A -->
+        <h2>Methode A: Geschichtswissen aus dem Sprachmodell</h2>
+
+        <div class="method-box">
+            <h3>Wie es funktioniert</h3>
+            <p style="margin-bottom:0;">Große Sprachmodelle werden mit riesigen Textmengen trainiert — darunter Enzyklopädien, Geschichtsbücher, wissenschaftliche Aufsätze und Internetquellen. Aus diesem Training entsteht ein statistisches Modell, das auf Fragen zu historischen Themen sprachlich überzeugende Antworten erzeugen kann. Man stellt eine Frage, das Modell antwortet aus seinem „Gedächtnis".</p>
+        </div>
+
+        <div class="strength-weakness">
+            <div>
+                <h4>Stärken</h4>
+                <ul>
+                    <li>Sofortige Verfügbarkeit über nahezu jede Epoche, Region oder Persönlichkeit</li>
+                    <li>Stark in der Zusammenfassung und Kontextualisierung komplexer Zusammenhänge</li>
+                    <li>Niedrige Einstiegshürde — weder Archivzugang noch technische Infrastruktur nötig</li>
+                </ul>
+            </div>
+            <div>
+                <h4>Schwächen</h4>
+                <ul>
+                    <li>Kein Zugang zu Primärquellen — nur Sekundär- und Tertiärliteratur</li>
+                    <li>Historiographische Rückschau statt zeitgenössischer Perspektive</li>
+                    <li>Ungleiche Wissenstiefe — Alltagsgeschichte fällt durch das Raster</li>
+                    <li>Halluzinationsgefahr — plausibel klingende, aber falsche Antworten</li>
+                    <li>Fehlende Belegbarkeit — kein Verweis auf konkrete Quellen</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- METHODE B -->
+        <h2>Methode B: Quellenbasierte Aufbereitung historischer Archive</h2>
+
+        <div class="method-box">
+            <h3>Wie es funktioniert</h3>
+            <p style="margin-bottom:0;">Digitalisierte Zeitungsarchive aus verschiedenen Ländern werden systematisch nach der Berichterstattung eines bestimmten Tages durchsucht. Die gefundenen Originalartikel werden anschließend durch KI aufbereitet: in modernes, verständliches Deutsch übertragen, mit historischem Kontext versehen, um redaktionelle Anmerkungen ergänzt und durch Querverweise angereichert. Das Sprachmodell fungiert hier nicht als Wissensquelle, sondern als Werkzeug zur Erschließung und Vermittlung vorhandener Primärquellen.</p>
+        </div>
+
+        <div class="strength-weakness">
+            <div>
+                <h4>Stärken</h4>
+                <ul>
+                    <li>Verankerung in Primärquellen — jeder Inhalt ist überprüfbar</li>
+                    <li>Authentische zeitgenössische Perspektive statt Rückschau</li>
+                    <li>Entdeckung vergessener Ereignisse jenseits des Kanons</li>
+                    <li>Multiperspektivität durch internationale Quellen</li>
+                    <li>Schutz vor Halluzination durch Quellenbindung</li>
+                </ul>
+            </div>
+            <div>
+                <h4>Schwächen</h4>
+                <ul>
+                    <li>Abhängigkeit von der Digitalisierung der Archive</li>
+                    <li>Hoher technischer Aufwand und Komplexität</li>
+                    <li>Kein enzyklopädisches Gesamtbild — nur Tagesberichterstattung</li>
+                    <li>KI-vermittelte Übertragung kann Nuancen verschieben</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- FAZIT -->
+        <h2>Was den Unterschied ausmacht</h2>
+
+        <p>
+            Der entscheidende Unterschied zwischen beiden Methoden liegt nicht in der Technologie, sondern in der Wissensgrundlage.
+        </p>
+        <p>
+            Methode A erzeugt Geschichte aus einem statistischen Modell. Sie liefert das, was in der Summe aller Trainingstexte als wahrscheinlichste Antwort erscheint. Das Ergebnis ist oft korrekt, manchmal oberflächlich, gelegentlich falsch — und nie belegbar.
+        </p>
+        <p>
+            Methode B nutzt dieselbe Technologie, bindet sie aber an historische Primärquellen. Das Sprachmodell wird vom vermeintlichen Wissensträger zum Vermittlungswerkzeug. Es erschließt Quellen, die für ein breites Publikum sonst unzugänglich blieben — sei es wegen der Sprache, des Formats oder schlicht der Menge.
+        </p>
+
+        <div class="conclusion-box">
+            <strong>Nicht die KI erzählt Geschichte, sondern die Quellen erzählen Geschichte — und die KI macht sie zugänglich.</strong>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="colophon">
+        <div class="colophon-inner">
+            <div>
+                <h3>Quellennachweis</h3>
+                <p>Dieses Projekt wurde erstellt auf Grundlage historischer Zeitungsarchive aus über einem Dutzend internationaler Originalquellen.</p>
+            </div>
+            <div>
+                <h3>Navigation</h3>
+                <ul>
+                    <li><a href="index.html">Heutige Ausgabe</a></li>
+                    <li><a href="index.html#archive-section">Archiv</a></li>
+                    <li><a href="chronik.html">Schlüsseldaten</a></li>
+                    <li><a href="about.html">Über das Projekt</a></li>
+                    <li><a href="#">Impressum</a></li>
+                </ul>
+            </div>
+            <div>
+                <h3>Konto</h3>
+                <ul>
+                    <li><a href="#" onclick="document.getElementById('login-modal').style.display='flex'; return false;">Anmelden</a></li>
+                    <li><a href="#">Registrieren</a></li>
+                    <li><a href="#">Newsletter</a></li>
+                    <li><a href="#">Premium</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="colophon-bottom">
+            <p>© 2026 Vor 100 Jahren — Die historische Presseschau</p>
+        </div>
+    </footer>
+
+    <!-- LOGIN MODAL -->
+    <div id="login-modal" style="display:none; position:fixed; inset:0; background:rgba(26,22,17,0.7); z-index:1000; justify-content:center; align-items:center;" onclick="if(event.target===this)this.style.display='none'">
+        <div style="background:var(--paper-light); padding:2.5rem; max-width:380px; width:90%; border:2px solid var(--rule); position:relative;">
+            <button onclick="this.parentElement.parentElement.style.display='none'" style="position:absolute; top:0.75rem; right:1rem; background:none; border:none; font-size:0.9rem; cursor:pointer; color:var(--ink-muted);">×</button>
+            <h2 style="font-family:var(--font-display); font-size:0.9rem; margin-bottom:0.25rem;">Anmelden</h2>
+            <p style="font-size:0.9rem; color:var(--ink-faded); margin-bottom:1.25rem;">Zugang zum vollständigen Archiv</p>
+            <div style="margin-bottom:0.75rem;">
+                <label style="font-family:var(--font-ui); font-size:0.9rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--ink-muted); display:block; margin-bottom:0.25rem;">E-Mail</label>
+                <input type="email" style="width:100%; padding:0.5rem; border:1px solid var(--rule); background:var(--paper); font-family:var(--font-body); font-size:0.95rem;">
+            </div>
+            <div style="margin-bottom:1rem;">
+                <label style="font-family:var(--font-ui); font-size:0.95rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--ink-muted); display:block; margin-bottom:0.25rem;">Passwort</label>
+                <input type="password" style="width:100%; padding:0.5rem; border:1px solid var(--rule); background:var(--paper); font-family:var(--font-body); font-size:0.95rem;">
+            </div>
+            <button style="width:100%; padding:0.6rem; background:var(--accent); color:var(--paper-light); border:none; font-family:var(--font-ui); font-size:0.95rem; letter-spacing:0.15em; text-transform:uppercase; cursor:pointer; font-weight:500;">Anmelden</button>
+            <p style="text-align:center; margin-top:0.75rem; font-size:0.95rem; color:var(--ink-muted);">
+                Noch kein Konto? <a href="#" style="color:var(--accent);">Registrieren</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>

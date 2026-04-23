@@ -1,0 +1,14 @@
+# Alles ignorieren
+*
+
+# Nur docs/ und CNAME erlauben
+!docs/
+!docs/**
+!CNAME
+!.gitignore
+
+# Innerhalb von docs/ unnötige Dateien ignorieren
+docs/superpowers/
+docs/font-test.html
+docs/index_maintenance.html
+docs/index_original.html

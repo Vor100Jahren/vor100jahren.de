@@ -1,0 +1,13 @@
+{
+  "specials": [
+    {
+      "id": "1924-04-01_hitler-prozess",
+      "event": "Hitler zu 5 Jahren Festungshaft verurteilt (Landsberg)",
+      "date_historical": "1924-04-01",
+      "date_reporting": "1924-04-02",
+      "kategorie": "Justiz",
+      "article_count": 13,
+      "file": "special_1924-04-01_hitler-prozess.json"
+    }
+  ]
+}
