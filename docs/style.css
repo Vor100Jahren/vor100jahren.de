@@ -577,7 +577,7 @@
         .page-wrapper { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
         .edition-layout {
             display: grid;
-            grid-template-columns: 1fr 40px 280px;
+            grid-template-columns: 1fr 32px 280px;
             gap: 0;
             column-gap: 0;
             margin-top: 1.5rem;
@@ -588,7 +588,7 @@
         /* Scroll-Button-Spalte */
         .scroll-gutter {
             position: relative;
-            width: 40px;
+            width: 32px;
         }
         .scroll-gutter-inner {
             position: sticky;
@@ -1121,7 +1121,7 @@
 
         /* ===== RESPONSIVE ===== */
         @media (max-width: 900px) {
-            .edition-layout { grid-template-columns: 1fr 40px; }
+            .edition-layout { grid-template-columns: 1fr 32px; }
             .sidebar { grid-column: 1 / -1; order: 1; }
             .main-content { padding-right: 0; }
             .sidebar { padding-left: 0; }
