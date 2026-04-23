@@ -1910,5 +1910,20 @@
     "local_file": "Sigmund_Freud.jpg",
     "local_path": "images/Sigmund_Freud.jpg",
     "alt": "Sigmund Freud"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/P._Nolens_PK-F-G.466%2C_PK-F-G.455.tiff/lossy-page1-960px-P._Nolens_PK-F-G.466%2C_PK-F-G.455.tiff.jpg": {
+    "local_file": "Willem_Hubert_Nolens.jpg",
+    "local_path": "images/Willem_Hubert_Nolens.jpg",
+    "alt": "Willem Hubert Nolens"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Norge_airship_in_flight_1926.jpg/960px-Norge_airship_in_flight_1926.jpg": {
+    "local_file": "Norge_(Luftschiff).jpg",
+    "local_path": "images/Norge_(Luftschiff).jpg",
+    "alt": "Norge (Luftschiff)"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Iso_Abe.jpg/800px-Iso_Abe.jpg": {
+    "local_file": "Abe_Isoo.jpg",
+    "local_path": "images/Abe_Isoo.jpg",
+    "alt": "Abe Isoo"
   }
 }

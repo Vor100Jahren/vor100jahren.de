@@ -1061,23 +1061,20 @@
             });
         }
 
-        // Scroll-Buttons: horizontale Position = Mitte des Gaps zwischen Main und Sidebar
+        // Scroll-Buttons: rechts neben dem Fließtext, ohne Überlappung
         function positionScrollButtons() {
             const main = document.querySelector('.main-content');
-            const sidebar = document.querySelector('.sidebar');
             if (!main || !scrollUpBtn) return;
             const mainRect = main.getBoundingClientRect();
-            const sidebarRect = sidebar ? sidebar.getBoundingClientRect() : null;
-            let rightPos;
-            if (sidebarRect && sidebarRect.left > mainRect.right) {
-                // Zwei-Spalten-Layout: Mitte des Gaps
-                const gapCenter = mainRect.right + (sidebarRect.left - mainRect.right) / 2;
-                rightPos = window.innerWidth - gapCenter - 13; // 13 = halbe Button-Breite (26/2)
+            const spaceRight = window.innerWidth - mainRect.right;
+            let px;
+            if (spaceRight >= 38) {
+                // Genug Platz: 6px Abstand rechts vom Fließtext
+                px = (spaceRight - 6 - 26) + 'px';
             } else {
-                // Ein-Spalten-Layout (Mobile): rechts neben dem Content
-                rightPos = window.innerWidth - mainRect.right + 8;
+                // Kein Platz (Mobile): am rechten Bildschirmrand
+                px = '8px';
             }
-            const px = Math.max(8, rightPos) + 'px';
             if (scrollUpBtn) scrollUpBtn.style.right = px;
             if (scrollDownBtn) scrollDownBtn.style.right = px;
         }
