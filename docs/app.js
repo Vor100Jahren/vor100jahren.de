@@ -1087,26 +1087,24 @@
         if (freq.value === 'weekly' || freq.value === 'both') tags.push('weekly');
 
         try {
-            const resp = await fetch('https://api.buttondown.com/v1/subscribers', {
+            const form = new FormData();
+            form.append('email', email);
+            form.append('tag', tags.join(','));
+
+            const resp = await fetch('https://buttondown.com/api/emails/embed-subscribe/Vor100Jahren', {
                 method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': 'Token REMOVED'
-                },
-                body: JSON.stringify({ email_address: email, tags: tags })
+                body: form
             });
 
-            if (resp.ok || resp.status === 201) {
+            if (resp.ok || resp.status === 201 || resp.status === 200) {
                 status.textContent = 'Bitte bestätigen Sie Ihre E-Mail-Adresse.';
                 status.style.color = 'var(--ink)';
                 document.getElementById('newsletter-email').value = '';
+            } else if (resp.status === 409) {
+                status.textContent = 'Diese E-Mail ist bereits registriert.';
+                status.style.color = 'var(--accent)';
             } else {
-                const data = await resp.json().catch(() => ({}));
-                if (resp.status === 409 || (data.code && data.code.includes('already'))) {
-                    status.textContent = 'Diese E-Mail ist bereits registriert.';
-                } else {
-                    status.textContent = 'Fehler bei der Anmeldung. Bitte später erneut versuchen.';
-                }
+                status.textContent = 'Fehler bei der Anmeldung. Bitte später erneut versuchen.';
                 status.style.color = 'var(--accent)';
             }
         } catch (e) {
