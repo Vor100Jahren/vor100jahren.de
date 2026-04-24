@@ -1925,5 +1925,45 @@
     "local_file": "Abe_Isoo.jpg",
     "local_path": "images/Abe_Isoo.jpg",
     "alt": "Abe Isoo"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Reza_shah_uniform.jpg/960px-Reza_shah_uniform.jpg": {
+    "local_file": "Reza_Schah_Pahlavi.jpg",
+    "local_path": "images/Reza_Schah_Pahlavi.jpg",
+    "alt": "Reza Schah Pahlavi"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Andr%C3%A9_Obey.jpg/960px-Andr%C3%A9_Obey.jpg": {
+    "local_file": "André_Obey.jpg",
+    "local_path": "images/André_Obey.jpg",
+    "alt": "André Obey"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/11022-Krondorf-1910-Hungerk%C3%BCnstlerin_Hella_Latonia-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg/960px-11022-Krondorf-1910-Hungerk%C3%BCnstlerin_Hella_Latonia-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg": {
+    "local_file": "Hungerkünstler.jpg",
+    "local_path": "images/Hungerkünstler.jpg",
+    "alt": "Hungerkünstler"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/JBM_Hertzog_-_SA.jpg/960px-JBM_Hertzog_-_SA.jpg": {
+    "local_file": "J._B._M._Hertzog.jpg",
+    "local_path": "images/J._B._M._Hertzog.jpg",
+    "alt": "J. B. M. Hertzog"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/960px-Sir_Winston_Churchill_-_19086236948.jpg": {
+    "local_file": "Winston_Churchill.jpg",
+    "local_path": "images/Winston_Churchill.jpg",
+    "alt": "Winston Churchill"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nikola_Pasic_1.jpg/800px-Nikola_Pasic_1.jpg": {
+    "local_file": "Nikola_Pašić.jpg",
+    "local_path": "images/Nikola_Pašić.jpg",
+    "alt": "Nikola Pašić"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Wenzl_Weis_-_Ignaz_Seipel.jpg/800px-Wenzl_Weis_-_Ignaz_Seipel.jpg": {
+    "local_file": "Ignaz_Seipel.jpg",
+    "local_path": "images/Ignaz_Seipel.jpg",
+    "alt": "Ignaz Seipel"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SeiskarinSuojeluskunta.jpg/800px-SeiskarinSuojeluskunta.jpg": {
+    "local_file": "Schutzkorps_(Finnland).jpg",
+    "local_path": "images/Schutzkorps_(Finnland).jpg",
+    "alt": "Schutzkorps (Finnland)"
   }
 }
