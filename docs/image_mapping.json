@@ -1965,5 +1965,10 @@
     "local_file": "Schutzkorps_(Finnland).jpg",
     "local_path": "images/Schutzkorps_(Finnland).jpg",
     "alt": "Schutzkorps (Finnland)"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Wu_Tiecheng2.jpg/800px-Wu_Tiecheng2.jpg": {
+    "local_file": "Wu_Tiecheng.jpg",
+    "local_path": "images/Wu_Tiecheng.jpg",
+    "alt": "Wu Tiecheng"
   }
 }

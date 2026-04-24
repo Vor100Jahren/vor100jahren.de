@@ -1097,8 +1097,8 @@
             });
 
             if (resp.ok || resp.status === 201 || resp.status === 200) {
-                status.textContent = 'Bitte bestätigen Sie Ihre E-Mail-Adresse.';
-                status.style.color = 'var(--ink)';
+                status.textContent = 'Sie erhalten in Kürze eine E-Mail. Bitte bestätigen Sie Ihre E-Mail-Adresse.';
+                status.style.color = '#000';
                 document.getElementById('newsletter-email').value = '';
             } else if (resp.status === 409) {
                 status.textContent = 'Diese E-Mail ist bereits registriert.';
