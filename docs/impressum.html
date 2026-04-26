@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impressum — VOR 100 JAHREN</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css?v=28">
+    <style>
+        .legal-wrapper {
+            max-width: var(--max-width);
+            margin: 0 auto;
+            padding: 2rem 1.5rem 4rem;
+        }
+        .legal-content {
+            max-width: 780px;
+            margin: 0 auto;
+        }
+        .legal-content h2 {
+            font-family: var(--font-body);
+            font-size: 1.6rem;
+            font-weight: 700;
+            color: var(--ink);
+            margin: 2.5rem 0 0.75rem;
+            border-bottom: 2px solid var(--rule);
+            padding-bottom: 0.4rem;
+        }
+        .legal-content h2:first-of-type {
+            margin-top: 0;
+        }
+        .legal-content h3 {
+            font-family: var(--font-body);
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: var(--ink-light);
+            margin: 1.5rem 0 0.5rem;
+        }
+        .legal-content p {
+            margin-bottom: 1rem;
+            text-align: justify;
+            hyphens: none;
+        }
+        .legal-content strong {
+            color: var(--ink);
+        }
+        .legal-content a {
+            color: var(--accent);
+        }
+        @media (max-width: 600px) {
+            .legal-wrapper { padding: 1rem 1rem 3rem; }
+            .legal-content { max-width: 100%; }
+            .legal-content h2 { font-size: 1.35rem; }
+        }
+    </style>
+</head>
+<body>
+    <!-- TOP NAVIGATION BAR -->
+    <nav class="topbar">
+        <div class="topbar-inner">
+            <button class="hamburger" id="hamburger-btn" aria-label="Menu" aria-expanded="false" onclick="toggleMobileMenu()">
+                <span></span><span></span><span></span>
+            </button>
+            <ul class="topbar-nav" id="topbar-nav">
+                <li><a href="index.html" onclick="closeMobileMenu()">Heutige Ausgabe</a></li>
+                <li><a href="index.html#archive-section" onclick="closeMobileMenu()">Archiv</a></li>
+                <li><a href="chronik.html" onclick="closeMobileMenu()">Schlüsseldaten</a></li>
+                <li><a href="about.html" onclick="closeMobileMenu()">Über das Projekt</a></li>
+            </ul>
+            <div class="topbar-search">
+                <div class="search-wrapper">
+                    <input type="text" id="search-input" class="search-input" placeholder="Artikel durchsuchen…" autocomplete="off" onfocus="window.location.href='index.html?search=' + encodeURIComponent(this.value)">
+                </div>
+            </div>
+            <div class="topbar-auth" id="topbar-auth">
+                <button class="btn-login" onclick="document.getElementById('login-modal').style.display='flex'">Anmelden</button>
+                <button class="btn-register">Registrieren</button>
+            </div>
+        </div>
+    </nav>
+    <script>
+    function toggleMobileMenu() {
+        const nav = document.getElementById('topbar-nav');
+        const auth = document.getElementById('topbar-auth');
+        const btn = document.getElementById('hamburger-btn');
+        const open = nav.classList.toggle('mobile-open');
+        auth.classList.toggle('mobile-open', open);
+        btn.classList.toggle('active', open);
+        btn.setAttribute('aria-expanded', open);
+    }
+    function closeMobileMenu() {
+        document.getElementById('topbar-nav').classList.remove('mobile-open');
+        document.getElementById('topbar-auth').classList.remove('mobile-open');
+        const btn = document.getElementById('hamburger-btn');
+        btn.classList.remove('active');
+        btn.setAttribute('aria-expanded', 'false');
+    }
+    </script>
+
+    <!-- MASTHEAD -->
+    <header class="masthead">
+        <p class="masthead-overline">Geschichte im Spiegel der zeitgenössischen Berichterstattung — Täglich neu erzählt</p>
+        <h1 class="masthead-title"><a href="index.html">VOR 100 JAHREN</a></h1>
+        <p class="masthead-subtitle">Die historische Presseschau</p>
+    </header>
+
+    <!-- CONTENT -->
+    <div class="legal-wrapper">
+      <div class="legal-content">
+
+        <h2>Impressum</h2>
+
+        <h3>Verantwortlich nach § 5 TMG / § 18 Abs. 2 MStV</h3>
+        <p>
+            Stefan Gresse
+        </p>
+
+        <h3>Kontakt</h3>
+        <p>
+            E-Mail: <a href="mailto:sgresse@web.de">sgresse@web.de</a>
+        </p>
+
+        <h2>Haftungsausschluss</h2>
+
+        <h3>Haftung für Inhalte</h3>
+        <p>
+            Die Inhalte dieser Seite werden mit größtmöglicher Sorgfalt erstellt. Als Diensteanbieter sind wir gemäß § 7 Abs. 1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+        </p>
+        <p>
+            Die auf dieser Website veröffentlichten Artikel werden mithilfe Künstlicher Intelligenz aus historischen Zeitungsquellen aufbereitet. Trotz sorgfältiger Quellenbindung können Ungenauigkeiten bei der Übertragung und Zusammenfassung nicht vollständig ausgeschlossen werden. Die Inhalte dienen der historischen Bildung und Unterhaltung und erheben keinen Anspruch auf wissenschaftliche Vollständigkeit.
+        </p>
+
+        <h3>Haftung für Links</h3>
+        <p>
+            Dieses Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber verantwortlich. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+        </p>
+
+        <h2>Datenschutzhinweis</h2>
+
+        <h3>Allgemeines</h3>
+        <p>
+            Der Schutz Ihrer persönlichen Daten ist uns wichtig. Diese Website wird über GitHub Pages bereitgestellt. Beim Besuch der Seite werden durch den Hosting-Anbieter (GitHub/Microsoft) automatisch technische Daten erhoben (z.&nbsp;B. IP-Adresse, Browsertyp, Zugriffszeit). Diese Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO im berechtigten Interesse an einer sicheren und stabilen Bereitstellung der Website. Weitere Informationen finden Sie in der <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">Datenschutzerklärung von GitHub</a>.
+        </p>
+
+        <h3>Cookies und Tracking</h3>
+        <p>
+            Diese Website verwendet keine eigenen Cookies und setzt keine Tracking- oder Analyse-Tools ein.
+        </p>
+
+        <h3>Eingebundene Drittanbieter-Dienste</h3>
+        <p>
+            Zur Darstellung der Schriftarten werden Google Fonts eingebunden. Beim Aufruf der Seite wird eine Verbindung zu Servern von Google LLC hergestellt, wobei Ihre IP-Adresse an Google übermittelt wird. Dies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Weitere Informationen finden Sie in der <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Datenschutzerklärung von Google</a>.
+        </p>
+
+        <h3>Ihre Rechte</h3>
+        <p>
+            Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer personenbezogenen Daten sowie das Recht auf Beschwerde bei einer Aufsichtsbehörde. Für Anfragen wenden Sie sich bitte an die oben genannte E-Mail-Adresse.
+        </p>
+
+      </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="colophon">
+        <div class="colophon-inner">
+            <div>
+                <h3>Quellennachweis</h3>
+                <p>Dieses Projekt wurde erstellt auf Grundlage historischer Zeitungsarchive aus über einem Dutzend internationaler Originalquellen.</p>
+            </div>
+            <div>
+                <h3>Navigation</h3>
+                <ul>
+                    <li><a href="index.html">Heutige Ausgabe</a></li>
+                    <li><a href="index.html#archive-section">Archiv</a></li>
+                    <li><a href="chronik.html">Schlüsseldaten</a></li>
+                    <li><a href="about.html">Über das Projekt</a></li>
+                    <li><a href="impressum.html">Impressum</a></li>
+                </ul>
+            </div>
+            <div>
+                <h3>Konto</h3>
+                <ul>
+                    <li><a href="#" onclick="document.getElementById('login-modal').style.display='flex'; return false;">Anmelden</a></li>
+                    <li><a href="#">Registrieren</a></li>
+                    <li><a href="#">Newsletter</a></li>
+                    <li><a href="#">Premium</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="colophon-bottom">
+            <p>© 2026 Vor 100 Jahren — Die historische Presseschau</p>
+        </div>
+    </footer>
+
+    <!-- LOGIN MODAL -->
+    <div id="login-modal" role="dialog" style="display:none; position:fixed; inset:0; background:rgba(26,22,17,0.7); z-index:1000; justify-content:center; align-items:center; cursor:pointer;" onclick="if(event.target===this)this.style.display='none'">
+        <div style="background:var(--paper-light); padding:2.5rem; max-width:380px; width:90%; border:2px solid var(--rule); position:relative;">
+            <button onclick="this.parentElement.parentElement.style.display='none'" style="position:absolute; top:0.75rem; right:1rem; background:none; border:none; font-size:0.9rem; cursor:pointer; color:var(--ink-muted);">×</button>
+            <h2 style="font-family:var(--font-display); font-size:0.9rem; margin-bottom:0.25rem;">Anmelden</h2>
+            <p style="font-size:0.9rem; color:var(--ink-faded); margin-bottom:1.25rem;">Zugang zum vollständigen Archiv</p>
+            <div style="margin-bottom:0.75rem;">
+                <label style="font-family:var(--font-ui); font-size:0.9rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--ink-muted); display:block; margin-bottom:0.25rem;">E-Mail</label>
+                <input type="email" style="width:100%; padding:0.5rem; border:1px solid var(--rule); background:var(--paper); font-family:var(--font-body); font-size:0.95rem;">
+            </div>
+            <div style="margin-bottom:1rem;">
+                <label style="font-family:var(--font-ui); font-size:0.95rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--ink-muted); display:block; margin-bottom:0.25rem;">Passwort</label>
+                <input type="password" style="width:100%; padding:0.5rem; border:1px solid var(--rule); background:var(--paper); font-family:var(--font-body); font-size:0.95rem;">
+            </div>
+            <button style="width:100%; padding:0.6rem; background:var(--accent); color:var(--paper-light); border:none; font-family:var(--font-ui); font-size:0.95rem; letter-spacing:0.15em; text-transform:uppercase; cursor:pointer; font-weight:500;">Anmelden</button>
+            <p style="text-align:center; margin-top:0.75rem; font-size:0.95rem; color:var(--ink-muted);">
+                Noch kein Konto? <a href="#" style="color:var(--accent);">Registrieren</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1970,5 +1970,30 @@
     "local_file": "Wu_Tiecheng.jpg",
     "local_path": "images/Wu_Tiecheng.jpg",
     "alt": "Wu Tiecheng"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Owen_D._Young_in_1928_-_LCCN2014719350_%28cropped%29.jpg/960px-Owen_D._Young_in_1928_-_LCCN2014719350_%28cropped%29.jpg": {
+    "local_file": "Owen_D._Young.jpg",
+    "local_path": "images/Owen_D._Young.jpg",
+    "alt": "Owen D. Young"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/M%28aurice%29_de_Rothschild_%28propri%C3%A9taire_de_Doniazade%2C_pouliche_de_course_vainqueur_du_prix_de_Diane%2C_le_5_juin_1921%2C_%C3%A0_Chantilly%29_-_%28photographie_de_presse%29_-_%28Agence_Rol%29.png/960px-thumbnail.png": {
+    "local_file": "Maurice_de_Rothschild.png",
+    "local_path": "images/Maurice_de_Rothschild.png",
+    "alt": "Maurice de Rothschild"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Paul_Levi_-_Schwadron.jpg/960px-Paul_Levi_-_Schwadron.jpg": {
+    "local_file": "Paul_Levi.jpg",
+    "local_path": "images/Paul_Levi.jpg",
+    "alt": "Paul Levi"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Herr_%28Otto%29_Landsberg_%2C_ministre_de_la_Justice_allemande%2C_d%C3%A9l%C3%A9gu%C3%A9_%C3%A0_la_conf%C3%A9rence_de_la_Paix_-_btv1b53016110c.jpg/960px-Herr_%28Otto%29_Landsberg_%2C_ministre_de_la_Justice_allemande%2C_d%C3%A9l%C3%A9gu%C3%A9_%C3%A0_la_conf%C3%A9rence_de_la_Paix_-_btv1b53016110c.jpg": {
+    "local_file": "Otto_Landsberg.jpg",
+    "local_path": "images/Otto_Landsberg.jpg",
+    "alt": "Otto Landsberg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Technische_Nothilfe_%28TN%29.jpg/960px-Technische_Nothilfe_%28TN%29.jpg": {
+    "local_file": "Technische_Nothilfe.jpg",
+    "local_path": "images/Technische_Nothilfe.jpg",
+    "alt": "Technische Nothilfe"
   }
 }
