@@ -191,27 +191,13 @@
         });
         html += '</ol></div>';
 
-        // Artikel rendern: Hauptartikel + Artikel volle Breite, Kurzbeiträge im Grid
-        const fullWidth = sorted.filter(a => !a.type.toLowerCase().includes('kurz'));
-        const briefs = sorted.filter(a => a.type.toLowerCase().includes('kurz'));
+        // Alle Artikel rendern: volle Breite (auch Kurzbeiträge)
         let idx = 0;
-
-        // Hauptartikel + Artikel: jeweils volle Breite
-        fullWidth.forEach((a) => {
+        sorted.forEach((a) => {
             const isLead = (idx === 0);
             html += renderArticle(a, idx, isLead);
             idx++;
         });
-
-        // Kurzbeiträge: im 2-Spalten-Grid
-        if (briefs.length > 0) {
-            html += '<div class="articles-grid briefs-grid">';
-            briefs.forEach((a) => {
-                html += renderArticle(a, idx, false);
-                idx++;
-            });
-            html += '</div>';
-        }
 
         main.innerHTML = html;
 
@@ -629,6 +615,14 @@
     }
 
     async function loadLatestEdition() {
+        // Such-Zustand vollständig zurücksetzen
+        document.getElementById('search-results-container').style.display = 'none';
+        document.getElementById('page-wrapper').style.display = '';
+        document.getElementById('search-input').value = '';
+        const banner = document.getElementById('search-back-banner');
+        if (banner) banner.remove();
+        lastSearchQuery = '';
+
         currentEditionIndex = editionDates.length - 1;
         await renderEdition(editionDates[currentEditionIndex]);
         window.scrollTo({ top: 0, behavior: 'smooth' });

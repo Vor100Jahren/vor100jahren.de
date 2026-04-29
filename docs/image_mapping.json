@@ -1995,5 +1995,72 @@
     "local_file": "Technische_Nothilfe.jpg",
     "local_path": "images/Technische_Nothilfe.jpg",
     "alt": "Technische Nothilfe"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lord_Selsdon.jpg/800px-Lord_Selsdon.jpg": {
+    "local_file": "William_Mitchell-Thomson_1st_Baron_Selsdon.jpg",
+    "local_path": "images/William_Mitchell-Thomson_1st_Baron_Selsdon.jpg",
+    "alt": "William Mitchell-Thomson, 1st Baron Selsdon"
+  },
+  "https://upload.wikimedia.org/wikipedia/de/thumb/5/5e/BreitscheidRudolf.jpg/800px-BreitscheidRudolf.jpg": {
+    "local_file": "Rudolf_Breitscheid.jpg",
+    "local_path": "images/Rudolf_Breitscheid.jpg",
+    "alt": "Rudolf Breitscheid"
+  },
+  "https://upload.wikimedia.org/wikipedia/de/thumb/0/0c/Annie_Besant.jpg/800px-Annie_Besant.jpg": {
+    "local_file": "Annie_Besant.jpg",
+    "local_path": "images/Annie_Besant.jpg",
+    "alt": "Annie Besant"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Aristide_Briand.png/800px-Aristide_Briand.png": {
+    "local_file": "Aristide_Briand.png",
+    "local_path": "images/Aristide_Briand.png",
+    "alt": "Aristide Briand"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Joseph_Caillaux_-_photo_Henri_Manuel.jpg/800px-Joseph_Caillaux_-_photo_Henri_Manuel.jpg": {
+    "local_file": "Joseph_Caillaux.jpg",
+    "local_path": "images/Joseph_Caillaux.jpg",
+    "alt": "Joseph Caillaux"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Johann_Heinrich_von_Bernstorff.jpg/800px-Johann_Heinrich_von_Bernstorff.jpg": {
+    "local_file": "Johann_Heinrich_von_Bernstorff.jpg",
+    "local_path": "images/Johann_Heinrich_von_Bernstorff.jpg",
+    "alt": "Johann Heinrich von Bernstorff"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/960px-Seal_of_the_President_of_the_United_States.svg.png": {
+    "local_file": "Präsident_der_Vereinigten_Staaten.png",
+    "local_path": "images/Präsident_der_Vereinigten_Staaten.png",
+    "alt": "Präsident der Vereinigten Staaten"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Community_Noun_project_39956.svg/960px-Community_Noun_project_39956.svg.png": {
+    "local_file": "Private_banking.png",
+    "local_path": "images/Private_banking.png",
+    "alt": "Private banking"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bundesarchiv_Bild_183-R76032%2C_Hamburg%2C_Tagung_PEN-Zentrum.jpg/800px-Bundesarchiv_Bild_183-R76032%2C_Hamburg%2C_Tagung_PEN-Zentrum.jpg": {
+    "local_file": "Herbert_Eulenberg.jpg",
+    "local_path": "images/Herbert_Eulenberg.jpg",
+    "alt": "Herbert Eulenberg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Colbert_County_Alabama_Incorporated_and_Unincorporated_areas_Muscle_Shoals_Highlighted_0153016.svg/960px-Colbert_County_Alabama_Incorporated_and_Unincorporated_areas_Muscle_Shoals_Highlighted_0153016.svg.png": {
+    "local_file": "Muscle_Shoals_Alabama.png",
+    "local_path": "images/Muscle_Shoals_Alabama.png",
+    "alt": "Muscle Shoals, Alabama"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/05/Adams_Boulder_Dam_1942.jpg": {
+    "local_file": "Hoover_Dam.jpg",
+    "local_path": "images/Hoover_Dam.jpg",
+    "alt": "Boulder Dam (Hoover Dam), 1942",
+    "credit": "Ansel Adams / Wikimedia Commons"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9c/Commissaire_Marcel_Guillaume.jpg": {
+    "local_file": "Marcel_Guillaume.jpg",
+    "local_path": "images/Marcel_Guillaume.jpg",
+    "alt": "Kommissar Marcel Guillaume",
+    "credit": "Wikimedia Commons"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wolfgang_K%C3%B6hler.jpg/800px-Wolfgang_K%C3%B6hler.jpg": {
+    "local_file": "Wolfgang_Köhler.jpg",
+    "local_path": "images/Wolfgang_Köhler.jpg",
+    "alt": "Wolfgang Köhler"
   }
 }
