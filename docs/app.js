@@ -13,11 +13,15 @@
         const resp = await fetch('data/editions_index.json');
         const index = await resp.json();
         // Nur Ausgaben anzeigen, deren Tag+Monat <= heute (Jahr ignorieren)
+        // ?preview=all zeigt alle Ausgaben ohne Einschränkung (nur lokal)
+        const isLocal = location.hostname === 'localhost' || location.hostname === '127.0.0.1';
+        const previewAll = isLocal && new URLSearchParams(window.location.search).get('preview') === 'all';
         const now = new Date();
         const todayMonth = now.getMonth() + 1;
         const todayDay = now.getDate();
         const todayMinutes = now.getHours() * 60 + now.getMinutes();
         editionDates = index.dates.sort().filter(d => {
+            if (previewAll) return true;
             const parts = d.split('-');
             const m = parseInt(parts[1]);
             const day = parseInt(parts[2]);

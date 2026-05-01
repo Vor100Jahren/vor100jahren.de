@@ -2062,5 +2062,40 @@
     "local_file": "Wolfgang_Köhler.jpg",
     "local_path": "images/Wolfgang_Köhler.jpg",
     "alt": "Wolfgang Köhler"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Shapurji_Saklatvala.jpg/800px-Shapurji_Saklatvala.jpg": {
+    "local_file": "Shapurji_Saklatvala.jpg",
+    "local_path": "images/Shapurji_Saklatvala.jpg",
+    "alt": "Shapurji Saklatvala"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sinclair_Lewis_1930.jpg/800px-Sinclair_Lewis_1930.jpg": {
+    "local_file": "Sinclair_Lewis.jpg",
+    "local_path": "images/Sinclair_Lewis.jpg",
+    "alt": "Sinclair Lewis"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Magnus_Hirschfeld_%281928%29.jpg/960px-Magnus_Hirschfeld_%281928%29.jpg": {
+    "local_file": "Magnus_Hirschfeld.jpg",
+    "local_path": "images/Magnus_Hirschfeld.jpg",
+    "alt": "Magnus Hirschfeld"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jules_Rimet_1933.jpg/960px-Jules_Rimet_1933.jpg": {
+    "local_file": "Jules_Rimet.jpg",
+    "local_path": "images/Jules_Rimet.jpg",
+    "alt": "Jules Rimet"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DerfroehlicheWeinberg.jpg/960px-DerfroehlicheWeinberg.jpg": {
+    "local_file": "Der_fröhliche_Weinberg.jpg",
+    "local_path": "images/Der_fröhliche_Weinberg.jpg",
+    "alt": "Der fröhliche Weinberg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_%C3%85land.svg/960px-Flag_of_%C3%85land.svg.png": {
+    "local_file": "Åland.png",
+    "local_path": "images/Åland.png",
+    "alt": "Åland"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Freeman_Freeman-Thomas_by_Henry_Walter_Barnett.jpg/960px-Freeman_Freeman-Thomas_by_Henry_Walter_Barnett.jpg": {
+    "local_file": "Marquess_of_Willingdon.jpg",
+    "local_path": "images/Marquess_of_Willingdon.jpg",
+    "alt": "Marquess of Willingdon"
   }
 }
