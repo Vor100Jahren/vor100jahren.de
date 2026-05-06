@@ -2097,5 +2097,95 @@
     "local_file": "Marquess_of_Willingdon.jpg",
     "local_path": "images/Marquess_of_Willingdon.jpg",
     "alt": "Marquess of Willingdon"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hugo_Junkers_1920.jpg/800px-Hugo_Junkers_1920.jpg": {
+    "local_file": "Hugo_Junkers.jpg",
+    "local_path": "images/Hugo_Junkers.jpg",
+    "alt": "Hugo Junkers"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Map_of_the_Jewish_Diaspora_in_the_World.svg/960px-Map_of_the_Jewish_Diaspora_in_the_World.svg.png": {
+    "local_file": "Jews.png",
+    "local_path": "images/Jews.png",
+    "alt": "Jews"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/War_Ensign_of_Germany_%281921%E2%80%931933%29.svg/960px-War_Ensign_of_Germany_%281921%E2%80%931933%29.svg.png": {
+    "local_file": "Reichswehr.png",
+    "local_path": "images/Reichswehr.png",
+    "alt": "Reichswehr"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wladyslaw_Sikorski_2.jpg/960px-Wladyslaw_Sikorski_2.jpg": {
+    "local_file": "Władysław_Sikorski.jpg",
+    "local_path": "images/Władysław_Sikorski.jpg",
+    "alt": "Władysław Sikorski"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gerhard_Weinberg.jpg/800px-Gerhard_Weinberg.jpg": {
+    "local_file": "Gerhard_L._Weinberg.jpg",
+    "local_path": "images/Gerhard_L._Weinberg.jpg",
+    "alt": "Gerhard L. Weinberg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/GPU_15th_anniversary_emblem.png/800px-GPU_15th_anniversary_emblem.png": {
+    "local_file": "Joint_State_Political_Directorate.png",
+    "local_path": "images/Joint_State_Political_Directorate.png",
+    "alt": "Joint State Political Directorate"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/JuchaczMarie.jpg/800px-JuchaczMarie.jpg": {
+    "local_file": "Marie_Juchacz.jpg",
+    "local_path": "images/Marie_Juchacz.jpg",
+    "alt": "Marie Juchacz"
+  },
+  "https://upload.wikimedia.org/wikipedia/de/thumb/c/c3/Deutsche_Volkspartei_Signet_1932.svg/960px-Deutsche_Volkspartei_Signet_1932.svg.png": {
+    "local_file": "Deutsche_Volkspartei.png",
+    "local_path": "images/Deutsche_Volkspartei.png",
+    "alt": "Deutsche Volkspartei"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alfred_Kerr.jpg/800px-Alfred_Kerr.jpg": {
+    "local_file": "Alfred_Kerr.jpg",
+    "local_path": "images/Alfred_Kerr.jpg",
+    "alt": "Alfred Kerr"
+  },
+  "Raoul_Peret.jpg": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Raoul_P%C3%A9ret_1917.jpg",
+    "credit": "Wikimedia Commons",
+    "license": "Public Domain"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Edward_I_-_Westminster_Abbey_Sedilia.jpg/960px-Edward_I_-_Westminster_Abbey_Sedilia.jpg": {
+    "local_file": "Edward.jpg",
+    "local_path": "images/Edward.jpg",
+    "alt": "Edward"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Fotothek_df_pk_0000299_003.jpg/800px-Fotothek_df_pk_0000299_003.jpg": {
+    "local_file": "Martha_Arendsee.jpg",
+    "local_path": "images/Martha_Arendsee.jpg",
+    "alt": "Martha Arendsee"
+  },
+  "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/International_Trade_Union_Confederation_%28logo%29.svg/960px-International_Trade_Union_Confederation_%28logo%29.svg.png": {
+    "local_file": "International_Trade_Union_Confederation.png",
+    "local_path": "images/International_Trade_Union_Confederation.png",
+    "alt": "International Trade Union Confederation"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_of_the_Vereinigte_Stahlwerke_AG.svg/960px-Logo_of_the_Vereinigte_Stahlwerke_AG.svg.png": {
+    "local_file": "Vereinigte_Stahlwerke.png",
+    "local_path": "images/Vereinigte_Stahlwerke.png",
+    "alt": "Vereinigte Stahlwerke"
+  },
+  "https://upload.wikimedia.org/wikipedia/de/thumb/8/8e/Logo_ICC.jpg/960px-Logo_ICC.jpg": {
+    "local_file": "Internationale_Handelskammer.jpg",
+    "local_path": "images/Internationale_Handelskammer.jpg",
+    "alt": "Internationale Handelskammer"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/J._Ramsay_MacDonald_LCCN2014715885_%28cropped%29.jpg/960px-J._Ramsay_MacDonald_LCCN2014715885_%28cropped%29.jpg": {
+    "local_file": "Ramsay_MacDonald.jpg",
+    "local_path": "images/Ramsay_MacDonald.jpg",
+    "alt": "Ramsay MacDonald"
+  },
+  "Richard_E_Byrd.jpg": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-08918,_Richard_E._Byrd.jpg",
+    "credit": "Bundesarchiv / Wikimedia Commons",
+    "license": "CC BY-SA 3.0 DE"
+  },
+  "Al_Capone.jpg": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Al_Capone-around_1935.jpg",
+    "credit": "Wikimedia Commons",
+    "license": "Public Domain"
   }
 }
