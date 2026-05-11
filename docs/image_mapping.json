@@ -2187,5 +2187,130 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:Al_Capone-around_1935.jpg",
     "credit": "Wikimedia Commons",
     "license": "Public Domain"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mammoth_Cave_Rotunda_%28USGS_Lwt02830%29.jpg/960px-Mammoth_Cave_Rotunda_%28USGS_Lwt02830%29.jpg": {
+    "local_file": "Mammoth_Cave_National_Park.jpg",
+    "local_path": "images/Mammoth_Cave_National_Park.jpg",
+    "alt": "Mammoth Cave National Park"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/PSL_Piast_in_1927.jpg/960px-PSL_Piast_in_1927.jpg": {
+    "local_file": "Polskie_Stronnictwo_Ludowe_Piast.jpg",
+    "local_path": "images/Polskie_Stronnictwo_Ludowe_Piast.jpg",
+    "alt": "Polskie Stronnictwo Ludowe Piast"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Europe_under_Nazi_domination.png/960px-Europe_under_Nazi_domination.png": {
+    "local_file": "Military_Administration_(Nazi_Germany).png",
+    "local_path": "images/Military_Administration_(Nazi_Germany).png",
+    "alt": "Military Administration (Nazi Germany)"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Leon_Daudet.JPG/800px-Leon_Daudet.JPG": {
+    "local_file": "Léon_Daudet.jpg",
+    "local_path": "images/Léon_Daudet.jpg",
+    "alt": "Léon Daudet"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Witos_1920.jpg/800px-Witos_1920.jpg": {
+    "local_file": "Wincenty_Witos.jpg",
+    "local_path": "images/Wincenty_Witos.jpg",
+    "alt": "Wincenty Witos"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bundesarchiv_Bild_146III-105%2C_Joseph_Wirth.jpg/800px-Bundesarchiv_Bild_146III-105%2C_Joseph_Wirth.jpg": {
+    "local_file": "Joseph_Wirth.jpg",
+    "local_path": "images/Joseph_Wirth.jpg",
+    "alt": "Joseph Wirth"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Perustuslakivaliokunta_1918.jpg/960px-Perustuslakivaliokunta_1918.jpg": {
+    "local_file": "Onni_Rantasalo.jpg",
+    "local_path": "images/Onni_Rantasalo.jpg",
+    "alt": "Onni Rantasalo"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/William_Gibbs_McAdoo%2C_formal_photo_portrait%2C_1914.jpg/960px-William_Gibbs_McAdoo%2C_formal_photo_portrait%2C_1914.jpg": {
+    "local_file": "William_Gibbs_McAdoo.jpg",
+    "local_path": "images/William_Gibbs_McAdoo.jpg",
+    "alt": "William Gibbs McAdoo"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Morsetaste.jpg/960px-Morsetaste.jpg": {
+    "local_file": "Telegrafie.jpg",
+    "local_path": "images/Telegrafie.jpg",
+    "alt": "Telegrafie"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kuno_von_Westarp.jpg/800px-Kuno_von_Westarp.jpg": {
+    "local_file": "Kuno_von_Westarp.jpg",
+    "local_path": "images/Kuno_von_Westarp.jpg",
+    "alt": "Kuno von Westarp"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bundesarchiv_Bild_183-2005-0621-500%2C_Reichsminister_Alfred_Hugenberg.jpg/800px-Bundesarchiv_Bild_183-2005-0621-500%2C_Reichsminister_Alfred_Hugenberg.jpg": {
+    "local_file": "Alfred_Hugenberg.jpg",
+    "local_path": "images/Alfred_Hugenberg.jpg",
+    "alt": "Alfred Hugenberg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bucharin.bra.jpg/800px-Bucharin.bra.jpg": {
+    "local_file": "Nikolai_Iwanowitsch_Bucharin.jpg",
+    "local_path": "images/Nikolai_Iwanowitsch_Bucharin.jpg",
+    "alt": "Nikolai Iwanowitsch Bucharin"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sacvan.jpg/960px-Sacvan.jpg": {
+    "local_file": "Sacco_und_Vanzetti.jpg",
+    "local_path": "images/Sacco_und_Vanzetti.jpg",
+    "alt": "Sacco und Vanzetti"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Schuldverschreibung.jpg/960px-Schuldverschreibung.jpg": {
+    "local_file": "Anleihe.jpg",
+    "local_path": "images/Anleihe.jpg",
+    "alt": "Anleihe"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/H.Ehrhardt0001.jpg/960px-H.Ehrhardt0001.jpg": {
+    "local_file": "Hermann_Ehrhardt.jpg",
+    "local_path": "images/Hermann_Ehrhardt.jpg",
+    "alt": "Hermann Ehrhardt"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bundesarchiv_Bild_146-1979-122-29A%2C_Philipp_Scheidemann.jpg/800px-Bundesarchiv_Bild_146-1979-122-29A%2C_Philipp_Scheidemann.jpg": {
+    "local_file": "Philipp_Scheidemann.jpg",
+    "local_path": "images/Philipp_Scheidemann.jpg",
+    "alt": "Philipp Scheidemann"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Caliphate_standard_of_Abdulmejid_II_%281922%E2%80%931924%29.svg/960px-Caliphate_standard_of_Abdulmejid_II_%281922%E2%80%931924%29.svg.png": {
+    "local_file": "Osmanisches_Kalifat.png",
+    "local_path": "images/Osmanisches_Kalifat.png",
+    "alt": "Osmanisches Kalifat"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Dritto_1000_lire_Germania_1997.jpg/960px-Dritto_1000_lire_Germania_1997.jpg": {
+    "local_file": "Italienische_Lira.jpg",
+    "local_path": "images/Italienische_Lira.jpg",
+    "alt": "Italienische Lira"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DBPB_1954_115_Ernst_Reuter.jpg/800px-DBPB_1954_115_Ernst_Reuter.jpg": {
+    "local_file": "Magistrat_Reuter_(West-Berlin).jpg",
+    "local_path": "images/Magistrat_Reuter_(West-Berlin).jpg",
+    "alt": "Magistrat Reuter (West-Berlin)"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Claude_Agustus_Swanson%2C_1862-1939%2C_half-length_portrait%2C_facing_left.jpg/960px-Claude_Agustus_Swanson%2C_1862-1939%2C_half-length_portrait%2C_facing_left.jpg": {
+    "local_file": "Claude_A._Swanson.jpg",
+    "local_path": "images/Claude_A._Swanson.jpg",
+    "alt": "Claude A. Swanson"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bundesarchiv_Bild_102-12279%2C_Walter_Simons.jpg/800px-Bundesarchiv_Bild_102-12279%2C_Walter_Simons.jpg": {
+    "local_file": "Walter_Simons.jpg",
+    "local_path": "images/Walter_Simons.jpg",
+    "alt": "Walter Simons"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kommunistische_Partei_Deutschlands%2C_Logo_um_1920.svg/960px-Kommunistische_Partei_Deutschlands%2C_Logo_um_1920.svg.png": {
+    "local_file": "Communist_Party_of_Germany.png",
+    "local_path": "images/Communist_Party_of_Germany.png",
+    "alt": "Communist Party of Germany"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Obreg%C3%B3n_Salido%2C_%C3%81lvaro.jpg/960px-Obreg%C3%B3n_Salido%2C_%C3%81lvaro.jpg": {
+    "local_file": "Álvaro_Obregón.jpg",
+    "local_path": "images/Álvaro_Obregón.jpg",
+    "alt": "Álvaro Obregón"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/King_George_1923_LCCN2014715558_%28cropped%29.jpg/960px-King_George_1923_LCCN2014715558_%28cropped%29.jpg": {
+    "local_file": "Georg_V..jpg",
+    "local_path": "images/Georg_V..jpg",
+    "alt": "Georg V."
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pi%C5%82sudski_1921.jpg/800px-Pi%C5%82sudski_1921.jpg": {
+    "local_file": "Józef_Piłsudski.jpg",
+    "local_path": "images/Józef_Piłsudski.jpg",
+    "alt": "Józef Piłsudski"
   }
 }
