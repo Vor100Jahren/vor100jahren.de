@@ -2312,5 +2312,10 @@
     "local_file": "Józef_Piłsudski.jpg",
     "local_path": "images/Józef_Piłsudski.jpg",
     "alt": "Józef Piłsudski"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg/960px-Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg": {
+    "local_file": "Mehmed_VI.jpg",
+    "local_path": "images/Mehmed_VI.jpg",
+    "alt": "Mehmed VI"
   }
 }
