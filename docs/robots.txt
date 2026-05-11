@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vor100jahren.de/sitemap.xml
