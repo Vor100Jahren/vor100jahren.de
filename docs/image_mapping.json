@@ -2317,5 +2317,50 @@
     "local_file": "Mehmed_VI.jpg",
     "local_path": "images/Mehmed_VI.jpg",
     "alt": "Mehmed VI"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Reichskanzler_Wilhelm_Marx_%28cropped%29.jpg/960px-Reichskanzler_Wilhelm_Marx_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Wilhelm_Marx.jpg",
+    "local_path": "images/Wilhelm_Marx.jpg",
+    "alt": "Wilhelm Marx"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bundesarchiv_Bild_183-2005-0621-500%2C_Reichsminister_Alfred_Hugenberg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_183-2005-0621-500%2C_Reichsminister_Alfred_Hugenberg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Alfred_Hugenberg.jpg",
+    "local_path": "images/Alfred_Hugenberg.jpg",
+    "alt": "Alfred Hugenberg"
+  },
+  "https://upload.wikimedia.org/wikipedia/de/thumb/8/82/Corriere_della_Sierra_-_La_Domenica_del_corriere_1914_07_05.jpg/960px-Corriere_della_Sierra_-_La_Domenica_del_corriere_1914_07_05.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Erster_Weltkrieg.jpg",
+    "local_path": "images/Erster_Weltkrieg.jpg",
+    "alt": "Erster Weltkrieg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/David_Lloyd_George.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-David_Lloyd_George.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "David_Lloyd_George.jpg",
+    "local_path": "images/David_Lloyd_George.jpg",
+    "alt": "David Lloyd George"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hugh_Gibson.jpg/960px-Hugh_Gibson.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Hugh_S._Gibson.jpg",
+    "local_path": "images/Hugh_S._Gibson.jpg",
+    "alt": "Hugh S. Gibson"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Williameborah.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Williameborah.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "William_Borah.jpg",
+    "local_path": "images/William_Borah.jpg",
+    "alt": "William Borah"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Raoul_P%C3%A9ret_1917.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Raoul_P%C3%A9ret_1917.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Raoul_Péret.jpg",
+    "local_path": "images/Raoul_Péret.jpg",
+    "alt": "Raoul Péret"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pi%C5%82sudski_1921.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Pi%C5%82sudski_1921.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Józef_Piłsudski.jpg",
+    "local_path": "images/Józef_Piłsudski.jpg",
+    "alt": "Józef Piłsudski"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rakovszky_Iv%C3%A1n_-Irisz.jpg/960px-Rakovszky_Iv%C3%A1n_-Irisz.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Iván_Rakovszky.jpg",
+    "local_path": "images/Iván_Rakovszky.jpg",
+    "alt": "Iván Rakovszky"
   }
 }
