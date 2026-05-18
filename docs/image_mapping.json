@@ -2382,5 +2382,55 @@
     "local_file": "John_J._Pershing.jpg",
     "local_path": "images/John_J._Pershing.jpg",
     "alt": "John J. Pershing"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mesopotamia_9_October_2020.jpg/960px-Mesopotamia_9_October_2020.jpg": {
+    "local_file": "Mesopotamien.jpg",
+    "local_path": "images/Mesopotamien.jpg",
+    "alt": "Mesopotamien"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_VfGH_2016.svg/960px-Logo_VfGH_2016.svg.png": {
+    "local_file": "Verfassungsgerichtshof_(Österreich).png",
+    "local_path": "images/Verfassungsgerichtshof_(Österreich).png",
+    "alt": "Verfassungsgerichtshof (Österreich)"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg/800px-Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg": {
+    "local_file": "Paul_von_Hindenburg.jpg",
+    "local_path": "images/Paul_von_Hindenburg.jpg",
+    "alt": "Paul von Hindenburg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ptuj%2C_city_cinema.jpg/960px-Ptuj%2C_city_cinema.jpg": {
+    "local_file": "Kino.jpg",
+    "local_path": "images/Kino.jpg",
+    "alt": "Kino"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d2/Saarbeckengebiet_map.gif": {
+    "local_file": "Saarbeckengebiet.gif",
+    "local_path": "images/Saarbeckengebiet.gif",
+    "alt": "Regierungskommission des Saargebietes",
+    "credit": "Wikimedia Commons"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Leprosy.jpg/800px-Leprosy.jpg": {
+    "local_file": "Lepra.jpg",
+    "local_path": "images/Lepra.jpg",
+    "alt": "Lepra",
+    "credit": "Wikimedia Commons"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Carl_Munters.jpg/800px-Carl_Munters.jpg": {
+    "local_file": "Carl_Munters.jpg",
+    "local_path": "images/Carl_Munters.jpg",
+    "alt": "Carl Munters",
+    "credit": "Wikimedia Commons"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesarchiv_Bild_119-1983-0007%2C_Kapp-Putsch%2C_Marinebrigade_Erhardt_in_Berlin.jpg/800px-Bundesarchiv_Bild_119-1983-0007%2C_Kapp-Putsch%2C_Marinebrigade_Erhardt_in_Berlin.jpg": {
+    "local_file": "Kapp-Putsch.jpg",
+    "local_path": "images/Kapp-Putsch.jpg",
+    "alt": "Kapp Putsch",
+    "credit": "Wikimedia Commons"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bundesarchiv_B_145_Bild-P016570%2C_Berlin%2C_Nachtarbeiten_bei_der_BVG.jpg/800px-Bundesarchiv_B_145_Bild-P016570%2C_Berlin%2C_Nachtarbeiten_bei_der_BVG.jpg": {
+    "local_file": "Nachtarbeit.jpg",
+    "local_path": "images/Nachtarbeit.jpg",
+    "alt": "Nachtarbeit",
+    "credit": "Wikimedia Commons"
   }
 }

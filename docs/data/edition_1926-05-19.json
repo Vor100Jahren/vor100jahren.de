@@ -1,0 +1,751 @@
+[
+  {
+    "index": 1,
+    "headline": "Das Schicksal des Luftschiffs Norge: Wrack oder historischer Triumph?",
+    "subheadline": "Erfolgreiche Arktisüberquerung — Demontage in Alaska — Entleerte Hülle gleicht einem Trümmerhaufen",
+    "dateline": "Nome, 19. Mai.",
+    "type": "Artikel",
+    "category": "Wissenschaft & Technik",
+    "actual_words": 334,
+    "body_html": "<p>Nach der historischen Überquerung des Nordpols durch die Expedition unter der Führung von <a href=\"https://de.wikipedia.org/wiki/Roald_Amundsen\" target=\"_blank\" rel=\"noopener\">Roald Amundsen</a> und <a href=\"https://de.wikipedia.org/wiki/Umberto_Nobile\" target=\"_blank\" rel=\"noopener\">Umberto Nobile</a> liegt nun ein abschließendes Bild über den Zustand des Luftschiffs <em>Norge</em> vor. Dem Madrider <em>Sol</em> zufolge hatte die gewaltige Reise bereits am 10. April in Rom ihren Anfang genommen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"El Sol\">[1]</a></sup> Während die Nachricht vom erfolgreichen Flug über die Eiswüste in Oslo und Rom enthusiastische Aufnahme fand, begegnete man dem Ereignis in Paris eher mit Zurückhaltung.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"El Sol\">[1]</a></sup> Der flugtechnische Triumph, bei dem nach den Nordamerikanern nun auch Norweger und Italiener ihre nationalen Flaggen über dem Pol abwerfen konnten, bildet den Abschluss eines beispiellosen Wettlaufs der Nationen um die Eroberung der <a href=\"https://de.wikipedia.org/wiki/Arktis\" target=\"_blank\" rel=\"noopener\">Arktis</a>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"El Sol\">[1]</a></sup></p>\n<p>Über das endgültige Schicksal des Lenkballons herrscht nun Klarheit, aber zugleich auch eine gewisse Ernüchterung. Wie der <em>Hong Kong Telegraph</em> meldet, sind am gestrigen Dienstag zwei Kameramänner mit einem Flugzeug aus dem abgelegenen alaskischen Ort Teller in Nome eingetroffen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hong Kong Telegraph\">[2]</a></sup> Sie waren dort, um die Demontage der <em>Norge</em> auf Film festzuhalten.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hong Kong Telegraph\">[2]</a></sup> Ihre Schilderungen zeichnen das Bild eines unwiderruflichen Endes für das Luftschiff. In vollständig entleertem Zustand gleicht die Hülle des einst stolzen Luftschiffs nur noch einem unförmigen Trümmerhaufen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hong Kong Telegraph\">[2]</a></sup></p>\n<p>Nach Angaben der englischsprachigen <em>China Mail</em>, die sich auf telegrafische Berichte aus London stützt, werden diese Eindrücke bestätigt.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup> Die Männer, welche die Abbrucharbeiten filmten, berichteten übereinstimmend von einem trostlosen Anblick der in sich zusammengefallenen Konstruktion auf dem eisigen Boden Alaskas.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup> Von einer erneuten Fahrt oder gar einem Rückflug aus eigener Kraft kann keine Rede mehr sein.</p>\n<p>Das wertvolle Material wird jedoch nicht in den Weiten des Nordens zurückgelassen. Aus dem <em>Hong Kong Telegraph</em> geht hervor, dass das zusammengelegte und in Kisten verpackte Luftschiff in etwa vierzehn Tagen in die Vereinigten Staaten verschifft werden soll.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hong Kong Telegraph\">[2]</a></sup> Das Hauptaugenmerk gilt nun der raschen Auswertung des dokumentarischen Materials. Die von den beiden Kameramännern aufgenommenen Filmrollen befinden sich bereits auf dem Weg nach Amerika und werden dort teils per Dampfschiff, teils per Eisenbahn an ihren Bestimmungsort transportiert.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hong Kong Telegraph\">[2]</a></sup> Die Ära der <em>Norge</em> ist damit in technischer Hinsicht beendet. Die absolvierte Überfahrt bleibt jedoch ein bedeutender Meilenstein der <a href=\"https://de.wikipedia.org/wiki/Polarforschung\" target=\"_blank\" rel=\"noopener\">Polarforschung</a>.</p>",
+    "images": [
+      {
+        "url": "images/Umberto_Nobile.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Umberto_Nobile_NYWTS.jpg",
+        "alt_text": "Umberto Nobile",
+        "caption": "Umberto Nobile, italienischer Luftschiffpionier"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Roald Amundsen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Roald_Amundsen",
+        "link_target": "Roald Amundsen"
+      },
+      {
+        "term": "Umberto Nobile",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Umberto_Nobile",
+        "link_target": "Umberto Nobile"
+      },
+      {
+        "term": "Luftschiff Norge",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Norge_(Luftschiff)",
+        "link_target": "Norge (Luftschiff)"
+      },
+      {
+        "term": "Polarforschung",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Polarforschung",
+        "link_target": "Polarforschung"
+      },
+      {
+        "term": "Arktis",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Arktis",
+        "link_target": "Arktis"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Hong Kong Telegraph",
+        "display_name": "Hong Kong Telegraph",
+        "date": "1926-05-19",
+        "url": "https://archive.org/search?query=title%3A%22Hong+Kong+Telegraph%22+AND+date%3A1926-05-19",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "China Mail",
+        "display_name": "China Mail",
+        "date": "1926-05-19",
+        "url": "https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-05-19",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "El Sol",
+        "display_name": "El Sol (Madrid)",
+        "date": "1926-05-19",
+        "url": "https://hemerotecadigital.bne.es/hd/es/results?parent=8cc1b3cd-83a6-4d59-9290-9b8757a2c75a&t=alt-asc",
+        "archive": "Hemeroteca Digital (BNE)",
+        "pages_cited": "S. 1",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q3",
+        "newspaper": "El Sol",
+        "display_name": "El Sol (Madrid)",
+        "url": "https://hemerotecadigital.bne.es/hd/es/results?parent=8cc1b3cd-83a6-4d59-9290-9b8757a2c75a&t=alt-asc",
+        "archive": "Hemeroteca Digital (BNE)",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 2,
+        "qid": "Q1",
+        "newspaper": "Hong Kong Telegraph",
+        "display_name": "Hong Kong Telegraph",
+        "url": "https://archive.org/search?query=title%3A%22Hong+Kong+Telegraph%22+AND+date%3A1926-05-19",
+        "archive": "Internet Archive",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 3,
+        "qid": "Q2",
+        "newspaper": "China Mail",
+        "display_name": "China Mail",
+        "url": "https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-05-19",
+        "archive": "Internet Archive",
+        "date": "1926-05-19"
+      }
+    ],
+    "editorial_note": "Die Überquerung des Nordpols durch das Luftschiff Norge im Mai 1926 gilt heute als die erste zweifelsfrei belegte Erreichung des Nordpols, nachdem frühere Ansprüche von Peary und Cook stark angezweifelt wurden. Nach der Landung in Teller (Alaska) am 14. Mai 1926 wurde das Luftschiff zerlegt. Das Verhältnis zwischen Amundsen und Nobile verschlechterte sich infolge von Streitigkeiten um die Urheberschaft des Erfolges im Nachgang der Expedition dramatisch. Nobile kehrte 1928 mit dem Luftschiff Italia in die Arktis zurück, wobei er abstürzte; bei einer der darauffolgenden Suchaktionen kam Roald Amundsen ums Leben.",
+    "score": 220.0
+  },
+  {
+    "index": 2,
+    "headline": "Regierungserklärung: Marx stellt sich dem Reichstag",
+    "subheadline": "Reichskanzler legt knappes Programm vor — Flaggenfrage und Arbeitslosigkeit im Mittelpunkt — Sozialdemokraten signalisieren Unterstützung",
+    "dateline": "Berlin, 19. Mai.",
+    "type": "Hauptartikel",
+    "category": "Innenpolitik",
+    "actual_words": 564,
+    "body_html": "<p>Das neue Reichskabinett unter Leitung von Reichskanzler <a href=\"https://de.wikipedia.org/wiki/Wilhelm_Marx\" target=\"_blank\" rel=\"noopener\">Dr. Wilhelm Marx</a> hat am gestrigen Nachmittag im <a href=\"https://de.wikipedia.org/wiki/Reichstag_(Weimarer_Republik)\" target=\"_blank\" rel=\"noopener\">Reichstag</a> seine Regierungserklärung vorgelegt. Marx gab die Erklärung in wenigen und klar umrissenen Worten ab, wobei er sich auf die wichtigsten innen- und außenpolitischen Fragen beschränkte. Die Debatte, die unmittelbar im Anschluss begann, wurde auf etwa eine Stunde angesetzt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Reichskanzler Marx erklärte, dass die Regierung bei der Behebung der wirtschaftlichen Notlage, insbesondere der Arbeitslosigkeit, einen vorrangigen Schwerpunkt setzen werde. Er verwies darauf, dass die Arbeitslosenfrage von großer Bedeutung sei und besondere Beachtung erfordere.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Die <a href=\"https://de.wikipedia.org/wiki/Flaggenstreit\" target=\"_blank\" rel=\"noopener\">Flaggenfrage</a>, die während der vorangegangenen Kabinette Anlass zahlreicher Auseinandersetzungen war, wurde ebenfalls angesprochen. Marx bezog sich ausdrücklich auf den Brief Reichspräsident Hindenburgs an seinen Vorgänger <a href=\"https://de.wikipedia.org/wiki/Hans_Luther\" target=\"_blank\" rel=\"noopener\">Dr. Luther</a>. Er erklärte, das Kabinett werde alles tun, um eine Lösung der Flaggenfrage herbeizuführen, die den Streit beendet und eine Einigung ermöglicht. Demnach bleibt die Flaggenverordnung zwar bestehen, doch deren Durchführung sei vorläufig ausgesetzt, bis eine parlamentarische Kommission eine endgültige Einheitsflagge empfehle.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup><sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Berliner Tageblatt\">[3]</a></sup><sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Dieser vorsichtige Umgang mit der Flaggenfrage war Gegenstand lebhafter Beratungen innerhalb der Regierungsparteien vor der Erklärung. Insbesondere die <a href=\"https://de.wikipedia.org/wiki/Deutsche_Volkspartei\" target=\"_blank\" rel=\"noopener\">Deutsche Volkspartei</a> lehnte den sozialdemokratischen Antrag ab, wonach nur noch die Schwarz-Rot-Goldene Flagge an deutschen Auslandsvertretungen zu hissen sei. Die Zentrumsfraktion zeigte sich in dieser Sache zurückhaltender. Ein endgültiger Standpunkt zur Personalfrage, die durch den Rücktritt Marx’ als Vorsitzender innerhalb des Zentrums aufkam, steht noch aus. Dieser soll voraussichtlich vor Pfingsten gefunden werden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Die Regierung forderte zu keinem Vertrauensvotum auf; allgemein wird jedoch erwartet, dass ein solches, sollte es eingebracht werden, von einer breiten Mehrheit getragen würde. Die <a href=\"https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands\" target=\"_blank\" rel=\"noopener\">Sozialdemokraten</a> haben sich, wie aus Kreisen dieser Partei verlautet, entschlossen, die Regierung aktiv zu unterstützen. Diese Unterstützung steht in engem Zusammenhang mit der Person des neuen Kanzlers Marx, der in sozialdemokratischen Kreisen als vertrauenswürdig gilt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Berliner Tageblatt\">[3]</a></sup> Bei der Debatte kündigten die <a href=\"https://de.wikipedia.org/wiki/Deutschnationale_Volkspartei\" target=\"_blank\" rel=\"noopener\">Deutschnationalen</a> an, sie würden bei einem Vertrauensvotum für die Regierung stimmen, vor allem wegen der Flaggenfrage. Ihr Führer, <a href=\"https://en.wikipedia.org/wiki/Kuno_Graf_von_Westarp\" target=\"_blank\" rel=\"noopener\">Graf Westarp</a>, beabsichtigt, dem Kanzler präzise Fragen zur Umsetzung der Flaggenverordnung zu stellen. Marx wird darauf hinweisen, dass die Verordnung rechtlich Bestand hat, deren Vollzug aber weiterhin ausgesetzt bleibt, bis die Einigung durch den betreffenden Ausschuss erreicht ist.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Berliner Tageblatt\">[3]</a></sup> Außenpolitisch bekräftigte Marx die Fortführung der bisherigen Linie, die er als übereinstimmend mit der Politik seines Vorgängers bezeichnete. Er bekannte sich entschlossen zur Teilnahme Deutschlands an den Beratungen in Genf und zum Eintritt in den Völkerbund, sofern der Status und die Ehre des Reiches gewahrt bleiben. Ebenso unterstrich er die Bedeutung der Beziehungen zu Österreich und hob die praktische Zusammenarbeit und kulturelle Gemeinschaft hervor, statt auf politische Inszenierungen zu setzen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup><sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Le Figaro\">[4]</a></sup> Zum Thema Fürstenabfindung wollte er sich in der Erklärung nicht äußern. Er stellte jedoch klar, dass ein entsprechender Gesetzentwurf, der den Resultaten jüngerer Kompromisse entspricht, dem Parlament zügig vorgelegt werde, um eine frühzeitige Beratung und Verabschiedung vor dem geplanten Volksentscheid zu ermöglichen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Personelle Änderungen in der Reichskanzlei sind angekündigt. So will der neue Reichskanzler offenbar sowohl den Staatssekretär der Reichskanzlei als auch den Reichspressechef austauschen. Es gibt jedoch bislang einige Widerstände, insbesondere seitens der Deutschen Volkspartei. Die Regierungsmehrheit umfasst neben dem <a href=\"https://de.wikipedia.org/wiki/Deutsche_Zentrumspartei\" target=\"_blank\" rel=\"noopener\">Zentrum</a> und der Deutschen Volkspartei auch die Sozialdemokraten, die ihre Bereitschaft zur Unterstützung der Regierung erklärt haben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Die Debatte über die Regierungserklärung wird am heutigen Nachmittag fortgesetzt. Reichskanzler Marx und seine Kabinettsmitglieder rechnen mit einer baldigen Zustimmung des Parlaments. Im Anschluss sollen am Donnerstag die Pfingstferien folgen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Berliner Tageblatt\">[3]</a></sup><sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Le Figaro\">[4]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Wilhelm_Marx.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Reichskanzler_Wilhelm_Marx_(cropped).jpg",
+        "alt_text": "Wilhelm Marx",
+        "caption": "Wilhelm Marx, deutscher Reichskanzler"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Reichstag",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Reichstag_(Weimarer_Republik)",
+        "link_target": "Reichstag (Weimarer Republik)"
+      },
+      {
+        "term": "Deutsche Volkspartei",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Deutsche_Volkspartei",
+        "link_target": "Deutsche Volkspartei"
+      },
+      {
+        "term": "Deutschnationalen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Deutschnationale_Volkspartei",
+        "link_target": "Deutschnationale Volkspartei"
+      },
+      {
+        "term": "Graf Westarp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuno_Graf_von_Westarp",
+        "link_target": "Kuno Graf von Westarp"
+      },
+      {
+        "term": "Zentrum",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Deutsche_Zentrumspartei",
+        "link_target": "Deutsche Zentrumspartei"
+      },
+      {
+        "term": "Flaggenfrage",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Flaggenstreit",
+        "link_target": "Flaggenstreit"
+      },
+      {
+        "term": "Dr. Wilhelm Marx",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Wilhelm_Marx",
+        "link_target": "Wilhelm Marx"
+      },
+      {
+        "term": "Dr. Luther",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Hans_Luther",
+        "link_target": "Hans Luther"
+      },
+      {
+        "term": "Sozialdemokraten",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands",
+        "link_target": "Sozialdemokratische Partei Deutschlands"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Westfälischer Merkur",
+        "display_name": "Westfälischer Merkur",
+        "date": "1926-05-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GR24YE7PAFIXFNHNUJLN444IUBV35YQD",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "date": "1926-05-19",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260519",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "pages_cited": "S. 2, S. 6",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Berliner Tageblatt",
+        "display_name": "Berliner Tageblatt",
+        "date": "1926-05-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/HNAOYJL7VIBHGODXEY5VPNTELPHMOPFQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Le Figaro",
+        "display_name": "Le Figaro",
+        "date": "1926-05-19",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34355551z/date19260519",
+        "archive": "Gallica (BnF)",
+        "pages_cited": "S. 3",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Westfälischer Merkur",
+        "display_name": "Westfälischer Merkur",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GR24YE7PAFIXFNHNUJLN444IUBV35YQD",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260519",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 3,
+        "qid": "Q3",
+        "newspaper": "Berliner Tageblatt",
+        "display_name": "Berliner Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/HNAOYJL7VIBHGODXEY5VPNTELPHMOPFQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 4,
+        "qid": "Q5",
+        "newspaper": "Le Figaro",
+        "display_name": "Le Figaro",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34355551z/date19260519",
+        "archive": "Gallica (BnF)",
+        "date": "1926-05-19"
+      }
+    ],
+    "editorial_note": "Die Regierung unter Dr. Wilhelm Marx leitete in den Jahren 1923 bis 1925 sowie 1926 bis 1928 mehrere Kabinette und brachte Stabilität in die Weimarer Republik. Im Mai 1926 trat Marx nach dem Rücktritt von Reichskanzler Luther erneut das Amt an und legte eine Regierungserklärung vor, die eine vorsichtige Fortsetzung der bisherigen Politik versprach. Die Flaggenfrage, die zum Sturz Luthers geführt hatte, blieb auch unter Marx umstritten. Deutschland trat im September 1926 dem Völkerbund bei, eine Entscheidung, die Marx und sein Kabinett maßgeblich vorbereiteten.",
+    "score": 140.0
+  },
+  {
+    "index": 3,
+    "headline": "Französisch-spanischer Vormarsch in Marokko",
+    "subheadline": "Umzingelung der Aufständischen schreitet voran — Schwere Verluste der Fremdenlegion bei Tetuan — Abd el Krim verlegt sein Hauptquartier",
+    "dateline": "Tanger, 19. Mai.",
+    "type": "Artikel",
+    "category": "Militär & Sicherheit",
+    "actual_words": 530,
+    "body_html": "<p>Die verbündeten französischen und spanischen Streitkräfte in Marokko verzeichnen auf fast allen Frontabschnitten erhebliche Geländegewinne gegen die Truppen der <a href=\"https://de.wikipedia.org/wiki/Rif-Republik\" target=\"_blank\" rel=\"noopener\">Rif-Republik</a>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Laut Berichten der <em>Deutschen Allgemeinen Zeitung</em> schreitet der Vormarsch der Kolonialmächte unaufhaltsam fort, obgleich die erwartete große Offensive der Verbündeten noch nicht einmal in ihrem vollen militärischen Umfang eingesetzt worden ist.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hamburger Echo\">[2]</a></sup><sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Wie die letzten Kommuniqués der militärischen Befehlshaber hervorheben, hat eine umfassende Umzingelungsbewegung begonnen, die von allen Seiten her im Kampfgebiet spürbar wird.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Die Einheiten der Rifkabylen sehen sich unter dem beständigen Druck der überlegenen Waffenmacht allmählich zurückgedrängt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hamburger Echo\">[2]</a></sup> Militärische Beobachter gehen deshalb davon aus, dass die mobilen Truppen der Aufständischen voraussichtlich in absehbarer Zeit auf ihre gut befestigten Stellungen in den unwegsamen Gebirgen zurückweichen müssen. Damit würden sie dem direkten feindlichen Zugriff entgehen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>\n<p>Die strategische Lage spitzt sich für die marokkanischen Kämpfer zusehends zu. Dem Pariser <em>Temps</em> zufolge scheinen die Rif-Truppen fest entschlossen zu sein, ihre zentrale Position bei Targuist unter allen Umständen bis zum Äußersten zu verteidigen.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Le Temps\">[3]</a></sup> Dessen ungeachtet soll die militärische Vereinigung der spanischen Einheiten, die von Adschdir (Ajdir) aus hartnäckig nach dem Süden vordringen, mit den französisch-spanischen Kräften unmittelbar bevorstehen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hamburger Echo\">[2]</a></sup> Die Truppenverbände bewegen sich in entgegengesetzter Richtung aufeinander zu. Es ist den verbündeten Kräften bereits gelungen, den strategisch bedeutsamen Ort Taurirt (Taourirt) erfolgreich zu besetzen und dort neue Positionen zu beziehen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hamburger Echo\">[2]</a></sup> Angesichts dieser massiven Bedrohung durch die rasch voranschreitende Zangenbewegung der europäischen Militärs hat der Führer der Aufständischen, <a href=\"https://de.wikipedia.org/wiki/Abd_al-Karim\" target=\"_blank\" rel=\"noopener\">Abd el Krim</a> (Abd el-Krim), nach übereinstimmenden Informationen der Auslandpresse sein Hauptquartier verlegt, um einer drohenden Gefangennahme zu entgehen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>\n<p>Trotz des stetigen Vormarsches stoßen die europäischen Mächte jedoch weiterhin auf erbitterten und opferreichen Widerstand der einheimischen Kämpfer. Besonders in der gebirgigen Umgebung von Tetuan (Tétouan) kam es in den vergangenen Tagen erneut zu außerordentlich schweren Gefechten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Abd el Krim beorderte hastig loyal ergebene Dschebala-Kontingente aus den Bergen herab in das Tal, die die vorrückenden europäischen Linien umzingelten und frontal angriffen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Nach Angaben englischer Quellen, auf die sich auch der <em>Temps</em> in seiner Berichterstattung stützt, wurden die südlich von Adschdir operierenden Spanier im unübersichtlichen Gelände heftig attackiert.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Le Temps\">[3]</a></sup> Es verlautet aus gut unterrichteten Kreisen in Tanger, dass die spanischen Bodentruppen — insbesondere die an vorderster Front eingesetzte Spanische <a href=\"https://de.wikipedia.org/wiki/Fremdenlegion\" target=\"_blank\" rel=\"noopener\">Fremdenlegion</a> sowie die loyalen Eingeborenenregimenter — überaus empfindliche Verluste erlitten haben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>\n<p>Der brutale Krieg fordert in seinem unerbittlichen Verlauf zudem einen beständig hohen Tribut von der Zivilbevölkerung und führt zu beispiellosen Zerstörungen in der stark umkämpften Region. In einem kühnen Handstreich überfielen Rif-Kämpfer zur Nachtzeit die kleine Ortschaft Martin, die lediglich sechs Meilen von der schwer befestigten Hafenstadt Tetuan entfernt liegt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Die aufständischen Angreifer schleppten dabei das gesamte verfügbare Vieh der Landbevölkerung fort. Die dort eigens stationierte spanische Garnison konnte nicht rechtzeitig eingreifen und den Überfall vereiteln.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Am darauffolgenden Morgen sahen sich die Einwohner gezwungen, ihre Heimat in Martin fluchtartig zu verlassen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Aus dem <em>Hamburger Echo</em> und den Depeschen der <em>Deutschen Allgemeinen Zeitung</em> geht hervor, dass der Küstenort nunmehr fast ausschließlich von spanischen Flüchtlingen bewohnt wird.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hamburger Echo\">[2]</a></sup><sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Diese entwurzelten Schutzsuchenden stammen zumeist aus den umliegenden, von den Aufständischen vollständig zerstörten Dörfern im Distrikt Beni-Madan.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Weiter westlich bietet sich ein Bild der totalen Verwüstung: Sämtliche Dörfer in jener Gegend sind auf der gesamten Strecke bis an die Demarkationslinie der neutralen Zone von Tanger niedergebrannt worden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Abd_al-Karim.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Abb_el_Krim._Revista_Ejército_n._962._junio_2021._p._50.jpg",
+        "alt_text": "Abd al-Karim",
+        "caption": "Abd al-Karim, Führer der Rif-Berber"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Rif-Republik",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Rif-Republik",
+        "link_target": "Rif-Republik"
+      },
+      {
+        "term": "Fremdenlegion",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Fremdenlegion",
+        "link_target": "Fremdenlegion"
+      },
+      {
+        "term": "Abd el Krim",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Abd_al-Karim",
+        "link_target": "Abd al-Karim"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Hamburger Echo",
+        "display_name": "Hamburger Echo",
+        "date": "1926-05-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/O3TTNB53XHPB2PZ245GW3DUOIMLUMYI2",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "date": "1926-05-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GJKROV4TVKMGPT2BBZHU7AVGD6M6626Y",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Le Temps",
+        "display_name": "Le Temps",
+        "date": "1926-05-19",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34431794k/date19260519",
+        "archive": "Gallica (BnF)",
+        "pages_cited": "S. 1",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q2",
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GJKROV4TVKMGPT2BBZHU7AVGD6M6626Y",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 2,
+        "qid": "Q1",
+        "newspaper": "Hamburger Echo",
+        "display_name": "Hamburger Echo",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/O3TTNB53XHPB2PZ245GW3DUOIMLUMYI2",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 3,
+        "qid": "Q3",
+        "newspaper": "Le Temps",
+        "display_name": "Le Temps",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34431794k/date19260519",
+        "archive": "Gallica (BnF)",
+        "date": "1926-05-19"
+      }
+    ],
+    "editorial_note": "Der Rif-Krieg endete nur wenige Tage später: Am 27. Mai 1926 ergab sich Abd el-Krim den französischen Truppen, womit der militärische Hauptwiderstand der Rif-Republik brach. Er wurde daraufhin nach Réunion ins Exil verbannt. Die verbündeten Kolonialmächte Spanien und Frankreich hatten im Verlauf des Konflikts in massiver und völkerrechtswidriger Weise auch Chemiewaffen gegen die Zivilbevölkerung eingesetzt.",
+    "score": 180.0
+  },
+  {
+    "index": 4,
+    "headline": "Der Franc unter Druck: Währungskrise in Frankreich",
+    "subheadline": "Dramatischer Kurssturz an den Devisenmärkten — Ratlosigkeit in Paris — Finanzminister Péret in London ohne greifbares Ergebnis",
+    "dateline": "Paris, 19. Mai.",
+    "type": "Artikel",
+    "category": "Wirtschaft",
+    "actual_words": 462,
+    "body_html": "<p>Der gestrige Handelstag markierte einen bisher beispiellosen Einbruch der französischen Währung.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Gegenüber dem Pfund Sterling, das am Vorabend noch mit 161,20 Franken notiert wurde, kletterte der Kurs zunächst auf 168,40 und erreichte nach Börsenschluss den schwindelerregenden Stand von 172 Franken.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Parallel dazu stieg der Dollar auf 35,35.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Ein Kurssturz von mehr als sieben Franken für das englische Pfund innerhalb von 24 Stunden ist ein Novum, dem auch das Pariser Finanzministerium keine beruhigenden Erklärungen mehr entgegenzusetzen vermag.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Auch der Versuch, die jüngste deutsche Kabinettskrise für die Währungsübel verantwortlich zu machen, überzeugt nicht mehr.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Die Ernennung von <a href=\"https://de.wikipedia.org/wiki/Wilhelm_Marx\" target=\"_blank\" rel=\"noopener\">Wilhelm Marx</a> zum Reichskanzler wird in Frankreich vielmehr als Stärkung der Republik begrüßt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> An den deutschen Börsen spiegelt sich der Fall des Franken deutlich wider: Die amtliche Berliner Devisennotierung für 100 französische Franken sank von 12,67 am Montag auf 12,14 am gestrigen Dienstag.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup></p>\n<p>In den Pariser Regierungskreisen herrscht Ratlosigkeit über die geeigneten Gegenmaßnahmen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup>  Noch in den Abendstunden berief Außenminister <a href=\"https://de.wikipedia.org/wiki/Aristide_Briand\" target=\"_blank\" rel=\"noopener\">Aristide Briand</a> den Gouverneur der Bank von Frankreich, Georges Robineau, sowie den Kabinettschef des Finanzministeriums, de Rothschild, zu dringenden Beratungen ein.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Deutsche Allgemeine Zeitung\">[3]</a></sup> Es werden verschiedene Maßnahmen erwogen, darunter die erneute Gründung einer Devisenzentrale nach den Plänen des ehemaligen Finanzministers <a href=\"https://de.wikipedia.org/wiki/Étienne_Clémentel\" target=\"_blank\" rel=\"noopener\">Étienne Clémentel</a>.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Deutsche Allgemeine Zeitung\">[3]</a></sup> Ferner wird von verschiedenen Seiten die Freigabe der sogenannten Morgan-Stützungsmasse gefordert.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Deutsche Allgemeine Zeitung\">[3]</a></sup> Bankgouverneur Robineau hält jedoch an einer Politik des vorsichtigen Abwartens fest; daher blieben die Unterredungen ohne praktisches Ergebnis.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Deutsche Allgemeine Zeitung\">[3]</a></sup> Die tieferen Ursachen des Währungsverfalls liegen in der prekären Binnenlage: Die freiwilligen Spenden zur Stützung des Franken fließen nur zögerlich, und der Krieg in Marokko verschlingt erhebliche Summen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Hinzu kommt, dass der Haushaltsplan auf einem unrealistischen Pfundkurs von 130 aufgebaut wurde und das Defizit kaum noch zu verbergen ist.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup></p>\n<p>Erhebliche Hoffnungen ruhten auf internationalen Verhandlungen. Doch die Reise des Finanzministers <a href=\"https://en.wikipedia.org/wiki/Raoul_P%C3%A9ret\" target=\"_blank\" rel=\"noopener\">Raoul Péret</a> nach London wird allgemein als Fehlschlag betrachtet.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Deutsche Allgemeine Zeitung\">[3]</a></sup> Péret verhandelte intensiv mit dem englischen Schatzkanzler <a href=\"https://de.wikipedia.org/wiki/Winston_Churchill\" target=\"_blank\" rel=\"noopener\">Winston Churchill</a> und wird die britische Hauptstadt jedoch ohne greifbare Ergebnisse verlassen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Dem <em>Temps</em> zufolge erschweren vor allem die französischen Forderungen auf Rückgabe jenes Goldes, das während des Krieges als Sicherheit an die Bank von England übergeben worden war, die Gespräche.<sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Le Temps\">[4]</a></sup> Auch Pérets Beharren auf einer Schutzklausel, wonach Frankreich seine Schulden nur in dem Maße bedienen wolle, wie es deutsche Reparationen erhält, stieß auf Widerstand.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Unterdessen verbleiben Beamte des Pariser Ministeriums in der City, um wenigstens technische Fragen weiter zu erörtern.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Deutsche Allgemeine Zeitung\">[3]</a></sup></p>\n<p>Auch in Washington stößt das französische Ansinnen auf eine große Anleihe auf Zurückhaltung. Nach Berichten der <em>Deutschen Allgemeinen Zeitung</em> bevorzugen amerikanische Finanzkreise stattdessen einen reinen Hilfskredit der New Yorker Federal Reserve Bank.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Deutsche Allgemeine Zeitung\">[3]</a></sup> Die englische Presse verfolgt die Währungskrise derweil mit nüchterner Analyse. Wie der <em>Daily Telegraph</em> ausführt, habe der jüngste britische Generalstreik den französischen Export stark beeinträchtigt und so die Krise verschärft.<sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Le Temps\">[4]</a></sup> Am morgigen Donnerstag soll nun der französische Ministerrat unter dem Vorsitz von Staatspräsident Gaston Doumergue zusammentreten, um Pérets Bericht entgegenzunehmen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Raoul_Peret.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Raoul_P%C3%A9ret_1917.jpg",
+        "alt_text": "Raoul Péret",
+        "caption": "Raoul Péret, französischer Politiker und Justizminister"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Aristide Briand",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Aristide_Briand",
+        "link_target": "Aristide Briand"
+      },
+      {
+        "term": "Étienne Clémentel",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Étienne_Clémentel",
+        "link_target": "Étienne Clémentel"
+      },
+      {
+        "term": "Raoul Péret",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Raoul_P%C3%A9ret",
+        "link_target": "Raoul Péret"
+      },
+      {
+        "term": "Winston Churchill",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Winston_Churchill",
+        "link_target": "Winston Churchill"
+      },
+      {
+        "term": "Wilhelm Marx",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Wilhelm_Marx",
+        "link_target": "Wilhelm Marx"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "date": "1926-05-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/C7PZNCXS24XWVZQMOUV7NPWVBJJJBW3L",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "date": "1926-05-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GJKROV4TVKMGPT2BBZHU7AVGD6M6626Y",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1, S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Le Temps",
+        "display_name": "Le Temps",
+        "date": "1926-05-19",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34431794k/date19260519",
+        "archive": "Gallica (BnF)",
+        "pages_cited": "S. 1",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-05-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GUCYJB7U43TZCBNGRAQ2C3WKNATQDDJ4",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/C7PZNCXS24XWVZQMOUV7NPWVBJJJBW3L",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 2,
+        "qid": "Q4",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GUCYJB7U43TZCBNGRAQ2C3WKNATQDDJ4",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 3,
+        "qid": "Q2",
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GJKROV4TVKMGPT2BBZHU7AVGD6M6626Y",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 4,
+        "qid": "Q3",
+        "newspaper": "Le Temps",
+        "display_name": "Le Temps",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34431794k/date19260519",
+        "archive": "Gallica (BnF)",
+        "date": "1926-05-19"
+      }
+    ],
+    "editorial_note": "Die im Frühjahr 1926 eskalierende Franc-Krise fand erst im Juli desselben Jahres ein Ende, als Raymond Poincaré als Regierungschef und Finanzminister an die Macht zurückkehrte. Durch drastische Sparmaßnahmen und Steuererhöhungen gelang es seiner Regierung der 'Nationalen Einheit' rasch, das Vertrauen der internationalen Finanzmärkte zurückzugewinnen. Im Jahr 1928 wurde der sogenannte 'Franc Poincaré' rechtlich an Gold gebunden, verlor dabei jedoch rund 80 Prozent seines Vorkriegswertes.",
+    "score": 210.0
+  },
+  {
+    "index": 5,
+    "headline": "Hohe Haftstrafen für britische Spione",
+    "subheadline": "Urteile in Pariser Geheimprozess gefallen — Frauen als Lockvögel in Marinestützpunkten eingesetzt",
+    "dateline": "Paris, 19. Mai.",
+    "type": "Artikel",
+    "category": "Justiz & Kriminalität",
+    "actual_words": 270,
+    "body_html": "<p>Die elfte Pariser Strafkammer fällte am gestrigen Dienstag das Urteil in jener Affäre, die seit den Verhaftungen im vergangenen Dezember unter dem Schlagwort der ‚englischen Spione‘ für erhebliches Aufsehen gesorgt hatte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Le Figaro\">[2]</a></sup> Wie der <em>Figaro</em> meldet, fanden die Verhandlungen aufgrund der militärischen Brisanz der Thematik vollständig unter Ausschluss der Öffentlichkeit statt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Le Figaro\">[2]</a></sup> Das Gericht sah es nach den Anhörungen als zweifelsfrei erwiesen an, dass die Angeklagten systematisch versucht hatten, an geheime Pläne über französische Marine- und Luftfahrtstützpunkte sowie über neuestes Kriegsmaterial zu gelangen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup></p>\n<p>Die drei britischen Hauptangeklagten hatten sich in Frankreich zur Tarnung als Fabrikanten für Apparate der <a href=\"https://de.wikipedia.org/wiki/Funktelegrafie\" target=\"_blank\" rel=\"noopener\">drahtlosen Telegrafie</a> ausgegeben.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Le Figaro\">[2]</a></sup> Der Rädelsführer John Leather wurde nunmehr zu drei Jahren Gefängnis und einer Geldstrafe von 3000 Francs verurteilt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Le Figaro\">[2]</a></sup> Seine beiden Komplizen Ernest Philipps und William Fischer erhielten vom Gericht jeweils zwei Jahre Haft sowie eine finanzielle Buße in Höhe von 2000 Francs.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Le Figaro\">[2]</a></sup></p>\n<p>Darüber hinaus standen zwei französische Frauen vor Gericht, die die ausländischen Agenten bei ihren illegalen Recherchen maßgeblich unterstützt hatten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Die 24-jährige, rotblonde <a href=\"https://de.wikipedia.org/wiki/Fallschirmspringen\" target=\"_blank\" rel=\"noopener\">Fallschirmspringerin</a> Marthe Moreuil, die in einschlägigen Kreisen auch unter dem Decknamen Monsiel operierte, und die Tänzerin Andrée Lefebvre wurden zu jeweils sechs Monaten Gefängnis und 500 Francs Geldstrafe verurteilt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Le Figaro\">[2]</a></sup><sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup></p>\n<p>Nach Berichten der <em>China Mail</em> hatten die beiden Frauen auf Anweisung der Briten gezielt die Marinestützpunkte in Brest und Saint-Raphaël aufgesucht. Dort machten sie die Bekanntschaft junger französischer Seeoffiziere, um ihnen Informationen zu entlocken.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup> Im Fall der Angeklagten Moreuil erkannte das Gericht zwar mildernde Umstände an, verweigerte ihr jedoch das Recht, offiziell weitere angebliche Spione zu benennen.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup> Ihre ersten Aussagen vor den Ermittlungsbehörden hatten sich als kalkulierte Falschaussagen erwiesen, mit denen sie die Justiz in die Irre führen wollte.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup></p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "drahtlosen Telegrafie",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Funktelegrafie",
+        "link_target": "Funktelegrafie"
+      },
+      {
+        "term": "Fallschirmspringerin",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Fallschirmspringen",
+        "link_target": "Fallschirmspringen"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "date": "1926-05-19",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-05-19",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Le Figaro",
+        "display_name": "Le Figaro",
+        "date": "1926-05-19",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34355551z/date19260519",
+        "archive": "Gallica (BnF)",
+        "pages_cited": "S. 2",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "China Mail",
+        "display_name": "China Mail",
+        "date": "1926-05-19",
+        "url": "https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-05-19",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-05-19",
+        "archive": "Internet Archive",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Le Figaro",
+        "display_name": "Le Figaro",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34355551z/date19260519",
+        "archive": "Gallica (BnF)",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 3,
+        "qid": "Q3",
+        "newspaper": "China Mail",
+        "display_name": "China Mail",
+        "url": "https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-05-19",
+        "archive": "Internet Archive",
+        "date": "1926-05-19"
+      }
+    ],
+    "editorial_note": "Der Spionageprozess wirft ein Schlaglicht auf das Misstrauen zwischen den Siegermächten Frankreich und Großbritannien in der Zwischenkriegszeit. Obwohl beide Staaten im Ersten Weltkrieg verbündet waren, kam es beim Wettlauf um moderne Marine- und Luftfahrttechnologien häufig zu nachrichtendienstlichen Operationen. Die gezielte Nutzung von Tarnfirmen für die Funktechnik verdeutlicht zudem die wachsende strategische Bedeutung der damals noch jungen drahtlosen Kommunikationstechnik.",
+    "score": 160.0
+  },
+  {
+    "index": 6,
+    "headline": "Alarmstimmung der Rechtspresse: Polizeipräsidium dementiert Reichswehreinsatz",
+    "subheadline": "Deutschnationale Blätter verbreiten Gerüchte über Panzerwagen und Artillerie zu Pfingsten — Roter Frontkämpferbund unterliegt strengem Waffenverbot — Wilhelm Pieck kündigt friedlichen Werbetag an",
+    "dateline": "Berlin, 19. Mai.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 263,
+    "body_html": "<p>Die bevorstehende Pfingsttagung des Roten Frontkämpferbundes in der Reichshauptstadt zieht weite Kreise in der politischen Öffentlichkeit. Besonders die <a href=\"https://de.wikipedia.org/wiki/Deutschnationale_Volkspartei\" target=\"_blank\" rel=\"noopener\">deutschnationale</a> Presse bemüht sich derzeit, die Bevölkerung mit alarmierenden Berichten über eine angebliche Gefährdung der öffentlichen Sicherheit zu beunruhigen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Neue Freie Presse\">[1]</a></sup> Nach Berichten des <em>Harburger Tageblattes</em> kursieren Gerüchte, wonach die <a href=\"https://de.wikipedia.org/wiki/Schutzpolizei\" target=\"_blank\" rel=\"noopener\">Schutzpolizei</a> höchste Alarmbereitschaft angeordnet habe und der Urlaub sämtlicher Beamter gesperrt worden sei.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Es wird zudem behauptet, neben 14.000 Polizisten solle auch die <a href=\"https://de.wikipedia.org/wiki/Reichswehr\" target=\"_blank\" rel=\"noopener\">Reichswehr</a> eingesetzt werden; Artillerie werde an den wichtigsten Punkten der Stadt aufgefahren, während Panzerwagen durch die Straßen patrouillierten.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup><sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Neue Freie Presse\">[1]</a></sup> Die <em>Neue Freie Presse</em> meldet, zur Beförderung der Teilnehmer würden zahlreiche <a href=\"https://de.wikipedia.org/wiki/Sonderzug\" target=\"_blank\" rel=\"noopener\">Sonderzüge</a> eingesetzt, darunter allein sechzig Züge aus Stettin, dreißig aus Hamburg und zwanzig aus Halle.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Neue Freie Presse\">[1]</a></sup></p>\n<p>Das Berliner Polizeipräsidium widerspricht diesen Darstellungen nun entschieden. Laut dem <em>Berliner Tageblatt</em> bezeichnet die Behörde die Behauptungen der Rechtspresse als „frei erfunden und zum Teil direkt absurd“.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Berliner Tageblatt\">[3]</a></sup> Die Polizei stellt klar, dass es sich nicht um eine wohlwollende Genehmigung des kommunistischen Aufmarsches handele, sondern um eine verfassungsrechtlich zulässige Tagung, für deren Verbot die rechtlichen Voraussetzungen fehlten.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Berliner Tageblatt\">[3]</a></sup> Zwar verfüge man in Berlin über deutlich mehr als 14.000 uniformierte Beamte sowie Tausende Zivilpolizisten. Dennoch sei die Polizei an die Reichswehr mit der Bitte um Unterstützung herangetreten.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Berliner Tageblatt\">[3]</a></sup>  Für die eintreffenden Mitglieder des Verbandes gelte ein striktes Waffen- und Stockverbot, das unter allen Umständen durchgesetzt werde.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Berliner Tageblatt\">[3]</a></sup></p>\n<p>Auch im <a href=\"https://de.wikipedia.org/wiki/Preußischer_Landtag\" target=\"_blank\" rel=\"noopener\">Preußischen Landtag</a> war die geplante Kundgebung bereits Thema. Der kommunistische Abgeordnete <a href=\"https://en.wikipedia.org/wiki/Wilhelm_Pieck\" target=\"_blank\" rel=\"noopener\">Wilhelm Pieck</a> erklärte dort unmissverständlich, dass zu Pfingsten keine Revolution inszeniert werde.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Vielmehr sei eine Kundgebung für die Einigkeit des Proletariats vorgesehen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Die Warnungen der bürgerlichen Blätter erscheinen somit zunächst als gezieltes politisches Manöver.</p>",
+    "images": [
+      {
+        "url": "images/Reichswehr.png",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:War_Ensign_of_Germany_(1921–1933).svg",
+        "alt_text": "Reichswehr",
+        "caption": "Reichswehr, offizieller Name der deutschen Streitkräfte 1921–1935"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Sonderzüge",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Sonderzug",
+        "link_target": "Sonderzug"
+      },
+      {
+        "term": "Schutzpolizei",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Schutzpolizei",
+        "link_target": "Schutzpolizei"
+      },
+      {
+        "term": "Reichswehr",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Reichswehr",
+        "link_target": "Reichswehr"
+      },
+      {
+        "term": "Preußischen Landtag",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Preußischer_Landtag",
+        "link_target": "Preußischer Landtag"
+      },
+      {
+        "term": "Wilhelm Pieck",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Wilhelm_Pieck",
+        "link_target": "Wilhelm Pieck"
+      },
+      {
+        "term": "deutschnationale",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Deutschnationale_Volkspartei",
+        "link_target": "Deutschnationale Volkspartei"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Berliner Tageblatt",
+        "display_name": "Berliner Tageblatt",
+        "date": "1926-05-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/HNAOYJL7VIBHGODXEY5VPNTELPHMOPFQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-05-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GUCYJB7U43TZCBNGRAQ2C3WKNATQDDJ4",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1, S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "date": "1926-05-19",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260519",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "pages_cited": "S. 2",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q3",
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260519",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GUCYJB7U43TZCBNGRAQ2C3WKNATQDDJ4",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 3,
+        "qid": "Q1",
+        "newspaper": "Berliner Tageblatt",
+        "display_name": "Berliner Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/HNAOYJL7VIBHGODXEY5VPNTELPHMOPFQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-19"
+      }
+    ],
+    "editorial_note": "Das Pfingsttreffen des Roten Frontkämpferbundes (RFB) fand 1926 tatsächlich als überwiegend friedliche Großdemonstration in Berlin statt. Die Aufregung im Vorfeld war typisch für das von paramilitärischen Verbänden geprägte Klima der Weimarer Republik. 1929 wurde der RFB nach den gewalttätigen Auseinandersetzungen des sogenannten 'Blutmai' in Preußen und wenig später im gesamten Deutschen Reich verboten.",
+    "score": 130.0
+  },
+  {
+    "index": 7,
+    "headline": "Streit um das Republikschutzgesetz: Forderung nach Aufhebung",
+    "subheadline": "Heftige Reichstagsdebatte über das Vorgehen der preußischen Regierung — Rechtsausschuss prüft Gesetz",
+    "dateline": "Berlin, 19. Mai.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 218,
+    "body_html": "<p>Der <a href=\"https://de.wikipedia.org/wiki/Reichstag_(Weimarer_Republik)\" target=\"_blank\" rel=\"noopener\">Reichstag</a> erlebte eine überaus heftige Debatte, die sich an einem Antrag auf Aufhebung des Republikschutzgesetzes entzündete.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup>  Wie der <em>Westfälische Merkur</em> meldet, nutzten die Fraktionen die Aussprache vor allem für eine scharfe Abrechnung mit der preußischen Staatsregierung.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Das jüngste polizeiliche Vorgehen der preußischen Regierung gegen rechtsradikale Kreise stand dabei im Mittelpunkt der Kritik.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup></p>\n<p>Für die <a href=\"https://de.wikipedia.org/wiki/Deutsche_Volkspartei\" target=\"_blank\" rel=\"noopener\">Deutsche Volkspartei</a> erklärte der Abgeordnete Scholz, dass die Ereignisse in Preußen seine Partei aufs Äußerste erregt hätten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Er bezeichnete die polizeiliche Aktion als einen „groben Missbrauch der gesetzlichen Bestimmungen“.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Infolgedessen forderte er, das <a href=\"https://de.wikipedia.org/wiki/Republikschutzgesetz\" target=\"_blank\" rel=\"noopener\">Republikschutzgesetz</a> so schnell wie möglich aufzuheben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Unterstützung fand diese Haltung bei den <a href=\"https://de.wikipedia.org/wiki/Deutschnationale_Volkspartei\" target=\"_blank\" rel=\"noopener\">Deutschnationalen</a>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Der Abgeordnete von Freytag-Loringhoven verteidigte die Ausarbeitung einer Verfassung durch rechte Kreise und betonte, das umstrittene Gesetz müsse umgehend fallen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup></p>\n<p>Auch von der Linken wurde die bisherige Handhabung des Gesetzes scharf kritisiert.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Dem <em>Harburger Tageblatt</em> zufolge erklärte der sozialdemokratische Abgeordnete Dr. Levi wörtlich: „Jeder Kundige weiß, dass das Republikschutzgesetz seine Schärfe nur gegen links richtet.“<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Die Kommunisten schlossen sich dieser Auffassung an und betonten, auch sie seien von der staatlichen Verfolgung getroffen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup></p>\n<p>Eine entschiedene Verteidigung der preußischen Behörden übernahm das <a href=\"https://de.wikipedia.org/wiki/Deutsche_Zentrumspartei\" target=\"_blank\" rel=\"noopener\">Zentrum</a>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Der Abgeordnete <a href=\"https://en.wikipedia.org/wiki/Theodor_von_Gu%C3%A9rard\" target=\"_blank\" rel=\"noopener\">von Guérard</a> wies die Vorwürfe energisch zurück und erklärte, er könne keinen sachlichen Zusammenhang zwischen dem Vorgehen in Preußen und der Gesetzesdebatte erkennen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Schließlich wurde der Antrag zur weiteren Prüfung an den Rechtsausschuss überwiesen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup></p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "Reichstag",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Reichstag_(Weimarer_Republik)",
+        "link_target": "Reichstag (Weimarer Republik)"
+      },
+      {
+        "term": "Deutsche Volkspartei",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Deutsche_Volkspartei",
+        "link_target": "Deutsche Volkspartei"
+      },
+      {
+        "term": "Deutschnationalen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Deutschnationale_Volkspartei",
+        "link_target": "Deutschnationale Volkspartei"
+      },
+      {
+        "term": "Zentrum",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Deutsche_Zentrumspartei",
+        "link_target": "Deutsche Zentrumspartei"
+      },
+      {
+        "term": "von Guérard",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Theodor_von_Gu%C3%A9rard",
+        "link_target": "Theodor von Guérard"
+      },
+      {
+        "term": "Republikschutzgesetz",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Republikschutzgesetz",
+        "link_target": "Republikschutzgesetz"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Westfälischer Merkur",
+        "display_name": "Westfälischer Merkur",
+        "date": "1926-05-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GR24YE7PAFIXFNHNUJLN444IUBV35YQD",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-05-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GUCYJB7U43TZCBNGRAQ2C3WKNATQDDJ4",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Westfälischer Merkur",
+        "display_name": "Westfälischer Merkur",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GR24YE7PAFIXFNHNUJLN444IUBV35YQD",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-19"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/GUCYJB7U43TZCBNGRAQ2C3WKNATQDDJ4",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-19"
+      }
+    ],
+    "editorial_note": "Das Republikschutzgesetz wurde 1922 nach der Ermordung des Außenministers Walther Rathenau erlassen, um die Republik vor extremistischen Umtrieben zu bewahren. In der juristischen Praxis der Weimarer Republik wurde es jedoch häufig deutlich strenger gegen linksgerichtete Akteure angewandt als gegen rechtsextreme Gruppierungen. Das Gesetz wurde im Laufe der Zeit mehrfach befristet verlängert und im Jahr 1930 durch ein milderes Republikschutzgesetz ersetzt.",
+    "score": 130.0
+  }
+]
