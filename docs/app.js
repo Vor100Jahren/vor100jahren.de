@@ -2,6 +2,7 @@
     // ═══════════════════════════════════════════════════════
     // DATA (loaded from external JSON files)
     // ═══════════════════════════════════════════════════════
+    const CACHE_VERSION = 35;
     let EDITIONS = {};
     let CHRONIK = [];
     let SPECIALS_INDEX = [];
@@ -10,7 +11,7 @@
     let currentEditionIndex = 0;
 
     async function loadEditionsIndex() {
-        const resp = await fetch('data/editions_index.json');
+        const resp = await fetch(`data/editions_index.json?v=${CACHE_VERSION}`);
         const index = await resp.json();
         // Nur Ausgaben anzeigen, deren Tag+Monat <= heute (Jahr ignorieren)
         // ?preview=all zeigt alle Ausgaben ohne Einschränkung (nur lokal)
@@ -36,20 +37,20 @@
 
     async function loadEdition(dateStr) {
         if (EDITIONS[dateStr]) return EDITIONS[dateStr];
-        const resp = await fetch(`data/edition_${dateStr}.json`);
+        const resp = await fetch(`data/edition_${dateStr}.json?v=${CACHE_VERSION}`);
         const articles = await resp.json();
         EDITIONS[dateStr] = articles;
         return articles;
     }
 
     async function loadChronik() {
-        const resp = await fetch('data/chronik.json');
+        const resp = await fetch(`data/chronik.json?v=${CACHE_VERSION}`);
         CHRONIK = await resp.json();
     }
 
     async function loadSpecialsIndex() {
         try {
-            const resp = await fetch('data/specials_index.json');
+            const resp = await fetch(`data/specials_index.json?v=${CACHE_VERSION}`);
             const index = await resp.json();
             SPECIALS_INDEX = index.specials || [];
         } catch (e) {
@@ -674,8 +675,8 @@
         searchLoading = true;
         try {
             const [indexResp, suggestResp] = await Promise.all([
-                fetch('data/search_index.json'),
-                fetch('data/search_suggest.json')
+                fetch(`data/search_index.json?v=${CACHE_VERSION}`),
+                fetch(`data/search_suggest.json?v=${CACHE_VERSION}`)
             ]);
             searchDocs = await indexResp.json();
             searchSuggestions = await suggestResp.json();

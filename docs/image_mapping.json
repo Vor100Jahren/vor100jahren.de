@@ -2362,5 +2362,25 @@
     "local_file": "Iván_Rakovszky.jpg",
     "local_path": "images/Iván_Rakovszky.jpg",
     "alt": "Iván Rakovszky"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/J%C3%B3zef_Pi%C5%82sudski_%28-1930%29.jpg/960px-J%C3%B3zef_Pi%C5%82sudski_%28-1930%29.jpg": {
+    "local_file": "Józef_Piłsudski.jpg",
+    "local_path": "images/Józef_Piłsudski.jpg",
+    "alt": "Józef Piłsudski"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/960px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg": {
+    "local_file": "Winston_Churchill.jpg",
+    "local_path": "images/Winston_Churchill.jpg",
+    "alt": "Winston Churchill"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Erich_Ludendorff.jpg/960px-Erich_Ludendorff.jpg": {
+    "local_file": "Erich_Ludendorff.jpg",
+    "local_path": "images/Erich_Ludendorff.jpg",
+    "alt": "Erich Ludendorff"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/General_John_Joseph_Pershing_head_on_shoulders.jpg/960px-General_John_Joseph_Pershing_head_on_shoulders.jpg": {
+    "local_file": "John_J._Pershing.jpg",
+    "local_path": "images/John_J._Pershing.jpg",
+    "alt": "John J. Pershing"
   }
 }
