@@ -2442,5 +2442,35 @@
     "local_file": "Plutarco_Elías_Calles.jpg",
     "local_path": "images/Plutarco_Elías_Calles.jpg",
     "alt": "Plutarco Elías Calles"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/King_Amanullah_Khan.jpg/960px-King_Amanullah_Khan.jpg": {
+    "local_file": "Amanullah_Khan.jpg",
+    "local_path": "images/Amanullah_Khan.jpg",
+    "alt": "Amanullah Khan"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Irvincobb.jpg/960px-Irvincobb.jpg": {
+    "local_file": "Irvin_S._Cobb.jpg",
+    "local_path": "images/Irvin_S._Cobb.jpg",
+    "alt": "Irvin S. Cobb"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Map_Treaty_of_Brest-Litovsk-de.svg/960px-Map_Treaty_of_Brest-Litovsk-de.svg.png": {
+    "local_file": "Friedensvertrag_von_Brest-Litowsk.png",
+    "local_path": "images/Friedensvertrag_von_Brest-Litowsk.png",
+    "alt": "Friedensvertrag von Brest-Litowsk"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AnzeigetafelZuerich_P1050192.jpg/960px-AnzeigetafelZuerich_P1050192.jpg": {
+    "local_file": "Train_categories_in_Europe.jpg",
+    "local_path": "images/Train_categories_in_Europe.jpg",
+    "alt": "Train categories in Europe"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wartburg-Studentenzug-1817.jpg/960px-Wartburg-Studentenzug-1817.jpg": {
+    "local_file": "Studentenbewegung.jpg",
+    "local_path": "images/Studentenbewegung.jpg",
+    "alt": "Studentenbewegung"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_the_National_Fascist_Party_%28PNF%29_variant_2.svg/960px-Flag_of_the_National_Fascist_Party_%28PNF%29_variant_2.svg.png": {
+    "local_file": "Italienischer_Faschismus.png",
+    "local_path": "images/Italienischer_Faschismus.png",
+    "alt": "Italienischer Faschismus"
   }
 }

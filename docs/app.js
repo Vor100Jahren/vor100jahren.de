@@ -616,6 +616,21 @@
     }
 
     // ═══════════════════════════════════════════════════════
+    // URL-STATE
+    // ═══════════════════════════════════════════════════════
+
+    function updateURL(dateStr, replace) {
+        const url = new URL(window.location);
+        url.searchParams.set('datum', dateStr);
+        url.hash = '';
+        if (replace) {
+            history.replaceState({date: dateStr}, '', url);
+        } else {
+            history.pushState({date: dateStr}, '', url);
+        }
+    }
+
+    // ═══════════════════════════════════════════════════════
     // NAVIGATION
     // ═══════════════════════════════════════════════════════
 
@@ -623,7 +638,9 @@
         const newIndex = currentEditionIndex + delta;
         if (newIndex >= 0 && newIndex < editionDates.length) {
             currentEditionIndex = newIndex;
-            await renderEdition(editionDates[currentEditionIndex]);
+            const dateStr = editionDates[currentEditionIndex];
+            await renderEdition(dateStr);
+            updateURL(dateStr);
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
     }
@@ -633,6 +650,7 @@
         if (idx !== -1) {
             currentEditionIndex = idx;
             await renderEdition(dateStr);
+            updateURL(dateStr);
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
     }
@@ -647,7 +665,9 @@
         lastSearchQuery = '';
 
         currentEditionIndex = editionDates.length - 1;
-        await renderEdition(editionDates[currentEditionIndex]);
+        const dateStr = editionDates[currentEditionIndex];
+        await renderEdition(dateStr);
+        updateURL(dateStr);
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
@@ -1006,15 +1026,34 @@
         // Sonderausgaben in Sidebar rendern
         renderSpecialsSidebar();
 
-        // Check for ?date= URL parameter (e.g. from chronik.html links)
+        // Check for ?datum= URL parameter (e.g. from chronik.html links)
         const urlParams = new URLSearchParams(window.location.search);
-        const requestedDate = urlParams.get('date');
+        const requestedDate = urlParams.get('datum') || urlParams.get('date');
         if (requestedDate && editionDates.includes(requestedDate)) {
             currentEditionIndex = editionDates.indexOf(requestedDate);
         }
 
         // Render the edition
-        await renderEdition(editionDates[currentEditionIndex]);
+        const initialDate = editionDates[currentEditionIndex];
+        await renderEdition(initialDate);
+        updateURL(initialDate, true);
+
+        // Scroll to article if #hash is present
+        const initialHash = window.location.hash.slice(1);
+        if (initialHash) {
+            const target = document.getElementById(initialHash);
+            if (target) target.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        // Back/Forward-Button: Ausgabe wechseln
+        window.addEventListener('popstate', async (e) => {
+            const dateStr = e.state && e.state.date;
+            if (dateStr && editionDates.includes(dateStr)) {
+                currentEditionIndex = editionDates.indexOf(dateStr);
+                await renderEdition(dateStr);
+                window.scrollTo({ top: 0 });
+            }
+        });
 
         // Scroll-Buttons: Up = Artikelanfang / ganz oben, Down = nächster Artikel / ganz unten
         const scrollUpBtn = document.getElementById('scroll-top-btn');
