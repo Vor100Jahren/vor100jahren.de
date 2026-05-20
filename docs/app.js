@@ -2,11 +2,12 @@
     // ═══════════════════════════════════════════════════════
     // DATA (loaded from external JSON files)
     // ═══════════════════════════════════════════════════════
-    const CACHE_VERSION = 36;
+    const CACHE_VERSION = 37;
     let EDITIONS = {};
     let CHRONIK = [];
     let SPECIALS_INDEX = [];
     let SPECIALS_CACHE = {};
+    let SLUG_MAP = {};
     let editionDates = [];
     let currentEditionIndex = 0;
 
@@ -46,6 +47,20 @@
     async function loadChronik() {
         const resp = await fetch(`data/chronik.json?v=${CACHE_VERSION}`);
         CHRONIK = await resp.json();
+    }
+
+    async function loadSlugMap() {
+        try {
+            const resp = await fetch(`data/slug_mapping.json?v=${CACHE_VERSION}`);
+            SLUG_MAP = await resp.json();
+        } catch (e) {
+            SLUG_MAP = {};
+        }
+    }
+
+    function getArticleSlug(dateStr, originalIndex) {
+        const key = `${dateStr}:${originalIndex + 1}`;
+        return SLUG_MAP[key] || `artikel-${originalIndex + 1}`;
     }
 
     async function loadSpecialsIndex() {
@@ -181,27 +196,29 @@
         let html = '';
 
         // Artikel nach Typ sortieren: Hauptartikel → Artikel → Kurzbeitrag
+        // Original-Index mitführen für Slug-Zuordnung
         const typePriority = (type) => {
             const t = type.toLowerCase();
             if (t.includes('haupt')) return 0;
             if (t.includes('kurz')) return 2;
             return 1; // Artikel, Feuilleton etc.
         };
-        const sorted = [...articles].sort((a, b) => typePriority(a.type) - typePriority(b.type));
+        const sorted = articles.map((a, i) => ({...a, _origIdx: i}))
+            .sort((a, b) => typePriority(a.type) - typePriority(b.type));
 
         // Table of Contents (sortierte Reihenfolge)
         html += '<div class="toc deco-corner"><div class="toc-header">Inhalt dieser Ausgabe</div><ol class="toc-list">';
-        sorted.forEach((a, i) => {
-            html += `<li><a href="#artikel-${i+1}"><span class="toc-type">${a.type}</span><span class="toc-title">${escHtml(a.headline)}</span></a></li>`;
+        sorted.forEach((a) => {
+            const slug = getArticleSlug(dateStr, a._origIdx);
+            html += `<li><a href="#${slug}"><span class="toc-type">${a.type}</span><span class="toc-title">${escHtml(a.headline)}</span></a></li>`;
         });
         html += '</ol></div>';
 
         // Alle Artikel rendern: volle Breite (auch Kurzbeiträge)
-        let idx = 0;
-        sorted.forEach((a) => {
+        sorted.forEach((a, idx) => {
             const isLead = (idx === 0);
-            html += renderArticle(a, idx, isLead);
-            idx++;
+            const slug = getArticleSlug(dateStr, a._origIdx);
+            html += renderArticle(a, idx, isLead, slug);
         });
 
         main.innerHTML = html;
@@ -213,9 +230,10 @@
         renderFooter(dateStr, allSources);
     }
 
-    function renderArticle(a, index, isLead) {
+    function renderArticle(a, index, isLead, slug) {
         const cls = articleClass(a.type);
-        let html = `<article class="article article--${cls}" id="artikel-${index+1}">`;
+        const anchorId = slug || `artikel-${index+1}`;
+        let html = `<article class="article article--${cls}" id="${anchorId}">`;
 
         // Meta
         html += `<div class="article-meta">
@@ -980,7 +998,7 @@
             '<p style="text-align:center;padding:3rem;color:var(--ink-muted);">Ausgabe wird geladen…</p>';
 
         // Load index, chronik and specials in parallel
-        await Promise.all([loadEditionsIndex(), loadChronik(), loadSpecialsIndex()]);
+        await Promise.all([loadEditionsIndex(), loadChronik(), loadSpecialsIndex(), loadSlugMap()]);
 
         // Suchfunktion initialisieren
         initSearch();

@@ -2432,5 +2432,15 @@
     "local_path": "images/Nachtarbeit.jpg",
     "alt": "Nachtarbeit",
     "credit": "Wikimedia Commons"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Anatole_de_Monzie_1925.jpg/960px-Anatole_de_Monzie_1925.jpg": {
+    "local_file": "Anatole_de_Monzie.jpg",
+    "local_path": "images/Anatole_de_Monzie.jpg",
+    "alt": "Anatole de Monzie"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Plutarco_Elias_Calles.jpg/960px-Plutarco_Elias_Calles.jpg": {
+    "local_file": "Plutarco_Elías_Calles.jpg",
+    "local_path": "images/Plutarco_Elías_Calles.jpg",
+    "alt": "Plutarco Elías Calles"
   }
 }
