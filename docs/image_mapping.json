@@ -2472,5 +2472,95 @@
     "local_file": "Italienischer_Faschismus.png",
     "local_path": "images/Italienischer_Faschismus.png",
     "alt": "Italienischer Faschismus"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Louis_de_Windisch_Graetz.jpg/800px-Louis_de_Windisch_Graetz.jpg": {
+    "local_file": "Ludwig_zu_Windisch-Graetz.jpg",
+    "local_path": "images/Ludwig_zu_Windisch-Graetz.jpg",
+    "alt": "Ludwig zu Windisch-Graetz"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pierre_Renaudel.jpg/960px-Pierre_Renaudel.jpg": {
+    "local_file": "Pierre_Renaudel.jpg",
+    "local_path": "images/Pierre_Renaudel.jpg",
+    "alt": "Pierre Renaudel"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Carl_Gustaf_Ekman.jpg/800px-Carl_Gustaf_Ekman.jpg": {
+    "local_file": "Carl_Gustaf_Ekman.jpg",
+    "local_path": "images/Carl_Gustaf_Ekman.jpg",
+    "alt": "Carl Gustaf Ekman"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dail_Eireann_logo_1.png/800px-Dail_Eireann_logo_1.png": {
+    "local_file": "Dáil_Éireann.png",
+    "local_path": "images/Dáil_Éireann.png",
+    "alt": "Dáil Éireann"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lobnighof_Betreten_verboten_Wanderweg.jpg/960px-Lobnighof_Betreten_verboten_Wanderweg.jpg": {
+    "local_file": "Privateigentum.jpg",
+    "local_path": "images/Privateigentum.jpg",
+    "alt": "Privateigentum"
+  },
+  "https://upload.wikimedia.org/wikipedia/de/thumb/6/64/DKG-Logo.gif/800px-DKG-Logo.gif": {
+    "local_file": "Deutsche_Kolonialgesellschaft.gif",
+    "local_path": "images/Deutsche_Kolonialgesellschaft.gif",
+    "alt": "Deutsche Kolonialgesellschaft"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Low_Saxon_Dialects.svg/960px-Low_Saxon_Dialects.svg.png": {
+    "local_file": "Low_German.png",
+    "local_path": "images/Low_German.png",
+    "alt": "Low German"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/-01_Kartel_showrooms.jpg/960px--01_Kartel_showrooms.jpg": {
+    "local_file": "Kartell.jpg",
+    "local_path": "images/Kartell.jpg",
+    "alt": "Kartell"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bundesarchiv_Bild_146-2005-0165%2C_Carl_Heinrich_Becker.jpg/800px-Bundesarchiv_Bild_146-2005-0165%2C_Carl_Heinrich_Becker.jpg": {
+    "local_file": "Carl_Heinrich_Becker.jpg",
+    "local_path": "images/Carl_Heinrich_Becker.jpg",
+    "alt": "Carl Heinrich Becker"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/30.Enroute.WomensMarch.WDC.21January2017_%2832497084045%29.jpg/960px-30.Enroute.WomensMarch.WDC.21January2017_%2832497084045%29.jpg": {
+    "local_file": "Feminismus.jpg",
+    "local_path": "images/Feminismus.jpg",
+    "alt": "Feminismus"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Image_Germania_%28painting%29.jpg/960px-Image_Germania_%28painting%29.jpg": {
+    "local_file": "Schwarz-Rot-Gold.jpg",
+    "local_path": "images/Schwarz-Rot-Gold.jpg",
+    "alt": "Schwarz-Rot-Gold"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Die_Gartenlaube_%281880%29_b_785.jpg/960px-Die_Gartenlaube_%281880%29_b_785.jpg": {
+    "local_file": "Liberale_Vereinigung.jpg",
+    "local_path": "images/Liberale_Vereinigung.jpg",
+    "alt": "Liberale Vereinigung"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Franz-Graf-Ballestrem.jpg/800px-Franz-Graf-Ballestrem.jpg": {
+    "local_file": "Franz_von_Ballestrem.jpg",
+    "local_path": "images/Franz_von_Ballestrem.jpg",
+    "alt": "Franz von Ballestrem"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gomes_da_Costa.jpg/960px-Gomes_da_Costa.jpg": {
+    "local_file": "Manuel_de_Oliveira_Gomes_da_Costa.jpg",
+    "local_path": "images/Manuel_de_Oliveira_Gomes_da_Costa.jpg",
+    "alt": "Manuel de Oliveira Gomes da Costa"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg/960px-Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg": {
+    "local_file": "Walzwerk.jpg",
+    "local_path": "images/Walzwerk.jpg",
+    "alt": "Walzwerk"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Houses_of_Parliament_in_2022_%28cropped%29.jpg/960px-Houses_of_Parliament_in_2022_%28cropped%29.jpg": {
+    "local_file": "Palace_of_Westminster.jpg",
+    "local_path": "images/Palace_of_Westminster.jpg",
+    "alt": "Palace of Westminster"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Jan_Rudolph_Slotemaker_de_Bruine.jpg/960px-Jan_Rudolph_Slotemaker_de_Bruine.jpg": {
+    "local_file": "Jan_Rudolph_Slotemaker_de_Bruïne.jpg",
+    "local_path": "images/Jan_Rudolph_Slotemaker_de_Bruïne.jpg",
+    "alt": "Jan Rudolph Slotemaker de Bruïne"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Olympic_Speed_Skating_Oval_%2831503290207%29.jpg/960px-Olympic_Speed_Skating_Oval_%2831503290207%29.jpg": {
+    "local_file": "James_B._Sheffield_Olympic_Skating_Rink.jpg",
+    "local_path": "images/James_B._Sheffield_Olympic_Skating_Rink.jpg",
+    "alt": "James B. Sheffield Olympic Skating Rink"
   }
 }

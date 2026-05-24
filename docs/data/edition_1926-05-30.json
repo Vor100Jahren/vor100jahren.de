@@ -1,0 +1,361 @@
+[
+  {
+    "index": 1,
+    "headline": "Kolonialgesellschaft fordert Rückkehr der deutschen Kolonien",
+    "subheadline": "Hauptversammlung verknüpft Völkerbundbeitritt mit kolonialen Ansprüchen — Scharfe Forderung an die Reichsregierung",
+    "dateline": "Berlin, 30. Mai.",
+    "type": "Artikel",
+    "category": "Kolonien & Übersee",
+    "actual_words": 181,
+    "body_html": "<p>Auf ihrer diesjährigen Hauptversammlung hat die <a href=\"https://de.wikipedia.org/wiki/Deutsche_Kolonialgesellschaft\" target=\"_blank\" rel=\"noopener\">Deutsche Kolonialgesellschaft</a> eine Entschließung von erheblicher politischer Tragweite angenommen. Darin wird die Reichsregierung mit Nachdruck ersucht, die deutschen kolonialen Rechtsansprüche bei jeder sich bietenden Gelegenheit zur Geltung zu bringen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Die Kolonialfrage sei keine Parteifrage, sondern eine das gesamte politische und wirtschaftliche Leben betreffende Angelegenheit.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup></p>\n<p>Der Vorstand der Gesellschaft formulierte in seinem Beschluss eine klare Forderung: Die Regierung müsse, insbesondere nach einer amtlichen Zurückweisung der sogenannten kolonialen Schuldlüge, in erster Linie die Auslieferung der alten deutschen Kolonien verlangen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Die Gesellschaft vertritt die Auffassung, dass Deutschland seinen wirtschaftlichen und politischen Einfluss in Übersee wiedererlangen müsse. Dieser Einfluss entspreche der deutschen Bedeutung für die Erschließung dieser Gebiete.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup></p>\n<p>Von besonderer Bedeutung ist die Verknüpfung der Kolonialfrage mit der aktuellen außenpolitischen Lage. Sollte die deutsche Reichsregierung beabsichtigen, den Eintritt in den Völkerbund zu vollziehen, so müsse dieser Schritt von der vorherigen Zusicherung der Rückgabe des deutschen Kolonialbesitzes abhängig gemacht werden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Die Entschließung hebt außerdem hervor, dass das Kolonialprogramm auch einen kulturellen und ethischen Anspruch enthalte. In diesem Zusammenhang wurde als erfreulich bezeichnet, dass die <a href=\"https://de.wikipedia.org/wiki/Mission_(Christentum)\" target=\"_blank\" rel=\"noopener\">Missionen</a> ihre Tätigkeit wieder aufgenommen hätten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Deutsche_Kolonialgesellschaft.gif",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Deutsche_Kolonialgesellschaft_Logo.gif",
+        "alt_text": "Deutsche Kolonialgesellschaft",
+        "caption": "Logo der Deutschen Kolonialgesellschaft"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Deutsche Kolonialgesellschaft",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Deutsche_Kolonialgesellschaft",
+        "link_target": "Deutsche Kolonialgesellschaft"
+      },
+      {
+        "term": "Missionen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Mission_(Christentum)",
+        "link_target": "Mission (Christentum)"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "date": "1926-05-30",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/4X4RPSD6KR2IVCQPO2KBBY2JDYLYA74B",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/4X4RPSD6KR2IVCQPO2KBBY2JDYLYA74B",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-30"
+      }
+    ],
+    "editorial_note": "Die Forderungen der Deutschen Kolonialgesellschaft im Jahr 1926 spiegeln die in weiten Kreisen der Weimarer Republik verbreitete revisionistische Haltung wider, die den Versailler Vertrag und den Verlust der Kolonien nicht akzeptierte. Die Verknüpfung der Kolonialfrage mit dem Völkerbundbeitritt blieb jedoch eine Maximalforderung ohne politische Durchsetzungschance. Deutschland trat im September 1926 dem Völkerbund bei, ohne dass die Kolonialfrage gelöst oder auch nur ernsthaft verhandelt wurde. Die kolonialrevisionistische Propaganda blieb bis in die Zeit des Nationalsozialismus ein fester Bestandteil der politischen Rechten.",
+    "score": 100.0
+  },
+  {
+    "index": 2,
+    "headline": "US-Schutzzölle belasten deutschen Stahlexport",
+    "subheadline": "Washington wertet deutsche Exportvergütungen als Prämie — Zuschläge ab 12. Juni auf Walzwerkerzeugnisse — Ernste Störung des Amerikageschäftes",
+    "dateline": "Berlin, 30. Mai.",
+    "type": "Artikel",
+    "category": "Wirtschaft",
+    "actual_words": 302,
+    "body_html": "<p>Die deutschen Ausfuhrbestrebungen auf dem Gebiet der Stahlindustrie haben einen empfindlichen Rückschlag erlitten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Wie aus Washington gemeldet wird, hat das Schatzamt der Vereinigten Staaten eine Anweisung erlassen, die sich unmittelbar gegen eine Praxis der deutschen Schwerindustrie richtet.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Die amerikanische Regierung betrachtet die von der deutschen Rohstahlgemeinschaft gewährten Rückvergütungen für die verarbeitende Industrie als eine Exportprämie im Sinne des amerikanischen Zolltarifgesetzes von 1922.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Infolgedessen werden für die Einfuhr deutscher Walzwerkerzeugnisse und daraus gefertigter Waren künftig Zuschlagzölle erhoben. Ihre Höhe entspricht der gewährten Prämie.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup></p>\n<p>Diese Maßnahme ist die direkte Folge einer Vereinbarung, die die Rohstahlgemeinschaft in Düsseldorf mit der Arbeitsgemeinschaft der eisenverarbeitenden Industrie getroffen hatte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Dem <em>Hamburger Echo</em> zufolge sollten Exporteure für ausgeführte Walzwerkerzeugnisse besondere Bescheinigungen erhalten, die beim Einkauf von Rohstahl in Deutschland in Zahlung gegeben werden können.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Dieses Verfahren sollte der verarbeitenden Industrie die durch hohe Rohstoffpreise im Inland entstehende Verteuerung ersetzen. Damit sollte ihre Wettbewerbsfähigkeit auf dem Weltmarkt gesichert werden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Der Binnenmarkt wäre jedoch der Preisdiktatur der Stahlkartelle überlassen geblieben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup></p>\n<p>Die jetzt von amerikanischer Seite angekündigten Gegenmaßnahmen sollen bereits vom 12. Juni an in Kraft treten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Die Zollkollektoren in den Vereinigten Staaten sind angewiesen worden, bei der Einfuhr von Roheisen, Stab- und Bandeisen, Walzdraht sowie Eisenbahnoberbaumaterial, Röhren und Blechen Zuschlagszölle zu erheben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Die Regelung erstreckt sich ebenso auf Waren, die aus diesen Rohmaterialien gefertigt wurden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Ferner sind die amerikanischen Konsulatsbeamten in Deutschland unterrichtet worden, mit jeder Konsulatsfaktura eine schriftliche Erklärung des Herstellers oder Exporteurs einzufordern, aus der die genaue Höhe der bezogenen Exportvergütung hervorgeht.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup></p>\n<p>Für die deutschen Syndikate und <a href=\"https://en.wikipedia.org/wiki/Kartell\" target=\"_blank\" rel=\"noopener\">Kartelle</a>, die dieses Vergütungssystem entworfen hatten, bedeutet die amerikanische Reaktion eine unerwartete und empfindliche Durchkreuzung ihrer Pläne.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Die Hoffnung, den Export auf Kosten des heimischen Marktes zu stützen, ist im wichtigen Amerikageschäft vorerst gescheitert.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Der Vorgang ist zugleich ein erneutes Beispiel für die Schwierigkeiten und Verwicklungen, die aus der internationalen Zollpolitik erwachsen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup></p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "Kartelle",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kartell",
+        "link_target": "Kartell"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Hamburger Echo",
+        "display_name": "Hamburger Echo",
+        "date": "1926-05-30",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/A34I574T3Y6J3R6VFZ2FWVB67AQQGXGN",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Hamburger Echo",
+        "display_name": "Hamburger Echo",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/A34I574T3Y6J3R6VFZ2FWVB67AQQGXGN",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-30"
+      }
+    ],
+    "editorial_note": "Der Artikel beschreibt die Einführung von Ausgleichszöllen durch die Vereinigten Staaten als Reaktion auf deutsche Exportsubventionen. Die Praxis, bei der ein Importland Zölle in Höhe der nachgewiesenen Subventionen des Exportlandes erhebt, war im amerikanischen Zolltarifgesetz von 1922 verankert. Handelskonflikte dieser Art waren ein Merkmal der protektionistischen Wirtschaftspolitik der 1920er Jahre, die nach dem Börsenkrach von 1929 mit dem Smoot-Hawley Tariff Act von 1930 einen weiteren Höhepunkt erreichte und zur Verschärfung der Weltwirtschaftskrise beitrug.",
+    "score": 170.0
+  },
+  {
+    "index": 3,
+    "headline": "Frauenkongress in Paris von innerem Streit überschattet",
+    "subheadline": "Eine Resolution zur Gleichstellung in der Industrie sorgt für Debatten — Aufnahme einer amerikanischen Organisation droht die Allianz zu spalten",
+    "dateline": "Paris, 30. Mai.",
+    "type": "Artikel",
+    "category": "Gesellschaft",
+    "actual_words": 220,
+    "body_html": "<p>In Paris haben sich <a href=\"https://de.wikipedia.org/wiki/Feminismus\" target=\"_blank\" rel=\"noopener\">Feministinnen</a> aus aller Welt versammelt, um am Internationalen Frauenstimmrechtskongress teilzunehmen, der am morgigen Sonntag in der Sorbonne feierlich eröffnet wird.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Bereits im Vorfeld zeichnen sich jedoch erhebliche Meinungsverschiedenheiten ab. Diese stellen den Zusammenhalt der Bewegung auf eine harte Probe.</p>\n<p>Eine erste heftige Auseinandersetzung entbrannte um eine Resolution zur unbedingten <a href=\"https://de.wikipedia.org/wiki/Gleichstellung_der_Geschlechter\" target=\"_blank\" rel=\"noopener\">Gleichstellung</a> von Frauen und Männern in der Industrie.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Nach einer vierstündigen, hitzig geführten Debatte nahmen die Delegierten den Antrag an. Er fordert, die traditionelle Bezeichnung der Frau als das „schwächere Geschlecht“ endgültig abzulegen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Dieser Beschluss geht weit über alle bisherigen Forderungen der Frauenstimmrechtsbewegung hinaus und markiert eine bemerkenswerte programmatische Verschärfung.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup></p>\n<p>Die eigentliche Zerreißprobe steht dem Kongress allerdings noch bevor. Wie die <em>Washington Post</em> meldet, droht die Frage um die Aufnahme der amerikanischen Nationalen Frauenpartei die gesamte Allianz zu spalten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Der Vorstand der internationalen Vereinigung sowie die Präsidentinnen der angeschlossenen Gesellschaften haben empfohlen, den Aufnahmeantrag abzulehnen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Grund für diese Empfehlung ist der scharfe Protest einer anderen amerikanischen Mitgliedsorganisation, der Liga der Wählerinnen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup></p>\n<p>Die Abstimmung über diese heikle Angelegenheit ist für den kommenden Montag angesetzt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Beobachter sehen in dem Konflikt eine grundsätzliche Auseinandersetzung über den künftigen Kurs der Frauenbewegung. Dabei müsse sich die Bewegung zwischen den Polen von traditioneller Weiblichkeit und radikalem Feminismus entscheiden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Der Ausgang der Abstimmung wird zeigen, ob eine Spaltung des Kongresses noch abgewendet werden kann.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Feminismus.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:30.Enroute.WomensMarch.WDC.21January2017_(32497084045).jpg",
+        "alt_text": "Feminismus",
+        "caption": "Feminismus, Bewegungen mit dem Ziel, Gleichberechtigung von Frauen herzustellen und zu verteidigen"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Feministinnen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Feminismus",
+        "link_target": "Feminismus"
+      },
+      {
+        "term": "Gleichstellung",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Gleichstellung_der_Geschlechter",
+        "link_target": "Gleichstellung der Geschlechter"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "date": "1926-05-30",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-05-30",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-05-30",
+        "archive": "Internet Archive",
+        "date": "1926-05-30"
+      }
+    ],
+    "editorial_note": "Der Internationale Frauenstimmrechtskongress von 1926 in Paris spiegelte eine Richtungsdebatte wider, die die feministische Bewegung nach der Erlangung des Wahlrechts in vielen Ländern erfasste. Der Konflikt zwischen der amerikanischen National Woman's Party (NWP), die absolute Gleichstellung forderte, und der League of Women Voters, die für Schutzgesetze für Arbeiterinnen eintrat, war symptomatisch. Die Internationale Allianz lehnte die Aufnahme der radikaleren NWP ab, und diese ideologischen Gräben innerhalb der Frauenbewegung bestanden noch für Jahrzehnte fort.",
+    "score": 140.0
+  },
+  {
+    "index": 4,
+    "headline": "Krise im Irischen Freistaat",
+    "subheadline": "Politische Neuformierung und innere Spannungen — Regierungspartei nicht ohne Widerspruch",
+    "dateline": "Dublin, 30. Mai.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 252,
+    "body_html": "<p>Die politische Lage im jungen Irischen Freistaat bleibt, wie Berichte aus Dublin bestätigen, fern von jener gefestigten Beständigkeit, die ältere Nationalstaaten kennzeichnet.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Dies mag eine der unvermeidlichen Begleiterscheinungen der noch jungen Staatlichkeit Irlands sein, die allein die Zeit zu heilen vermag. Besonders auffällig ist jedoch die große Unentschlossenheit in der Bevölkerung hinsichtlich ihrer politischen Parteien.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Derzeit scheinen die Männer und Frauen, die den <a href=\"https://de.wikipedia.org/wiki/Irischer_Unabhängigkeitskrieg\" target=\"_blank\" rel=\"noopener\">Kampf um die Unabhängigkeit</a> für sich entschieden, die Regierungsgewalt fest in Händen zu halten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Ihnen sind die Pfründen der Ämter zugefallen. Kritiker sehen sich leicht dem Vorwurf ausgesetzt, sie hätten selbst nichts zur Erringung der Souveränität beigetragen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup></p>\n<p>Im Parlament, dem Dáil, sind gegenwärtig vier klar umrissene Parteien vertreten: die Regierungspartei <a href=\"https://de.wikipedia.org/wiki/Cumann_na_nGaedheal\" target=\"_blank\" rel=\"noopener\">Cumann na nGaedheal</a>, die Arbeiterpartei, die Bauernpartei sowie die Gruppe der Unabhängigen, die vornehmlich Geschäftsinteressen vertritt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Die republikanische Opposition hat es bisher abgelehnt, ihre Sitze einzunehmen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup></p>\n<p>Für die politische Entwicklung ist besonders die Bildung neuer Parteien bedeutsam. Auch das Bestreben bestehender Kräfte, ihre Organisation den erwarteten Wählerströmungen anzupassen, ist auffällig.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Ein starker Flügel innerhalb der Regierungspartei selbst, der von J. J. Walsh, dem Minister für Post und Telegrafie, angeführt wird, ist ein Symptom der inneren Spannungen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Diese Gruppe verlangt eine Politik, die sich von der Linie des Exekutivrates unterscheidet.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Ein solches Vorgehen eines amtierenden Ministers ist möglich, weil die Verfassung vorsieht, dass bestimmte Ressortchefs dem Parlament und nicht dem Kabinett verantwortlich sind.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Aus diesem Grunde, so geht aus einem Bericht der Los Angeles Times hervor, steht es einem Minister frei, die Regierung zu kritisieren, wenn er es für richtig hält.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Dáil_Éireann.png",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dail_Eireann_logo_1.png",
+        "alt_text": "Dáil Éireann",
+        "caption": "Dáil Éireann"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Kampf um die Unabhängigkeit",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Irischer_Unabhängigkeitskrieg",
+        "link_target": "Irischer Unabhängigkeitskrieg"
+      },
+      {
+        "term": "Dáil Éireann",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/D%C3%A1il_%C3%89ireann",
+        "link_target": "Dáil Éireann"
+      },
+      {
+        "term": "Cumann na nGaedheal",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Cumann_na_nGaedheal",
+        "link_target": "Cumann na nGaedheal"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Los Angeles Times",
+        "display_name": "Los Angeles Times",
+        "date": "1926-05-30",
+        "url": "https://archive.org/search?query=title%3A%22Los+Angeles+Times%22+AND+date%3A1926-05-30",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Los Angeles Times",
+        "display_name": "Los Angeles Times",
+        "url": "https://archive.org/search?query=title%3A%22Los+Angeles+Times%22+AND+date%3A1926-05-30",
+        "archive": "Internet Archive",
+        "date": "1926-05-30"
+      }
+    ],
+    "editorial_note": "Der Artikel beschreibt eine entscheidende Phase der irischen Politik. Der Irische Freistaat wurde 1922 gegründet, was zur Spaltung der Unabhängigkeitsbewegung und zum Bürgerkrieg führte. Die von der Zeitung erwähnte „Bildung neuer Parteien“ bezieht sich direkt auf die Gründung von Fianna Fáil durch Éamon de Valera im Mai 1926. Diese neue Partei verließ den republikanischen Boykottkurs von Sinn Féin und trat 1927 in den Dáil ein.",
+    "score": 20.0
+  },
+  {
+    "index": 5,
+    "headline": "Belgien im Bann des Sprachenstreits",
+    "subheadline": "Zunehmende Spannungen zwischen Flamen und Wallonen — Separatistische Bestrebungen gewinnen an Stärke — Die Einheit des Staates in Gefahr",
+    "dateline": "Brüssel, 30. Mai.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 303,
+    "body_html": "<p>Die Frage, ob Belgien von der Landkarte Europas verschwinden wird, beschäftigt die politische Öffentlichkeit des Landes mit wachsender Intensität.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Der Sprachenstreit, der das Zusammenleben von <a href=\"https://de.wikipedia.org/wiki/Wallonen\" target=\"_blank\" rel=\"noopener\">Wallonen</a> und Flamen seit jeher überschattet, tritt nach den Jahren der nationalen Einheit während des Krieges erneut deutlich hervor und stellt die staatliche Existenz infrage.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup></p>\n<p>Die Wurzeln des Konflikts liegen tief in der Geschichte des Landes.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Während der zwanzigjährigen Zugehörigkeit zu Frankreich in der Revolutions- und napoleonischen Zeit war die französische Sprache in Verwaltung, Recht und Bildungswesen vorherrschend.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> In der anschließenden holländischen Periode erlebte die flämische Sprache einen Aufschwung; jedoch fand diese Entwicklung nach der Erlangung der Unabhängigkeit Belgiens ein jähes Ende.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Die herrschenden Kreise betrachteten alles Flämische als minderwertig und setzten Französisch als einzige offizielle Sprache des jungen Königreichs durch.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup></p>\n<p>Diese Benachteiligung rief eine starke flämische Bewegung hervor, die in jüngster Zeit erheblich an Einfluss gewonnen hat.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Inzwischen gibt es eine klar umrissene Strömung, die eine Selbstverwaltung für Flandern fordert.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Wie die <em>Los Angeles Times</em> in einer Korrespondenz berichtet, nehmen extremistische Gruppen unter den flämischen Nationalisten — sogenannte ‚<a href=\"https://de.wikipedia.org/wiki/Frontpartij\" target=\"_blank\" rel=\"noopener\">Frontisten</a>‘ und ‚Aktivisten‘ — sogar offen den Gedanken eines Anschlusses an Holland in Kauf.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Sollte dieser Fall eintreten, so ist die Befürchtung, bliebe den Wallonen nur die Möglichkeit eines Anschlusses an Frankreich, was das Ende des belgischen Staates bedeuten würde.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup></p>\n<p>Die politische Atmosphäre ist äußerst gespannt. Vor nicht langer Zeit kam es zu einem Tumult im Parlament, nachdem ein flämischer Bürgermeister in Aalst abgesetzt worden war.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Dieser hatte anlässlich des Jahrestages der Sporenschlacht die Nationalflagge eingeholt und sie durch das Emblem der flämischen Separatisten ersetzt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Bei späteren Demonstrationen erhielten die Flamen den Aufruf, ihre Rechte nicht länger zu erbitten, sondern sich zu nehmen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Trotz der tiefen Spaltung stößt jedoch eine Einmischung von außen, etwa durch die Kommunisten, weitgehend auf Ablehnung, da die Belgier ihre inneren Kämpfe untereinander austragen wollen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup></p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "Frontisten",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Frontpartij",
+        "link_target": "Frontpartij"
+      },
+      {
+        "term": "Wallonen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Wallonen",
+        "link_target": "Wallonen"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Los Angeles Times",
+        "display_name": "Los Angeles Times",
+        "date": "1926-05-30",
+        "url": "https://archive.org/search?query=title%3A%22Los+Angeles+Times%22+AND+date%3A1926-05-30",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Los Angeles Times",
+        "display_name": "Los Angeles Times",
+        "url": "https://archive.org/search?query=title%3A%22Los+Angeles+Times%22+AND+date%3A1926-05-30",
+        "archive": "Internet Archive",
+        "date": "1926-05-30"
+      }
+    ],
+    "editorial_note": "Der Sprachenstreit von 1926 war ein Vorbote der tiefgreifenden staatlichen Umwälzungen in Belgien. Der Konflikt zwischen den Sprachgruppen eskalierte in den folgenden Jahrzehnten weiter und konnte nicht beigelegt werden. Stattdessen führte er zu einer Reihe von Staatsreformen ab 1970, die Belgien schrittweise von einem Zentralstaat in einen Bundesstaat umwandelten. Heute ist das Land in sprachbasierte Gemeinschaften und Regionen mit weitreichender Autonomie gegliedert, doch die politischen Spannungen zwischen Flamen und Wallonen bleiben eine Konstante der belgischen Politik.",
+    "score": 90.0
+  },
+  {
+    "index": 6,
+    "headline": "Haager Gerichtshof gibt Deutschland Recht",
+    "subheadline": "Polnisches Liquidationsgesetz als Bruch des Genfer Abkommens verurteilt — Schwere Niederlage für die Warschauer Entdeutschungspolitik",
+    "dateline": "Den Haag, 30. Mai.",
+    "type": "Artikel",
+    "category": "Justiz & Kriminalität",
+    "actual_words": 303,
+    "body_html": "<p>Der Ständige Internationale Gerichtshof hat in der Auseinandersetzung zwischen Deutschland und Polen über die Liquidationsfrage ein Urteil von weitreichender Bedeutung gefällt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Die Richter stellten fest, dass das polnische sogenannte ‚Annullierungsgesetz‘ vom 14. Juli 1920 mit den Bestimmungen des Genfer Abkommens über Oberschlesien unvereinbar ist.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Damit gab das Gericht der deutschen Regierung in einem zentralen Punkt ihrer im vergangenen Jahr eingereichten Sammelklage statt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>\n<p>Die Klage richtete sich gegen die Anwendung dieses Gesetzes. Es gestattete Polen die entschädigungslose Annullierung von Rechten, die nach dem 11. November 1918 erworben worden waren.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Insbesondere wandte sich die deutsche Seite gegen die auf dieser Grundlage erfolgte Übernahme des Kalkstickstoffwerks in Chorzow. Deutschland bezeichnete diese Maßnahme als eine verschleierte und somit rechtswidrige Liquidation.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup>  Ein weiterer Streitpunkt war die von Polen beabsichtigte Liquidation großer ländlicher Güter deutscher Industrieller in Oberschlesien, darunter die Besitztümer des <a href=\"https://de.wikipedia.org/wiki/Franz_von_Ballestrem\" target=\"_blank\" rel=\"noopener\">Grafen Ballestrem</a> und der Giesche’schen Erben. Die deutsche Regierung wertete dies als eklatanten Verstoß gegen das Genfer Abkommen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>\n<p>In seiner Urteilsbegründung hat der Gerichtshof die polnische Argumentation mit außerordentlicher Entschiedenheit zurückgewiesen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Das Gericht befand, dass Polen aus dem Waffenstillstand keinerlei Rechte gegenüber Deutschland herleiten könne, da es von Deutschland nicht als kriegführende Macht anerkannt worden sei.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Ebenso wurden polnische Reparationsansprüche mit Verweis auf den Versailler Vertrag als unzulässig zurückgewiesen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Nach dem Urteil sind alle Maßnahmen, die nicht durch allgemeines Völkerrecht gedeckt sind, mit dem Liquidationsregime unvereinbar. Dies gilt unabhängig davon, wie der enteignende Staat diese Maßnahmen juristisch bezeichnet.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>\n<p>Dieses Urteil stellt zum dritten Mal eine schwere Verletzung internationaler Verpflichtungen durch die polnische Regierung fest und richtet sich damit gegen das Kernstück ihrer Entdeutschungspolitik.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Für die deutsche Regierung bildet der Spruch eine neue, feste Grundlage für Verhandlungen mit Warschau, um die Wiedergutmachung des begangenen Unrechts zu erreichen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Der Richterspruch wurde auch im Südosten Europas mit Aufmerksamkeit verfolgt. Staaten wie die Tschechoslowakei und Rumänien haben sich ähnlicher Methoden bedient.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Franz_von_Ballestrem.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Franz-Graf-Ballestrem.jpg",
+        "alt_text": "Franz von Ballestrem",
+        "caption": "Franz von Ballestrem, deutscher Politiker, MdR und Industrieller"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Grafen Ballestrem",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Franz_von_Ballestrem",
+        "link_target": "Franz von Ballestrem"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "date": "1926-05-30",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/3NI6OYGWPKZVPTWBVN3UTARK6KCZEE4Y",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/3NI6OYGWPKZVPTWBVN3UTARK6KCZEE4Y",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-05-30"
+      }
+    ],
+    "editorial_note": "Das Urteil im Fall „Certain German Interests in Polish Upper Silesia“ (1926) war ein bedeutender Erfolg für die deutsche Außenpolitik der Weimarer Republik und eine wichtige Entscheidung in der Entwicklung des internationalen Rechts zum Schutz von Privateigentum. Der Ständige Internationale Gerichtshof stärkte damit die Prinzipien der Rechtssicherheit und des Schutzes erworbener Rechte. Trotz dieses juristischen Erfolgs blieben die deutsch-polnischen Beziehungen angespannt; die praktische Durchsetzung der Entschädigungsforderungen erwies sich in den folgenden Jahren als schwierig.",
+    "score": 90.0
+  },
+  {
+    "index": 7,
+    "headline": "Verschärfung der Einwanderungsgesetze in den USA",
+    "subheadline": "Drastische Kürzung der Quoten für Deutschland und Nordeuropa geplant — Bevorzugung für Ost- und Südeuropa",
+    "dateline": "Helsingfors, 30. Mai.",
+    "type": "Artikel",
+    "category": "Diplomatie",
+    "actual_words": 164,
+    "body_html": "<p>Aus den Vereinigten Staaten dringen Nachrichten über eine bevorstehende, tiefgreifende Änderung der Einwanderungsbestimmungen nach Amerika. Dem finnischen Blatt <em>Helsingin Sanomat</em> zufolge berichten amerikanische Zeitungen von Plänen, die den Zustrom von Einwanderern neu regeln und für einige Nationen erheblich einschränken sollen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup> Die neuen Vorschriften würden insbesondere Länder in Nord- und Westeuropa betreffen. So ist vorgesehen, die Einwanderungsquoten für Deutschland, Schweden, Norwegen, Dänemark und Irland um zwei Drittel zu reduzieren.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup></p>\n<p>Gleichzeitig ist laut den Berichten vorgesehen, die Einwanderungsquoten für andere europäische Staaten anzupassen. Für Länder wie Russland, Italien, Österreich und Ungarn, aber auch England, sind Änderungen der jeweiligen Einwanderungszahlen im Gespräch.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup> Dieser Wandel in der amerikanischen Politik soll offenbar die Zusammensetzung der Einwandererströme beeinflussen.</p>\n<p>Obwohl die amerikanische Gesandtschaft in Helsingfors (Helsinki) bisher keine offizielle Mitteilung über die geplanten Restriktionen erhalten hat, gilt es als sicher, dass die Änderungen bereits Anfang 1927 in Kraft treten werden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup> Ein entsprechender Kommissionsbericht sei bereits ausgearbeitet worden und werde in Kürze dem <a href=\"https://de.wikipedia.org/wiki/Kongress_der_Vereinigten_Staaten\" target=\"_blank\" rel=\"noopener\">Kongress</a> zur Beschlussfassung vorgelegt, wie aus Presseberichten weiter hervorgeht.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Kongress_der_Vereinigten_Staaten.png",
+        "credit": "Wikimedia Commons",
+        "source_url": "",
+        "alt_text": "Kongress der Vereinigten Staaten",
+        "caption": "Kongress der Vereinigten Staaten"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Kongress",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Kongress_der_Vereinigten_Staaten",
+        "link_target": "Kongress der Vereinigten Staaten"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Helsingin Sanomat",
+        "display_name": "Helsingin Sanomat",
+        "date": "1926-05-30",
+        "url": "https://digi.kansalliskirjasto.fi/search?query=&title=0355-2047&startDate=1926-05-30&endDate=1926-05-30&formats=NEWSPAPER",
+        "archive": "Digi (Kansalliskirjasto)",
+        "pages_cited": "S. 4",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Helsingin Sanomat",
+        "display_name": "Helsingin Sanomat",
+        "url": "https://digi.kansalliskirjasto.fi/search?query=&title=0355-2047&startDate=1926-05-30&endDate=1926-05-30&formats=NEWSPAPER",
+        "archive": "Digi (Kansalliskirjasto)",
+        "date": "1926-05-30"
+      }
+    ],
+    "editorial_note": "Der Artikel beschreibt die Debatten um den Immigration Act von 1924, der bereits Quoten auf Basis der Volkszählung von 1890 einführte, um die Einwanderung aus Süd- und Osteuropa zu begrenzen. Die hier erwähnten Pläne zur Umverteilung der Quoten waren Teil der fortlaufenden politischen Auseinandersetzungen über die nationale Herkunft der Einwanderer. Letztlich wurde das Quotensystem 1929 auf Basis der Volkszählung von 1920 neu justiert, was die Vormachtstellung der Einwanderung aus Nord- und Westeuropa festschrieb, bis das System 1965 endgültig abgeschafft wurde.",
+    "score": 70.0
+  }
+]
