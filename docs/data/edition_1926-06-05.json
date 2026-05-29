@@ -1,0 +1,483 @@
+[
+  {
+    "index": 1,
+    "headline": "Sorge um den Panamakanal",
+    "subheadline": "Senator Borah fordert Untersuchung britischer Konzessionen — Verdacht auf Kautschuk-Monopol — London und Washington dementieren",
+    "dateline": "Washington, 5. Juni.",
+    "type": "Artikel",
+    "category": "Diplomatie",
+    "actual_words": 286,
+    "body_html": "<p>Berichte über umfangreiche Landkonzessionen an britische Interessenten in der Republik Panama haben im amerikanischen Senat erhebliche Unruhe ausgelöst. Senator Borah, der Vorsitzende des Auswärtigen Ausschusses, brachte eine Resolution ein, die das Kriegs- und das <a href=\"https://de.wikipedia.org/wiki/Außenministerium_der_Vereinigten_Staaten\" target=\"_blank\" rel=\"noopener\">Außenministerium</a> zur Herausgabe aller verfügbaren Informationen über den Vorgang auffordert.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Es wird angenommen, dass sich die betreffenden Ländereien auf beiden Seiten der strategisch wichtigen Kanalzone befinden. Sie stehen im Verdacht, Teil eines größeren wirtschaftlichen Vorhabens zu sein.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup></p>\n<p>Dem Vernehmen nach wurde Senator Borah aus privaten Quellen mitgeteilt, dass die erworbenen Gebiete dem Anbau von Kautschuk dienen sollen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"China Mail\">[2]</a></sup> Dies nährt die Befürchtung, man wolle das britische Kautschuk-Monopol weiter stärken und amerikanische Interessen ausschließen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Die von Borah eingebrachte Resolution spricht ausdrücklich die Sorge vor einer „von der britischen Regierung gesicherten Kontrolle über die natürlichen Ressourcen Panamas“ an.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"China Mail\">[2]</a></sup></p>\n<p>Obwohl Senator Borah eine sofortige Behandlung seines Antrags forderte, wurde diese auf Einwand des republikanischen Führers, Senator <a href=\"https://de.wikipedia.org/wiki/Charles_Curtis\" target=\"_blank\" rel=\"noopener\">Curtis</a>, zunächst vertagt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Unterdessen bemühte sich die amerikanische Regierung, die Angelegenheit herunterzuspielen. Aus dem Weißen Haus verlautete, Präsident <a href=\"https://de.wikipedia.org/wiki/Calvin_Coolidge\" target=\"_blank\" rel=\"noopener\">Coolidge</a> sei über die Vorgänge unterrichtet.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Man gehe davon aus, dass es sich um unbedenkliche Konzessionen für die Untersuchung von Boden- und Gesteinsschichten an eine britische Gesellschaft handle.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Die zuständigen Ministerien würden die Sache jedoch weiter beobachten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup></p>\n<p>Auch aus London erfolgte ein scharfes Dementi. Wie die *Washington Post* berichtet, wies ein Sprecher des britischen Außenministeriums die Darstellung, seine Regierung unterstütze ein Unternehmen zur Stärkung des Kautschuk-Monopols, entschieden zurück.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Es lägen keinerlei Informationen vor, die darauf hindeuten, dass eine britische Gesellschaft versuche, ein Monopol auf kautschukfähige Ländereien in Panama zu erlangen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Nach Berichten der *China Mail* wurden britischen Interessen bereits vor über einem Jahr Schürfrechte für Gold und andere Mineralien in zwei großen Gebieten Panamas gewährt. Damit könnte sich die heutige Aufregung erklären.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"China Mail\">[2]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/William_Borah.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "",
+        "alt_text": "William Borah",
+        "caption": "William Borah"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Außenministerium",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Außenministerium_der_Vereinigten_Staaten",
+        "link_target": "Außenministerium der Vereinigten Staaten"
+      },
+      {
+        "term": "William Borah",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/William_Borah",
+        "link_target": "William Borah"
+      },
+      {
+        "term": "Curtis",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Charles_Curtis",
+        "link_target": "Charles Curtis"
+      },
+      {
+        "term": "Coolidge",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Calvin_Coolidge",
+        "link_target": "Calvin Coolidge"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "date": "1926-06-05",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-06-05",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "China Mail",
+        "display_name": "China Mail",
+        "date": "1926-06-05",
+        "url": "https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-06-05",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-06-05",
+        "archive": "Internet Archive",
+        "date": "1926-06-05"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "China Mail",
+        "display_name": "China Mail",
+        "url": "https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-06-05",
+        "archive": "Internet Archive",
+        "date": "1926-06-05"
+      }
+    ],
+    "editorial_note": "Die von Senator Borah angestoßene Untersuchung war Ausdruck der wachsenden wirtschaftlichen Rivalität zwischen den USA und Großbritannien in den 1920er Jahren, insbesondere im Rohstoffsektor (Kautschuk, Öl). Die Monroe-Doktrin diente hier als politisches Instrument zur Abwehr europäischen Einflusses in Lateinamerika. Die spezifische Angelegenheit der Panama-Konzessionen verlief im Sande, doch die zugrundeliegenden Spannungen prägten die anglo-amerikanischen Beziehungen bis zum Zweiten Weltkrieg.",
+    "score": 50.0
+  },
+  {
+    "index": 2,
+    "headline": "Der Mossul-Streit beigelegt",
+    "subheadline": "Abkommen zwischen Großbritannien und der Türkei in Angora — Die türkische Presse über den endgültigen Verlust des Gebiets — Neue politische Aussichten in Vorderasien",
+    "dateline": "Konstantinopel, 5. Juni.",
+    "type": "Artikel",
+    "category": "Diplomatie",
+    "actual_words": 266,
+    "body_html": "<p>Der langwierige Streit um das <a href=\"https://de.wikipedia.org/wiki/Vilâyet_Mossul\" target=\"_blank\" rel=\"noopener\">Vilajet Mossul</a> ist, wie aus Angora berichtet wird, endgültig beigelegt worden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Ein entsprechendes Abkommen wurde in der türkischen Hauptstadt unterzeichnet.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup> Für Großbritannien signierte <a href=\"https://de.wikipedia.org/wiki/Ronald_Lindsay\" target=\"_blank\" rel=\"noopener\">Sir Ronald Lindsay</a>. Für die Türkei leisteten Außenminister Tewfik Ruschdi Bey und General Nuri Pascha ihre Unterschriften.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup> An der Unterzeichnung beteiligte sich auch ein Vertreter der Regierung von Bagdad, der mit dem Flugzeug eingetroffen war.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup></p>\n<p>Wie das Reutersche Bureau meldet, sind die zugehörigen Protokolle über die Grenzsicherheit, die genaue Absteckung der Demarkationslinie sowie die Zollfragen bereits zur Unterzeichnung bereit und dürften am Sonnabend paraphiert werden.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Mit dieser Einigung verschwindet der letzte große Reibungspunkt in den englisch-türkischen Beziehungen. Nach Einschätzung diplomatischer Kreise könnte dies den Weg für neue politische Kombinationen in Vorderasien ebnen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup></p>\n<p>Obwohl der genaue Wortlaut des Vertrages noch nicht bekannt ist, äußert sich die türkische Presse bereits ausführlich.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup> Dem Pariser <em>Le Temps</em> zufolge drückt der allgemeine Ton keine Zufriedenheit aus.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup> Anerkannt wird, dass das Abkommen nichts enthalte, was die Türkei erfreuen könne, da Mossul für das Land endgültig verloren sei.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup> Gleichzeitig räumen die Kommentatoren jedoch ein, dass es der Türkei kaum möglich gewesen wäre, sich in ein blutiges Abenteuer mit ungewissem Ausgang zu begeben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup></p>\n<p>Die Zeitung <em>Vahit</em> führt hierzu aus, die Abtretung Mossuls ergebe sich aus der Tatsache, dass die nationalen Interessen an dieser Grenze durch den Sicherheitspakt nun endgültig geregelt seien.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup> Es sei in jedem Fall besser gewesen, als Feindseligkeiten gegen England zu beginnen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup> Die Presse ist sich laut <em>Le Temps</em> darin einig, dass von dem Abkommen eine ernsthafte Stärkung der politischen und wirtschaftlichen Lage der Türkei zu erwarten sei, sofern England die getroffenen Sicherheitsgarantien respektiere.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Ronald_Lindsay.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-05479,_Sir_Ronald_Lindsay.jpg",
+        "alt_text": "Ronald Lindsay",
+        "caption": "Ronald Lindsay, britischer Diplomat"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Sir Ronald Lindsay",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Ronald_Lindsay",
+        "link_target": "Ronald Lindsay"
+      },
+      {
+        "term": "Vilajet Mossul",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Vilâyet_Mossul",
+        "link_target": "Vilâyet Mossul"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Le Temps",
+        "display_name": "Le Temps",
+        "date": "1926-06-05",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34431794k/date19260605",
+        "archive": "Gallica (BnF)",
+        "pages_cited": "S. 2",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "date": "1926-06-05",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260605",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "pages_cited": "S. 1",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Le Temps",
+        "display_name": "Le Temps",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34431794k/date19260605",
+        "archive": "Gallica (BnF)",
+        "date": "1926-06-05"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260605",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "date": "1926-06-05"
+      }
+    ],
+    "editorial_note": "Das am 5. Juni 1926 unterzeichnete Abkommen von Angora beendete den Mossul-Konflikt, der nach dem Ersten Weltkrieg aus dem Zusammenbruch des Osmanischen Reiches entstanden war. Der Völkerbund hatte der Türkei bereits 1925 das Gebiet aberkannt und es dem britischen Mandatsgebiet Irak zugesprochen. Der Vertrag bestätigte diese Regelung und legte die bis heute gültige Grenze zwischen der Türkei und dem Irak fest. Als Kompensation erhielt die Türkei für 25 Jahre einen Anteil von 10 Prozent der Öleinnahmen aus der Mossul-Region.",
+    "score": 50.0
+  },
+  {
+    "index": 3,
+    "headline": "Rückkehr von 628 finnischen Auswanderern aus Amerika",
+    "subheadline": "Der Cunard-Dampfer „Andania“ in Helsingfors — Zehntausende bereiten den Landsleuten einen festlichen Empfang — Feierliche Ansprachen am Hafen",
+    "dateline": "Helsingfors, 5. Juni.",
+    "type": "Artikel",
+    "category": "Gesellschaft",
+    "actual_words": 380,
+    "body_html": "<p>Ein bewegendes Ereignis fand gestern in den Abendstunden in Helsingfors statt, als der Dampfer „<a href=\"https://en.wikipedia.org/wiki/RMS_Andania_(1921)\" target=\"_blank\" rel=\"noopener\">Andania</a>“ der Cunard-Linie 628 finnische Auswanderer aus Amerika zu einem Besuch in ihre alte Heimat brachte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup> Unter den Ankommenden befanden sich zahlreiche Personen, die Finnland vor dreißig oder vierzig Jahren verlassen hatten. Auch viele Kinder und junge Leute waren unter den Rückkehrern; sie betraten zum ersten Mal den Boden des Landes ihrer Väter.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup></p>\n<p>Die Ankunft des Ozeandampfers, der wegen dichten Nebels auf der Ostsee mehrere Stunden Verspätung hatte, gestaltete sich zu einer eindrucksvollen Demonstration.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup> Wie das <i>Helsingin Sanomat</i> berichtet, wurde die „Andania“ bereits vor der Festung Sveaborg von Flugzeugen der Armee und den Geschützen der Festung begrüßt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup> Ein Empfangskomitee begab sich auf den kleineren Dampfern „Baltic“, „Torneå“ und „Viola“ dem großen Schiff entgegen, um die Gäste willkommen zu heißen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hufvudstadsbladet\">[2]</a></sup> An Bord begrüßte Redakteur Y. Rauanheimo die Landsleute im Namen des Komitees.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hufvudstadsbladet\">[2]</a></sup> Währenddessen spielte eine Kapelle der finnischen Amerikaner die Nationalhymnen Amerikas und Englands, worauf eine Militärkapelle an Land mit der finnischen Nationalhymne antwortete.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup></p>\n<p>Die Abfertigung der Passagiere und die Passkontrolle an Bord nahmen jedoch geraume Zeit in Anspruch.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup> Erst nach drei Stunden waren alle Formalitäten erledigt, sodass die Gäste auf die bereitstehenden kleineren Schiffe umsteigen konnten, die sie zum Südhafen brachten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup> Die Einfahrt in den Hafen vollzog sich langsam unter den Zurufen der auf der „Andania“ verbliebenen Besatzung.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup></p>\n<p>Dort hatte sich eine gewaltige Menschenmenge versammelt, deren Zahl von den örtlichen Blättern auf 8.000 bis 10.000 Personen geschätzt wird.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hufvudstadsbladet\">[2]</a></sup> Unter den Anwesenden, die die Heimkehrer empfingen, befanden sich Stadtdirektor <a href=\"https://de.wikipedia.org/wiki/Arthur_Castrén\" target=\"_blank\" rel=\"noopener\">Arthur Castrén</a>, Senator <a href=\"https://de.wikipedia.org/wiki/Kaarlo_Castrén\" target=\"_blank\" rel=\"noopener\">Kaarlo Castrén</a> sowie der Stadtkommandant, Oberst von Kraemer.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hufvudstadsbladet\">[2]</a></sup> Pfadfinder und Marineinfanteristen bildeten ein Spalier von der Anlegestelle zu den wartenden Automobilen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup></p>\n<p>Nachdem die Schiffe unter den Klängen der Nationalhymne, gespielt von der Kapelle der Marine, am Kai festgemacht hatten, ergriff Direktor Ivar Lindfors im Namen der Stadtverordnetenversammlung das Wort.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Helsingin Sanomat\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hufvudstadsbladet\">[2]</a></sup> Er hieß die Gäste herzlich willkommen und betonte, dass Finnland als unabhängige Nation jeden seiner Söhne und Töchter für den Aufbau des Landes benötige.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hufvudstadsbladet\">[2]</a></sup> Dem <i>Hufvudstadsbladet</i> zufolge antwortete Redakteur Syrjäniemi im Namen der Ankömmlinge und schilderte die tiefen Gefühle der Emigranten bei der Rückkehr.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hufvudstadsbladet\">[2]</a></sup> Er äußerte die Hoffnung, dieser Besuch möge die Bande zwischen dem Heimatland und den Finnen in der Ferne weiter festigen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hufvudstadsbladet\">[2]</a></sup> Wegen der erheblichen Verspätung musste das weitere Festprogramm für den Abend entfallen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hufvudstadsbladet\">[2]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Arthur_Castrén.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Arthur-Castren.jpg",
+        "alt_text": "Arthur Castrén",
+        "caption": "Arthur Castrén, finnischer Politiker"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Arthur Castrén",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Arthur_Castrén",
+        "link_target": "Arthur Castrén"
+      },
+      {
+        "term": "Kaarlo Castrén",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Kaarlo_Castrén",
+        "link_target": "Kaarlo Castrén"
+      },
+      {
+        "term": "Andania",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Andania_(1921)",
+        "link_target": "RMS Andania (1921)"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Helsingin Sanomat",
+        "display_name": "Helsingin Sanomat",
+        "date": "1926-06-05",
+        "url": "https://digi.kansalliskirjasto.fi/search?query=&title=0355-2047&startDate=1926-06-05&endDate=1926-06-05&formats=NEWSPAPER",
+        "archive": "Digi (Kansalliskirjasto)",
+        "pages_cited": "S. 3, S. 5",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Hufvudstadsbladet",
+        "display_name": "Hufvudstadsbladet (Helsinki)",
+        "date": "1926-06-05",
+        "url": "https://digi.kansalliskirjasto.fi/search?query=&title=0356-0724&startDate=1926-06-05&endDate=1926-06-05&formats=NEWSPAPER",
+        "archive": "Digi (Kansalliskirjasto)",
+        "pages_cited": "S. 3",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Helsingin Sanomat",
+        "display_name": "Helsingin Sanomat",
+        "url": "https://digi.kansalliskirjasto.fi/search?query=&title=0355-2047&startDate=1926-06-05&endDate=1926-06-05&formats=NEWSPAPER",
+        "archive": "Digi (Kansalliskirjasto)",
+        "date": "1926-06-05"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Hufvudstadsbladet",
+        "display_name": "Hufvudstadsbladet (Helsinki)",
+        "url": "https://digi.kansalliskirjasto.fi/search?query=&title=0356-0724&startDate=1926-06-05&endDate=1926-06-05&formats=NEWSPAPER",
+        "archive": "Digi (Kansalliskirjasto)",
+        "date": "1926-06-05"
+      }
+    ],
+    "editorial_note": "Diese organisierte Reise finnischer Auswanderer aus Nordamerika im Jahr 1926 war ein bedeutendes gesellschaftliches Ereignis. Sie spiegelt die starken emotionalen und kulturellen Verbindungen wider, welche die finnische Diaspora zur alten Heimat pflegte. Für die junge Republik Finnland, die erst seit 1917 unabhängig war, stellte der Besuch eine wichtige symbolische Bestätigung der nationalen Einheit dar. Solche von großen Reedereien wie der Cunard Line durchgeführten „Heimatbesuche“ waren in der Zwischenkriegszeit ein gängiges Phänomen und stärkten die transatlantischen Beziehungen auf persönlicher Ebene.",
+    "score": 60.0
+  },
+  {
+    "index": 4,
+    "headline": "Starker Eindruck des Sowjetfilms „Panzerkreuzer Potemkin“ in Wien",
+    "subheadline": "Erste Vorführung vor geladenem Publikum — Ein Werk von Regisseur Eisenstein — Realistische Kunst von ungewöhnlicher Wirksamkeit",
+    "dateline": "Wien, 5. Juni.",
+    "type": "Artikel",
+    "category": "Feuilleton",
+    "actual_words": 220,
+    "body_html": "<p>Einem geladenen Publikum wurde in diesen Tagen ein Filmwerk vorgeführt, das sich in seinem künstlerischen Aufbau und in der Realistik seiner Handlung deutlich von allem bisher auf der Leinwand Gebotenen abhebt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Wiener Zeitung\">[1]</a></sup> Es handelt sich um den ersten großen russischen Originalfilm mit dem Titel „Panzerkreuzer <a href=\"https://de.wikipedia.org/wiki/Grigori_Alexandrowitsch_Potjomkin\" target=\"_blank\" rel=\"noopener\">Potemkin</a>“, ein Erzeugnis des sogenannten ‚Proletkult‘.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Wiener Zeitung\">[1]</a></sup></p>\n<p>Die Handlung stützt sich auf eine historische Begebenheit aus dem Jahre 1905: die Meuterei auf dem gleichnamigen Schlachtschiff.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Wiener Zeitung\">[1]</a></sup> Doch es ist nicht allein die dramatisch gestaltete Handlung, die, abgesehen von der auffällig stark betonten Tendenz, das Publikum bewegt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Wiener Zeitung\">[1]</a></sup> Wie aus dem Bericht der <em>Wiener Zeitung</em> hervorgeht, machen vor allem das Zusammenspiel von Massen und Einzelnen sowie die Ausrichtung auf das Allgemeine und Symbolische den starken Eindruck des Werkes aus.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Wiener Zeitung\">[1]</a></sup> Die Regie führte <a href=\"https://de.wikipedia.org/wiki/Sergei_Michailowitsch_Eisenstein\" target=\"_blank\" rel=\"noopener\">Eisenstein</a>, dem es gelang, Stimmungen von großer Eindringlichkeit zu schaffen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Wiener Zeitung\">[1]</a></sup></p>\n<p>Besonders hervorgehoben wird die Darstellung der unendlichen Niedergeschlagenheit der misshandelten Matrosen. Ebenso eindrucksvoll erscheint der starre, fast leblose Mechanismus der Kosakensoldaten, von denen man schließlich nur noch die gleichmäßig stapfenden Stiefel sieht.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Wiener Zeitung\">[1]</a></sup> Diese Eindrücke wirken mit besonderer Wucht auf den Betrachter.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Wiener Zeitung\">[1]</a></sup> Dazu wird eine eigenartige Musik eingesetzt, die den Lärm der Maschinen und das Branden der See nachahmt. Dadurch wird die Wirkung des Films erheblich gesteigert.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Wiener Zeitung\">[1]</a></sup> Nach Urteil der Rezension handelt es sich bei dem Film um eine realistische, harte und brutale Kunst — eine Kunst der Verzweiflung.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Wiener Zeitung\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Sergei_Michailowitsch_Eisenstein.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sergei_Eisenstein_03.jpg",
+        "alt_text": "Sergei Michailowitsch Eisenstein",
+        "caption": "Sergei Michailowitsch Eisenstein, Regisseur des Films „Panzerkreuzer Potemkin“"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Potemkin",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Grigori_Alexandrowitsch_Potjomkin",
+        "link_target": "Grigori Alexandrowitsch Potjomkin"
+      },
+      {
+        "term": "Eisenstein",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Sergei_Michailowitsch_Eisenstein",
+        "link_target": "Sergei Michailowitsch Eisenstein"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Wiener Zeitung",
+        "display_name": "Wiener Zeitung",
+        "date": "1926-06-05",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19260605",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "pages_cited": "S. 3",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q2",
+        "newspaper": "Wiener Zeitung",
+        "display_name": "Wiener Zeitung",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19260605",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "date": "1926-06-05"
+      }
+    ],
+    "editorial_note": "Sergei Eisensteins „Panzerkreuzer Potemkin“ (1925) wurde zu einem der einflussreichsten Filme der Geschichte. Obwohl er in vielen Ländern, darunter auch im Deutschen Reich, zunächst zensiert oder verboten wurde, setzte er mit seiner revolutionären Montagetechnik neue Maßstäbe für das Kino. Die im Artikel erwähnte „Treppenszene von Odessa“ ist bis heute eine der meistanalysierten Sequenzen der Filmgeschichte. Der Film etablierte Eisensteins Ruf als wegweisender Regisseur des sowjetischen Revolutionskinos.",
+    "score": 50.0
+  },
+  {
+    "index": 5,
+    "headline": "Streit um den Berliner Haushalt 1926",
+    "subheadline": "Heftige Debatte über Erhöhung der Grundvermögenssteuer — Sozialdemokraten fordern gestaffelte Sätze — Finanzgebaren des Magistrats in der Kritik",
+    "dateline": "Berlin, 5. Juni.",
+    "type": "Artikel",
+    "category": "Wirtschaft",
+    "actual_words": 272,
+    "body_html": "<p>Die in der vergangenen Woche begonnene zweite Beratung des Berliner Haushaltsplanes für das Jahr 1926 in der Stadtverordnetenversammlung soll in der kommenden Woche zum Abschluss gebracht werden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Die Verhandlungen gestalten sich jedoch schwierig, und es ist anzunehmen, dass die Abstimmung im Plenum nicht ohne erhebliche Auseinandersetzungen vonstattengehen wird.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>\n<p>Im Mittelpunkt des Streites steht die <a href=\"https://de.wikipedia.org/wiki/Grundsteuer\" target=\"_blank\" rel=\"noopener\">Grundvermögenssteuer</a>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Wie die *Deutsche Allgemeine Zeitung* berichtet, hat der städtische Kämmerer eine Erhöhung des Zuschlags auf 205 Prozent der staatlichen Sätze vorgeschlagen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Dieses Vorgehen begründet er mit dem gestiegenen Finanzbedarf, der hauptsächlich durch höhere Ausgaben für die Erwerbslosenfürsorge bedingt sei.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Selbst bei dieser Anhebung, so betonte er, verbleibe im Etat ein Defizit von rund 6,5 Millionen Mark.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>\n<p>Die <a href=\"https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands\" target=\"_blank\" rel=\"noopener\">Sozialdemokraten</a> lehnen diesen Vorschlag ab und verlangen stattdessen eine Staffelung der Steuer.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Sie planen, Wohnungen mit bis zu drei Zimmern mit 100 Prozent zu belasten. Für größere Wohnungen sollen Sätze bis zu 250 Prozent gelten. Unbebauter Grundbesitz soll nach ihrem Willen mit einem Zuschlag von 330 Prozent belegt werden. Diese Forderung stößt bei den bürgerlichen Parteien auf geschlossenen Widerstand, weil sie darin einen Schritt zur Enteignung sehen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>\n<p>Zugleich ertönt Kritik am Finanzgebaren des Magistrats.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Das Defizit sei vor allem entstanden, weil die Finanzverwaltung erhebliche Überschüsse aus den Erträgen der Straßenbahn und der Elektrizitätswerke zurückhalte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Diese Gelder werden als Reserve für den Bau der neuen A.E.G.-U-Bahn gebunden, anstatt sie in den regulären Haushalt einfließen zu lassen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Würde man diese Mittel dem Etat zuführen, käme nicht nur ein Ausgleich zustande, vielmehr ergäbe sich wahrscheinlich sogar ein kleiner Überschuss.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Für die Finanzierung des Bahnbaues solle der Magistrat nach Ansicht der Kritiker eine Anleihe aufnehmen, anstatt die Steuerkraft der Bevölkerung über Gebühr zu beanspruchen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "Grundvermögenssteuer",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Grundsteuer",
+        "link_target": "Grundsteuer"
+      },
+      {
+        "term": "Sozialdemokraten",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands",
+        "link_target": "Sozialdemokratische Partei Deutschlands"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "date": "1926-06-05",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/AMMYPJRPME2QGYLWXCGQBNZWF4PGF5TI",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/AMMYPJRPME2QGYLWXCGQBNZWF4PGF5TI",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-06-05"
+      }
+    ],
+    "editorial_note": "Die Haushaltsdebatten der Weimarer Republik spiegeln die erheblichen finanziellen Belastungen der Kommunen wider, die durch Sozialausgaben infolge der hohen Arbeitslosigkeit und durch umfangreiche Infrastrukturprojekte geprägt waren. Der hier erwähnte Bau der A.E.G.-Bahn, oft auch als Gesundbrunnen-Neuköllner-Bahn oder GN-Bahn bezeichnet, wurde später als Teil der heutigen U-Bahn-Linie U8 realisiert. Der Konflikt zwischen notwendigen Sozialleistungen, Investitionen und der Belastungsgrenze der Steuerzahler war ein wiederkehrendes Thema der Innenpolitik in der Weimarer Zeit.",
+    "score": 120.0
+  },
+  {
+    "index": 6,
+    "headline": "Heftiger Parteienkampf in Mecklenburg",
+    "subheadline": "Der Sturz der Regierung Brandenstein als Ausgangspunkt — Auseinandersetzungen im rechten Lager — Reichspolitische Themen sollen von lokalen Fragen ablenken",
+    "dateline": "Schwerin, 5. Juni.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 313,
+    "body_html": "<p>Der Wahlkampf zum mecklenburg-schwerinschen Landtag, der am kommenden Sonntag zur Abstimmung ruft, ist in seine entscheidende Phase getreten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Während die großen Fragen der Reichspolitik wie die <a href=\"https://de.wikipedia.org/wiki/Fürstenenteignung\" target=\"_blank\" rel=\"noopener\">Fürstenabfindung</a> und die Flaggenfrage die öffentliche Debatte bestimmen, entfaltet sich in Mecklenburg ein erbitterter Kampf um die politische Macht. Dieser Kampf hat jedoch seine eigenen Ursachen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup></p>\n<p>Auslöser der Neuwahlen war bekanntlich der Sturz der Landbundregierung <a href=\"https://de.wikipedia.org/wiki/Joachim_von_Brandenstein\" target=\"_blank\" rel=\"noopener\">Brandenstein</a> durch die Völkischen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Hinter dieser Aktion verbirgt sich, wie aus politischen Kreisen verlautet, ein heftiger Konkurrenzkampf zwischen Völkischen und Deutschnationalen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Streitpunkt ist vor allem die Herrschaft im Landbund und damit der Zugriff auf die Wahlgelder des Großgrundbesitzes.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Der Versuch der Rechtsparteien, das heikle Thema des Regierungssturzes durch einen künstlichen „Burgfrieden“ aus dem Wahlkampf herauszuhalten, ist erwartungsgemäß gescheitert.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Nun steht der Fall Brandenstein im Mittelpunkt der Auseinandersetzungen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup></p>\n<p>Um die Aufmerksamkeit von den landespolitischen Streitfragen abzulenken, werden nun reichspolitische „Prominente“ in den Wahlkampf entsandt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> So sprach <a href=\"https://de.wikipedia.org/wiki/Kuno_von_Westarp\" target=\"_blank\" rel=\"noopener\">Graf Westarp</a> für die Deutschnationalen und Minister <a href=\"https://de.wikipedia.org/wiki/Gustav_Stresemann\" target=\"_blank\" rel=\"noopener\">Stresemann</a> für die <a href=\"https://de.wikipedia.org/wiki/Deutsche_Volkspartei\" target=\"_blank\" rel=\"noopener\">Deutsche Volkspartei</a>, beide sprachen über Außenpolitik und die <a href=\"https://de.wikipedia.org/wiki/Verträge_von_Locarno\" target=\"_blank\" rel=\"noopener\">Verträge von Locarno</a> — Themen, die für die lokale Politik Mecklenburgs nur von nachrangiger Bedeutung sind.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Das <em>Berliner Tageblatt</em> bezeichnet dieses Vorgehen als einen „großen Wahlbluff“.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Insbesondere die Deutsche Volkspartei, die drei Jahre lang den Justizminister stellte, versucht damit offenbar, von ihrer Bilanz abzulenken.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Die Zustände in der mecklenburgischen Justiz, welche bei den Fememordprozessen und dem Grevesmühlener <a href=\"https://en.wikipedia.org/wiki/Reichsbanner_Schwarz-Rot-Gold\" target=\"_blank\" rel=\"noopener\">Reichsbanner</a>-Prozess deutlich wurden, bieten wenig Anlass zur Rühmung.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup></p>\n<p>Ob diese Taktik Erfolg haben wird, muss sich erst zeigen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Beobachter stellen in allen Landesteilen eine Tendenz fest, die auf eine Rückkehr zu den Verfassungsparteien hindeutet.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Die dreijährige Herrschaft des Landbundes hat gezeigt, dass ein ausschließlich vom Großgrundbesitz bestimmtes Regime kaum in der Lage ist, eine Politik für breitere Volksschichten durchzusetzen. Dies betonen sogar deutschnationale Politiker offen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Zwar stellt die von den Agrariern kontrollierte Presse einen erheblichen Machtfaktor dar, doch bleibt abzuwarten, ob sich diese einseitige Interessenpolitik am Ende nicht im Wahlergebnis negativ auswirkt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Kuno_von_Westarp.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "",
+        "alt_text": "Kuno von Westarp",
+        "caption": "Kuno von Westarp"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Fürstenabfindung",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Fürstenenteignung",
+        "link_target": "Fürstenenteignung"
+      },
+      {
+        "term": "Brandenstein",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Joachim_von_Brandenstein",
+        "link_target": "Joachim von Brandenstein"
+      },
+      {
+        "term": "Graf Westarp",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Kuno_von_Westarp",
+        "link_target": "Kuno von Westarp"
+      },
+      {
+        "term": "Reichsbanner",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Reichsbanner_Schwarz-Rot-Gold",
+        "link_target": "Reichsbanner Schwarz-Rot-Gold"
+      },
+      {
+        "term": "Stresemann",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Gustav_Stresemann",
+        "link_target": "Gustav Stresemann"
+      },
+      {
+        "term": "Deutsche Volkspartei",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Deutsche_Volkspartei",
+        "link_target": "Deutsche Volkspartei"
+      },
+      {
+        "term": "Verträge von Locarno",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Verträge_von_Locarno",
+        "link_target": "Verträge von Locarno"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Berliner Tageblatt",
+        "display_name": "Berliner Tageblatt",
+        "date": "1926-06-05",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/PBZMROPDJAKY47CGZSABU5AKGLE7SVZS",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Berliner Tageblatt",
+        "display_name": "Berliner Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/PBZMROPDJAKY47CGZSABU5AKGLE7SVZS",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-06-05"
+      }
+    ],
+    "editorial_note": "Die Landtagswahl in Mecklenburg-Schwerin am 6. Juni 1926 endete mit Verlusten für die DNVP, während die SPD stärkste Kraft wurde. Die Zersplitterung des rechten Lagers, wie im Artikel beschrieben, führte zu einer instabilen politischen Lage. Es konnte keine stabile Regierungskoalition gebildet werden, was die politische Krise in dem Land bis zur Bildung einer neuen Koalition unter Führung der SPD im Jahr 1927 verlängerte. Die Episode war symptomatisch für die Polarisierung und die Fragilität der politischen Verhältnisse in der Weimarer Republik.",
+    "score": 90.0
+  },
+  {
+    "index": 7,
+    "headline": "Mauerrisse im Londoner Tower",
+    "subheadline": "Behörden errichten Beobachtungspfeiler — Gezeiten der Themse als Ursache vermutet — Keine akute Einsturzgefahr",
+    "dateline": "London, 5. Juni.",
+    "type": "Kurzbeitrag",
+    "category": "Gesellschaft",
+    "actual_words": 141,
+    "body_html": "<p>Die Errichtung zweier massiver Ziegelpfeiler unweit des Wassergrabens und des Salzturmes des <a href=\"https://de.wikipedia.org/wiki/Tower_of_London\" target=\"_blank\" rel=\"noopener\">Tower of London</a> hat in der englischen Hauptstadt Besorgnis ausgelöst.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hong Kong Telegraph\">[1]</a></sup> Wie der <em>Hong Kong Telegraph</em> berichtet, dienen diese Bauten der Beobachtung von Rissen, die sich im Mauerwerk der historischen Festungsanlage gebildet haben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hong Kong Telegraph\">[1]</a></sup> Die Untersuchungen wurden bereits im Jahre 1913 aufgenommen. Damals wurden derartige Schäden erstmals entdeckt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hong Kong Telegraph\">[1]</a></sup></p>\n<p>Ein führender Beamter des Amtes für öffentliche Arbeiten versicherte gegenüber dem <em>Daily Chronicle</em>, dass bislang keinerlei Anzeichen für eine unmittelbare Gefahr für das Bauwerk bestünden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hong Kong Telegraph\">[1]</a></sup> Die neu errichteten Pfeiler bezeichnete er als eine Erweiterung der seit Jahren laufenden Beobachtungsmaßnahmen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hong Kong Telegraph\">[1]</a></sup> Es wird vermutet, dass die Risse durch den Anstieg und Fall der <a href=\"https://de.wikipedia.org/wiki/Gezeiten\" target=\"_blank\" rel=\"noopener\">Gezeiten</a> in der <a href=\"https://de.wikipedia.org/wiki/Themse\" target=\"_blank\" rel=\"noopener\">Themse</a> beeinflusst werden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hong Kong Telegraph\">[1]</a></sup> Die Schäden zeigen sich hauptsächlich im <a href=\"https://de.wikipedia.org/wiki/Beauchamp_Tower\" target=\"_blank\" rel=\"noopener\">Beauchamp-</a> und im Salzturm sowie in einigen Torbögen. Nach Angaben des Beamten hätten sich diese Schäden bisher nicht nennenswert ausgedehnt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hong Kong Telegraph\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Beauchamp_Tower.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:London_beauchamp_tower_08.03.2013_12-32-44.JPG",
+        "alt_text": "Beauchamp Tower",
+        "caption": "Beauchamp Tower, Turm im Vereinigten Königreich"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Gezeiten",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Gezeiten",
+        "link_target": "Gezeiten"
+      },
+      {
+        "term": "Tower of London",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Tower_of_London",
+        "link_target": "Tower of London"
+      },
+      {
+        "term": "Themse",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Themse",
+        "link_target": "Themse"
+      },
+      {
+        "term": "Beauchamp-",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Beauchamp_Tower",
+        "link_target": "Beauchamp Tower"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Hong Kong Telegraph",
+        "display_name": "Hong Kong Telegraph",
+        "date": "1926-06-05",
+        "url": "https://archive.org/search?query=title%3A%22Hong+Kong+Telegraph%22+AND+date%3A1926-06-05",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Hong Kong Telegraph",
+        "display_name": "Hong Kong Telegraph",
+        "url": "https://archive.org/search?query=title%3A%22Hong+Kong+Telegraph%22+AND+date%3A1926-06-05",
+        "archive": "Internet Archive",
+        "date": "1926-06-05"
+      }
+    ],
+    "editorial_note": "Der Tower of London, ein über 900 Jahre altes Bauwerk direkt an der Themse, leidet seit Langem unter strukturellen Problemen, die durch seine Lage auf weichem Untergrund und den Einfluss der Gezeiten verursacht werden. Die in diesem Artikel beschriebenen Beobachtungen waren Teil der kontinuierlichen Bemühungen im 20. Jahrhundert, die Stabilität von Fundament und Mauern zu sichern. Umfangreiche Restaurierungs- und Sicherungsarbeiten, insbesondere nach dem Zweiten Weltkrieg, waren notwendig, um das historische Wahrzeichen für die Nachwelt zu erhalten.",
+    "score": 140.0
+  }
+]
