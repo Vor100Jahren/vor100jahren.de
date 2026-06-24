@@ -1,0 +1,567 @@
+[
+  {
+    "index": 1,
+    "headline": "Schweres Erdbeben auf Sumatra",
+    "subheadline": "Die Stadt Padang-Pandjang fast völlig zerstört — Über hundert Todesopfer — Verkehrsverbindungen unterbrochen",
+    "dateline": "Batavia, 30. Juni.",
+    "type": "Artikel",
+    "category": "International",
+    "actual_words": 295,
+    "body_html": "<p>Schreckliche Nachrichten treffen aus Niederländisch-Indien ein. Die Westküste der Insel Sumatra ist am Montag von einem verheerenden Erdbeben heimgesucht worden, das im Distrikt Padang Zerstörungen von katastrophalem Ausmaß angerichtet hat.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Im Mittelpunkt des Unglücks steht die Stadt Padang-Pandjang im Hochland; Berichten zufolge liegt sie beinahe vollständig in Trümmern.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Le Figaro\">[2]</a></sup> Die Zahl der Todesopfer wird bereits auf weit über hundert geschätzt. Zudem werden zahlreiche Verletzte gemeldet.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Washington Post\">[3]</a></sup></p>\n<p>Die Zerstörungen in Padang-Pandjang sind kaum zu überblicken. Fast sämtliche Gebäude der Stadt sind eingestürzt.<sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Nieuwe Rotterdamsche Courant\">[4]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Le Figaro\">[2]</a></sup> Unter den Toten befindet sich auch ein Europäer, der Adjutant-Apotheker Schmidt.<sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Nieuwe Rotterdamsche Courant\">[4]</a></sup> Wie der <em>Nieuwe Rotterdamsche Courant</em> meldet, kam dieser auf tragische Weise ums Leben, als er versuchte, ein Kind aus einem einstürzenden Gebäude zu retten. Er wurde von einer herabfallenden Mauer erschlagen, während Mutter und Kind im letzten Augenblick entkommen konnten.<sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Nieuwe Rotterdamsche Courant\">[4]</a></sup> Auch in umliegenden Ortschaften ist das Ausmaß der Zerstörung schwerwiegend. Aus Soergei Boeloe werden siebzehn Tote gemeldet, aus Solok fünfzehn.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Washington Post\">[3]</a></sup></p>\n<p>Die gesamte Infrastruktur der Region ist zusammengebrochen. <a href=\"https://de.wikipedia.org/wiki/Telegrafie\" target=\"_blank\" rel=\"noopener\">Telegrafen</a>- und Telefonverbindungen wurden unterbrochen; dies erschwert die Nachrichtenübermittlung erheblich.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Nach Angaben der <em>Deutschen Allgemeinen Zeitung</em> sind auch die Eisenbahnlinien und Hauptverkehrsstraßen in der Umgebung von Padang für jeden Verkehr unbrauchbar geworden.<sup class=\"source-ref\"><a href=\"#fn-5\" id=\"fnref-5\" title=\"Deutsche Allgemeine Zeitung\">[5]</a></sup> In Padang selbst stürzten das Gerichtsgebäude, der Bahnhof, das Postgebäude und die Schule im Chinesenviertel ein.<sup class=\"source-ref\"><a href=\"#fn-5\" id=\"fnref-5\" title=\"Deutsche Allgemeine Zeitung\">[5]</a></sup> Viele kleinere Dörfer im Hochland wurden durch Felsstürze vollständig vernichtet.<sup class=\"source-ref\"><a href=\"#fn-5\" id=\"fnref-5\" title=\"Deutsche Allgemeine Zeitung\">[5]</a></sup></p>\n<p>Die Rettungsarbeiten gestalten sich unter diesen Umständen als äußerst schwierig. Die Verwundeten werden nach Fort de Kock transportiert, obwohl auch dort zahlreiche Gebäude eingestürzt sind und Opfer forderten.<sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Nieuwe Rotterdamsche Courant\">[4]</a></sup> Von Padang aus wurden große Mengen Reis und Salz in die Katastrophengebiete entsandt.<sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Nieuwe Rotterdamsche Courant\">[4]</a></sup> In der Nacht zum Dienstag wurden weitere, wenn auch leichtere Erdstöße verspürt. Dies hat dazu geführt, dass die Bevölkerung weiterhin in Besorgnis lebt.<sup class=\"source-ref\"><a href=\"#fn-5\" id=\"fnref-5\" title=\"Deutsche Allgemeine Zeitung\">[5]</a></sup> Der nahegelegene <a href=\"https://de.wikipedia.org/wiki/Vulkan\" target=\"_blank\" rel=\"noopener\">Vulkan</a> <a href=\"https://en.wikipedia.org/wiki/Marapi\" target=\"_blank\" rel=\"noopener\">Marapi</a> zeigt erhöhte Aktivität und stößt Rauch aus; dies löst zusätzliche Beunruhigung aus.<sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Nieuwe Rotterdamsche Courant\">[4]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Sumatra.png",
+        "credit": "Wikimedia Commons",
+        "source_url": "",
+        "alt_text": "Sumatra",
+        "caption": "Sumatra, Indonesien"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Telegrafen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Telegrafie",
+        "link_target": "Telegrafie"
+      },
+      {
+        "term": "Marapi",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Marapi",
+        "link_target": "Marapi"
+      },
+      {
+        "term": "Vulkan",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Vulkan",
+        "link_target": "Vulkan"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Nieuwe Rotterdamsche Courant",
+        "display_name": "Nieuwe Rotterdamsche Courant",
+        "date": "1926-06-30",
+        "url": "https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010028502",
+        "archive": "Delpher (Koninklijke Bibliotheek)",
+        "pages_cited": "diverse",
+        "license": "Public Domain / KB Terms"
+      },
+      {
+        "newspaper": "Berliner Tageblatt",
+        "display_name": "Berliner Tageblatt",
+        "date": "1926-06-30",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/HPNONXMNIKOIIELNPODH4NLFOCVDRKFA",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Le Figaro",
+        "display_name": "Le Figaro",
+        "date": "1926-06-30",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34355551z/date19260630",
+        "archive": "Gallica (BnF)",
+        "pages_cited": "S. 3",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "date": "1926-06-30",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/VPJVTVX7RFQUYF3ES34KCRPWIKCL774F",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "date": "1926-06-30",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-06-30",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q2",
+        "newspaper": "Berliner Tageblatt",
+        "display_name": "Berliner Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/HPNONXMNIKOIIELNPODH4NLFOCVDRKFA",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-06-30"
+      },
+      {
+        "id": 2,
+        "qid": "Q3",
+        "newspaper": "Le Figaro",
+        "display_name": "Le Figaro",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34355551z/date19260630",
+        "archive": "Gallica (BnF)",
+        "date": "1926-06-30"
+      },
+      {
+        "id": 3,
+        "qid": "Q5",
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-06-30",
+        "archive": "Internet Archive",
+        "date": "1926-06-30"
+      },
+      {
+        "id": 4,
+        "qid": "Q1",
+        "newspaper": "Nieuwe Rotterdamsche Courant",
+        "display_name": "Nieuwe Rotterdamsche Courant",
+        "url": "https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010028502",
+        "archive": "Delpher (Koninklijke Bibliotheek)",
+        "date": "1926-06-30"
+      },
+      {
+        "id": 5,
+        "qid": "Q4",
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/VPJVTVX7RFQUYF3ES34KCRPWIKCL774F",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-06-30"
+      }
+    ],
+    "editorial_note": "Das Erdbeben vom 30. Juni 1926 in der Padangschen Hochebene (Padang Panjang) war eines der schwersten in der Region im frühen 20. Jahrhundert. Mit einer geschätzten Stärke von 7,6 auf der Momenten-Skala löste es massive Zerstörungen und Erdrutsche aus. Die Katastrophe führte in den folgenden Jahren zu verstärkten seismologischen Forschungen in Niederländisch-Indien. Die Region um Sumatra bleibt bis heute eine der tektonisch aktivsten Zonen der Welt.",
+    "score": 90.0
+  },
+  {
+    "index": 2,
+    "headline": "Spartakusbund neu gegründet",
+    "subheadline": "Linkskommunistischer Zusammenschluss gegen Moskau und Gewerkschaften — Berufung auf Liebknecht und Luxemburg",
+    "dateline": "Berlin, 30. Juni.",
+    "type": "Kurzbeitrag",
+    "category": "Innenpolitik",
+    "actual_words": 152,
+    "body_html": "<p>Aus linkskommunistischen Kreisen wird die Neugründung eines Spartakusbundes bekannt gegeben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Harburger Tageblatt\">[1]</a></sup> Wie der Reichstagsabgeordnete Iwan Katz verlauten ließ, haben sich mehrere Organisationen zu diesem neuen Bund zusammengeschlossen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Harburger Tageblatt\">[1]</a></sup> Beteiligt sind die <a href=\"https://de.wikipedia.org/wiki/Allgemeine_Arbeiter-Union_—_Einheitsorganisation\" target=\"_blank\" rel=\"noopener\">Allgemeine Arbeiter-Union</a>, der Industrieverband für das Verkehrsgewerbe sowie die Opposition innerhalb der <a href=\"https://de.wikipedia.org/wiki/Kommunistische_Partei_Deutschlands\" target=\"_blank\" rel=\"noopener\">Kommunistischen Partei Deutschlands</a>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Harburger Tageblatt\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup></p>\n<p>Der neuformierte <a href=\"https://de.wikipedia.org/wiki/Spartakusbund\" target=\"_blank\" rel=\"noopener\">Spartakusbund</a> knüpft programmatisch ausdrücklich an das historische Programm Karl Liebknechts und Rosa Luxemburgs an.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Seine politische Zielsetzung richtet sich scharf gegen die offizielle Linie der KPD und der <a href=\"https://de.wikipedia.org/wiki/Kommunistische_Internationale\" target=\"_blank\" rel=\"noopener\">Moskauer Internationale</a>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Harburger Tageblatt\">[1]</a></sup> Zu den Kernforderungen gehört die Loslösung des internationalen Proletariats von der sowjetrussischen Staatspolitik.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Harburger Tageblatt\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Darüber hinaus, so geht auch aus Berichten des <em>Vorwärts</em> hervor, bekämpft der Bund den Parlamentarismus sowie die freien Gewerkschaften des Amsterdamer Verbandes.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup></p>\n<p>Dem <em>Harburger Tageblatt</em> zufolge soll bereits ein Teil weiterer revolutionärer Organisationen seinen baldigen Beitritt zum Spartakusbund in Aussicht gestellt haben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Harburger Tageblatt\">[1]</a></sup> Es zeigt sich damit eine fortschreitende Zersplitterung innerhalb der äußersten Linken. Diese Kreise suchen, sich von der Moskauer Führung zu emanzipieren.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Harburger Tageblatt\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Spartacus_League.png",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Spartacus_League_(1918_variant).svg",
+        "alt_text": "Spartacus League",
+        "caption": "Spartacus League, linke Abspaltung der SPD (1914-1919)"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Allgemeine Arbeiter-Union",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Allgemeine_Arbeiter-Union_–_Einheitsorganisation",
+        "link_target": "Allgemeine Arbeiter-Union – Einheitsorganisation"
+      },
+      {
+        "term": "Kommunistischen Partei Deutschlands",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Kommunistische_Partei_Deutschlands",
+        "link_target": "Kommunistische Partei Deutschlands"
+      },
+      {
+        "term": "Spartakusbund",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Spartakusbund",
+        "link_target": "Spartakusbund"
+      },
+      {
+        "term": "Moskauer Internationale",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Kommunistische_Internationale",
+        "link_target": "Kommunistische Internationale"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-06-30",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/K6XVOCK7YTENYWGFK4Q3VKOEZ4X7GZFI",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "date": "1926-06-30",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260630",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "pages_cited": "S. 4",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/K6XVOCK7YTENYWGFK4Q3VKOEZ4X7GZFI",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-06-30"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260630",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "date": "1926-06-30"
+      }
+    ],
+    "editorial_note": "Der hier beschriebene Zusammenschluss linkskommunistischer Organisationen von 1926 war ein kurzlebiger Versuch, ultralinke und rätekommunistische Strömungen abseits der KPD zu sammeln. Die Gruppe um Iwan Katz, Karl Korsch und Ernst Schwarz, die sich 'Entschiedene Linke' nannte, war Teil der zersplitterten linkskommunistischen Opposition gegen die Stalinisierung der Komintern. Diese Organisation erlangte keine breitere politische Bedeutung und zerfiel nach kurzer Zeit wieder in verschiedene Kleingruppen.",
+    "score": 100.0
+  },
+  {
+    "index": 3,
+    "headline": "Italien führt den Neunstundentag ein",
+    "subheadline": "Ministerrat hebt per Dekret den Achtstundentag auf — Teil eines umfassenden Sparprogramms — Verbot von Luxusbauten und Beschränkungen im Gastgewerbe",
+    "dateline": "Rom, 30. Juni.",
+    "type": "Artikel",
+    "category": "Arbeit & Soziales",
+    "actual_words": 330,
+    "body_html": "<p>Der italienische Ministerrat hat gestern, für die Öffentlichkeit vollkommen unerwartet, eine Reihe weitreichender wirtschaftlicher Verordnungen erlassen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup> Die einschneidendste dieser Maßnahmen ist die Aufhebung des gesetzlichen Achtstundentages.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Durch das neue Dekret erhält das Unternehmertum ab dem 1. Juli die Berechtigung, die tägliche <a href=\"https://de.wikipedia.org/wiki/Arbeitszeit\" target=\"_blank\" rel=\"noopener\">Arbeitszeit</a> um eine Stunde auf neun Stunden zu verlängern.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup></p>\n<p>Die Regierung in Rom rechtfertigt diesen Schritt als notwendige Maßnahme zur Abwendung einer drohenden Wirtschaftskrise und der damit verbundenen Arbeitslosigkeit.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup> Aus dem halbamtlichen Blatt *Popolo di Roma* geht hervor, dass die faschistische Führung vor die Wahl gestellt sei: Entweder müsse sie unter dem wirtschaftlichen Druck des Auslandes nachgeben, oder sie müsse die eigenen Kräfte sammeln.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup> Die Verlängerung der Arbeitszeit, so heißt es dort weiter, sei die Antwort des <a href=\"https://de.wikipedia.org/wiki/Italienischer_Faschismus\" target=\"_blank\" rel=\"noopener\">Faschismus</a> auf dieses Dilemma. Man müsse sich selbst Entbehrungen auferlegen, um „die Ketten zu sprengen, die uns ersticken“.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup></p>\n<p>Die <a href=\"https://de.wikipedia.org/wiki/Sozialdemokratie\" target=\"_blank\" rel=\"noopener\">sozialdemokratische</a> deutsche Presse bewertet den Vorgang als weiteren Beweis für die arbeiterfeindliche Haltung des Regimes von Benito Mussolini.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Der *Vorwärts* erinnert daran, dass die faschistische Regierung mit dieser Entscheidung bewusst die Bestrebungen der internationalen Arbeiterbewegung untergräbt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Erst kürzlich habe sich die 8. Internationale Arbeitskonferenz in Genf mit der Ratifizierung des Washingtoner <a href=\"https://de.wikipedia.org/wiki/Achtstundentag\" target=\"_blank\" rel=\"noopener\">Achtstundentag</a>-Abkommens befasst. Dieses Abkommen hat zum Ziel, eine verbindliche internationale Regelung zu schaffen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup></p>\n<p>Die Verlängerung der Arbeitszeit ist jedoch nur ein Teil eines größeren Programms, das nahezu alle Bereiche des wirtschaftlichen Lebens berührt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup> Weitere Dekrete verbieten den Bau luxuriöser Privathäuser und Villen. Neubauten sind künftig nur noch für günstige Arbeiter- und Angestelltenwohnungen gestattet.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup> Zudem dürfen keine neuen Hotels, Kabaretts oder Tanzlokale mehr eröffnet werden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup> Die Regierung kündigte außerdem an, dass der Verkauf von Getränken und Speisen nach 22 Uhr in Kürze untersagt werden soll.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup></p>\n<p>Laut dem Washingtoner *Evening Star* umfassen die Maßnahmen auch eine Begrenzung des Zeitungsumfangs auf sechs Seiten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup> Gleichzeitig sollen Vereinbarungen mit Industriellen getroffen worden sein, um die Preise für Baustoffe wie Eisen, Zement und Ziegel zu senken.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup> Ferner seien die großen Arbeitgeber dazu angehalten worden, Kantinen einzurichten, damit ihre Angestellten mit Lebensmitteln zu möglichst niedrigen Preisen versorgt werden können.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Achtstundentag.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:8hoursday_banner_1856.jpg",
+        "alt_text": "Achtstundentag",
+        "caption": "Achtstundentag, Forderung der Arbeiterbewegung"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Arbeitszeit",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Arbeitszeit",
+        "link_target": "Arbeitszeit"
+      },
+      {
+        "term": "Achtstundentag",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Achtstundentag",
+        "link_target": "Achtstundentag"
+      },
+      {
+        "term": "Faschismus",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Italienischer_Faschismus",
+        "link_target": "Italienischer Faschismus"
+      },
+      {
+        "term": "sozialdemokratische",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Sozialdemokratie",
+        "link_target": "Sozialdemokratie"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "date": "1926-06-30",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/2VRC6GTHL2WJH2EFTDLNH6CGWDCGNAEP",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Evening Star (Washington, D.C.)",
+        "display_name": "Evening Star (Washington, D.C.)",
+        "date": "1926-06-30",
+        "url": "https://chroniclingamerica.loc.gov/",
+        "archive": "Library of Congress – Chronicling America",
+        "pages_cited": "S. 2",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q2",
+        "newspaper": "Evening Star (Washington, D.C.)",
+        "display_name": "Evening Star (Washington, D.C.)",
+        "url": "https://chroniclingamerica.loc.gov/",
+        "archive": "Library of Congress – Chronicling America",
+        "date": "1926-06-30"
+      },
+      {
+        "id": 2,
+        "qid": "Q1",
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/2VRC6GTHL2WJH2EFTDLNH6CGWDCGNAEP",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-06-30"
+      }
+    ],
+    "editorial_note": "Das Dekret zur Verlängerung der Arbeitszeit vom 29. Juni 1926 war Teil von Mussolinis wirtschaftspolitischer Strategie der „Schlacht um die Lira“ (Battaglia della Lira), die eine Aufwertung der italienischen Währung zum Ziel hatte. Die Maßnahmen stießen bei der bereits entmachteten Arbeiterschaft auf erbitterten Widerstand, konnten aber aufgrund der repressiven Staatsstruktur durchgesetzt werden. Der Achtstundentag wurde in Italien erst nach dem Zweiten Weltkrieg wieder flächendeckend eingeführt.",
+    "score": 160.0
+  },
+  {
+    "index": 4,
+    "headline": "Blutige Zusammenstöße in Laibach",
+    "subheadline": "Demonstrationen gegen die italienische Konvention — Schusswechsel zwischen Polizei und nationalistischer Jugend — Zahlreiche Verletzte und eine Tote",
+    "dateline": "Belgrad, 30. Juni.",
+    "type": "Artikel",
+    "category": "International",
+    "actual_words": 247,
+    "body_html": "<p>Wie aus Laibach gemeldet wird, kam es dort am gestrigen Tage zu schweren, blutigen Ausschreitungen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Anlass der Unruhen war der Protest gegen die Annahme der südslawisch-italienischen Wirtschafts- und Rechtskonventionen durch die Belgrader Skupschtina. Diese stießen insbesondere in Slowenien und Kroatien auf heftigen Widerstand.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup></p>\n<p>Die Kundgebungen nahmen ihren Ausgang nach einer Fahnenweihe, die der Nationalistische Jugendbund veranstaltet hatte.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Im Anschluss formierte sich ein Demonstrationszug, der vor das italienische Konsulat ziehen wollte, um dort seinem Unmut Ausdruck zu verleihen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Die Polizei hatte jedoch vorsorglich den Weg zum Konsulat abgesperrt. Daraufhin versuchten die Demonstranten, die Absperrung gewaltsam zu durchbrechen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup></p>\n<p>Es kam zu einem heftigen Handgemenge zwischen den nationalistischen Jugendlichen und den Sicherheitskräften.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Aus den Reihen der Menge wurde schließlich das Feuer auf die Beamten eröffnet.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Nach amtlicher Darstellung schossen einzelne Demonstranten mit Revolvern, woraufhin die Polizei den Feuerbefehl erhielt und das Feuer erwiderte.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Bei dem Schusswechsel wurde Inspektor Grdenitsch, der die Polizei befehligte, durch einen schweren Bauchschuss lebensgefährlich verletzt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Mehrere weitere Polizisten erlitten ebenfalls schwere Verwundungen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Le Figaro\">[3]</a></sup> Nach offiziellen Angaben gab es aufseiten der Demonstranten drei Verwundete.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Eine genaue Zahl der Verletzten ließ sich jedoch nicht ermitteln, da viele von ihren Kameraden fortgebracht wurden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Mitten im Gedränge erlitt zudem eine ältere Frau, die zufällig anwesend war, einen Schlaganfall und verstarb auf der Stelle.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup></p>\n<p>Die Polizei nahm zahlreiche Verhaftungen vor.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Die Vorfälle haben in der Stadt eine außergewöhnliche Erregung hervorgerufen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Nach Berichten des Pariser *Figaro* kam es zu ähnlichen antiitalienischen Kundgebungen auch in anderen Städten des Landes, namentlich in Split und Sarajevo.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Le Figaro\">[3]</a></sup></p>",
+    "images": [],
+    "wikipedia_links": [],
+    "primary_sources": [
+      {
+        "newspaper": "Berliner Tageblatt",
+        "display_name": "Berliner Tageblatt",
+        "date": "1926-06-30",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/HPNONXMNIKOIIELNPODH4NLFOCVDRKFA",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "date": "1926-06-30",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260630",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "pages_cited": "S. 1",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Le Figaro",
+        "display_name": "Le Figaro",
+        "date": "1926-06-30",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34355551z/date19260630",
+        "archive": "Gallica (BnF)",
+        "pages_cited": "S. 3",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Berliner Tageblatt",
+        "display_name": "Berliner Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/HPNONXMNIKOIIELNPODH4NLFOCVDRKFA",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-06-30"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260630",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "date": "1926-06-30"
+      },
+      {
+        "id": 3,
+        "qid": "Q3",
+        "newspaper": "Le Figaro",
+        "display_name": "Le Figaro",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34355551z/date19260630",
+        "archive": "Gallica (BnF)",
+        "date": "1926-06-30"
+      }
+    ],
+    "editorial_note": "Die Unruhen in Laibach (heute Ljubljana) richteten sich gegen die sogenannten Nettuno-Konventionen von 1925 zwischen Italien und dem Königreich der Serben, Kroaten und Slowenen (dem späteren Jugoslawien). Diese Abkommen sollten Rechts- und Wirtschaftsfragen regeln, wurden von jugoslawischen Nationalisten jedoch als Ausverkauf nationaler Interessen und als Einfallstor für italienischen Einfluss in Dalmatien betrachtet. Die heftigen Proteste verzögerten die Ratifizierung um Jahre und trugen maßgeblich zur Verschlechterung der ohnehin angespannten italienisch-jugoslawischen Beziehungen in der Zwischenkriegszeit bei.",
+    "score": 110.0
+  },
+  {
+    "index": 5,
+    "headline": "Österreich erlangt die Finanzhoheit zurück",
+    "subheadline": "Ende der Völkerbundkontrolle zum 30. Juni — Generalkommissar Zimmermann verlässt Wien — Ein gemischtes Fazit nach vierjähriger Aufsicht",
+    "dateline": "Berlin, 30. Juni.",
+    "type": "Artikel",
+    "category": "Diplomatie",
+    "actual_words": 366,
+    "body_html": "<p>Der heutige 30. Juni ist für die Republik Österreich ein Tag von geschichtlicher Bedeutung.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Mit dem heutigen Tage endet nach beinahe vier Jahren die Finanzkontrolle des Völkerbundes, unter welche der Staat im Jahre 1922 gestellt worden war, um den vollständigen Zusammenbruch seiner Wirtschaft und Währung abzuwenden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Der Generalkommissar des Völkerbundes, der Holländer Dr. Zimmermann, hat seine Mission in Wien beendet und die Amtsgeschäfte niedergelegt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup></p>\n<p>Der Beschluss des Völkerbundrates folgte einer Empfehlung seines Finanzausschusses vom 7. Juni, in der festgestellt wurde, dass die finanzielle Stabilität Österreichs als gesichert gelten könne.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Bundeskanzler Dr. Ramek würdigte in einer Ansprache anlässlich des Abschieds die außerordentlich schwierige und neuartige Aufgabe Dr. Zimmermanns, für die es kein historisches Vorbild gegeben habe.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Er sei als Fremder gekommen, so der Kanzler, und scheide als Freund, ja, als „einer der Unsrigen“.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Generalkommissar Zimmermann erwiderte in seiner von großer Wärme getragenen Antwort, es werde ihm unmöglich sein, Österreich künftig als ein fremdes Land zu betrachten.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Das Wohlergehen des Staates habe dreieinhalb Jahre lang sein ganzes Denken erfüllt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup></p>\n<p>Die Zeit der Sanierung war für das österreichische Volk, nach übereinstimmenden Berichten, sowohl demütigend als auch hart.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Die strenge Aufsicht griff tief in das staatliche Leben ein; besonders die von Dr. Zimmermann mit Nachdruck verfolgte Sparpolitik belastete die Beamtenschaft schwer.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup> Die <em>Kölnische Zeitung</em> merkt an, dass der Generalkommissar seine Aufgabe als Beauftragter der ausländischen Geldgeber aufgefasst und dabei eine „raue Hand“ gezeigt habe, der ein „Samthandschuh“ völlig gefehlt habe.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Aus Sicht der Wiener <em>Neuen Freien Presse</em> bildeten jedoch gerade sein Widerstand gegen jede Verschwendung und seine unerbittliche Haltung gegenüber inflationistischen Tendenzen die Grundlage für den Erfolg des Werkes.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Neue Freie Presse\">[2]</a></sup></p>\n<p>Obschon die Genfer Operation als geglückt gilt — der Haushalt ist im Gleichgewicht und die Währung fest —, bleibt die Lage schwierig.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Die Wirtschaft kämpft mit hoher Arbeitslosigkeit und die Lebensbedingungen sind dürftig.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Zudem ist die Souveränität nicht vollständig wiederhergestellt. Dem <em>Berliner Tageblatt</em> zufolge verbleibt Zimmermanns bisheriger Mitarbeiter, Dr. <a href=\"https://de.wikipedia.org/wiki/Meinoud_Rost_van_Tonningen\" target=\"_blank\" rel=\"noopener\">Rost van Tonningen</a>, in Wien, um die Verwendung der Restmittel aus der <a href=\"https://de.wikipedia.org/wiki/Völkerbundanleihe\" target=\"_blank\" rel=\"noopener\">Völkerbundanleihe</a> weiterhin zu überwachen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Österreich darf über dieses Geld, das es selbst verzinsen muss, nicht frei verfügen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Dennoch wird dieser Tag als jener „Ehrentag“ in Erinnerung bleiben, den Bundeskanzler <a href=\"https://en.wikipedia.org/wiki/Ignaz_Seipel\" target=\"_blank\" rel=\"noopener\">Seipel</a> im Oktober 1922 vor dem <a href=\"https://de.wikipedia.org/wiki/Völkerbund\" target=\"_blank\" rel=\"noopener\">Völkerbund</a> in Aussicht gestellt hatte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Ignaz_Seipel.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "",
+        "alt_text": "Ignaz Seipel",
+        "caption": "Ignaz Seipel"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Rost van Tonningen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Meinoud_Rost_van_Tonningen",
+        "link_target": "Meinoud Rost van Tonningen"
+      },
+      {
+        "term": "Seipel",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ignaz_Seipel",
+        "link_target": "Ignaz Seipel"
+      },
+      {
+        "term": "Völkerbundanleihe",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Völkerbundanleihe",
+        "link_target": "Völkerbundanleihe"
+      },
+      {
+        "term": "Völkerbund",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Völkerbund",
+        "link_target": "Völkerbund"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Kölnische Zeitung",
+        "display_name": "Kölnische Zeitung",
+        "date": "1926-06-30",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/CCS47LI5MIDEJKHKOXNAMJBPDVBZ7BXX",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "date": "1926-06-30",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260630",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "pages_cited": "S. 1, S. 2, S. 5",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Kölnische Zeitung",
+        "display_name": "Kölnische Zeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/CCS47LI5MIDEJKHKOXNAMJBPDVBZ7BXX",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-06-30"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260630",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "date": "1926-06-30"
+      }
+    ],
+    "editorial_note": "Die Sanierung Österreichs durch den Völkerbund (1922–1926) war das erste und erfolgreichste internationale Finanzhilfeprogramm der Zwischenkriegszeit. Unter der Aufsicht des Generalkommissars Alfred Zimmermann wurde die Währung stabilisiert und der Staatshaushalt ausgeglichen, wenn auch unter harten sozialen Einschnitten. Das Modell diente später als Vorbild für ähnliche Aktionen in Ungarn und anderen Staaten. Die vollständige finanzielle Souveränität erlangte Österreich jedoch erst nach der Tilgung der Anleihen in den folgenden Jahren.",
+    "score": 90.0
+  },
+  {
+    "index": 6,
+    "headline": "Chang Kai-shek festigt Macht in Kanton",
+    "subheadline": "Sohn Sun Yat-sens zur Flucht gezwungen — Alte Kuomintang-Führer kaltgestellt — General zum Alleinherrscher aufgestiegen",
+    "dateline": "Hongkong, 30. Juni.",
+    "type": "Artikel",
+    "category": "Kolonien & Übersee",
+    "actual_words": 247,
+    "body_html": "<p>Aus Kanton eintreffende Berichte bestätigen die vollständige Machtübernahme durch General Chang Kai-shek (Chiang Kai-shek).<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"China Mail\">[1]</a></sup> Nach Angaben der hiesigen Zeitung *China Mail* ist Chang nunmehr der uneingeschränkte Herrscher in der südchinesischen Metropole.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"China Mail\">[1]</a></sup> In der Regierung von Kanton ist kein einziger Kantonese und auch keine andere Persönlichkeit aus der Provinz Kwangtung mehr in einer einflussreichen Stellung verblieben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"China Mail\">[1]</a></sup></p>\n<p>Die jüngste Entwicklung führte zur Flucht zahlreicher prominenter Politiker.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"China Mail\">[1]</a></sup> Unter ihnen befinden sich <a href=\"https://de.wikipedia.org/wiki/Sun_Fo\" target=\"_blank\" rel=\"noopener\">Sun Fo</a>, der Sohn des verstorbenen Staatsgründers Sun Yat-sen, sowie der Bürgermeister von Kanton, <a href=\"https://en.wikipedia.org/wiki/Wu_Chaoshu\" target=\"_blank\" rel=\"noopener\">C. C. Wu</a>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"China Mail\">[1]</a></sup> Sun Fo hatte, wie das Blatt meldet, gehofft, den wachsenden Einfluss Chang Kai-sheks auf die Kuomintang-Partei einzudämmen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"China Mail\">[1]</a></sup> Sein Schicksal war jedoch besiegelt, als regierungstreue Zeitungen ihm angebliche Verschwörungspläne mit dem inhaftierten General <a href=\"https://en.wikipedia.org/wiki/Wu_Tiecheng\" target=\"_blank\" rel=\"noopener\">Wu Te-chen</a> zur Last legten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"China Mail\">[1]</a></sup> Daraufhin sah er sich gezwungen, die Stadt zu verlassen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"China Mail\">[1]</a></sup></p>\n<p>Die Kuomintang-Regierung gilt als vollständig zerschlagen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"China Mail\">[1]</a></sup> Dem Blatt zufolge ist Chang Kai-shek nun ein absoluter Diktator. Männer wie der Finanzminister T. V. Soong und der Außenminister Eugene Chen werden nur noch als Galionsfiguren im Amt gehalten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"China Mail\">[1]</a></sup> Die Ernennung Changs zum Generalissimus der Armee und die Bekanntgabe der neuen Führungsliste hat Bestürzung ausgelöst, und zwar sowohl bei den <a href=\"https://de.wikipedia.org/wiki/Kommunistische_Partei_Chinas\" target=\"_blank\" rel=\"noopener\">Kommunisten</a> als auch im rechten Flügel der Kuomintang.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"China Mail\">[1]</a></sup></p>\n<p>Die Liste der neuen Machthaber besteht ausschließlich aus persönlichen Gefolgsleuten des Generals, die zumeist aus seiner Heimatprovinz Chekiang stammen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"China Mail\">[1]</a></sup> Die *China Mail* betont, dass Chang Kai-shek mit derselben Rücksichtslosigkeit gegen die Russen und die chinesischen Kommunisten vorgeht, wie er zuvor bereits die alten Führer der Kuomintang aus ihren Ämtern verdrängt hatte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"China Mail\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Chiang_Kai-shek.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "",
+        "alt_text": "Chiang Kai-shek",
+        "caption": "Chiang Kai-shek, chinesischer Militärführer und Politiker"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "C. C. Wu",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Wu_Chaoshu",
+        "link_target": "Wu Chaoshu"
+      },
+      {
+        "term": "Wu Te-chen",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Wu_Tiecheng",
+        "link_target": "Wu Tiecheng"
+      },
+      {
+        "term": "Kommunisten",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Kommunistische_Partei_Chinas",
+        "link_target": "Kommunistische Partei Chinas"
+      },
+      {
+        "term": "Sun Fo",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Sun_Fo",
+        "link_target": "Sun Fo"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "China Mail",
+        "display_name": "China Mail",
+        "date": "1926-06-30",
+        "url": "https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-06-30",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "China Mail",
+        "display_name": "China Mail",
+        "url": "https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-06-30",
+        "archive": "Internet Archive",
+        "date": "1926-06-30"
+      }
+    ],
+    "editorial_note": "Dieser Artikel beschreibt einen entscheidenden Moment im Aufstieg Chiang Kai-sheks. Kurz nach diesen Ereignissen begann er im Juli 1926 den Nordfeldzug, um China unter seiner Führung zu einen. Die Säuberung von Kommunisten und linken Kuomintang-Mitgliedern, die hier angedeutet wird, mündete 1927 im Massaker von Shanghai und dem endgültigen Bruch zwischen der Kuomintang und den Kommunisten.",
+    "score": 140.0
+  },
+  {
+    "index": 7,
+    "headline": "Deutsch-japanische Vertragsverhandlungen vor Abschluss",
+    "subheadline": "Botschafter Solf erwartet baldige Einigung — Regelung für Farbstoff- und Sojaexporte",
+    "dateline": "Tokio, 30. Juni. (Eigener Drahtbericht.)",
+    "type": "Kurzbeitrag",
+    "category": "Diplomatie",
+    "actual_words": 173,
+    "body_html": "<p>Die langwierigen Verhandlungen über einen neuen deutsch-japanischen Vertrag stehen kurz vor einem erfolgreichen Abschluss, der für beide Länder von erheblichem gegenseitigem Vorteil sein dürfte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup> Der deutsche Botschafter in Japan, Dr. Wilhelm Solf, teilte gegenüber Pressevertretern mit, dass er mit einer baldigen Einigung in den am heutigen Tage beginnenden Schlusssitzungen rechne.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup></p>\n<p>Sowohl auf deutscher als auch auf japanischer Seite wird die bevorstehende Unterzeichnung mit Zufriedenheit und Erleichterung aufgenommen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup> In japanischen Kreisen wird allerdings die Auffassung vertreten, der Vorteil des Abkommens liege überwiegend auf deutscher Seite.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup> Zur Begründung wird angeführt, dass Deutschland seinen wichtigsten Exportartikel — Farbstoffe — wieder ungehindert nach Japan ausführen kann. Im Gegenzug wird für Japan der unbeschränkte Export von Sojabohnen und <a href=\"https://de.wikipedia.org/wiki/Sojaöl\" target=\"_blank\" rel=\"noopener\">Sojaöl</a> gesichert.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup></p>\n<p>Die Grundlage für das Abkommen bildet eine bereits ansehnliche <a href=\"https://de.wikipedia.org/wiki/Handelsbilanz\" target=\"_blank\" rel=\"noopener\">Handelsbilanz</a>. Nach Berichten des amerikanischen *Evening Star* belief sich der Wert der deutschen Ausfuhren nach Japan im Jahre 1925 auf insgesamt 356 Millionen Yen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup> Dem standen japanische Exporte nach Deutschland in Höhe von 60 Millionen Yen gegenüber.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Evening Star (Washington, D.C.)\">[1]</a></sup> Der neue Vertrag soll diese Wirtschaftsbeziehungen jetzt auf eine dauerhafte Grundlage stellen.</p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "Sojaöl",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Sojaöl",
+        "link_target": "Sojaöl"
+      },
+      {
+        "term": "Handelsbilanz",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Handelsbilanz",
+        "link_target": "Handelsbilanz"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Evening Star (Washington, D.C.)",
+        "display_name": "Evening Star (Washington, D.C.)",
+        "date": "1926-06-30",
+        "url": "https://chroniclingamerica.loc.gov/",
+        "archive": "Library of Congress – Chronicling America",
+        "pages_cited": "S. 1, S. 4",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Evening Star (Washington, D.C.)",
+        "display_name": "Evening Star (Washington, D.C.)",
+        "url": "https://chroniclingamerica.loc.gov/",
+        "archive": "Library of Congress – Chronicling America",
+        "date": "1926-06-30"
+      }
+    ],
+    "editorial_note": "Der hier erwähnte Vertrag wurde am 20. Juli 1927 als „Deutsch-Japanischer Handels- und Schifffahrtsvertrag“ unterzeichnet. Er war ein wichtiger Schritt zur Wiederaufnahme der Wirtschaftsbeziehungen zwischen den beiden ehemaligen Kriegsgegnern des Ersten Weltkriegs. Für Deutschland sicherte er den Zugang zu einem wichtigen asiatischen Markt, während Japan seine Position als aufstrebende Handelsmacht festigte. Der Vertrag blieb bis zum Ausbruch des Zweiten Weltkriegs in Kraft.",
+    "score": 160.0
+  }
+]
