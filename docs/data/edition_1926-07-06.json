@@ -1,0 +1,586 @@
+[
+  {
+    "index": 1,
+    "headline": "Scharfe Note aus Warschau wegen Ausweisung polnischer Arbeiter",
+    "subheadline": "Polnischer Gesandter Olszewski überreicht Stresemann ein Protestschreiben — Drohung mit Vergeltungsmaßnahmen — Berlin bisher ohne Antwort",
+    "dateline": "Berlin, 6. Juli.",
+    "type": "Artikel",
+    "category": "Diplomatie",
+    "actual_words": 229,
+    "body_html": "<p>Der <a href=\"https://de.wikipedia.org/wiki/Deutsch-polnische_Beziehungen\" target=\"_blank\" rel=\"noopener\">polnische</a> Gesandte in Berlin, Olszewski, hat im Auftrage seiner Regierung dem <a href=\"https://de.wikipedia.org/wiki/Deutsch-Polnischer_Zollkrieg\" target=\"_blank\" rel=\"noopener\">deutschen</a> Außenminister <a href=\"https://de.wikipedia.org/wiki/Gustav_Stresemann\" target=\"_blank\" rel=\"noopener\">Stresemann</a> eine scharfe Note überreicht, die sich gegen angebliche Massenausweisungen polnischer Arbeiter aus Deutschland richtet. Wie das <em>Berliner Tageblatt</em> aus Warschau berichtet, habe Olszewski bei der Übergabe des Schreibens erklärt, dass der polnische Staat im Falle der Durchführung solcher Absichten genötigt sein werde, energische Vergeltungsmaßnahmen zu ergreifen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup> Die deutsche Regierung hat auf diese Note bisher keine Antwort erteilt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Westfälischer Merkur\">[2]</a></sup></p>\n<p>Ein Warschauer Blatt fügte, dem <em>Berliner Tageblatt</em> zufolge, hinzu, dass auf deutscher Seite die Neigung bestehe, die polnische Wachsamkeit zu unterschätzen; Polen jedoch werde darüber wachen, dass den polnischen Arbeitern in Deutschland kein Unrecht geschehe.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup></p>\n<p>Aus Berliner Zeitungskreisen wird demgegenüber darauf hingewiesen, dass von einer geplanten Ausweisung polnischer Arbeiter keine Rede sein könne. Es handele sich lediglich um einen Beschluss des volkswirtschaftlichen Ausschusses des <a href=\"https://de.wikipedia.org/wiki/Reichstag_(Weimarer_Republik)\" target=\"_blank\" rel=\"noopener\">Reichstags</a>, nach dem im Interesse der Bekämpfung der Arbeitslosigkeit dafür gesorgt werden solle, dass kein widerrechtliches Verbleiben polnischer Landarbeiter über die Saison hinaus stattfinde. In den Rechten, auf die sie Anspruch hätten, sollten die polnischen Arbeiter nicht beschränkt werden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Berliner Tageblatt\">[1]</a></sup></p>\n<p>Unterdessen haben den Morgenblättern zufolge am Montag in Bad Nauheim Verhandlungen zwischen Vertretern der deutschen und der polnischen Regierung begonnen. Diese haben eine Reihe von Sachfragen zur Regelung des zwischenstaatlichen Verkehrs zum Gegenstand. Es geht dabei vor allem um Fragen der Gerichtshilfe und der Standesamtsregister. Die Verhandlungen werden voraussichtlich längere Zeit in Anspruch nehmen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Westfälischer Merkur\">[2]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Gustav_Stresemann.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "",
+        "alt_text": "Gustav Stresemann",
+        "caption": "Gustav Stresemann"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "polnische",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Deutsch-polnische_Beziehungen",
+        "link_target": "Deutsch-polnische Beziehungen"
+      },
+      {
+        "term": "deutschen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Deutsch-Polnischer_Zollkrieg",
+        "link_target": "Deutsch-Polnischer Zollkrieg"
+      },
+      {
+        "term": "Stresemann",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Gustav_Stresemann",
+        "link_target": "Gustav Stresemann"
+      },
+      {
+        "term": "Reichstags",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Reichstag_(Weimarer_Republik)",
+        "link_target": "Reichstag (Weimarer Republik)"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Berliner Tageblatt",
+        "display_name": "Berliner Tageblatt",
+        "date": "1926-07-06",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/JCQ2JPZUGK452W5DHDL6GGPHOVYLIJ7C",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Westfälischer Merkur",
+        "display_name": "Westfälischer Merkur",
+        "date": "1926-07-06",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/VWOGNVQBIX6LPKAYUUD5WQOV5FOJ55VK",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Berliner Tageblatt",
+        "display_name": "Berliner Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/JCQ2JPZUGK452W5DHDL6GGPHOVYLIJ7C",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-07-06"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Westfälischer Merkur",
+        "display_name": "Westfälischer Merkur",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/VWOGNVQBIX6LPKAYUUD5WQOV5FOJ55VK",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-07-06"
+      }
+    ],
+    "editorial_note": "Die Spannungen um polnische Saisonarbeiter in Deutschland bildeten einen wiederkehrenden Konfliktpunkt in den deutsch-polnischen Beziehungen der Zwischenkriegszeit. Der Handelsvertrag und die Grenzfragen blieben bis zum deutschen Angriff auf Polen 1939 eine Quelle ständiger Reibungen. Der in der Note angesprochene Außenminister Gustav Stresemann, der 1926 den Friedensnobelpreis erhielt, verfolgte gegenüber Polen eine deutlich weniger versöhnliche Politik als gegenüber den Westmächten — eine Asymmetrie, die in der historischen Forschung als charakteristisch für seine Außenpolitik gilt.",
+    "score": 170.0
+  },
+  {
+    "index": 2,
+    "headline": "Weimarer Parteitag der NSDAP endet in Zwischenfällen",
+    "subheadline": "Schuss auf Polizeibeamten — Waffenfunde in Massenquartieren — Tumult im Thüringer Landtag",
+    "dateline": "Weimar, 6. Juli.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 339,
+    "body_html": "<p>Die Nationalsozialisten hielten am vergangenen Sonntag in Weimar ihren Parteitag ab. Vertreter der Linkspresse wurden zur Tagung nicht zugelassen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Die Veranstaltung selbst verlief nach übereinstimmenden Berichten völlig ohne politischen Gehalt. Doch was sich in den Straßen der thüringischen Klassikerstadt abgespielt hat, gehört zu den beschämendsten Vorgängen, die ein nationaler Parteitag in Deutschland je begleitet haben.</p>\n<p>An mehreren Orten der Stadt kam es zu Schlägereien, die sich teilweise zwischen den Teilnehmern der Tagung selbst entspannen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Als ein Oberwachtmeister einen solchen Streit schlichten wollte, wurde er von hinten durch die Lunge geschossen und lebensgefährlich verletzt. Der Täter — ein junger <a href=\"https://de.wikipedia.org/wiki/Adolf_Hitler\" target=\"_blank\" rel=\"noopener\">Hitlergardist</a> mit Hakenkreuzbinde — entkam der Polizei.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Der Verletzte ist nach Angaben des <em>Vorwärts</em> Wachtmeister Schmidt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup></p>\n<p>Am Montag durchsuchte die Polizei die Massenquartiere der angereisten Nationalsozialisten und beschlagnahmte dabei zahlreiche Schuss- und Stichwaffen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Das <em>Hamburger Echo</em> vermerkt, die Wut der Nationalsozialisten sei besonders deshalb so groß gewesen, weil die Weimarer Bevölkerung ihren Parteitag kaum beachtet habe; die Zahl der schwarz-weiß-roten Fahnen, die aus den Häusern gehangen hätten, sei verschwindend gering gewesen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Die Enttäuschung über diese Gleichgültigkeit entlud sich offenbar in roher Gewalt gegen Unbeteiligte. Frauen und Mädchen mit Bubikopf wurden nicht nur in unflätigster Weise beschimpft, sondern auch geschlagen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Ein Überfall, den die Hakenkreuzler am Samstag auf das Volkshaus unternehmen wollten, misslang; sie mussten ohne Erfolg abziehen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup></p>\n<p>Die Vorgänge beschäftigten am Montag auch den Thüringer Landtag. Der sozialdemokratische Abgeordnete Frölich beantragte namens seiner Fraktion eine Erklärung der Regierung zu den Ausschreitungen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Bei der Begründung seines Antrags erklärte Frölich wahrheitsgemäß, der Schuss auf Wachtmeister Schmidt sei von einem Nationalsozialisten abgefeuert worden.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Daraufhin rief der <a href=\"https://de.wikipedia.org/wiki/Nationalsozialistische_Deutsche_Arbeiterpartei\" target=\"_blank\" rel=\"noopener\">nationalsozialistische</a> Abgeordnete Dr. <a href=\"https://de.wikipedia.org/wiki/Artur_Dinter\" target=\"_blank\" rel=\"noopener\">Dinter</a> dazwischen, es sei „einer vom Roten <a href=\"https://de.wikipedia.org/wiki/Roter_Frontkämpferbund\" target=\"_blank\" rel=\"noopener\">Frontkämpferbund</a>\" gewesen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Diese dreiste Behauptung löste auf der Linken heftige Erregung aus. Der kommunistische Abgeordnete Beck sprang auf Dinter zu und warf einen Tintenlöscher nach ihm; der Präsident schloss ihn sofort von der Sitzung aus.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Auch der Abgeordnete Tenner wurde ausgeschlossen, nachdem er dem Sitzungsvorstand vorgeworfen hatte, er decke die Schandtaten der <a href=\"https://de.wikipedia.org/wiki/Völkische_Bewegung\" target=\"_blank\" rel=\"noopener\">Völkischen</a>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Unter großem Lärm der Linken lehnte die Mehrheit der Rechtsparteien den sozialdemokratischen Antrag schließlich ab.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Adolf_Hitler.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "",
+        "alt_text": "Adolf Hitler",
+        "caption": "Adolf Hitler"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Hitlergardist",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Adolf_Hitler",
+        "link_target": "Adolf Hitler"
+      },
+      {
+        "term": "nationalsozialistische",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Nationalsozialistische_Deutsche_Arbeiterpartei",
+        "link_target": "Nationalsozialistische Deutsche Arbeiterpartei"
+      },
+      {
+        "term": "Dinter",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Artur_Dinter",
+        "link_target": "Artur Dinter"
+      },
+      {
+        "term": "Frontkämpferbund",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Roter_Frontkämpferbund",
+        "link_target": "Roter Frontkämpferbund"
+      },
+      {
+        "term": "Völkischen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Völkische_Bewegung",
+        "link_target": "Völkische Bewegung"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Hamburger Echo",
+        "display_name": "Hamburger Echo",
+        "date": "1926-07-06",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/7JPZ7DJ4NWCSR6AQFU3V5DEY3J4UA4S3",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "date": "1926-07-06",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/ABTRCBOLP2VS4QH6CNKEKJ3HSKAFLRFJ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Hamburger Echo",
+        "display_name": "Hamburger Echo",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/7JPZ7DJ4NWCSR6AQFU3V5DEY3J4UA4S3",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-07-06"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/ABTRCBOLP2VS4QH6CNKEKJ3HSKAFLRFJ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-07-06"
+      }
+    ],
+    "editorial_note": "Der Weimarer Parteitag vom Juli 1926 war der erste größere NSDAP-Parteitag nach der Aufhebung des Redeverbots für Adolf Hitler in mehreren deutschen Ländern und markierte den organisatorischen Wiederaufstieg der Partei nach dem gescheiterten Putschversuch von 1923. Artur Dinter, der im Quellenmaterial als Landtagsabgeordneter erscheint, zählte zu den führenden völkischen Ideologen der frühen NSDAP, wurde jedoch wenige Jahre später wegen innerparteilicher Konflikte aus der Partei ausgeschlossen. Die systematische Bewaffnung der Parteitagsteilnehmer und die Gewalt gegen Unbeteiligte, die die Polizei in Weimar dokumentierte, blieben politisch folgenlos — ein Muster, das sich in den folgenden Jahren wiederholen sollte.",
+    "score": 160.0
+  },
+  {
+    "index": 3,
+    "headline": "Spannungen im Elsass um Autonomie",
+    "subheadline": "Straßburger Delegiertenversammlung verwirft den Heimatbund — Sanktionen gegen Manifest-Unterzeichner werden dennoch missbilligt",
+    "dateline": "Straßburg, 6. Juli.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 371,
+    "body_html": "<p>Die Delegiertenversammlung der Union Populaire Républicaine Nationale Alsacienne (UPRNA) hat sich am vergangenen Sonntag in Straßburg nach sechsstündiger Beratung mit einer förmlichen Entschließung von den autonomistischen Bestrebungen des elsässischen Heimatbundes distanziert.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Die Resolution, die zuvor in einer Vorversammlung am 1. Juli in Colmar einstimmig angenommen worden war, stellt klar, dass die Partei sich ohne jeden Vorbehalt auf den Boden der nationalen Gemeinschaft stelle und jede Bestrebung entschieden ablehne, die die Souveränität des französischen Staates in der elsässischen Frage zu untergraben suche.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup></p>\n<p>Der Beschluss scheidet deutlich zwischen den regionalen Forderungen der Partei und dem Programm des Heimatbundes. Die Versammlung protestiere energisch gegen jede Gleichsetzung des Parteiprogramms mit dem des Heimatbundes, heißt es in dem Dokument, das nach Angaben des <em>Temps</em> von rund fünfzig Personen unterzeichnet wurde, darunter die Senatoren Bourgeois, Detsor, Gegauff und Helmer sowie die Abgeordneten Oberlurch und <a href=\"https://de.wikipedia.org/wiki/Joseph_Pfleger\" target=\"_blank\" rel=\"noopener\">Pfleger</a>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup> Zugleich fordere die Resolution eine weitreichende Verwaltungsreform im Sinne einer Dezentralisierung — und zwar nicht allein für Elsass-Lothringen, sondern für ganz Frankreich.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Le Figaro\">[3]</a></sup><sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup> Ferner verlangten die Unterzeichner den Erhalt des religiösen und schulischen Status quo, wie er beim Waffenstillstand gegolten habe, sowie die Achtung der überlieferten Rechte und Gebräuche des Landes.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup></p>\n<p>Die Partei spart jedoch nicht an Kritik gegenüber der Regierungspolitik. In einem zweiten Beschluss missbilligte der Kongress der Delegierten ausdrücklich die Maßnahmen der Regierung gegen die Unterzeichner des Heimatbund-Manifests. Laut dem Pariser <em>Figaro</em> heißt es darin, die betroffenen Personen seien größtenteils Opfer einer Lage, für die in erster Linie die Fehler der Regierungs- und Verwaltungspolitik verantwortlich seien.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Le Figaro\">[3]</a></sup></p>\n<p>Die Sanktionen haben in den vergangenen Tagen bereits greifbare Folgen gezeitigt. Wie das <em>Harburger Tageblatt</em> berichtet, wurde der Bahnarzt Dr. Haag aus Groß-Blittersdorf, der das Manifest unterzeichnet hatte, von der Direktion der elsass-lothringischen Eisenbahnen seines Amtes enthoben.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Der Gemeinderat eines Ortes im Oberelsass protestierte gegen die Amtsenthebung seines Bürgermeisters Deichtmann, der das Manifest gleichfalls unterzeichnet hatte, und beschloss, seine Sitzungen bis zur Rückgängigmachung der Amtsenthebung zu vertagen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Die Volkspartei des Kantons Hüningen ihrerseits erhebt in einer geharnischten Entschließung Einspruch gegen die als staatsgefährdend bezeichneten Tendenzen der Manifest-Unterzeichner.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup></p>\n<p>Die Lage im Elsass bleibt damit zwiespältig: Der frankophile Flügel der stärksten elsässischen Partei bekennt sich zwar zur französischen Nation, besteht aber darauf, dass nur eine grundlegende Reform der zentralistischen Staatsverfassung dem Autonomismus dauerhaft den Boden entziehen könne.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Le Figaro\">[3]</a></sup><sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Temps\">[1]</a></sup></p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "Pfleger",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Joseph_Pfleger",
+        "link_target": "Joseph Pfleger"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Le Figaro",
+        "display_name": "Le Figaro",
+        "date": "1926-07-06",
+        "url": "https://gallica.bnf.fr/",
+        "archive": "Gallica (BnF)",
+        "pages_cited": "S. 1",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Le Temps",
+        "display_name": "Le Temps",
+        "date": "1926-07-06",
+        "url": "https://gallica.bnf.fr/",
+        "archive": "Gallica (BnF)",
+        "pages_cited": "S. 1, S. 2",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-07-06",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/P75XG66IX3XVMQINVN6CM6NFQV5K7JIF",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q2",
+        "newspaper": "Le Temps",
+        "display_name": "Le Temps",
+        "url": "https://gallica.bnf.fr/",
+        "archive": "Gallica (BnF)",
+        "date": "1926-07-06"
+      },
+      {
+        "id": 2,
+        "qid": "Q3",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/P75XG66IX3XVMQINVN6CM6NFQV5K7JIF",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-07-06"
+      },
+      {
+        "id": 3,
+        "qid": "Q1",
+        "newspaper": "Le Figaro",
+        "display_name": "Le Figaro",
+        "url": "https://gallica.bnf.fr/",
+        "archive": "Gallica (BnF)",
+        "date": "1926-07-06"
+      }
+    ],
+    "editorial_note": "Der Konflikt zwischen Frankreich und den autonomistischen Kräften im Elsass spitzte sich in den folgenden Jahren zu. 1928 wurden führende Vertreter des Heimatbundes unter dem Vorwurf des Separatismus vor Gericht gestellt, was international Aufsehen erregte. Die Forderungen nach Dezentralisierung und dem Erhalt regionaler Eigenrechte blieben in der Dritten Republik weitgehend unerfüllt. Erst nach 1945 gewann die Elsass-Frage unter veränderten Vorzeichen im Rahmen der deutsch-französischen Aussöhnung eine neue Dimension.",
+    "score": 50.0
+  },
+  {
+    "index": 4,
+    "headline": "Coolidge würdigt amerikanische Zivilisation",
+    "subheadline": "Festrede zur 150-Jahr-Feier der Unabhängigkeitserklärung in Philadelphia — Der Präsident mahnt zur Treue gegenüber idealen Grundsätzen",
+    "dateline": "Philadelphia, 6. Juli. (Eigener Kabeldienst.)",
+    "type": "Artikel",
+    "category": "Gesellschaft",
+    "actual_words": 312,
+    "body_html": "<p>Mit einer Festrede von staatsmännischem Ernst hat Präsident Coolidge am gestrigen 5. Juli die Halbjahrundertfeier der amerikanischen Unabhängigkeitserklärung begangen. Im städtischen Stadion Philadelphias, wo sich eine gewaltige Festversammlung eingefunden hatte, sprach er zu einem Anlass von nationaler Bedeutung und hob die geistig-sittlichen Grundlagen hervor, denen die amerikanische Republik ihre Entstehung verdanke.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup></p>\n<p>Die <em>Badische Presse</em> übermittelt folgende Kernaussage der Rede: „Die <a href=\"https://de.wikipedia.org/wiki/Amerikanische_Revolution\" target=\"_blank\" rel=\"noopener\">amerikanische Revolution</a> brachte eine neue Zivilisation hervor, die fortgeschrittener und weit entwickelter war als die der alten Welt.\" Die Bedeutung der Revolution liege nicht allein in der Schaffung eines neuen Staates, führte Coolidge aus, denn große Reiche seien schon oft zerfallen und hätten neue Staatsgebilde entstehen lassen; die Unabhängigkeitserklärung jedoch habe nicht nur Amerika geschaffen, sondern veredelnd auf die gesamte Menschheit gewirkt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Badische Presse\">[2]</a></sup> Die Regierungsform schaffe keine Ideale, sondern die Ideale die Regierungsform — dies betonte der Präsident als einen Grundsatz, der durch den gegenwärtigen praktischen Erfolg der amerikanischen Politik einer besonderen Versuchung ausgesetzt sei.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Badische Presse\">[2]</a></sup></p>\n<p>Nach Berichten der <em>Washington Post</em> wählte Coolidge eindringliche Worte, als er die Versammlung daran erinnerte, dass an den vier Ecken der Erde die Völker nach Philadelphia kämen wie zu einem heiligen Schrein, in dankbarer Anerkennung des Dienstes, den einige vom Geist erfüllte Männer an der gesamten Menschheit geleistet hätten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup></p>\n<p>In einem ähnlichen Geiste warnte der Präsident vor der Versuchung, den materiellen Wohlstand des Landes höher zu stellen als seine ideellen Grundwerte. Die <em>Neue Freie Presse</em> zitiert ihn mit den Worten: „Wenn wir nicht an diesen idealen Gütern festhalten, wird unser ganzer materieller Reichtum sich in unseren Händen in wertlosen Tand verwandeln.\"<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Neue Freie Presse\">[3]</a></sup></p>\n<p>Nach der Festrede besuchte Präsident Coolidge gemeinsam mit <a href=\"https://de.wikipedia.org/wiki/Grace_Coolidge\" target=\"_blank\" rel=\"noopener\">Mrs. Coolidge</a> die <a href=\"https://de.wikipedia.org/wiki/Independence_Hall\" target=\"_blank\" rel=\"noopener\">Independence Hall</a>, wo er im Stuhl <a href=\"https://de.wikipedia.org/wiki/John_Hancock\" target=\"_blank\" rel=\"noopener\">John Hancocks</a> Platz nahm, der als Erster die Unabhängigkeitserklärung unterzeichnet hatte. Mit ehrfurchtsvoller Geste berührte er die historische Freiheitsglocke, bevor die Präsidentschaft der Christ Church einen weiteren Besuch abstattete, in der einst viele Väter der Republik ihren Gottesdienst gehalten hatten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Calvin_Coolidge.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "",
+        "alt_text": "Calvin Coolidge",
+        "caption": "Calvin Coolidge"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Coolidge",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Calvin_Coolidge",
+        "link_target": "Calvin Coolidge"
+      },
+      {
+        "term": "Unabhängigkeitserklärung",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Unabhängigkeitserklärung_der_Vereinigten_Staaten",
+        "link_target": "Unabhängigkeitserklärung der Vereinigten Staaten"
+      },
+      {
+        "term": "amerikanische Revolution",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Amerikanische_Revolution",
+        "link_target": "Amerikanische Revolution"
+      },
+      {
+        "term": "Mrs. Coolidge",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Grace_Coolidge",
+        "link_target": "Grace Coolidge"
+      },
+      {
+        "term": "Independence Hall",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Independence_Hall",
+        "link_target": "Independence Hall"
+      },
+      {
+        "term": "John Hancocks",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/John_Hancock",
+        "link_target": "John Hancock"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "date": "1926-07-06",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-07-06",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "date": "1926-07-06",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/AQ65563LXVDIWKI73YVI3TYVAVBLOTPU",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1, S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "date": "1926-07-06",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260706",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "pages_cited": "S. 1",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-07-06",
+        "archive": "Internet Archive",
+        "date": "1926-07-06"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/AQ65563LXVDIWKI73YVI3TYVAVBLOTPU",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-07-06"
+      },
+      {
+        "id": 3,
+        "qid": "Q3",
+        "newspaper": "Neue Freie Presse",
+        "display_name": "Neue Freie Presse",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19260706",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "date": "1926-07-06"
+      }
+    ],
+    "editorial_note": "Die Feierlichkeiten zum 150. Jahrestag der amerikanischen Unabhängigkeitserklärung — die sogenannte Sesquicentennial Exposition — fanden 1926 in Philadelphia statt und zogen trotz zeitweise schlechten Wetters Millionen Besucher an. Coolidges Rede spiegelt seine konservative Staatsphilosophie wider, die auf dem Primat sittlicher Ordnung gegenüber materiellem Fortschritt bestand. Calvin Coolidge blieb bis zum März 1929 im Amt und verzichtete 1927 auf eine erneute Kandidatur.",
+    "score": 200.0
+  },
+  {
+    "index": 5,
+    "headline": "Reichsstädtebund tagt über Verwaltungsreform",
+    "subheadline": "16. Mitgliederversammlung in Königsberg — Ostmark-Solidarität und kommunale Finanznot im Mittelpunkt",
+    "dateline": "Königsberg, 6. Juli.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 308,
+    "body_html": "<p>Am Montag wurde in der Königsberger Stadthalle die 16. Mitgliederversammlung des Reichsstädtebundes feierlich eröffnet. In Gegenwart von Vertretern der Reichs- und Staatsbehörden, des Oberpräsidenten der Provinz Ostpreußen sowie zahlreicher Parlamentarier übernahm der Vorsitzende des Bundes, Oberbürgermeister Dr. Belian-Eilenburg, die Eröffnung der Tagung, zu der rund 900 Mitglieder erschienen waren.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup></p>\n<p>Dr. Belian betonte einleitend, dass die Wahl des Tagungsortes einem bewussten politischen Bekenntnis entspreche. Der durch den Korridor vom deutschen Mutterland abgetrennten Provinz Ostpreußen solle zum Ausdruck gebracht werden, dass keine Macht der Welt die Deutschen von dem Land zu trennen vermöge, das durch deutsche Arbeit der deutschen Kultur erschlossen worden sei.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Die Tagung hatte sich bereits am Vorabend mit einem Festakt im Großen Remter des Marienburger Ordensschlosses eingeleitet, wo Oberbaurat Dr. Schmid auf die geschichtliche Bedeutung des Ordensbaus hinwies und Bürgermeister Ewert die Teilnehmer namens der Stadt Marienburg begrüßte.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup></p>\n<p>Als sachliche Kernaufgabe der Königsberger Tagung bezeichnete Dr. Belian die Suche nach Wegen aus der schweren Not der deutschen Gemeinden. Die Fragen der Verwaltungsreform, des Finanzausgleichs, des Schulwesens sowie des Wohnungs- und Siedlungswesens seien dringend lösungsbedürftig. Dabei zeigte sich der Vorsitzende in der Frage der Verwaltungsreform wenig optimistisch: Die bisherigen Beratungen seien ergebnislos geblieben, und der Reichsstädtebund wünsche, dass die Reform des Steinschen Werkes einer Zeit überlassen bleibe, die dazu befähigter sei als die gegenwärtige.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Auch beim Lastenausgleich müsse immer wieder festgestellt werden, dass die Steuerdecke für Reich, Länder und Gemeinden noch nicht richtig hergestellt sei.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup></p>\n<p>Die Versammlung, der dem Bericht der <em>Badischen Presse</em> zufolge 1331 kleine und mittlere deutsche Städte angehören, sandte an Reichspräsident <a href=\"https://de.wikipedia.org/wiki/Paul_von_Hindenburg\" target=\"_blank\" rel=\"noopener\">von Hindenburg</a> ein Huldigungstelegramm. Darin heißt es, die Mitglieder gedächten „auf dem Boden der deutschen Ostmark dankbar ihres Befreiers aus Russengefahr\" und gelobten unermüdliche Arbeit für den wirtschaftlichen und kulturellen Wiederaufbau des deutschen Vaterlandes.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Kommunistische Vertreter versuchten laut <em>Harburger Tageblatt</em> durch Anträge zur Geschäftsordnung in die Verhandlungen einzugreifen, scheiterten jedoch mangels der erforderlichen Unterschriftenzahl.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Königsberg.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Königsberg_Castle.jpg",
+        "alt_text": "Königsberg",
+        "caption": "Königsberg, historische Hauptstadt Ostpreußens, seit 1945 russisches Territorium"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Dr. Belian",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Rudolf_Belling",
+        "link_target": "Rudolf Belling"
+      },
+      {
+        "term": "von Hindenburg",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Paul_von_Hindenburg",
+        "link_target": "Paul von Hindenburg"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "date": "1926-07-06",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/AQ65563LXVDIWKI73YVI3TYVAVBLOTPU",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-07-06",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/P75XG66IX3XVMQINVN6CM6NFQV5K7JIF",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/AQ65563LXVDIWKI73YVI3TYVAVBLOTPU",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-07-06"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/P75XG66IX3XVMQINVN6CM6NFQV5K7JIF",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-07-06"
+      }
+    ],
+    "editorial_note": "Der Reichsstädtebund war der Zusammenschluss kleinerer und mittlerer deutscher Städte, der neben dem Deutschen Städtetag als kommunaler Interessenverband wirkte. Die auf der Königsberger Tagung debattierte Verwaltungsreform blieb in der Weimarer Republik ein ungelöstes Problem; ein umfassendes Reichsverwaltungsgesetz kam bis zum Ende der Republik nicht zustande. Die finanzielle Notlage der Kommunen verschärfte sich mit der Weltwirtschaftskrise ab 1929 dramatisch und trug zur politischen Destabilisierung der Republik erheblich bei.",
+    "score": 140.0
+  },
+  {
+    "index": 6,
+    "headline": "Feierliche Eröffnung der Zugspitzbahn",
+    "subheadline": "Deutsch-österreichischer Festakt in Ehrwald — Die Bahn als Sinnbild gemeinsamer Kulturgemeinschaft",
+    "dateline": "Ehrwald (Tirol), 6. Juli.",
+    "type": "Artikel",
+    "category": "Vermischtes",
+    "actual_words": 258,
+    "body_html": "<p>In Anwesenheit hochrangiger Vertreter beider Länder fand heute die feierliche Eröffnung der Zugspitzbahn statt. Auf österreichischer Seite waren Vizekanzler Waber und Handelsminister <a href=\"https://de.wikipedia.org/wiki/Hans_Schürff\" target=\"_blank\" rel=\"noopener\">Schürff</a> erschienen, auf <a href=\"https://en.wikipedia.org/wiki/Bayerische_Zugspitzbahn\" target=\"_blank\" rel=\"noopener\">bayerischer</a> Seite Landtagspräsident Königsbauer sowie die Ministerialräte Gütz und Hellmann vom bayerischen Handelsministerium.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Der Reichsgesandte in München, v. Haniel, vertrat die Reichsregierung.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Sonderzüge hatten aus Wien, München und Innsbruck eine stattliche Zahl von Festgästen nach Ehrwald gebracht.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Westfälischer Merkur\">[2]</a></sup></p>\n<p>Den Auftakt bildete die kirchliche Weihe der Bahn. Sodann hielt der Präsident der Zugspitzbahn-Aktiengesellschaft, Dr. Stern, die Festrede.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Er bezeichnete das Werk als ein Wahrzeichen und Gedenkzeichen deutscher Kulturgemeinschaft, als das erste und erhabenste Denkmal treuer deutsch-österreichischer Kriegskameradschaft.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Westfälischer Merkur\">[2]</a></sup> Die Festansprache schloss mit dem Absingen des Andreas-Hofer-Liedes.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>\n<p>Der Reichsgesandte v. Haniel überbrachte die Glückwünsche der Reichsregierung und wünschte, die Bahn möge nicht nur die Länder, sondern auch die Völker einander näherbringen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Ministerialrat Hellmann bezeichnete im Namen der bayerischen Staatsregierung den Festakt am Fuße des Berges als Zeichen enger Verbundenheit beider Völker.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Den stärksten Ton schlug der österreichische Handelsminister Schürff an, der die Feier als gemeinsames deutsches Nationalfest im wahrsten Sinne des Wortes bezeichnete.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Er gedachte auch der Opfer, die der Bau gefordert hatte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Für ihre Verdienste erhielten Dr. Stern und Geheimrat Opitz das Goldene Ehrenzeichen der Republik Österreich.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Westfälischer Merkur\">[2]</a></sup></p>\n<p>Ab 13 Uhr begann die Beförderung der rund 300 geladenen Persönlichkeiten in Abständen von je 15 Minuten.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Westfälischer Merkur\">[2]</a></sup> Die Fahrt vom Tal bis in die Höhen des ewigen Schnees dauerte lediglich 16 Minuten und wickelte sich nach Angaben des <em>Westfälischen Merkur</em> ohne Zwischenfall ab.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Westfälischer Merkur\">[2]</a></sup> Das Wetter begünstigte den Festtag insoweit, als die Aussicht bis zum Gipfel der <a href=\"https://de.wikipedia.org/wiki/Zugspitze\" target=\"_blank\" rel=\"noopener\">Zugspitze</a> klar war.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Bavarian_Zugspitze_Railway.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-11678,_Bergbahn_auf_die_Zugspitze.jpg",
+        "alt_text": "Bavarian Zugspitze Railway",
+        "caption": "Bavarian Zugspitze Railway, Schmalspur-Zahnradbahn in Bayern"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Schürff",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Hans_Schürff",
+        "link_target": "Hans Schürff"
+      },
+      {
+        "term": "bayerischer",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bayerische_Zugspitzbahn",
+        "link_target": "Bayerische Zugspitzbahn"
+      },
+      {
+        "term": "Zugspitze",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Zugspitze",
+        "link_target": "Zugspitze"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "date": "1926-07-06",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/VX647KCEFWA4T3GE4XVT4SSH6KVEY3VB",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1, S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Westfälischer Merkur",
+        "display_name": "Westfälischer Merkur",
+        "date": "1926-07-06",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/VWOGNVQBIX6LPKAYUUD5WQOV5FOJ55VK",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/VX647KCEFWA4T3GE4XVT4SSH6KVEY3VB",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-07-06"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Westfälischer Merkur",
+        "display_name": "Westfälischer Merkur",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/VWOGNVQBIX6LPKAYUUD5WQOV5FOJ55VK",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-07-06"
+      }
+    ],
+    "editorial_note": "Die Tiroler Zugspitzbahn wurde 1926 als Seilbahn zwischen Ehrwald und dem Zugspitzgipfel eröffnet. Der betont deutsch-österreichische Charakter des Festakts spiegelte die politischen Bestrebungen beider Länder wider, die durch den Versailler Vertrag verbotene Vereinigung auf kulturellem Wege vorzubereiten. Der bayerische Seilbahnzugang vom Eibsee her, die sogenannte Deutsche Zugspitzbahn, wurde erst 1930 in Betrieb genommen.",
+    "score": 110.0
+  },
+  {
+    "index": 7,
+    "headline": "Aufstandsbewegung gegen den Schah in Korassan",
+    "subheadline": "Nomaden und Kurden erheben sich — Truppen eilends in das Hochland entsandt — Russischer Einfluss vermutet",
+    "dateline": "Teheran, 6. Juli.",
+    "type": "Artikel",
+    "category": "International",
+    "actual_words": 90,
+    "body_html": "<p>Aus Teheran verlautet, dass in der Provinz Korassan eine gegen Schah Pahlawi gerichtete Aufstandsbewegung ausgebrochen ist. Beteiligt sind der Meldung zufolge <a href=\"https://de.wikipedia.org/wiki/Nomaden\" target=\"_blank\" rel=\"noopener\">Nomadenstämme</a> und <a href=\"https://de.wikipedia.org/wiki/Kurden\" target=\"_blank\" rel=\"noopener\">Kurden</a>, die sich gegen die Zentralgewalt erhoben haben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Wiener Zeitung\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Die Regierung in Teheran lässt starke Truppenabteilungen mit größter Beschleunigung in das Hochland befördern, um die Bewegung zu unterdrücken.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Wiener Zeitung\">[1]</a></sup></p>\n<p>Nach Angaben des Harburger Tageblatts soll die Aufstandsbewegung von Russland begünstigt werden.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Darüber hinaus heißt es, der Einfluss des Schahs in der monarchistischen Partei sei im Abnehmen begriffen, da die Einschränkung des Heeresbudgets in militärischen Kreisen große Unzufriedenheit erregt habe.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Kurden.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Xelke_Kurdistanê.jpg",
+        "alt_text": "Kurden",
+        "caption": "Kurden, westasiatische Volksgruppe"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Kurden",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Kurden",
+        "link_target": "Kurden"
+      },
+      {
+        "term": "Nomadenstämme",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Nomaden",
+        "link_target": "Nomaden"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Wiener Zeitung",
+        "display_name": "Wiener Zeitung",
+        "date": "1926-07-06",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19260706",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "pages_cited": "S. 5",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-07-06",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/P75XG66IX3XVMQINVN6CM6NFQV5K7JIF",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Wiener Zeitung",
+        "display_name": "Wiener Zeitung",
+        "url": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19260706",
+        "archive": "ANNO (Österreichische Nationalbibliothek)",
+        "date": "1926-07-06"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/P75XG66IX3XVMQINVN6CM6NFQV5K7JIF",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-07-06"
+      }
+    ],
+    "editorial_note": "Reza Schah Pahlawi hatte erst im April 1926 die persische Kaiserkrone angenommen und stand in den ersten Jahren seiner Herrschaft vor erheblichen inneren Widerständen, insbesondere in den Randprovinzen, wo Stammesfürsten und Kurden seine Zentralisierungspolitik ablehnten. Der Verdacht russischer Einflussnahme spiegelt die dauerhafte Rivalität zwischen Großbritannien und der Sowjetunion um Einfluss in Persien wider, die das gesamte frühe 20. Jahrhundert prägte. Reza Schah konsolidierte seine Macht in den folgenden Jahren zunehmend und regierte bis zu seiner Abdankung 1941.",
+    "score": 60.0
+  }
+]
