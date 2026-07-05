@@ -3227,5 +3227,100 @@
     "local_file": "Gregor_Strasser.jpg",
     "local_path": "images/Gregor_Strasser.jpg",
     "alt": "Gregor Strasser"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Carmona.jpg/800px-Carmona.jpg": {
+    "local_file": "António_Óscar_de_Fragoso_Carmona.jpg",
+    "local_path": "images/António_Óscar_de_Fragoso_Carmona.jpg",
+    "alt": "António Óscar de Fragoso Carmona"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bartholomeus_van_der_Helst_002.jpg/800px-Bartholomeus_van_der_Helst_002.jpg": {
+    "local_file": "Schützenverein.jpg",
+    "local_path": "images/Schützenverein.jpg",
+    "alt": "Schützenverein"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Willst%C3%A4tter_Portr_07881.jpg/960px-Willst%C3%A4tter_Portr_07881.jpg": {
+    "local_file": "Richard_Willstätter.jpg",
+    "local_path": "images/Richard_Willstätter.jpg",
+    "alt": "Richard Willstätter"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Landtag_of_Thuringia_%28current_composition%29.svg/960px-Landtag_of_Thuringia_%28current_composition%29.svg.png": {
+    "local_file": "Landtag_of_Thuringia.png",
+    "local_path": "images/Landtag_of_Thuringia.png",
+    "alt": "Landtag of Thuringia"
+  },
+  "https://upload.wikimedia.org/wikipedia/de/thumb/8/8a/Peter_Gast3.jpg/800px-Peter_Gast3.jpg": {
+    "local_file": "Peter_Gast.jpg",
+    "local_path": "images/Peter_Gast.jpg",
+    "alt": "Peter Gast"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hammer_and_sickle.svg/960px-Hammer_and_sickle.svg.png": {
+    "local_file": "Kommunistische_Partei.png",
+    "local_path": "images/Kommunistische_Partei.png",
+    "alt": "Kommunistische Partei"
+  },
+  "https://upload.wikimedia.org/wikipedia/de/thumb/5/5e/MierendorffCarlo.jpg/800px-MierendorffCarlo.jpg": {
+    "local_file": "Carlo_Mierendorff.jpg",
+    "local_path": "images/Carlo_Mierendorff.jpg",
+    "alt": "Carlo Mierendorff"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Friedrich_Schiller_by_Ludovike_Simanowiz.jpg/800px-Friedrich_Schiller_by_Ludovike_Simanowiz.jpg": {
+    "local_file": "Friedrich_Schiller.jpg",
+    "local_path": "images/Friedrich_Schiller.jpg",
+    "alt": "Friedrich Schiller"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Akulov_ia.jpg/800px-Akulov_ia.jpg": {
+    "local_file": "Iwan_Alexejewitsch_Akulow.jpg",
+    "local_path": "images/Iwan_Alexejewitsch_Akulow.jpg",
+    "alt": "Iwan Alexejewitsch Akulow"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1929_Rosenberger_comic.jpg/800px-1929_Rosenberger_comic.jpg": {
+    "local_file": "Adolf_Rosenberger.jpg",
+    "local_path": "images/Adolf_Rosenberger.jpg",
+    "alt": "Adolf Rosenberger"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_ILO.svg/960px-Flag_of_ILO.svg.png": {
+    "local_file": "Internationale_Arbeitsorganisation.png",
+    "local_path": "images/Internationale_Arbeitsorganisation.png",
+    "alt": "Internationale Arbeitsorganisation"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Landslide_animation_San_Matteo_County.gif/800px-Landslide_animation_San_Matteo_County.gif": {
+    "local_file": "Erdrutsch.gif",
+    "local_path": "images/Erdrutsch.gif",
+    "alt": "Erdrutsch"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/960px-Nietzsche187a.jpg": {
+    "local_file": "Friedrich_Nietzsche.jpg",
+    "local_path": "images/Friedrich_Nietzsche.jpg",
+    "alt": "Friedrich Nietzsche"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mosul_Vilayet%2C_Ottoman_Empire_%281900%29.svg/960px-Mosul_Vilayet%2C_Ottoman_Empire_%281900%29.svg.png": {
+    "local_file": "Vilâyet_Mossul.png",
+    "local_path": "images/Vilâyet_Mossul.png",
+    "alt": "Vilâyet Mossul"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jacques_Doriot.jpg/960px-Jacques_Doriot.jpg": {
+    "local_file": "Jacques_Doriot.jpg",
+    "local_path": "images/Jacques_Doriot.jpg",
+    "alt": "Jacques Doriot"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg/800px-Paavo_Nurmi_%28Antwerp_1920%29.jpg": {
+    "local_file": "Paavo_Nurmi.jpg",
+    "local_path": "images/Paavo_Nurmi.jpg",
+    "alt": "Paavo Nurmi"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bundesarchiv_Bild_183-R73059%2C_Wilhelm_Solf.jpg/800px-Bundesarchiv_Bild_183-R73059%2C_Wilhelm_Solf.jpg": {
+    "local_file": "Wilhelm_Solf.jpg",
+    "local_path": "images/Wilhelm_Solf.jpg",
+    "alt": "Wilhelm Solf"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Crown_Prince_of_IRAN_Reza_PAHLAVI_EP-146067A_AR2_%28cropped%29.jpg/960px-Crown_Prince_of_IRAN_Reza_PAHLAVI_EP-146067A_AR2_%28cropped%29.jpg": {
+    "local_file": "Reza_Pahlavi.jpg",
+    "local_path": "images/Reza_Pahlavi.jpg",
+    "alt": "Reza Pahlavi"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sir_Joseph_Kemp.jpg/800px-Sir_Joseph_Kemp.jpg": {
+    "local_file": "Joseph_Horsford_Kemp.jpg",
+    "local_path": "images/Joseph_Horsford_Kemp.jpg",
+    "alt": "Joseph Horsford Kemp"
   }
 }
