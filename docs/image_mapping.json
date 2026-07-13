@@ -3322,5 +3322,60 @@
     "local_file": "Joseph_Horsford_Kemp.jpg",
     "local_path": "images/Joseph_Horsford_Kemp.jpg",
     "alt": "Joseph Horsford Kemp"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jules_Verne_by_%C3%89tienne_Carjat.jpg/960px-Jules_Verne_by_%C3%89tienne_Carjat.jpg": {
+    "local_file": "Jules_Verne.jpg",
+    "local_path": "images/Jules_Verne.jpg",
+    "alt": "Jules Verne"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fa%C3%A7ade_Palais_Bourbon_3.jpg/960px-Fa%C3%A7ade_Palais_Bourbon_3.jpg": {
+    "local_file": "Palais_Bourbon.jpg",
+    "local_path": "images/Palais_Bourbon.jpg",
+    "alt": "Palais Bourbon"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Johannes_Ruff_Gottfried_Keller_Freisch%C3%A4rler.jpg/800px-Johannes_Ruff_Gottfried_Keller_Freisch%C3%A4rler.jpg": {
+    "local_file": "Freischar.jpg",
+    "local_path": "images/Freischar.jpg",
+    "alt": "Freischar"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ehem._Arbeitsamt_Bremerhaven.JPG/960px-Ehem._Arbeitsamt_Bremerhaven.JPG": {
+    "local_file": "Arbeitsamt.jpg",
+    "local_path": "images/Arbeitsamt.jpg",
+    "alt": "Arbeitsamt"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ernst_Wetter.gif/800px-Ernst_Wetter.gif": {
+    "local_file": "Ernst_Wetter.gif",
+    "local_path": "images/Ernst_Wetter.gif",
+    "alt": "Ernst Wetter"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Devisenmarkt.png/800px-Devisenmarkt.png": {
+    "local_file": "Devisenmarkt.png",
+    "local_path": "images/Devisenmarkt.png",
+    "alt": "Devisenmarkt"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bundesarchiv_Bild_102-10157%2C_Berlin%2C_Internationaler_Europa-Rundflug.jpg/800px-Bundesarchiv_Bild_102-10157%2C_Berlin%2C_Internationaler_Europa-Rundflug.jpg": {
+    "local_file": "Ludovic_Arrachart.jpg",
+    "local_path": "images/Ludovic_Arrachart.jpg",
+    "alt": "Ludovic Arrachart"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Loi_du_5_mars_1922_portant_approbation_de_la_Convention_d%27Union_%C3%A9conomique_sign%C3%A9e_%C3%A0_Bruxelles_le_25_juillet_1921_entre_le_Luxembourg_et_la_Belgique.pdf/page1-960px-Loi_du_5_mars_1922_portant_approbation_de_la_Convention_d%27Union_%C3%A9conomique_sign%C3%A9e_%C3%A0_Bruxelles_le_25_juillet_1921_entre_le_Luxembourg_et_la_Belgique.pdf.jpg": {
+    "local_file": "Belgisch-Luxemburgische_Wirtschaftsunion.jpg",
+    "local_path": "images/Belgisch-Luxemburgische_Wirtschaftsunion.jpg",
+    "alt": "Belgisch-Luxemburgische Wirtschaftsunion"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bundesarchiv_Bild_146-2007-0217%2C_Johannes_Bell.jpg/800px-Bundesarchiv_Bild_146-2007-0217%2C_Johannes_Bell.jpg": {
+    "local_file": "Johannes_Bell.jpg",
+    "local_path": "images/Johannes_Bell.jpg",
+    "alt": "Johannes Bell"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Donau_Einzugsgebiet.png/960px-Donau_Einzugsgebiet.png": {
+    "local_file": "Donau.png",
+    "local_path": "images/Donau.png",
+    "alt": "Donau"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/United_Press_International_%28UPI%29_logo.svg/960px-United_Press_International_%28UPI%29_logo.svg.png": {
+    "local_file": "United_Press_International.png",
+    "local_path": "images/United_Press_International.png",
+    "alt": "United Press International"
   }
 }

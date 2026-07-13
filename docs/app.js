@@ -2,7 +2,7 @@
     // ═══════════════════════════════════════════════════════
     // DATA (loaded from external JSON files)
     // ═══════════════════════════════════════════════════════
-    const CACHE_VERSION = 46;
+    const CACHE_VERSION = 47;
     let EDITIONS = {};
     let CHRONIK = [];
     let SPECIALS_INDEX = [];
@@ -259,7 +259,7 @@
         if (a.images && a.images.length > 0) {
             const img = a.images[0];
             html += `<figure class="article-image">
-                <img src="${escHtml(img.url)}" alt="${escHtml(img.alt_text || '')}" loading="lazy">
+                <img src="${escHtml(img.url || img.file)}" alt="${escHtml(img.alt_text || img.caption || '')}" loading="lazy">
                 <figcaption>${escHtml(img.caption || '')}
                     <span class="image-credit">${escHtml(img.credit || '')}</span>
                 </figcaption>
