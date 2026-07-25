@@ -3578,60 +3578,155 @@
     "local_file": "George_Bernard_Shaw.jpg",
     "local_path": "images/George_Bernard_Shaw.jpg",
     "alt": "George Bernard Shaw",
-    "dates_used": ["1926-07-25"]
+    "dates_used": [
+      "1926-07-25"
+    ]
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/89/Sacvan.jpg": {
     "local_file": "Sacco_und_Vanzetti.jpg",
     "local_path": "images/Sacco_und_Vanzetti.jpg",
     "alt": "Sacco und Vanzetti",
-    "dates_used": ["1926-07-25"]
+    "dates_used": [
+      "1926-07-25"
+    ]
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hiram_Warren_Johnson.jpg": {
     "local_file": "Hiram_Johnson.jpg",
     "local_path": "images/Hiram_Johnson.jpg",
     "alt": "Hiram Johnson",
-    "dates_used": ["1926-07-26"]
+    "dates_used": [
+      "1926-07-26"
+    ]
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gen._Von_Seeckt_LCCN2014711010_(cropped)(2).tif": {
     "local_file": "Hans_von_Seeckt.jpg",
     "local_path": "images/Hans_von_Seeckt.jpg",
     "alt": "Hans von Seeckt",
-    "dates_used": ["1926-07-26"]
+    "dates_used": [
+      "1926-07-26"
+    ]
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/31/Grigorii_Zinovieff_1920_(cropped)(b).jpg": {
     "local_file": "Grigori_Sinowjew.jpg",
     "local_path": "images/Grigori_Sinowjew.jpg",
     "alt": "Grigori Sinowjew",
-    "dates_used": ["1926-07-28"]
+    "dates_used": [
+      "1926-07-28"
+    ]
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ec/5_Prohibition_Disposal(9)_(cropped).jpg": {
     "local_file": "Prohibition.jpg",
     "local_path": "images/Prohibition.jpg",
     "alt": "Alkoholvernichtung während der Prohibition",
-    "dates_used": ["1926-07-28"]
+    "dates_used": [
+      "1926-07-28"
+    ]
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/37/Chiang_Kai-shek-young.jpg": {
     "local_file": "Chiang_Kai-shek.jpg",
     "local_path": "images/Chiang_Kai-shek.jpg",
     "alt": "Chiang Kai-shek",
-    "dates_used": ["1926-07-28"]
+    "dates_used": [
+      "1926-07-28"
+    ]
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/11/Zeiss-Planetarium-jena.jpg": {
     "local_file": "Zeiss_Planetarium_Jena.jpg",
     "local_path": "images/Zeiss_Planetarium_Jena.jpg",
     "alt": "Zeiss-Planetarium Jena",
-    "dates_used": ["1926-07-28"]
+    "dates_used": [
+      "1926-07-28"
+    ]
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/94/Eemil_Set%C3%A4l%C3%A4.JPG": {
     "local_file": "Eemil_Setala.jpg",
     "local_path": "images/Eemil_Setala.jpg",
     "alt": "Eemil Nestor Setälä",
-    "dates_used": ["1926-07-25"]
+    "dates_used": [
+      "1926-07-25"
+    ]
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ea/July_1926_hurricane_damage_-_New_Britain_Daily_Herald_-_July_31%2C_1926.jpg": {
     "local_file": "Hurrikan_Florida_1926.jpg",
     "local_path": "images/Hurrikan_Florida_1926.jpg",
     "alt": "Hurrikan-Schäden in Florida, Juli 1926",
-    "dates_used": ["1926-07-28"]
+    "dates_used": [
+      "1926-07-28"
+    ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lillian_Moller_Gilbreth.jpg/960px-Lillian_Moller_Gilbreth.jpg": {
+    "local_file": "Lillian_Evelyn_Gilbreth.jpg",
+    "local_path": "images/Lillian_Evelyn_Gilbreth.jpg",
+    "alt": "Lillian Evelyn Gilbreth"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arthur_Stanley_Eddington.jpg/800px-Arthur_Stanley_Eddington.jpg": {
+    "local_file": "Arthur_Stanley_Eddington.jpg",
+    "local_path": "images/Arthur_Stanley_Eddington.jpg",
+    "alt": "Arthur Stanley Eddington"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/John_Raleigh_Mott.jpg/960px-John_Raleigh_Mott.jpg": {
+    "local_file": "John_Mott.jpg",
+    "local_path": "images/John_Mott.jpg",
+    "alt": "John Mott"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Korosec_anton.jpg/800px-Korosec_anton.jpg": {
+    "local_file": "Anton_Korošec.jpg",
+    "local_path": "images/Anton_Korošec.jpg",
+    "alt": "Anton Korošec"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gilbert_Murray.jpg/800px-Gilbert_Murray.jpg": {
+    "local_file": "Gilbert_Murray.jpg",
+    "local_path": "images/Gilbert_Murray.jpg",
+    "alt": "Gilbert Murray"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Economic_region_of_Herzegovina.png/960px-Economic_region_of_Herzegovina.png": {
+    "local_file": "Herzegowina.png",
+    "local_path": "images/Herzegowina.png",
+    "alt": "Herzegowina"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Menzhinsky_V_1926.jpg/800px-Menzhinsky_V_1926.jpg": {
+    "local_file": "Wjatscheslaw_Rudolfowitsch_Menschinski.jpg",
+    "local_path": "images/Wjatscheslaw_Rudolfowitsch_Menschinski.jpg",
+    "alt": "Wjatscheslaw Rudolfowitsch Menschinski"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sun_Chuanfang.jpg/800px-Sun_Chuanfang.jpg": {
+    "local_file": "Sun_Chuanfang.jpg",
+    "local_path": "images/Sun_Chuanfang.jpg",
+    "alt": "Sun Chuanfang"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/PetersenCarlWilhelm.jpg/800px-PetersenCarlWilhelm.jpg": {
+    "local_file": "Carl_Wilhelm_Petersen.jpg",
+    "local_path": "images/Carl_Wilhelm_Petersen.jpg",
+    "alt": "Carl Wilhelm Petersen"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/H.G._Wells_by_Beresford.jpg/800px-H.G._Wells_by_Beresford.jpg": {
+    "local_file": "H._G._Wells.jpg",
+    "local_path": "images/H._G._Wells.jpg",
+    "alt": "H. G. Wells"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Paul_Wittek_vers_1938.jpg/800px-Paul_Wittek_vers_1938.jpg": {
+    "local_file": "Paul_Wittek.jpg",
+    "local_path": "images/Paul_Wittek.jpg",
+    "alt": "Paul Wittek"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ma%C5%82gorzata_Kidawa-B%C5%82o%C5%84ska_18_February_2020_02.jpg/960px-Ma%C5%82gorzata_Kidawa-B%C5%82o%C5%84ska_18_February_2020_02.jpg": {
+    "local_file": "Marszałek_Senatu_Rzeczypospolitej_Polskiej.jpg",
+    "local_path": "images/Marszałek_Senatu_Rzeczypospolitej_Polskiej.jpg",
+    "alt": "Marszałek Senatu Rzeczypospolitej Polskiej"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hambacher_Fest_1832_001.JPG/800px-Hambacher_Fest_1832_001.JPG": {
+    "local_file": "Vormärz.jpg",
+    "local_path": "images/Vormärz.jpg",
+    "alt": "Vormärz"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Filippo_Cremonesi.jpg/800px-Filippo_Cremonesi.jpg": {
+    "local_file": "Filippo_Cremonesi.jpg",
+    "local_path": "images/Filippo_Cremonesi.jpg",
+    "alt": "Filippo Cremonesi"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Laffare1.jpg/800px-Laffare1.jpg": {
+    "local_file": "Flaggenstreit.jpg",
+    "local_path": "images/Flaggenstreit.jpg",
+    "alt": "Flaggenstreit"
   }
 }
