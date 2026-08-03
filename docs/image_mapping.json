@@ -3728,5 +3728,66 @@
     "local_file": "Flaggenstreit.jpg",
     "local_path": "images/Flaggenstreit.jpg",
     "alt": "Flaggenstreit"
-  }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/V%C3%A1gi%2C_Istv%C3%A1n.jpg/800px-V%C3%A1gi%2C_Istv%C3%A1n.jpg": {
+    "local_file": "István_Vági.jpg",
+    "local_path": "images/István_Vági.jpg",
+    "alt": "István Vági"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Maurice_Bokanowski-1919.jpg/800px-Maurice_Bokanowski-1919.jpg": {
+    "local_file": "Maurice_Bokanowski.jpg",
+    "local_path": "images/Maurice_Bokanowski.jpg",
+    "alt": "Maurice Bokanowski"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bundesarchiv_Bild_102-11032%2C_August_Zaleski.jpg/800px-Bundesarchiv_Bild_102-11032%2C_August_Zaleski.jpg": {
+    "local_file": "August_Zaleski.jpg",
+    "local_path": "images/August_Zaleski.jpg",
+    "alt": "August Zaleski"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Portrait_of_Benjamin_Strong%2C_Jr..jpg/800px-Portrait_of_Benjamin_Strong%2C_Jr..jpg": {
+    "local_file": "Benjamin_Strong_Jr..jpg",
+    "local_path": "images/Benjamin_Strong_Jr..jpg",
+    "alt": "Benjamin Strong Jr."
+  },
+  "https://upload.wikimedia.org/wikipedia/de/thumb/8/89/Nachrichtenagentur-Reuters-Gruendungshaus-Aachen-Pontstrasse-117.jpg/800px-Nachrichtenagentur-Reuters-Gruendungshaus-Aachen-Pontstrasse-117.jpg": {
+    "local_file": "Reuters.jpg",
+    "local_path": "images/Reuters.jpg",
+    "alt": "Reuters"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2013-05-03_Fotoflug_Leer_Papenburg_DSCF7475.jpg/960px-2013-05-03_Fotoflug_Leer_Papenburg_DSCF7475.jpg": {
+    "local_file": "Güterzug.jpg",
+    "local_path": "images/Güterzug.jpg",
+    "alt": "Güterzug"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hoogovens.JPG/960px-Hoogovens.JPG": {
+    "local_file": "Schwerindustrie.jpg",
+    "local_path": "images/Schwerindustrie.jpg",
+    "alt": "Schwerindustrie"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Exterior_of_5_Canada_Square.jpg/800px-Exterior_of_5_Canada_Square.jpg": {
+    "local_file": "Reuters.jpg",
+    "local_path": "images/Reuters.jpg",
+    "alt": "Reuters"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/4-6-1920%2C_signature_de_la_Paix_avec_la_Hongrie%2C_d%C3%A9part_des_d%C3%A9l%C3%A9gu%C3%A9s_hongrois_%28sur_les_marches_du_perron%29_-_full.jpg/960px-4-6-1920%2C_signature_de_la_Paix_avec_la_Hongrie%2C_d%C3%A9part_des_d%C3%A9l%C3%A9gu%C3%A9s_hongrois_%28sur_les_marches_du_perron%29_-_full.jpg": {
+    "local_file": "Vertrag_von_Trianon.jpg",
+    "local_path": "images/Vertrag_von_Trianon.jpg",
+    "alt": "Vertrag von Trianon"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/FWWoolworth.jpg/800px-FWWoolworth.jpg": {
+    "local_file": "Winfield_Woolworth.jpg",
+    "local_path": "images/Winfield_Woolworth.jpg",
+    "alt": "Winfield Woolworth"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hjalmar_Schacht.jpg/800px-Hjalmar_Schacht.jpg": {
+    "local_file": "Hjalmar_Schacht.jpg",
+    "local_path": "images/Hjalmar_Schacht.jpg",
+    "alt": "Hjalmar Schacht"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bank_Line_house_flag.svg/960px-Bank_Line_house_flag.svg.png": {
+    "local_file": "Bank_Line.png",
+    "local_path": "images/Bank_Line.png",
+    "alt": "Bank Line"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/53/Gertrude_Ederle.jpg": "Gertrude_Ederle.jpg"
 }
