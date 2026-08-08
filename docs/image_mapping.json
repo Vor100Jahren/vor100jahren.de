@@ -3789,5 +3789,65 @@
     "local_path": "images/Bank_Line.png",
     "alt": "Bank Line"
   },
-  "https://upload.wikimedia.org/wikipedia/commons/5/53/Gertrude_Ederle.jpg": "Gertrude_Ederle.jpg"
+  "https://upload.wikimedia.org/wikipedia/commons/5/53/Gertrude_Ederle.jpg": "Gertrude_Ederle.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_the_IMRO.svg/960px-Flag_of_the_IMRO.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Innere_Mazedonische_Revolutionäre_Organisation.png",
+    "local_path": "images/Innere_Mazedonische_Revolutionäre_Organisation.png",
+    "alt": "Innere Mazedonische Revolutionäre Organisation"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bundesarchiv_Bild_183-1982-0114-501%2C_Berlin%2C_J%C3%A4gerstra%C3%9Fe%2C_Reichsbank.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_183-1982-0114-501%2C_Berlin%2C_J%C3%A4gerstra%C3%9Fe%2C_Reichsbank.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Reichsbank.jpg",
+    "local_path": "images/Reichsbank.jpg",
+    "alt": "Reichsbank"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/President_Calvin_Coolidge%2C_1924_portrait_photograph_%283x4_cropped_2%29.jpeg/960px-President_Calvin_Coolidge%2C_1924_portrait_photograph_%283x4_cropped_2%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Calvin_Coolidge.jpeg",
+    "local_path": "images/Calvin_Coolidge.jpeg",
+    "alt": "Calvin Coolidge"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_the_League_of_Nations_%281939%29.svg/960px-Flag_of_the_League_of_Nations_%281939%29.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Völkerbund.png",
+    "local_path": "images/Völkerbund.png",
+    "alt": "Völkerbund"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesarchiv_Bild_146-1989-040-27%2C_Gustav_Stresemann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_146-1989-040-27%2C_Gustav_Stresemann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Gustav_Stresemann.jpg",
+    "local_path": "images/Gustav_Stresemann.jpg",
+    "alt": "Gustav Stresemann"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Blixa_Bargeld.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Blixa_Bargeld.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Blixa_Bargeld.jpg",
+    "local_path": "images/Blixa_Bargeld.jpg",
+    "alt": "Blixa Bargeld"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Woltman_0169.JPG/960px-Woltman_0169.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Dampfschiff.jpg",
+    "local_path": "images/Dampfschiff.jpg",
+    "alt": "Dampfschiff"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Archev%C3%AAque_Leopold_Ruiz_y_Flores_%28Pacific_and_Atlantic%29_-_btv1b53172731p.jpg/960px-Archev%C3%AAque_Leopold_Ruiz_y_Flores_%28Pacific_and_Atlantic%29_-_btv1b53172731p.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Leopoldo_Ruiz_y_Flóres.jpg",
+    "local_path": "images/Leopoldo_Ruiz_y_Flóres.jpg",
+    "alt": "Leopoldo Ruiz y Flóres"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/GER-140-Reichsbanknote-100_Trillion_Mark_%281924%29.jpg/960px-GER-140-Reichsbanknote-100_Trillion_Mark_%281924%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Papiermark.jpg",
+    "local_path": "images/Papiermark.jpg",
+    "alt": "Papiermark"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Seal_of_the_United_States_Congress.svg/960px-Seal_of_the_United_States_Congress.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Kongress_der_Vereinigten_Staaten.png",
+    "local_path": "images/Kongress_der_Vereinigten_Staaten.png",
+    "alt": "Kongress der Vereinigten Staaten"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ludwig_Tieck.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Ludwig_Tieck.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Ludwig_Tieck.jpg",
+    "local_path": "images/Ludwig_Tieck.jpg",
+    "alt": "Ludwig Tieck"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Norrbottens_l%C3%A4n_in_Sweden.svg/960px-Norrbottens_l%C3%A4n_in_Sweden.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Norrbottens_län.png",
+    "local_path": "images/Norrbottens_län.png",
+    "alt": "Norrbottens län"
+  }
 }
