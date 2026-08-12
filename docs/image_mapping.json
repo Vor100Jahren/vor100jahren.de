@@ -3849,5 +3849,60 @@
     "local_file": "Norrbottens_län.png",
     "local_path": "images/Norrbottens_län.png",
     "alt": "Norrbottens län"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stahlhelm_logo.svg/960px-Stahlhelm_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Der_Stahlhelm_Bund_der_Frontsoldaten.png",
+    "local_path": "images/Der_Stahlhelm_Bund_der_Frontsoldaten.png",
+    "alt": "Der Stahlhelm, Bund der Frontsoldaten"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rudolf_Krohne.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Rudolf_Krohne.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Rudolf_Krohne.jpg",
+    "local_path": "images/Rudolf_Krohne.jpg",
+    "alt": "Rudolf Krohne"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BernardSpilsbury.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-BernardSpilsbury.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Bernard_Spilsbury.jpg",
+    "local_path": "images/Bernard_Spilsbury.jpg",
+    "alt": "Bernard Spilsbury"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bundesarchiv_Bild_102-13864%2C_Leopold_von_Hoesch.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_102-13864%2C_Leopold_von_Hoesch.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Leopold_von_Hoesch.jpg",
+    "local_path": "images/Leopold_von_Hoesch.jpg",
+    "alt": "Leopold von Hoesch"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Alan_Cobham_%28Bain_Collection%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Alan_Cobham_%28Bain_Collection%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Alan_Cobham.jpg",
+    "local_path": "images/Alan_Cobham.jpg",
+    "alt": "Alan Cobham"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Baker_Banana.jpg/960px-Baker_Banana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "La_Revue_Nègre.jpg",
+    "local_path": "images/La_Revue_Nègre.jpg",
+    "alt": "La Revue Nègre"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Joseph_Schenck%2C_1928.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Joseph_Schenck%2C_1928.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Joseph_Schenck.jpg",
+    "local_path": "images/Joseph_Schenck.jpg",
+    "alt": "Joseph Schenck"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Austen_Chamberlain_MP_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Austen_Chamberlain_MP_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Austen_Chamberlain.jpg",
+    "local_path": "images/Austen_Chamberlain.jpg",
+    "alt": "Austen Chamberlain"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deutsche_Reichsbahn_Gesellschaft_logo.svg/960px-Deutsche_Reichsbahn_Gesellschaft_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Deutsche_Reichsbahn.png",
+    "local_path": "images/Deutsche_Reichsbahn.png",
+    "alt": "Deutsche Reichsbahn"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bundesarchiv_Bild_102-10691%2C_Alexej_Iwanowitsch_Rykow.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_102-10691%2C_Alexej_Iwanowitsch_Rykow.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Alexei_Iwanowitsch_Rykow.jpg",
+    "local_path": "images/Alexei_Iwanowitsch_Rykow.jpg",
+    "alt": "Alexei Iwanowitsch Rykow"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pulitzer.jpg/960px-Pulitzer.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Pulitzer-Preis.jpg",
+    "local_path": "images/Pulitzer-Preis.jpg",
+    "alt": "Pulitzer-Preis"
   }
 }

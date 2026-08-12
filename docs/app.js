@@ -2,7 +2,7 @@
     // ═══════════════════════════════════════════════════════
     // DATA (loaded from external JSON files)
     // ═══════════════════════════════════════════════════════
-    const CACHE_VERSION = 52;
+    const CACHE_VERSION = 53;
     let EDITIONS = {};
     let CHRONIK = [];
     let SPECIALS_INDEX = [];
