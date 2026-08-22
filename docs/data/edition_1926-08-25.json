@@ -1,0 +1,387 @@
+[
+  {
+    "index": 1,
+    "headline": "Pittsburgh erschüttert: Bombenexplosion in Großbank fordert Opfer",
+    "subheadline": "Täter und Kassierer getötet — Gebäude schwer beschädigt — Riesenpanik in den Straßen",
+    "dateline": "New York, 25. August.",
+    "type": "Artikel",
+    "category": "Justiz & Kriminalität",
+    "actual_words": 239,
+    "body_html": "<p>In Pittsburgh ist ein folgenschwerer Anschlag auf den Schalterraum einer amerikanischen Großbank verübt worden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Ein Mann in Arbeitskleidung betrat die Räumlichkeiten der Farmers Deposit and Savings Bank, die in einem sechzehnstöckigen Hause untergebracht ist, und verlangte die Auszahlung eines Schecks in Höhe von 2000 <a href=\"https://de.wikipedia.org/wiki/US-Dollar\" target=\"_blank\" rel=\"noopener\">Dollar</a>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hamburger Echo\">[2]</a></sup> Als der Bankkassierer dem Kunden diesen Betrag verweigerte, stieß der Täter wüste Drohungen aus.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup></p>\n<p>Nach Angaben des <em>Vorwärts</em> rief der Mann dem Bankbeamten zu: „Gebt mir Geld, sonst bringe Ich Vamps dahinter!“<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Dem <em>Hamburger Echo</em> zufolge versuchte daraufhin ein hinzueilender Schutzmann, den Randalierer zu verhaften.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hamburger Echo\">[2]</a></sup> In diesem Moment gab der Mann einem kleinen schwarzen Sack, den er auf den Fußboden gestellt hatte, einen Tritt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hamburger Echo\">[2]</a></sup> Dies löste eine ohrenbetäubende Explosion aus, die das Innere des Gebäudes zertrümmerte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hamburger Echo\">[2]</a></sup> Die Detonation war derart gewaltig, dass der Täter und der Bankkassierer auf der Stelle getötet wurden. Dem Urheber des Anschlags riss die Wucht der Bombe den Kopf ab.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hamburger Echo\">[2]</a></sup></p>\n<p>Die Detonation verwüstete nicht nur die Schalterhalle, sondern zog auch das weitere Umfeld schwer in Mitleidenschaft.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> In den Straßen der Stadt entstand eine Riesenpanik, während die Fensterscheiben ganzer Straßenzüge zu Bruch gingen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Über die genaue Zahl der Opfer liegen noch abweichende Berichte vor. Während einige Meldungen von 15 Verletzten sprechen, die ins Krankenhaus gebracht werden mussten, rechnet man andernorts mit bis zu 20 Schwer- und über 100 Leichtverletzten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hamburger Echo\">[2]</a></sup> Unter den Schwerverwundeten befinden sich auch zwei Polizeibeamte, die den Attentäter überwältigen wollten, den Einsatz der Bombe jedoch nicht mehr verhindern konnten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/United_States_dollar.png",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:USDnotesNew.png",
+        "alt_text": "United States dollar",
+        "caption": "United States dollar, Währungseinheit der Vereinigten Staaten"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Dollar",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/US-Dollar",
+        "link_target": "US-Dollar"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "date": "1926-08-25",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/N5F7YMWD32DYHR2OP2FXMX7AGPIFFMMP",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Hamburger Echo",
+        "display_name": "Hamburger Echo",
+        "date": "1926-08-25",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/DNMR4CVMYT2C5J4QJVGB62263AGUZGY6",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/N5F7YMWD32DYHR2OP2FXMX7AGPIFFMMP",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-08-25"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Hamburger Echo",
+        "display_name": "Hamburger Echo",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/DNMR4CVMYT2C5J4QJVGB62263AGUZGY6",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-08-25"
+      }
+    ],
+    "editorial_note": "Für den 24. August 1926 ist kein Bombenattentat auf die Farmers Deposit National Bank in Pittsburgh verzeichnet. An diesem Tag wurde Max Schmeling Deutscher Boxmeister im Halbschwergewicht.",
+    "score": 100.0
+  },
+  {
+    "index": 2,
+    "headline": "Kabinettsrat berät über franko-deutsch-belgisches Metallkartell",
+    "subheadline": "Regierung rügt Uneinigkeit der Schwerindustrie — Wirtschaftskrise verschärft die Lage",
+    "dateline": "Brüssel, 25. August.",
+    "type": "Artikel",
+    "category": "Wirtschaft",
+    "actual_words": 244,
+    "body_html": "<p>Die Bildung des <a href=\"https://de.wikipedia.org/wiki/Internationales_Stahlkartell\" target=\"_blank\" rel=\"noopener\">internationalen</a> Eisen- und Metallkartells rückt unweigerlich in den Mittelpunkt der politischen Entscheidungen in der belgischen Hauptstadt. Wie die <em>Badische Presse</em> meldet, trat in Brüssel ein Kabinettsrat zusammen, der sich eingehend mit der geplanten Gründung des franko-deutsch-belgischen Syndikats beschäftigte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Dem <em>Harburger Tageblatt</em> zufolge nahm der Ministerrat während dieser Sitzung einen ausführlichen Bericht des Wirtschaftsministers über den aktuellen Stand der schwierigen Verhandlungen der westlichen Eisenindustrien entgegen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup></p>\n<p>Die Haltung der heimischen Schwerindustrie bereitet der Regierung in Brüssel offenkundig erhebliche Sorge. Der belgische Ministerrat drückte sein ausdrückliches Bedauern über die anhaltende Uneinigkeit in den Reihen der belgischen Industriellen aus.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Um den Beitritt belgischer Unternehmen zum Kartell noch zu ermöglichen, beschloss das Kabinett, aktiv zu intervenieren.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Die Regierung erwägt, unmittelbar an die Industrie heranzutreten. Dadurch soll diese veranlasst werden, eine Haltung einzunehmen, die das endgültige Zustandekommen des internationalen Zusammenschlusses sichert.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup></p>\n<p>Die Bemühungen um das europäische Eisenkartell fallen in eine Periode ernster wirtschaftlicher Schwierigkeiten. Die fortgesetzte Steigerung des allgemeinen Preisniveaus im Lande lässt trotz der gegenwärtig stabilen Haltung des Franken keine spürbare Erleichterung der angespannten Wirtschaftslage aufkommen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Verschiedene Industriezweige mussten bereits einen weiteren Rückgang ihres Beschäftigungsgrades verzeichnen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> So sahen sich in letzter Zeit in Brüssel allein 600 Druckereien gezwungen, ihre Arbeit vollständig einzustellen. Die Zahl der Arbeitslosen ist weiterhin im Wachsen begriffen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> In Regierungskreisen befürchtet man, dass sich die Erwerbslosigkeit in den folgenden Monaten noch erheblich vermehren wird.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Ein ordnender Eingriff in die Produktionsverhältnisse der europäischen Schwerindustrie erscheint den belgischen Verantwortlichen unter diesen Umständen als unverzichtbarer Schritt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup></p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "internationalen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Internationales_Stahlkartell",
+        "link_target": "Internationales Stahlkartell"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "date": "1926-08-25",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/VUB7MQDDVD5FNWQHNJ5DHWWMV4VWKZSZ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1, S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-08-25",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/NU2FXYUIU4E5FZO5UNV75Q5YBMH7W4FP",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/VUB7MQDDVD5FNWQHNJ5DHWWMV4VWKZSZ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-08-25"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/NU2FXYUIU4E5FZO5UNV75Q5YBMH7W4FP",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-08-25"
+      }
+    ],
+    "editorial_note": "Am 30. September 1926 kam es schließlich zur Gründung der Internationalen Rohstahlgemeinschaft (IRG). Deutschland, Frankreich, Belgien und Luxemburg einigten sich auf eine Regulierung der Stahlproduktion durch ein Quotensystem, um Überkapazitäten und Preisverfall nach dem Ersten Weltkrieg entgegenzuwirken. Die IRG bildete ein frühes Beispiel europäischer Wirtschaftszusammenarbeit in der Zwischenkriegszeit.",
+    "score": 130.0
+  },
+  {
+    "index": 3,
+    "headline": "Umgestaltung der Roten Armee: Moskau reformiert Heeresverwaltung",
+    "subheadline": "Sergei Kamenew neuer Oberinspekteur — Bereinigung im Offizierskorps nach Parteikrise",
+    "dateline": "Moskau, 25. August. (Eigener Drahtbericht.)",
+    "type": "Artikel",
+    "category": "Militär & Sicherheit",
+    "actual_words": 286,
+    "body_html": "<p>Die Oberverwaltung der Roten Armee ist einer umfassenden Umgestaltung unterzogen worden. Sie vereinigt nunmehr das Oberinspektorat der Armee, die Leitung der Militärschulen und die topografische Abteilung des Armeestabes unter einem Dach.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Im Zuge dieser Neuorganisation wurde <a href=\"https://de.wikipedia.org/wiki/Sergei_Sergejewitsch_Kamenew\" target=\"_blank\" rel=\"noopener\">Sergei Kamenew</a> (Sergei Kamenew), Mitglied des Revolutionären Kriegsrates und bisheriger Oberinspekteur der Armee, zum Leiter der Oberverwaltung ernannt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Der bisherige Inhaber dieses Postens, Lewitschew (Wassili Lewitschew), rückt auf die Position des Stellvertreters Kamenews ab.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>\n<p>Auch bei den Seestreitkräften hat sich ein bedeutender Wechsel vollzogen. Der bisherige Kommandant der Roten Flotte, Sow (Eduard Zof), wurde seines Postens enthoben und durch den früheren stellvertretenden Kommandeur der Luftstreitkräfte, Mukliewitsch (Romuald Muklewitsch), ersetzt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Die <em>Deutsche Allgemeine Zeitung</em> betont, dass der neue Heeresleiter Sergei Kamenew nicht mit dem Sowjetpolitiker Lew Kamenew (Lew Kamenew) zu verwechseln ist. Letzterer steht im Mittelpunkt der gegenwärtigen russischen Parteikrise.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup></p>\n<p>Das gesamte Revirement in den obersten Dienststellen von Heer und Flotte steht in engem Zusammenhang mit der innenpolitischen Krise der Sowjetunion.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Ziel dieser Maßnahmen ist offenbar die Ausschaltung der Anhänger der Sinowjewschen Opposition aus dem Regierungsapparat.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Dies betrifft insbesondere die Marineleitung, denn die Flotte sympathisierte in hohem Maße mit <a href=\"https://de.wikipedia.org/wiki/Grigori_Jewsejewitsch_Sinowjew\" target=\"_blank\" rel=\"noopener\">Sinowjew</a>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Dem <em>Vorwärts</em> zufolge stehen sich in Moskau derzeit die Mehrheit um Stalin (<a href=\"https://de.wikipedia.org/wiki/Josef_Stalin\" target=\"_blank\" rel=\"noopener\">Josef Stalin</a>) und die vereinigte Opposition aus <a href=\"https://de.wikipedia.org/wiki/Leo_Trotzki\" target=\"_blank\" rel=\"noopener\">Trotzki</a>, Sinowjew und Lew Kamenew unversöhnlich gegenüber.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Auf jüngsten Versammlungen kam es zu heftigen Auftritten, bei denen die Parteiflügel scharf aneinandergerieten.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Die Opposition fordert eine stärkere innerparteiliche Demokratie und verfügt noch über Stützpunkte in der Provinz, während die eigentliche Macht fest in den Händen der Stalin-Gruppe liegt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Die Umbesetzungen in der Roten Armee zeigen den Willen der Moskauer Führung, angesichts der unsicheren innenpolitischen Lage, diese Macht auch im militärischen Bereich entschieden abzusichern. Abweichende politische Strömungen sollen somit aus den Streitkräften entfernt werden.</p>",
+    "images": [
+      {
+        "url": "images/Grigori_Jewsejewitsch_Sinowjew.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "",
+        "alt_text": "Grigori Jewsejewitsch Sinowjew",
+        "caption": "Grigori Jewsejewitsch Sinowjew"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Sinowjew",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Grigori_Jewsejewitsch_Sinowjew",
+        "link_target": "Grigori Jewsejewitsch Sinowjew"
+      },
+      {
+        "term": "Josef Stalin",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Josef_Stalin",
+        "link_target": "Josef Stalin"
+      },
+      {
+        "term": "Trotzki",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Leo_Trotzki",
+        "link_target": "Leo Trotzki"
+      },
+      {
+        "term": "Sergei Kamenew",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Sergei_Sergejewitsch_Kamenew",
+        "link_target": "Sergei Sergejewitsch Kamenew"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "date": "1926-08-25",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/VJIUQH7FGLAI3X4SQYDBKMUBWIQF75FL",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "date": "1926-08-25",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/N5F7YMWD32DYHR2OP2FXMX7AGPIFFMMP",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/VJIUQH7FGLAI3X4SQYDBKMUBWIQF75FL",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-08-25"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/N5F7YMWD32DYHR2OP2FXMX7AGPIFFMMP",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-08-25"
+      }
+    ],
+    "editorial_note": "Die Umstrukturierung der Roten Armee im August 1926 markierte einen wichtigen Schritt in der Festigung von Stalins Macht. Durch die Entmachtung oppositioneller Funktionäre in Militär und Flotte wurden den innerparteilichen Rivalen wie Trotzki und Sinowjew entscheidende Stützpunkte entzogen. Viele der 1926 geförderten Offiziere, darunter Sergei Kamenew und Romuald Muklewitsch, fielen in den 1930er Jahren den stalinistischen Säuberungen (Großer Terror) zum Opfer.",
+    "score": 130.0
+  },
+  {
+    "index": 4,
+    "headline": "Unabhängigkeit für Südafrika: Debatte über den Status im Britischen Reich",
+    "subheadline": "Minister Beyers beruft sich auf historisches Recht zur Lostrennung — Einigung der weißen Rassen als Voraussetzung",
+    "dateline": "Johannesburg, 25. August.",
+    "type": "Artikel",
+    "category": "International",
+    "actual_words": 227,
+    "body_html": "<p>Die Frage der staatlichen Autonomie der südafrikanischen Union sorgt weiterhin für lebhafte politische Auseinandersetzungen. Innerhalb der Regierung in Pretoria mehren sich die Stimmen, die eine allmähliche Lösung aus den engeren Bindungen an das englische Mutterland befürworten. Das <em>Hamburger Echo</em> veröffentlicht hierzu bemerkenswerte Äußerungen, die Einblicke in die politische Strategie nationalistischer Kabinettsmitglieder gewähren.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup></p>\n<p>Wie ein Drahtbericht aus Johannesburg meldet, sah sich der südafrikanische Minister Beyers kürzlich mit scharfen Nachfragen zu seiner politischen Haltung konfrontiert.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Auf die Frage, wie er seine offene Befürwortung einer Lostrennung von England mit seinem geleisteten Ministereid in Einklang bringen könne, lieferte der Minister eine historische und staatsrechtliche Verteidigung.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Beyers erklärte dem Bericht zufolge, dass bereits seit achtzig Jahren die hervorragendsten britischen Staatsmänner das grundsätzliche Recht der Kolonien auf eine solche Lostrennung anerkannt hätten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Folglich stehe sein politisches Ziel nicht im Widerspruch zu den Traditionen des britischen Imperiums.</p>\n<p>Trotz dieser grundsätzlichen Haltung dämpfte der Minister jedoch die Erwartungen auf einen raschen Austritt aus dem Empire. Eine vollständige Lostrennung vom Britischen Reich komme vorerst nicht in Frage.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Als Voraussetzung für diesen Schritt nannte Beyers die innere Verschmelzung der europäischstämmigen Bevölkerung. Erst wenn die beiden weißen Nationen Südafrikas, die englische und die holländische, sich geeinigt hätten, könne ein gemeinsamer Austritt aus dem Verband des Reiches vollzogen werden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hamburger Echo\">[1]</a></sup> Die Befürworter der südafrikanischen Unabhängigkeit wollen demnach zunächst die Spaltung zwischen den beiden Bevölkerungsgruppen überwinden, die seit den Burenkriegen besteht.</p>",
+    "images": [],
+    "wikipedia_links": [],
+    "primary_sources": [
+      {
+        "newspaper": "Hamburger Echo",
+        "display_name": "Hamburger Echo",
+        "date": "1926-08-25",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/DNMR4CVMYT2C5J4QJVGB62263AGUZGY6",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Hamburger Echo",
+        "display_name": "Hamburger Echo",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/DNMR4CVMYT2C5J4QJVGB62263AGUZGY6",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-08-25"
+      }
+    ],
+    "editorial_note": "Der südafrikanische Minister F. W. Beyers gehörte der Nationalen Partei von Premierminister J. B. M. Hertzog an, die eine stärkere Unabhängigkeit vom Britischen Empire anstrebte. Die Debatte über den Status der Dominions kulminierte im Spätjahr 1926 auf der Londoner Reichskonferenz. Dort wurde mit der Balfour-Deklaration formell festgestellt, dass das Vereinigte Königreich und die Dominions autonome Gemeinschaften innerhalb des Britischen Reiches mit gleichem Status seien. Dies ebnete den Weg für das Statut von Westminster (1931), das Südafrika die vollständige gesetzgeberische Unabhängigkeit gewährte.",
+    "score": 20.0
+  },
+  {
+    "index": 5,
+    "headline": "Rechtsblock in Sachsen formiert sich für Landtagswahl",
+    "subheadline": "Stahlhelm führt nationale Arbeitsgemeinschaft — Sächsische Volkspartei ignoriert Berliner Parteikurs",
+    "dateline": "Dresden, 25. August.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 264,
+    "body_html": "<p>Im Hinblick auf die im Herbst stattfindenden Neuwahlen zum sächsischen Landtag zeichnet sich eine drastische politische Polarisierung ab.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Wie der <em>Vorwärts</em> berichtet, stehen die Wahlen unter dem Vorzeichen einer Spaltung der Linken und einer Sammlung der Rechtsparteien.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Während auf der linken Seite die 23 Abgeordneten der sogenannten <a href=\"https://de.wikipedia.org/wiki/Alte_Sozialdemokratische_Partei_Deutschlands\" target=\"_blank\" rel=\"noopener\">Alten Sozialdemokratischen Partei</a> gegen die reguläre Sozialdemokratische Partei antreten, bündeln die Deutschnationalen, die Deutsche Volkspartei, die Wirtschaftspartei und völkische Gruppierungen ihre Kräfte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Sie vereinigen sich unter der Schirmherrschaft des Stahlhelms zu einer „nationalen Arbeitsgemeinschaft“.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup></p>\n<p>Die Formierung dieses Rechtsblocks verdeutlicht die innere Zerrissenheit der Deutschen Volkspartei.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Dem <em>Vorwärts</em> zufolge richteten die Wehrverbände unter Führung des Stahlhelms ein Ultimatum an die Volkspartei. Die Kernbedingung bestand in der absoluten Ablehnung jeder Kooperation mit der Sozialdemokratie.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Die <em>Nationalliberale Correspondenz</em>, das offizielle Sprachrohr der Reichs-Volkspartei, hatte eine Teilnahme an einem schwarz-weiß-roten Block noch schroff abgelehnt. Dies entsprach ganz der Linie der Reichsführung, eine zu starke Bindung an rechte Kräfte zu vermeiden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Die sächsische Volkspartei jedoch, die den Deutschnationalen ohnehin nähersteht, schlägt einen anderen Kurs ein und bestätigt nun selbst, dass die Verhandlungen günstig verlaufen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup></p>\n<p>Massive Unterstützung erfährt die Sammlungsbewegung aus bürgerlichen Wirtschaftskreisen. Nach Angaben der <em>Deutschen Tageszeitung</em> haben sowohl die Arbeitsgemeinschaft bürgerlicher Bezirksausschussmitglieder in der Kreishauptmannschaft Dresden als auch der Sächsische Landesbürgerrat weitreichende Aufrufe zur Bildung einer geschlossenen Front erlassen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Anfängliche Zweifel an der Stabilität des Blocks sind offenbar ausgeräumt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> So erklärte der sächsische Landesvorsitzende der Wirtschaftspartei, Obermeister Kaiser, kürzlich auf einer öffentlichen Versammlung in Meißen unzweideutig, dass seine Partei dem Rechtsblock fest angehöre.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> In der linken Presse gilt diese Einheitsfront als besorgniserregender Versuch, nach Braunschweiger Vorbild ein reaktionäres „Stahlhelmsachsen“ zu errichten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup></p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "Alten Sozialdemokratischen Partei",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Alte_Sozialdemokratische_Partei_Deutschlands",
+        "link_target": "Alte Sozialdemokratische Partei Deutschlands"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "date": "1926-08-25",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/N5F7YMWD32DYHR2OP2FXMX7AGPIFFMMP",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/N5F7YMWD32DYHR2OP2FXMX7AGPIFFMMP",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-08-25"
+      }
+    ],
+    "editorial_note": "Die sächsische Landespolitik der Weimarer Republik war durch eine ausgeprägte Polarisierung gekennzeichnet. Nach der Entmachtung der linken Regierung Zeigner im Jahr 1923 verlor die SPD in Sachsen an Boden. Bei der Landtagswahl am 31. Oktober 1926 konnte der bürgerlich-rechte Block zwar zulegen; eine dauerhafte politische Stabilität entstand in Sachsen jedoch bis zum Ende der Republik nicht.",
+    "score": 100.0
+  },
+  {
+    "index": 6,
+    "headline": "Kultureller und wirtschaftlicher Aufbau in Tschetschenien",
+    "subheadline": "Neue Landstraßen durch den Kaukasus — Kampf gegen den Analphabetismus — Der andauernde Einfluss des muslimischen Klerus",
+    "dateline": "Moskau, 25. August.",
+    "type": "Artikel",
+    "category": "Gesellschaft",
+    "actual_words": 255,
+    "body_html": "<p>Während der Europäische <a href=\"https://de.wikipedia.org/wiki/Europäischer_Nationalitätenkongress\" target=\"_blank\" rel=\"noopener\">Nationalitätenkongress</a> in Genf laut der <em>Kölnischen Zeitung</em> derzeit Debatten über die „Sicherung der kulturellen Entwicklungsfreiheit“ und die wirtschaftliche Gleichberechtigung von Minderheiten führt,<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> zeigt sich im sowjetischen Kaukasus ein praktischer Wandel der Infrastruktur. Die Zentralregierung in Moskau treibt den Ausbau Tschetscheniens massiv voran. Ziel ist es, das rückständige Gebiet wirtschaftlich zu erschließen und fester an den Staat zu binden.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Pravda\">[2]</a></sup></p>\n<p>Wie die Moskauer <em>Prawda</em> berichtet, galt die vollkommene Wegelosigkeit bisher als das Haupthindernis für die Entwicklung der dortigen Produktivkräfte.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Pravda\">[2]</a></sup> Diesem Zustand soll nun durch umfangreiche Bauprojekte ein Ende bereitet werden. Gegenwärtig befinden sich zwei neue Landstraßen im Bau, die über steile Gebirgspässe führen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Pravda\">[2]</a></sup> Die einheimischen Bergvölker, die traditionell ein isoliertes Leben führten, beteiligen sich an diesen gefährlichen Straßenarbeiten in besonders aktiver Weise.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Pravda\">[2]</a></sup></p>\n<p>Neben der verkehrstechnischen Erschließung sind der kulturelle und medizinische Ausbau zentrale Punkte im Programm der Verwaltung. Dem sowjetischen Parteiorgan zufolge werden derzeit in vier tschetschenischen Dörfern moderne Krankenhäuser errichtet.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Pravda\">[2]</a></sup> Gleichzeitig entstehen neue Schulen sowie zwei Käsereien, die den Grundstock für eine künftige regionale Industrie bilden sollen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Pravda\">[2]</a></sup></p>\n<p>Trotz dieser materiellen Fortschritte stehen der sowjetischen Führung erhebliche gesellschaftliche Hürden gegenüber. Die Landbevölkerung Tschetscheniens besteht noch immer fast vollständig aus Analphabeten.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Pravda\">[2]</a></sup> Aus diesem Umstand bezieht das muslimische Geistlichentum, dessen Aktivität laut den Berichten deutlich zunimmt, weiterhin Einfluss.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Pravda\">[2]</a></sup> Die offizielle Presse räumt unumwunden ein, dass die Macht der religiösen Führer über die Bevölkerung keineswegs gebrochen sei.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Pravda\">[2]</a></sup> Der beschleunigte Bau von Schulen und Verkehrswegen ist für Moskau daher nicht zuletzt auch eine politische Maßnahme. Damit soll der Einflussbereich der traditionellen Eliten schrittweise zugunsten der Zentralmacht zurückgedrängt werden.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Pravda\">[2]</a></sup></p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "Nationalitätenkongress",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Europäischer_Nationalitätenkongress",
+        "link_target": "Europäischer Nationalitätenkongress"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Pravda",
+        "display_name": "Правда (Pravda)",
+        "date": "1926-08-25",
+        "url": "https://archive.org/search?query=title%3A%22Pravda%22+AND+date%3A1926-08-25",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Kölnische Zeitung",
+        "display_name": "Kölnische Zeitung",
+        "date": "1926-08-25",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/OQN62BUPDCJBWTMMDZKWSJDJSM64BW2P",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q2",
+        "newspaper": "Kölnische Zeitung",
+        "display_name": "Kölnische Zeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/OQN62BUPDCJBWTMMDZKWSJDJSM64BW2P",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-08-25"
+      },
+      {
+        "id": 2,
+        "qid": "Q1",
+        "newspaper": "Pravda",
+        "display_name": "Правда (Pravda)",
+        "url": "https://archive.org/search?query=title%3A%22Pravda%22+AND+date%3A1926-08-25",
+        "archive": "Internet Archive",
+        "date": "1926-08-25"
+      }
+    ],
+    "editorial_note": "Die sowjetische Nationalitätenpolitik der 1920er Jahre zielte durch Infrastrukturprojekte und Bildungsinitiativen auf eine stärkere Integration der kaukasischen Völker ab. Diese oft als „Korenisazija“ (Einwurzelung) bezeichnete Phase, die Minderheitensprachen und lokale Kader förderte, wurde in den 1930er Jahren durch brutale Repressionen und eine aggressive Antireligionskampagne abgelöst. Der Konflikt zwischen der Zentralmacht in Moskau und der tschetschenischen Bevölkerung gipfelte im Jahr 1944 unter Josef Stalin in der gewaltsamen Deportation des gesamten Volkes nach Zentralasien.",
+    "score": 100.0
+  },
+  {
+    "index": 7,
+    "headline": "Ein kurioser Prozess: Der Clown Grock vor Gericht",
+    "subheadline": "Klage gegen den Schauspieler Pizani — Gestik und Mimik als geistiges Eigentum",
+    "dateline": "Paris, 25. August.",
+    "type": "Artikel",
+    "category": "Justiz & Kriminalität",
+    "actual_words": 224,
+    "body_html": "<p>Der berühmte Clown Grock hat beschlossen, einen gerichtlichen Prozess gegen den jungen Schauspieler Pizani anzustrengen, nachdem dieser ihn in einem Film und einer Revue überaus erfolgreich imitiert hatte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Figaro\">[1]</a></sup> Wie der Pariser <em>Figaro</em> meldet, betrachtet Grock seine Gesten, seine Mimik und seine besonderen Intonationen als sein unantastbares Eigentum. Die Exklusivität dieses künstlerischen Ausdrucks will er nun vor den Gerichten durchsetzen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Figaro\">[1]</a></sup> Die Ankündigung dieses Rechtsstreits hat in Theaterkreisen erhebliche Aufregung hervorgerufen. Die Beobachter sind daraufhin in zwei gegensätzliche Lager zerfallen: in die ‚Grockisten‘ und die ‚Pizanisten‘.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Figaro\">[1]</a></sup> Die Zeitung bemerkt mit einem Anflug von Ironie, dass es keine eigene Clown-Abteilung beim Völkerbund gibt, weshalb die Parteien sich an die ordentliche Justiz wenden müssen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Figaro\">[1]</a></sup></p>\n<p>Die grundlegende juristische Frage, die sich den Richtern dabei stellen wird, ist, inwieweit ein Künstler das Recht besitzt, seine Mitmenschen daran zu hindern, seine Züge und Ausdrucksformen zu übernehmen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Figaro\">[1]</a></sup> Dem <em>Figaro</em> zufolge ist Grocks prozessuales Vorhaben jedoch wenig aussichtsreich.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Figaro\">[1]</a></sup> In einem offenen Appell wird der Künstler daran erinnert, dass die Tradition der Clowns selbst stark von historischen und internationalen Einflüssen geprägt ist, vom spanischen Gracioso bis zum britischen Humor.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Figaro\">[1]</a></sup> Das Blatt rät ihm dringend davon ab, sein Sternentrikot gegen die schwarze Robe eines Advokaten oder das Barett eines Richters einzutauschen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Figaro\">[1]</a></sup> Es empfiehlt vielmehr, Grock solle als unbestrittener Fürst der Fantasie auf der Bühne bleiben und nicht versuchen, eine unbedeutende Rolle im Justizpalast zu übernehmen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Le Figaro\">[1]</a></sup></p>",
+    "images": [],
+    "wikipedia_links": [],
+    "primary_sources": [
+      {
+        "newspaper": "Le Figaro",
+        "display_name": "Le Figaro",
+        "date": "1926-08-25",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34355551z/date19260825",
+        "archive": "Gallica (BnF)",
+        "pages_cited": "S. 1, S. 2",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Le Figaro",
+        "display_name": "Le Figaro",
+        "url": "https://gallica.bnf.fr/ark:/12148/cb34355551z/date19260825",
+        "archive": "Gallica (BnF)",
+        "date": "1926-08-25"
+      }
+    ],
+    "editorial_note": "Der Schweizer Charles Adrien Wettach (1880–1959), besser bekannt als Grock, war einer der berühmtesten und bestbezahlten Clowns seiner Zeit. Die Frage nach dem Urheberrecht an Bühnenfiguren, Schminke, Gestik und Mimik beschäftigt die Rechtsprechung bis heute. Kunstfiguren genießen im modernen Recht einen weitergehenden Schutz als in den 1920er Jahren.",
+    "score": 40.0
+  }
+]

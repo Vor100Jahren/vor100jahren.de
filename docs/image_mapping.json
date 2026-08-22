@@ -3964,5 +3964,55 @@
     "local_file": "Erich_Ludendorff.jpg",
     "local_path": "images/Erich_Ludendorff.jpg",
     "alt": "Erich Ludendorff"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/USDnotesNew.png/960px-USDnotesNew.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "United_States_dollar.png",
+    "local_path": "images/United_States_dollar.png",
+    "alt": "United States dollar"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dudley_Field_Malone%2C_head-and-shoulders_portrait%2C_facing_front_LCCN97511646_Trim.jpg/960px-Dudley_Field_Malone%2C_head-and-shoulders_portrait%2C_facing_front_LCCN97511646_Trim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Dudley_Field_Malone.jpg",
+    "local_path": "images/Dudley_Field_Malone.jpg",
+    "alt": "Dudley Field Malone"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Otto_H%C3%B6rsing_1932.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Otto_H%C3%B6rsing_1932.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Otto_Hörsing.jpg",
+    "local_path": "images/Otto_Hörsing.jpg",
+    "alt": "Otto Hörsing"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sanctuary_NDL_3.jpg/960px-Sanctuary_NDL_3.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Rosenkranz-Basilika_(Lourdes).jpg",
+    "local_path": "images/Rosenkranz-Basilika_(Lourdes).jpg",
+    "alt": "Rosenkranz-Basilika (Lourdes)"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Zehlendorf_Wilskistra%C3%9Fe-003.JPG/960px-Zehlendorf_Wilskistra%C3%9Fe-003.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Neues_Bauen.jpg",
+    "local_path": "images/Neues_Bauen.jpg",
+    "alt": "Neues Bauen"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Abb_el_Krim._Revista_Ej%C3%A9rcito_n._962._junio_2021._p._50.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Abb_el_Krim._Revista_Ej%C3%A9rcito_n._962._junio_2021._p._50.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Abd_al-Karim.jpg",
+    "local_path": "images/Abd_al-Karim.jpg",
+    "alt": "Abd al-Karim"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nordstern_2009.jpg/960px-Nordstern_2009.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Ruhrbergbau.jpg",
+    "local_path": "images/Ruhrbergbau.jpg",
+    "alt": "Ruhrbergbau"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bundesarchiv_Bild_102-13677%2C_Carl_Severing.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_102-13677%2C_Carl_Severing.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Carl_Severing.jpg",
+    "local_path": "images/Carl_Severing.jpg",
+    "alt": "Carl Severing"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_the_Free_City_of_Danzig.svg/960px-Flag_of_the_Free_City_of_Danzig.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Freie_Stadt_Danzig.png",
+    "local_path": "images/Freie_Stadt_Danzig.png",
+    "alt": "Freie Stadt Danzig"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/IATAlogo.svg/960px-IATAlogo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "International_Air_Transport_Association.png",
+    "local_path": "images/International_Air_Transport_Association.png",
+    "alt": "International Air Transport Association"
   }
 }
