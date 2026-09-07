@@ -4240,5 +4240,75 @@
     "local_file": "Lucie_Delarue-Mardrus.jpg",
     "local_path": "images/Lucie_Delarue-Mardrus.jpg",
     "alt": "Lucie Delarue-Mardrus"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hiram_Wesley_Evans%2C_Imperial_Wizard_27471u_waist_up.jpg/960px-Hiram_Wesley_Evans%2C_Imperial_Wizard_27471u_waist_up.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Hiram_Wesley_Evans.jpg",
+    "local_path": "images/Hiram_Wesley_Evans.jpg",
+    "alt": "Hiram Wesley Evans"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/1926_Rabindrath_Tagore.jpg/960px-1926_Rabindrath_Tagore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Rabindranath_Tagore.jpg",
+    "local_path": "images/Rabindranath_Tagore.jpg",
+    "alt": "Rabindranath Tagore"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Eucken-im-Alter.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Eucken-im-Alter.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Rudolf_Eucken.png",
+    "local_path": "images/Rudolf_Eucken.png",
+    "alt": "Rudolf Eucken"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gino_Lucetti.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Gino_Lucetti.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Gino_Lucetti.jpg",
+    "local_path": "images/Gino_Lucetti.jpg",
+    "alt": "Gino Lucetti"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Westenh%C3%B6fer1%2C_1951.jpg/960px-Westenh%C3%B6fer1%2C_1951.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Max_Westenhöfer.jpg",
+    "local_path": "images/Max_Westenhöfer.jpg",
+    "alt": "Max Westenhöfer"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Palazzo_Chigi_-_esterno.jpg/960px-Palazzo_Chigi_-_esterno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Chigi_Palace.jpg",
+    "local_path": "images/Chigi_Palace.jpg",
+    "alt": "Chigi Palace"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jacques_Bainville_-_photo_Fr%C3%A9d%C3%A9ric_Boissonnas_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Jacques_Bainville_-_photo_Fr%C3%A9d%C3%A9ric_Boissonnas_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Jacques_Bainville.jpg",
+    "local_path": "images/Jacques_Bainville.jpg",
+    "alt": "Jacques Bainville"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Drottlouise.jpg/960px-Drottlouise.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Louise_Mountbatten.jpg",
+    "local_path": "images/Louise_Mountbatten.jpg",
+    "alt": "Louise Mountbatten"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Coptic_cross.svg/960px-Coptic_cross.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Koptisch-orthodoxe_Kirche.png",
+    "local_path": "images/Koptisch-orthodoxe_Kirche.png",
+    "alt": "Koptisch-orthodoxe Kirche"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bundesarchiv_Bild_102-07938%2C_Gustav_B%C3%B6ss_und_Karl_Seitz.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_102-07938%2C_Gustav_B%C3%B6ss_und_Karl_Seitz.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Gustav_Böß.jpg",
+    "local_path": "images/Gustav_Böß.jpg",
+    "alt": "Gustav Böß"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Stalinist_architecture_%2819780328909%29.jpg/960px-Stalinist_architecture_%2819780328909%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Gosplan.jpg",
+    "local_path": "images/Gosplan.jpg",
+    "alt": "Gosplan"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Raymond_Poincar%C3%A9_officiel_%28cropped%29.jpg/960px-Raymond_Poincar%C3%A9_officiel_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Raymond_Poincaré.jpg",
+    "local_path": "images/Raymond_Poincaré.jpg",
+    "alt": "Raymond Poincaré"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Juge_Webster_Thayer%2C_affaire_Sacco-Vanzetti_%28Pacific%29_-_btv1b531785651.jpg/960px-Juge_Webster_Thayer%2C_affaire_Sacco-Vanzetti_%28Pacific%29_-_btv1b531785651.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Webster_Thayer.jpg",
+    "local_path": "images/Webster_Thayer.jpg",
+    "alt": "Webster Thayer"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Walther_Nernst_SI.jpg/960px-Walther_Nernst_SI.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Walther_Nernst.jpg",
+    "local_path": "images/Walther_Nernst.jpg",
+    "alt": "Walther Nernst"
   }
 }
