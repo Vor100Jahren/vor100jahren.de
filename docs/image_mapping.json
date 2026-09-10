@@ -4310,5 +4310,65 @@
     "local_file": "Walther_Nernst.jpg",
     "local_path": "images/Walther_Nernst.jpg",
     "alt": "Walther Nernst"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BASA-252K-3-23-1-Andrey_Lyapchev_-_Dimitar_Karastoyanov_Foto.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-BASA-252K-3-23-1-Andrey_Lyapchev_-_Dimitar_Karastoyanov_Foto.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Andrei_Ljaptschew.jpg",
+    "local_path": "images/Andrei_Ljaptschew.jpg",
+    "alt": "Andrei Ljaptschew"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Kommunistische_Partei_Deutschlands%2C_Logo_um_1920.svg/960px-Kommunistische_Partei_Deutschlands%2C_Logo_um_1920.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Communist_Party_of_Germany.png",
+    "local_path": "images/Communist_Party_of_Germany.png",
+    "alt": "Communist Party of Germany"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/WWIchartX.svg/960px-WWIchartX.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "War_guilt_question.png",
+    "local_path": "images/War_guilt_question.png",
+    "alt": "War guilt question"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/John_Van_Antwerp_MacMurray_restored_%283x4a%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-John_Van_Antwerp_MacMurray_restored_%283x4a%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "John_Van_Antwerp_MacMurray.jpg",
+    "local_path": "images/John_Van_Antwerp_MacMurray.jpg",
+    "alt": "John Van Antwerp MacMurray"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Florida_Governor_John_Martin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Florida_Governor_John_Martin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "John_W._Martin.jpg",
+    "local_path": "images/John_W._Martin.jpg",
+    "alt": "John W. Martin"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Fritz-hoeger-in-menschen-der-zeit-s103.jpg/960px-Fritz-hoeger-in-menschen-der-zeit-s103.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Fritz_Höger.jpg",
+    "local_path": "images/Fritz_Höger.jpg",
+    "alt": "Fritz Höger"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nadolny.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Nadolny.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Rudolf_Nadolny.jpg",
+    "local_path": "images/Rudolf_Nadolny.jpg",
+    "alt": "Rudolf Nadolny"
+  },
+  "https://thumb.wikimedia.org/wikipedia/de/thumb/e/ee/Reichsrundfunkgesellschaft.svg/960px-Reichsrundfunkgesellschaft.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Reichs-Rundfunk-Gesellschaft.png",
+    "local_path": "images/Reichs-Rundfunk-Gesellschaft.png",
+    "alt": "Reichs-Rundfunk-Gesellschaft"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Korsch-karl.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Korsch-karl.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Karl_Korsch.jpg",
+    "local_path": "images/Karl_Korsch.jpg",
+    "alt": "Karl Korsch"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/960px-Abraham_Lincoln_O-77_matte_collodion_print.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Abraham_Lincoln.jpg",
+    "local_path": "images/Abraham_Lincoln.jpg",
+    "alt": "Abraham Lincoln"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Jack_Dempsey.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Jack_Dempsey.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Jack_Dempsey.jpg",
+    "local_path": "images/Jack_Dempsey.jpg",
+    "alt": "Jack Dempsey"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bundesarchiv_Bild_102-11414%2C_Berlin%2C_Lustgarten%2C_Stahlhelmaufmarsch.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_102-11414%2C_Berlin%2C_Lustgarten%2C_Stahlhelmaufmarsch.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Stahlhelm_Bund_der_Frontsoldaten.jpg",
+    "local_path": "images/Stahlhelm_Bund_der_Frontsoldaten.jpg",
+    "alt": "Stahlhelm, Bund der Frontsoldaten"
   }
 }
