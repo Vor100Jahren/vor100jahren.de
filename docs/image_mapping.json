@@ -4370,5 +4370,50 @@
     "local_file": "Stahlhelm_Bund_der_Frontsoldaten.jpg",
     "local_path": "images/Stahlhelm_Bund_der_Frontsoldaten.jpg",
     "alt": "Stahlhelm, Bund der Frontsoldaten"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Gene_Tunney_Portrait_LOC.jpg/960px-Gene_Tunney_Portrait_LOC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Gene_Tunney.jpg",
+    "local_path": "images/Gene_Tunney.jpg",
+    "alt": "Gene Tunney"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Miami_hurricane_weather_map_%28enlarged%29%2C_September_18%2C_1926_%285109773%29.jpg/960px-Miami_hurricane_weather_map_%28enlarged%29%2C_September_18%2C_1926_%285109773%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "1926_Miami_hurricane.jpg",
+    "local_path": "images/1926_Miami_hurricane.jpg",
+    "alt": "1926 Miami hurricane"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/%C3%89douard_Herriot_-_Pr%C3%A9sident_du_Conseil_-_1924.jpeg/960px-%C3%89douard_Herriot_-_Pr%C3%A9sident_du_Conseil_-_1924.jpeg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Édouard_Herriot.jpeg",
+    "local_path": "images/Édouard_Herriot.jpeg",
+    "alt": "Édouard Herriot"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_RN-CRAF_2019.svg/960px-Logo_RN-CRAF_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Action_Française.png",
+    "local_path": "images/Action_Française.png",
+    "alt": "Action Française"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Victor-Berard.jpg/960px-Victor-Berard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Victor_Bérard.jpg",
+    "local_path": "images/Victor_Bérard.jpg",
+    "alt": "Victor Bérard"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Robert_Cecil%2C_1st_Viscount_Cecil_of_Chelwood_-_Project_Gutenberg_eText_15306.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Robert_Cecil%2C_1st_Viscount_Cecil_of_Chelwood_-_Project_Gutenberg_eText_15306.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Robert_Cecil_1._Viscount_Cecil_of_Chelwood.jpg",
+    "local_path": "images/Robert_Cecil_1._Viscount_Cecil_of_Chelwood.jpg",
+    "alt": "Robert Cecil, 1. Viscount Cecil of Chelwood"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eduard_Bernstein_%28portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Eduard_Bernstein_%28portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Eduard_Bernstein.jpg",
+    "local_path": "images/Eduard_Bernstein.jpg",
+    "alt": "Eduard Bernstein"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Henry_ford_1919.jpg/960px-Henry_ford_1919.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Henry_Ford.jpg",
+    "local_path": "images/Henry_Ford.jpg",
+    "alt": "Henry Ford"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Papal_States_%281808-1870%29.svg/960px-Flag_of_the_Papal_States_%281808-1870%29.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Römische_Frage.png",
+    "local_path": "images/Römische_Frage.png",
+    "alt": "Römische Frage"
   }
 }
