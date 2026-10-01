@@ -4497,5 +4497,60 @@
     "local_file": "Albert_Calmette.jpg",
     "local_path": "images/Albert_Calmette.jpg",
     "alt": "Albert Calmette"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kestenberg_at_piano_1905.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Kestenberg_at_piano_1905.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Leo_Kestenberg.jpg",
+    "local_path": "images/Leo_Kestenberg.jpg",
+    "alt": "Leo Kestenberg"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Pierre_Paul_%C3%89mile_Roux_2.jpg/960px-Pierre_Paul_%C3%89mile_Roux_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Émile_Roux.jpg",
+    "local_path": "images/Émile_Roux.jpg",
+    "alt": "Émile Roux"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/War_Ensign_of_Germany_%281921%E2%80%931933%29.svg/960px-War_Ensign_of_Germany_%281921%E2%80%931933%29.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Reichswehr.png",
+    "local_path": "images/Reichswehr.png",
+    "alt": "Reichswehr"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Babelsberg_-_Luftaufnahme-0428_MODIFIED.jpg/960px-Schloss_Babelsberg_-_Luftaufnahme-0428_MODIFIED.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Schloss_Babelsberg.jpg",
+    "local_path": "images/Schloss_Babelsberg.jpg",
+    "alt": "Schloss Babelsberg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Albert_Sarraut_1921.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Albert_Sarraut_1921.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Albert_Sarraut.jpg",
+    "local_path": "images/Albert_Sarraut.jpg",
+    "alt": "Albert Sarraut"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bundesarchiv_Bild_102-08205%2C_Edwin_Redslob.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_102-08205%2C_Edwin_Redslob.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Reichskunstwart.jpg",
+    "local_path": "images/Reichskunstwart.jpg",
+    "alt": "Reichskunstwart"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rear-admiral_Edwyn_Sinclair_Alexander-sinclair_Cb_Mvo_Art.IWMART1716.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Rear-admiral_Edwyn_Sinclair_Alexander-sinclair_Cb_Mvo_Art.IWMART1716.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Edwyn_Alexander-Sinclair.jpg",
+    "local_path": "images/Edwyn_Alexander-Sinclair.jpg",
+    "alt": "Edwyn Alexander-Sinclair"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bundesarchiv_Bild_183-R03618%2C_Locarno%2C_Gustav_Stresemann%2C_Chamberlain%2C_Briand.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_183-R03618%2C_Locarno%2C_Gustav_Stresemann%2C_Chamberlain%2C_Briand.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Verträge_von_Locarno.jpg",
+    "local_path": "images/Verträge_von_Locarno.jpg",
+    "alt": "Verträge von Locarno"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/PCdoB_logo.svg/960px-PCdoB_logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Partido_Comunista_do_Brasil.png",
+    "local_path": "images/Partido_Comunista_do_Brasil.png",
+    "alt": "Partido Comunista do Brasil"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Austen_Chamberlain_MP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Austen_Chamberlain_MP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Austen_Chamberlain.jpg",
+    "local_path": "images/Austen_Chamberlain.jpg",
+    "alt": "Austen Chamberlain"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/American_Bankers_Association_%2855264578611%29.jpg/960px-American_Bankers_Association_%2855264578611%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "American_Bankers_Association.jpg",
+    "local_path": "images/American_Bankers_Association.jpg",
+    "alt": "American Bankers Association"
   }
 }
