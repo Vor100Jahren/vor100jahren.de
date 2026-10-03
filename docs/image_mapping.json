@@ -4552,5 +4552,70 @@
     "local_file": "American_Bankers_Association.jpg",
     "local_path": "images/American_Bankers_Association.jpg",
     "alt": "American Bankers Association"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cuno_H._Rudolph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Cuno_H._Rudolph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Cuno_Hugo_Rudolph.jpg",
+    "local_path": "images/Cuno_Hugo_Rudolph.jpg",
+    "alt": "Cuno Hugo Rudolph"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ferdinand_T%C3%B6nnies.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Ferdinand_T%C3%B6nnies.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Ferdinand_Tönnies.jpg",
+    "local_path": "images/Ferdinand_Tönnies.jpg",
+    "alt": "Ferdinand Tönnies"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Wappen_Hohenzollern_2.svg/960px-Wappen_Hohenzollern_2.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Hohenzollern.png",
+    "local_path": "images/Hohenzollern.png",
+    "alt": "Hohenzollern"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/WMNL_Huis_Doorn_24.JPG/960px-WMNL_Huis_Doorn_24.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Haus_Doorn.jpg",
+    "local_path": "images/Haus_Doorn.jpg",
+    "alt": "Haus Doorn"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Vintage_Potemkin.jpg/960px-Vintage_Potemkin.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Panzerkreuzer_Potemkin.jpg",
+    "local_path": "images/Panzerkreuzer_Potemkin.jpg",
+    "alt": "Panzerkreuzer Potemkin"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nikolaos_Politis_1927.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Nikolaos_Politis_1927.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Nikolaos_Politis.jpg",
+    "local_path": "images/Nikolaos_Politis.jpg",
+    "alt": "Nikolaos Politis"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Automobilproduktion_1900_bis_2015_logarithmisch_%28small_size%29.png/960px-Automobilproduktion_1900_bis_2015_logarithmisch_%28small_size%29.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Automobilindustrie.png",
+    "local_path": "images/Automobilindustrie.png",
+    "alt": "Automobilindustrie"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Admiraal_Adolf_von_Trotha.jpg/960px-Admiraal_Adolf_von_Trotha.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Adolf_von_Trotha.jpg",
+    "local_path": "images/Adolf_von_Trotha.jpg",
+    "alt": "Adolf von Trotha"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Kaiser_Wilhelm_I._.JPG/960px-Kaiser_Wilhelm_I._.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Wilhelm_I._(Deutsches_Reich).jpg",
+    "local_path": "images/Wilhelm_I._(Deutsches_Reich).jpg",
+    "alt": "Wilhelm I. (Deutsches Reich)"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Stanley_Baldwin_LCCN2014712420_%28cropped%29.jpg/960px-Stanley_Baldwin_LCCN2014712420_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Stanley_Baldwin.jpg",
+    "local_path": "images/Stanley_Baldwin.jpg",
+    "alt": "Stanley Baldwin"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlin_Abgeordnetenhaus_1900.jpg/960px-Berlin_Abgeordnetenhaus_1900.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Preußischer_Landtag.jpg",
+    "local_path": "images/Preußischer_Landtag.jpg",
+    "alt": "Preußischer Landtag"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Parteiadler_Nationalsozialistische_Deutsche_Arbeiterpartei_%281933%E2%80%931945%29.svg/960px-Parteiadler_Nationalsozialistische_Deutsche_Arbeiterpartei_%281933%E2%80%931945%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Nazi_Party.png",
+    "local_path": "images/Nazi_Party.png",
+    "alt": "Nazi Party"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Benito_Mussolini_colored.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Benito_Mussolini_colored.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Benito_Mussolini.jpg",
+    "local_path": "images/Benito_Mussolini.jpg",
+    "alt": "Benito Mussolini"
   }
 }
