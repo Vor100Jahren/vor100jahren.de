@@ -1,0 +1,572 @@
+[
+  {
+    "index": 1,
+    "headline": "Mussolini zwischen landwirtschaftlicher Arbeit und eiserner Justiz",
+    "subheadline": "Der Regierungschef lenkt Mähmaschinen in Predappio — Makabrer Andrang auf das wiedergeschaffene Henkersamt — Scharfe Kritik der Moskauer Auslandpresse",
+    "dateline": "Rom, 14. Oktober.",
+    "type": "Hauptartikel",
+    "category": "Innenpolitik",
+    "actual_words": 320,
+    "body_html": "<p>Der italienische Ministerpräsident <a href=\"https://de.wikipedia.org/wiki/Benito_Mussolini\" target=\"_blank\" rel=\"noopener\">Benito Mussolini</a> weilt in diesen Tagen in seinem Geburtsort Predappio, wo er sich vor den Augen der Öffentlichkeit der ländlichen Arbeit widmet.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Los Angeles Times\">[2]</a></sup> Laut Berichten der <em>Los Angeles Times</em> reihte sich der Regierungschef in die Schar der gewöhnlichen Landarbeiter ein und bediente auf den Getreidefeldern der Region persönlich eine neuartige Sämaschine.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Los Angeles Times\">[2]</a></sup> Im Anschluss bestieg er eine Mähmaschine, die von zwei gewaltigen Ochsen gezogen wurde, und stellte bei der Handhabung der landwirtschaftlichen Geräte ein beträchtliches Geschick unter Beweis.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Los Angeles Times\">[2]</a></sup></p>\n<p>Diese demonstrative Zurschaustellung bäuerlicher Arbeit bildet einen scharfen Kontrast zu den weitreichenden und harten innenpolitischen Maßnahmen, die das Regime in Rom parallel verhängt hat. Vor allem die Wiedereinführung der Todesstrafe hat auf der gesamten Apenninen-Halbinsel beträchtliches Aufsehen erregt. Sie führt vereinzelt zu grotesken gesellschaftlichen Reaktionen.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Badische Presse\">[3]</a></sup> Aus der <em>Badischen Presse</em> geht hervor, dass sich bei den Behörden bereits fünfzehn Italiener offiziell um den wiedergeschaffenen Posten des Scharfrichters beworben haben.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Badische Presse\">[3]</a></sup> Unter den Interessenten befindet sich demnach auch eine aus Georgien stammende Frau. In ihrem Schreiben beteuert sie, keinerlei Furcht vor Blut zu haben und den Anforderungen vollauf gewachsen zu sein.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Badische Presse\">[3]</a></sup> Als zynische Begründung für ihre Eignung fügte die Dame die Bemerkung hinzu, es müsse für den Delinquenten zweifellos „angenehmer sein, von der Hand einer Frau zu sterben“.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Badische Presse\">[3]</a></sup></p>\n<p>Während die Öffentlichkeit durch diese makabren Randerscheinungen beschäftigt ist, analysiert die Auslandpresse die tieferen politischen Ursachen der neuen Justizgesetzgebung. Die Moskauer <em>Prawda</em> wertet das Vorgehen als Zeichen dafür, dass sich der Faschismus nach dem Ausbleiben des versprochenen wirtschaftlichen Wiederaufbaus nur noch durch ein geschlossenes System des Terrors an der Macht halten könne.<sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Pravda\">[4]</a></sup> Dem sowjetischen Parteiorgan zufolge wird das italienische Parlament — dem ohnehin kaum noch legislative Funktionen geblieben sind — das Todesstrafengesetz mit blindem Enthusiasmus annehmen.<sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Pravda\">[4]</a></sup> Die <em>Prawda</em> schließt ihren Bericht mit der Einschätzung, das Kabinett Mussolini benötige dieses drakonische Instrument zwingend. Nach dem bereits vollzogenen Verbot der Streiks solle nun auch die Vernichtung der letzten Reste der kommunalen Autonomie und der freien Presse vollendet werden.<sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Pravda\">[4]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Benito_Mussolini.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "",
+        "alt_text": "Benito Mussolini",
+        "caption": "Benito Mussolini"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Benito Mussolini",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Benito_Mussolini",
+        "link_target": "Benito Mussolini"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "date": "1926-10-14",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-10-14",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Los Angeles Times",
+        "display_name": "Los Angeles Times",
+        "date": "1926-10-14",
+        "url": "https://archive.org/search?query=title%3A%22Los+Angeles+Times%22+AND+date%3A1926-10-14",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "date": "1926-10-14",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/W7FZTCGIKFHLCHJZOL7HVGQ2L4V4ONP5",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Pravda",
+        "display_name": "Правда (Pravda)",
+        "date": "1926-10-14",
+        "url": "https://archive.org/search?query=title%3A%22Pravda%22+AND+date%3A1926-10-14",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-10-14",
+        "archive": "Internet Archive",
+        "date": "1926-10-14"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Los Angeles Times",
+        "display_name": "Los Angeles Times",
+        "url": "https://archive.org/search?query=title%3A%22Los+Angeles+Times%22+AND+date%3A1926-10-14",
+        "archive": "Internet Archive",
+        "date": "1926-10-14"
+      },
+      {
+        "id": 3,
+        "qid": "Q3",
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/W7FZTCGIKFHLCHJZOL7HVGQ2L4V4ONP5",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-10-14"
+      },
+      {
+        "id": 4,
+        "qid": "Q4",
+        "newspaper": "Pravda",
+        "display_name": "Правда (Pravda)",
+        "url": "https://archive.org/search?query=title%3A%22Pravda%22+AND+date%3A1926-10-14",
+        "archive": "Internet Archive",
+        "date": "1926-10-14"
+      }
+    ],
+    "editorial_note": "Der Artikel beleuchtet zwei zentrale, parallele Entwicklungen der frühen Mussolini-Diktatur im Herbst 1926. Einerseits forcierte der „Duce“ mit propagandistischen Auftritten auf dem Feld die sogenannte „Getreideschlacht“ (Battaglia del grano), die Italien landwirtschaftlich autark machen sollte. Andererseits nutzte das Regime mehrere gescheiterte Attentatsversuche auf Mussolini im Jahr 1926, um im November desselben Jahres die Todesstrafe für politische Verbrechen wieder einzuführen und die Zerschlagung der Opposition endgültig abzuschließen.",
+    "score": 120.0
+  },
+  {
+    "index": 2,
+    "headline": "Wirtschafts-Pakt: Internationale Rohstahlgemeinschaft gegründet",
+    "subheadline": "Erweiterung auf Osteuropa in Aussicht — Ein „Locarno der Wirtschaft“ — Britische Industrie signalisiert Kooperationsbereitschaft",
+    "dateline": "Berlin, 14. Oktober.",
+    "type": "Artikel",
+    "category": "Wirtschaft",
+    "actual_words": 431,
+    "body_html": "<p>Die Bemühungen um eine Konsolidierung der europäischen Montanindustrie haben einen entscheidenden Erfolg erzielt. Der vor kurzem geschlossene internationale Eisenpakt, der aus den wechselvollen deutsch-französischen Wirtschaftsverhandlungen hervorgegangen ist, wird bereits als „Locarno der Wirtschaft“ gefeiert.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Diese privatwirtschaftliche Abmachung greift tief in die politische Struktur der beteiligten Länder ein; eine wirtschaftliche Verständigung ohne politischen Frieden erscheint auf Dauer undenkbar.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Die erfreuliche Entwicklung fand sogleich ihren Niederschlag an der Börse, wo Montanaktien unter der Führung der <a href=\"https://de.wikipedia.org/wiki/Vereinigte_Stahlwerke\" target=\"_blank\" rel=\"noopener\">Vereinigten</a> Stahlwerke im Zuge lebhafter Nachfrage einen bemerkenswerten Kurssprung von fünf Prozent verzeichneten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup></p>\n<p>Die Basis der Rohstahlgemeinschaft soll nun zügig durch den Beitritt weiterer Nationen verbreitert werden.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Wie die in Hongkong erscheinende <em>China Mail</em> berichtet, nehmen die Verhandlungen über die Bildung eines osteuropäischen Stahltrusts, der die Tschechoslowakei, Österreich, Ungarn und Rumänien umfassen soll, einen günstigen Verlauf.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup> Dem <em>Harburger Tageblatt</em> zufolge erhofft man sich von den fest zusammenarbeitenden osteuropäischen Nachbarn eine baldige und endgültige Verständigung.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Gleichzeitig werden mit der polnischen Gruppe unabhängige, aber ebenso aussichtsreiche Gespräche geführt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup><sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup> Auch in Skandinavien findet der Zusammenschluss große Beachtung. Schweden, dessen Eisenindustrie gegenwärtig einer raschen Vertrustung unterliegt, hat bereits den Wunsch geäußert, die Bedingungen für eine mögliche Aufnahme in das internationale Syndikat kennenzulernen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup><sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup></p>\n<p>Für diesen Organisationsprozess der Weltwirtschaft gilt die deutsche Industrie als maßgebliches Vorbild.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Sie hat auf dem Weg der Rationalisierung und der Bildung großer Syndikate eine Entwicklung vorgezeichnet, der nun zunehmend die europäischen Länder folgen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Das Streben nach grenzüberschreitender Zusammenarbeit erfasst auch Großbritannien. Auf einer Konferenz im englischen Romsey berieten führende britische und deutsche Wirtschaftsvertreter, darunter der frühere Präsident des britischen Industrieverbandes, <a href=\"https://en.wikipedia.org/wiki/Francis_Willey,_1st_Baron_Barnby\" target=\"_blank\" rel=\"noopener\">Oberst Willey</a>, über gemeinsame Wege zur Steigerung des weltweiten Konsums.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup> Willey betonte dabei die große Bedeutung solcher wirtschaftlichen Annäherungen für die Überwindung europäischer Differenzen und für den kontinentalen Wiederaufbau.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup> Neben der Schwerindustrie sind auch im Verkehrswesen ähnliche Bündnisse absehbar; so stehen in London in Kürze Verhandlungen über die Gründung eines internationalen Eisenbahntrusts bevor.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup></p>\n<p>Diese internationale Verflechtung bleibt jedoch nicht ohne Einfluss auf die Innenpolitik. Der Zwang der Verhältnisse hat zu einer spürbaren Veränderung in der Haltung der Wirtschaftsführer gegenüber dem Staat geführt, da kein Land unter politischem Unfrieden wirtschaftlich gedeihen kann.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Ein deutliches Zeugnis dieser inneren Umstellung ist die Rede des industriellen Führers Paul Silverberg, der sich nachdrücklich für eine politische Arbeitsgemeinschaft zwischen Unternehmern und Arbeiterschaft aussprach.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Man könne sich wirtschaftlich nicht verständigen wollen und sich gleichzeitig politisch befehden, da die Verbindungen zu eng seien.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Abseits parteipolitischer Betrachtungen setzt sich allmählich die Erkenntnis durch, dass ein weiterer Ausbau der Außenbeziehungen eine soziale Kooperation im Inneren voraussetzt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Westfälischer Merkur\">[1]</a></sup> Angesichts dieser Entwicklung gehen manche Beobachter so weit, in der neuen Stahlgemeinschaft den ökonomischen Grundstein für die „Vereinigten Staaten von Europa“ zu erkennen.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"China Mail\">[3]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Vereinigte_Stahlwerke.png",
+        "credit": "Wikimedia Commons",
+        "source_url": "",
+        "alt_text": "Vereinigte Stahlwerke",
+        "caption": "Vereinigte Stahlwerke"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Vereinigten",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Vereinigte_Stahlwerke",
+        "link_target": "Vereinigte Stahlwerke"
+      },
+      {
+        "term": "Oberst Willey",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Willey,_1st_Baron_Barnby",
+        "link_target": "Francis Willey, 1st Baron Barnby"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-10-14",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/YICECK3KOZI3AS6NFYVKBWNVGSIWUWAB",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Westfälischer Merkur",
+        "display_name": "Westfälischer Merkur",
+        "date": "1926-10-14",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/MPQGLBSKENUXULJ5HP76ZCZ57BNYLAET",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1, S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "China Mail",
+        "display_name": "China Mail",
+        "date": "1926-10-14",
+        "url": "https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-10-14",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q2",
+        "newspaper": "Westfälischer Merkur",
+        "display_name": "Westfälischer Merkur",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/MPQGLBSKENUXULJ5HP76ZCZ57BNYLAET",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-10-14"
+      },
+      {
+        "id": 2,
+        "qid": "Q1",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/YICECK3KOZI3AS6NFYVKBWNVGSIWUWAB",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-10-14"
+      },
+      {
+        "id": 3,
+        "qid": "Q3",
+        "newspaper": "China Mail",
+        "display_name": "China Mail",
+        "url": "https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-10-14",
+        "archive": "Internet Archive",
+        "date": "1926-10-14"
+      }
+    ],
+    "editorial_note": "Die im September 1926 gegründete Internationale Rohstahlgemeinschaft (IRG) umfasste zunächst Deutschland, Frankreich, Belgien und Luxemburg. Im Jahr 1927 traten tatsächlich mittel- und osteuropäische Staaten wie die Tschechoslowakei, Österreich und Ungarn dem Kartell bei. Die IRG versuchte durch Produktionsquoten den Markt zu stabilisieren, zerbrach jedoch in den 1930er Jahren im Zuge der Weltwirtschaftskrise. Historisch gilt sie als ein früher, privatwirtschaftlicher Vorläufer der 1951 geschlossenen Europäischen Gemeinschaft für Kohle und Stahl (Montanunion).",
+    "score": 150.0
+  },
+  {
+    "index": 3,
+    "headline": "Spanien unter Primo de Rivera: Verfassungsbruch und Diktatur",
+    "subheadline": "König zögert mit der Unterschrift — Heftiger Widerstand gegen die ‚beratende Kammer‘ — Freilassung inhaftierter Arbeitervertreter",
+    "dateline": "Madrid, 14. Oktober.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 348,
+    "body_html": "<p>Die politische Lage in Spanien spitzt sich zunehmend zu, nachdem die Herrschaft des Direktoriums unter General Miguel Primo de Rivera bereits seit mehreren Jahren die parlamentarischen Institutionen des Landes lahmgelegt hat. In der Hauptstadt richtet sich die öffentliche Aufmerksamkeit gegenwärtig vor allem auf die geplante Einberufung einer sogenannten ‚beratenden Kammer‘ durch den diktatorischen Regierungschef.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Dieses Vorhaben stößt jedoch auf erheblichen Widerstand. Namhafte Staatstheoretiker sowie frühere Minister erkennen in diesem weitreichenden Schritt einen offenen Verfassungsbruch.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup></p>\n<p>Die juristischen Bedenken der traditionellen Parteien scheinen den Machthaber jedoch nicht zu beeindrucken. Primo de Rivera besteht unbeirrt auf der Einberufung dieser Institution, die das alte parlamentarische System abschaffen soll.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup>  Sein Sprachrohr, die regierungsnahe Tageszeitung <em>Nación</em>, rechtfertigte das Vorgehen kürzlich mit einer scharfen rhetorischen Spitze im Namen des Diktators.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Das Blatt fragte die Kritiker herausfordernd, ob die <a href=\"https://de.wikipedia.org/wiki/Spanische_Verfassung_von_1876\" target=\"_blank\" rel=\"noopener\">spanische Verfassung</a> tatsächlich ein „von Gott geschaffenes Dogma oder ein abänderungsbedürftiges Menschenwerk“ sei.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Mit dieser Argumentation wird offen versucht, den geplanten autoritären Umbau des Staates ideologisch zu begründen.</p>\n<p>Derweil zeigt sich in den höchsten Staatsspitzen ein beunruhigender Riss. Während der General das Dekret zur Einberufung der Kammer mit aller Macht durchsetzen will, zögert der Monarch sichtlich, seine notwendige Unterschrift zu leisten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Diese Zurückhaltung des Königs verschärft den Konflikt mit der Regierung mit jedem Tag.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Der Zusammentritt der neuen Kammer ist bereits für Anfang November vorgesehen. Die anhaltende Ungewissheit belastet die öffentliche Stimmung schwer.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Nach Angaben der <em>Badischen Presse</em> warnen politische Beobachter eindringlich davor, dass der Tag des Dekretes leicht zum Auslöser sehr ernster Ereignisse auf der iberischen Halbinsel werden könnte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup></p>\n<p>Während diese Staatskrise andauert, bleibt die Unzufriedenheit in der Arbeiterschaft bestehen. Wie <em>El Sol</em> berichtet, veröffentlichten die Behörden kürzlich eine amtliche Mitteilung, wonach mehrere in Madrid festgehaltene Arbeitervertreter aus Vigo wieder auf freien Fuß gesetzt wurden.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"El Sol\">[2]</a></sup> Solche polizeilichen Maßnahmen verdeutlichen die anhaltenden gesellschaftlichen Spannungen zwischen dem Regime und den gewerkschaftlichen Organisationen, die sich den neuen Machtverhältnissen nur widerstrebend unterordnen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"El Sol\">[2]</a></sup></p>\n<p>Die entscheidende Frage der kommenden Wochen ist, ob das zögerliche Verhalten der Krone anhält oder ob der Diktator den Verfassungsbruch endgültig durchsetzt. Sollte Primo de Rivera seinen Willen erzwingen, würde Spanien in eine neue Phase der Diktatur eintreten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Alfons_XIII..jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Alfonso_XIII_de_España_by_Kaulak.jpg",
+        "alt_text": "Alfons XIII.",
+        "caption": "Alfons XIII., König von Spanien (1886–1931)"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "König Alfonso XIII.",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Alfons_XIII.",
+        "link_target": "Alfons XIII."
+      },
+      {
+        "term": "spanische Verfassung",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Spanische_Verfassung_von_1876",
+        "link_target": "Spanische Verfassung von 1876"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "date": "1926-10-14",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/W7FZTCGIKFHLCHJZOL7HVGQ2L4V4ONP5",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "El Sol",
+        "display_name": "El Sol (Madrid)",
+        "date": "1926-10-14",
+        "url": "https://hemerotecadigital.bne.es/",
+        "archive": "Hemeroteca Digital (BNE)",
+        "pages_cited": "S. 5",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/W7FZTCGIKFHLCHJZOL7HVGQ2L4V4ONP5",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-10-14"
+      },
+      {
+        "id": 2,
+        "qid": "Q3",
+        "newspaper": "El Sol",
+        "display_name": "El Sol (Madrid)",
+        "url": "https://hemerotecadigital.bne.es/",
+        "archive": "Hemeroteca Digital (BNE)",
+        "date": "1926-10-14"
+      }
+    ],
+    "editorial_note": "General Miguel Primo de Rivera hatte 1923 mit Billigung von König Alfonso XIII. durch einen Militärputsch die Macht in Spanien übernommen. Die im Artikel erwähnte 'beratende Kammer' (Asamblea Nacional Consultiva) trat schließlich 1927 zusammen, scheiterte jedoch daran, dem Regime eine tragfähige verfassungsmäßige Grundlage zu geben. Die andauernden politischen und sozialen Spannungen führten Anfang 1930 zum Rücktritt des Diktators und ein Jahr später zum Sturz der Monarchie und der Ausrufung der Zweiten Spanischen Republik.",
+    "score": 60.0
+  },
+  {
+    "index": 4,
+    "headline": "Theaterkritik: Habimas „Golem“ und Prokofieffs Oper im Diskurs",
+    "subheadline": "Die Staatsoper enttäuscht mit Prokofieffs Werk, während ein Moskauer Gastspiel archaische Wucht auf die Bühne bringt",
+    "dateline": "Berlin, 14. Oktober.",
+    "type": "Artikel",
+    "category": "Feuilleton",
+    "actual_words": 427,
+    "body_html": "<p>Das Berliner Theaterleben bietet in diesen Tagen ein Bild scharfer Kontraste, in dem sich kühle musikalische Experimente und archaischer Bühnenmystizismus gegenüberstehen. An der Staatsoper hat man sich an ein modernes Werk gewagt, das die Geister scheidet, während ein Moskauer Gastspiel ganz auf die elementare Wucht einer historischen Inszenierung setzt.</p>\n<p>Laut der <em>Kölnischen Zeitung</em> erweist sich die Aufführung von Sergej Prokofieffs <em>Die Liebe zu den drei Orangen</em> als schwerer Fehlgriff der derzeitigen Verwaltung der Staatsoper.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Ein Sachverständiger, der bereits vor anderthalb Jahren die deutsche Uraufführung in Köln verfolgt hatte, muss unschwer erkennen, dass die Zeit ausländischer Witzelei vorüber ist.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Die Musik besitzt zu wenig Qualität, um die kindliche und überhebliche Witzlosigkeit des Werkes zu retten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Es verwundert daher nicht, dass das Publikum nach den Aktschlüssen kaum eine Hand rührte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Der Beifall am Ende galt hauptsächlich der Darstellung und dem Dirigenten Leo Blech, der die schwierige Partitur mit der Staatskapelle meisterhaft und flüssig bewältigte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Mit dem Generalmusikdirektor und den Hauptdarstellern erschien schließlich auch Prokofieff selbst vor dem Vorhang.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Das Sängerensemble stand ebenfalls auf beachtlicher Stufe, obwohl niemand eine wirklich dankbare Aufgabe zu erfüllen hatte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Gitta Alpar trat als reizvolle Orangenprinzessin hervor, Helgers als vertrottelter Treffkönig und List in der massiven Rolle der Köchin.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Ferner nennt die Kritik die Sängerin Bindernagel als keifende ‚Fata Morgana‘ und Braun als selbstgefälligen Magier Tschelie.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup> Die choreografischen Einlagen wurden von Terpis, Elisabeth Grube und Kreutzberg vortrefflich getanzt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Kölnische Zeitung\">[1]</a></sup></p>\n<p>Einen ganz anderen Weg beschreitet das Moskauer Theater Habima mit seiner hebräischen Aufführung des <em>Golem</em> von <a href=\"https://en.wikipedia.org/wiki/H._Leivick\" target=\"_blank\" rel=\"noopener\">H. Leivick</a>. Dem <em>Vorwärts</em> zufolge kümmern sich die Schauspieler dieses Ensembles „den Teufel um die Literatur“ und streben vielmehr danach, die Massen im Theater unmittelbar aufzurütteln.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Die Bühne dient dabei nicht der ästhetischen Erziehung. Sie will vielmehr den Publikumsgeschmack durch das Spektakuläre befriedigen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Der Stoff speist sich aus dem düsteren Mystizismus des osteuropäischen Judentums, das unter dem Zwang litt, jenen gelben Wimpel zu tragen, der die Menschen im Mittelalter als Parias absonderte.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Angesichts von Pogromen und Ritualmordlügen verirrte sich die Frömmigkeit der Gepeinigten in dunkle Zauberei.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup></p>\n<p>Max Hochdorf berichtet im <em>Vorwärts</em> weiter, dass die Schauspieler auf der Bühne sehr anschaulich zeigen, wie der Golem — das sagenhafte Geschöpf des frommen Rabbis — aus einem unförmigen Lehmklumpen geknetet wird.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Obwohl das schroffe Theater seine Wirkung nicht aus seelischer Zartheit bezieht und gezielt auf den unausrottbaren Kolportagetrieb abzielt, gehe von der Aufführung eine starke Faszination aus.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Man bewundert die eiserne Disziplin, mit der der Regisseur das Ensemble zusammenführt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Wenn die Bewegung auf der Bühne für einen Moment erstarrt, entsteht ein makellos komponiertes Gemälde, das die Kritiker trotz literarischer Vorbehalte zur höchsten Anerkennung veranlasst.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/H._Leivick.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:H._Leivick_1940.jpg",
+        "alt_text": "H. Leivick",
+        "caption": "H. Leivick"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Die Liebe zu den drei Orangen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Die_Liebe_zu_den_drei_Orangen",
+        "link_target": "Die Liebe zu den drei Orangen"
+      },
+      {
+        "term": "H. Leivick",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/H._Leivick",
+        "link_target": "H. Leivick"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Kölnische Zeitung",
+        "display_name": "Kölnische Zeitung",
+        "date": "1926-10-14",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/7WCF2SIF4LGSDVLPGBM4ZE3WD45UQ7CN",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "date": "1926-10-14",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/L3PIHGKE253SYOWMJD2XVPCLLMD6Z5N6",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Kölnische Zeitung",
+        "display_name": "Kölnische Zeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/7WCF2SIF4LGSDVLPGBM4ZE3WD45UQ7CN",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-10-14"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/L3PIHGKE253SYOWMJD2XVPCLLMD6Z5N6",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-10-14"
+      }
+    ],
+    "editorial_note": "Die Berliner Staatsoper erlebte in den 1920er Jahren unter Leo Blech eine Phase musikalischer Experimente, die das konservative Publikum häufig herausforderten. Sergej Prokofjews Oper 'Die Liebe zu den drei Orangen' etablierte sich erst Jahrzehnte später fest im internationalen Repertoire. Das hebräische Habima-Theater, das 1926 auf Europa-Tournee war, emigrierte wenig später nach Palästina und ist heute das israelische Nationaltheater.",
+    "score": 120.0
+  },
+  {
+    "index": 5,
+    "headline": "Ku-Klux-Klan: Stephenson schweigt vor der Anklagejury",
+    "subheadline": "Bedenkliche Stille in Indianapolis — Schwere Vorwürfe gegen Gouverneur Jackson — Untersuchungskommission des Senats tritt nicht zusammen",
+    "dateline": "Washington, 14. Oktober.",
+    "type": "Artikel",
+    "category": "Kriminalität",
+    "actual_words": 343,
+    "body_html": "<p>Wie die <em>Washington Post</em> meldet, haben maßgebliche politische Kräfte in Indiana erreicht, woran lokale Politiker bisher gescheitert waren: Die Enthüllungen des ehemaligen Großdrachen des Ku-Klux-Klans bleiben vorerst unter Verschluss.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> D. C. Stephenson, der noch vor wenigen Monaten die Landespolitik in Indiana dominierte und nun eine lebenslange Haftstrafe verbüßt, erschien am gestrigen Nachmittag vor der Anklagejury von Marion County.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Er blieb jedoch nur eine knappe Stunde im Vernehmungsraum und verweigerte nach verlässlichen Informationen jede substanzielle Aussage.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup>  Sein Schweigen überraschte viele Beobachter, zumal er zuvor angekündigt hatte, wichtige Kenntnisse öffentlich zu machen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup></p>\n<p>Dem Bericht zufolge deutet alles auf eine parteiübergreifende Übereinkunft hin, den drohenden Skandal zu vertuschen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Weder die Demokraten drängen auf eine Fortführung der Ermittlungen, noch wird der Untersuchungsausschuss des Bundessenats in dieser Angelegenheit tätig werden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Der Senator von Missouri, <a href=\"https://de.wikipedia.org/wiki/James_Reed\" target=\"_blank\" rel=\"noopener\">James A. Reed</a>, lehnt eine Einberufung seines Ausschusses strikt ab.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Zuvor hatte Clyde A. Walb, der Vorsitzende der Republikaner in Indiana, behauptet, internationale Bankiers hätten Geld in den Vorwahlkampf des Bundesstaates eingebracht.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup></p>\n<p>Trotzdem verdichten sich die Hinweise auf Korruption in höchsten Ämtern. Aus der <em>Washington Post</em> geht hervor, dass Floyd Christian, ein ehemaliger Anwalt des inhaftierten Klanführers, die Vorwürfe von Thomas H. Adams, dem Initiator der Untersuchung gegen Stephenson, bestätigt habe.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Christian erklärte, er habe die Beweisstücke, welche sich weiterhin im Besitz Stephensons befinden sollen, persönlich gesehen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Darunter befinde sich ein Scheck über 5000 Dollar, der direkt auf den Namen des amtierenden Gouverneurs Edward Jackson ausgestellt sei.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup></p>\n<p>Obwohl Stephenson während der Befragung schwieg, gewann die Ermittlungsleitung dennoch einen deutlichen Eindruck von seinem Auftreten. Staatsanwalt Will H. Remy bemerkte nach dem knapp einstündigen Termin, dass Stephensons Verhalten selbst eine Aussage dargestellt habe.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Der frühere Klanführer hatte bereits in einem Zivilprozess, unter Berufung auf seine verfassungsmäßigen Rechte, die Aussage verweigert, um sich nicht selbst zu belasten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup></p>\n<p>Bereits in den frühen Morgenstunden trat der Verurteilte — einen Tag früher als geplant — die Rückreise in die Haftanstalt am Rande des Bundesstaates an.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup> Die erneute Einweisung in das Gefängnis von Michigan City beendete vorläufig eine geheimnisvolle Reise, die offenbar darauf abzielte, politische Enthüllungen im letzten Augenblick zu verhindern.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Washington Post\">[1]</a></sup></p>",
+    "images": [],
+    "wikipedia_links": [
+      {
+        "term": "James A. Reed",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/James_Reed",
+        "link_target": "James Reed"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "date": "1926-10-14",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-10-14",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-10-14",
+        "archive": "Internet Archive",
+        "date": "1926-10-14"
+      }
+    ],
+    "editorial_note": "Die Verurteilung des KKK-Führers D. C. Stephenson wegen Vergewaltigung und Mordes im Jahr 1925 markierte den Anfang vom Ende der Macht des Ku-Klux-Klans in Indiana. Seine späteren Enthüllungen führten zur Anklage von Gouverneur Ed Jackson wegen Bestechung, der jedoch aufgrund von Verjährung freigesprochen wurde. Stephenson blieb bis in die 1950er Jahre inhaftiert, während der Klan in Indiana in dieser Zeit erheblich an Mitgliedern und Einfluss verlor.",
+    "score": 40.0
+  },
+  {
+    "index": 6,
+    "headline": "Sprachstreit im Elsass: Senator Helmer kritisiert Verwaltung",
+    "subheadline": "Ministerpräsident Poincaré inspiziert Schulen — Heimatbund bleibt umstritten — Rückkehr nach Paris",
+    "dateline": "Paris, 14. Oktober.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 265,
+    "body_html": "<p>Ministerpräsident <a href=\"https://de.wikipedia.org/wiki/Raymond_Poincar%C3%A9\" target=\"_blank\" rel=\"noopener\">Raymond Poincaré</a> ist in der vergangenen Nacht von seiner Informationsreise durch Elsass-Lothringen in die Hauptstadt zurückgekehrt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Deutsche Allgemeine Zeitung\">[1]</a></sup> Während seines Aufenthalts in Colmar hatte der Regierungschef unter anderem das örtliche Schulwesen inspiziert.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Badische Presse\">[2]</a></sup> Laut dem <em>Matin</em> wohnte er einer deutschen Unterrichtsstunde in einer höheren Schulklasse bei.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Badische Presse\">[2]</a></sup> Er äußerte dabei die Ansicht, dass der Unterricht in der deutschen Sprache überall dort erweitert werden könne, wo er bislang nicht ausreiche. Auf diese Weise solle den Anhängern eines zweisprachigen Unterrichts Genugtuung verschafft werden.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Badische Presse\">[2]</a></sup> Bei einem Besuch einer Dorfschule im Breuschtal ließ er sich zudem von den Fortschritten im französischen Unterricht überzeugen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Badische Presse\">[2]</a></sup></p>\n<p>Hinter den Kulissen der Reise gärt jedoch die Unzufriedenheit über die zentralistische Administration. Wie der <em>Avenir</em> veröffentlicht, hat der elsässische Senator Helmer dem Ministerpräsidenten eine Denkschrift übergeben, in der er die Probleme der Region in ruhiger, aber wirksamer Weise schildert.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Badische Presse\">[2]</a></sup> Helmer betont darin, dass die deutsch sprechenden Elsässer einen ungenügenden Unterricht in ihrer Sprache erhielten. Dadurch werde die elsässische Seele in einem überaus heiklen Punkt verletzt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Badische Presse\">[2]</a></sup> Ferner beklagt der Senator, dass zahlreiche Beamte und Richter die deutsche Sprache nicht verstünden.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Badische Presse\">[2]</a></sup> Die Rechtsanwälte beklagen die unglücklichen Auswirkungen der gegenwärtigen Gerichtsverfahren, weil die Richter die elsässische Mundart nicht beherrschten.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Badische Presse\">[2]</a></sup> Die französische Verwaltung stehe laut Helmer nicht auf der Höhe ihrer Aufgabe und sei an den für sie unvorteilhaften Vergleichen mit der früheren deutschen Administration selbst schuld. Er fordert folglich in aller Kürze eine „Reinigung des Beamtenkörpers“.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Badische Presse\">[2]</a></sup></p>\n<p>Ein weiterer Streitpunkt bleibt das Vorgehen gegen die Autonomiebewegung.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Harburger Tageblatt\">[3]</a></sup> Abbé Müller, ein Deputierter für Elsass-Lothringen, verlangte gegenüber Poincaré die Aufhebung der verhängten Sanktionen gegen den <a href=\"https://de.wikipedia.org/wiki/Elsaß-Lothringischer_Heimatbund\" target=\"_blank\" rel=\"noopener\">Heimatbund</a>, während Senator Taufflieb eine strikte Aufrechterhaltung der Maßnahmen forderte.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Harburger Tageblatt\">[3]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Raymond_Poincaré.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Raymond_Poincaré_officiel_(cropped).jpg",
+        "alt_text": "Raymond Poincaré",
+        "caption": "Raymond Poincaré, französischer Staatsmann und Politiker"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Heimatbund",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Elsaß-Lothringischer_Heimatbund",
+        "link_target": "Elsaß-Lothringischer Heimatbund"
+      },
+      {
+        "term": "Raymond Poincaré",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Raymond_Poincar%C3%A9",
+        "link_target": "Raymond Poincaré"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "date": "1926-10-14",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/W7FZTCGIKFHLCHJZOL7HVGQ2L4V4ONP5",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "date": "1926-10-14",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/KRWPLE6LHIR4NQNL3MHD6QZKUJHF2VIB",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-10-14",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/YICECK3KOZI3AS6NFYVKBWNVGSIWUWAB",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q2",
+        "newspaper": "Deutsche Allgemeine Zeitung",
+        "display_name": "Deutsche Allgemeine Zeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/KRWPLE6LHIR4NQNL3MHD6QZKUJHF2VIB",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-10-14"
+      },
+      {
+        "id": 2,
+        "qid": "Q1",
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/W7FZTCGIKFHLCHJZOL7HVGQ2L4V4ONP5",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-10-14"
+      },
+      {
+        "id": 3,
+        "qid": "Q3",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/YICECK3KOZI3AS6NFYVKBWNVGSIWUWAB",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-10-14"
+      }
+    ],
+    "editorial_note": "Die Reintegration von Elsass-Lothringen in den französischen Zentralstaat nach dem Ersten Weltkrieg verlief konfliktbeladen. Die Assimilationspolitik der Pariser Regierung stieß auf Widerstand der deutsch- und dialektsprechenden Bevölkerungsmehrheit, was zur Gründung autonomistischer Organisationen wie dem Elsass-Lothringischen Heimatbund im Jahr 1926 führte. Die Spannungen gipfelten in den Colmarer Komplottprozessen von 1928, bei denen führende Autonomisten zu Haftstrafen verurteilt wurden.",
+    "score": 80.0
+  },
+  {
+    "index": 7,
+    "headline": "Polizeiverbot gegen kommunistische Demonstration in Berlin",
+    "subheadline": "Kundgebung im Lustgarten untersagt — Innenminister Grzesinski weist Beschwerde ab — Lügen der Roten Fahne zurückgewiesen",
+    "dateline": "Berlin, 14. Oktober.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 211,
+    "body_html": "<p>Der Berliner Polizeipräsident <a href=\"https://de.wikipedia.org/wiki/Ferdinand_Friedensburg\" target=\"_blank\" rel=\"noopener\">Friedensburg</a> hat die für den heutigen Donnerstag geplante <a href=\"https://en.wikipedia.org/wiki/Kommunistische_Partei_Deutschlands\" target=\"_blank\" rel=\"noopener\">kommunistische</a> Großkundgebung im Lustgarten verboten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Wie das <em>Harburger Tageblatt</em> meldet, stützt sich die Maßnahme formal auf die Reichsverfassung. Der Erlass wurde mit einer unmittelbaren Gefahr für die öffentliche Sicherheit begründet.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Die Demonstration sollte sich laut Aufruf gegen den sogenannten „Hohenzollernvergleich“ richten.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Im Preußischen Landtag, der am morgigen Freitag in dritter Lesung über die Hohenzollernvorlage sowie über einen kommunistischen Misstrauensantrag gegen das Staatsministerium abstimmen wird, war es zuletzt zu schweren Ausschreitungen gekommen.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Kölnische Zeitung\">[3]</a></sup></p>\n<p>Dem <em>Vorwärts</em> zufolge befürchteten die Behörden, dass die Gewalttätigkeiten der kommunistischen Abgeordneten im Parlament nun auf der Straße fortgesetzt werden könnten und wieder blutige Übergriffe erfolgen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Eine Beschwerde der Kommunisten gegen das polizeiliche Verbot der Freiluftveranstaltung wurde vom preußischen Innenminister <a href=\"https://de.wikipedia.org/wiki/Albert_Grzesinski\" target=\"_blank\" rel=\"noopener\">Grzesinski</a> umgehend zurückgewiesen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup></p>\n<p>Zugleich wehrt sich die sozialdemokratische Presse entschieden gegen Behauptungen der <em>Roten Fahne</em>, das polizeiliche Einschreiten sei auf direktes Verlangen des sozialdemokratischen Parteivorstandes erfolgt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Der <em>Vorwärts</em> bezeichnet diese Darstellung als bewusste Lüge und stellt klar, der Parteivorstand habe sich mit der Angelegenheit nicht befasst, sondern erst aus den Zeitungen von dem Erlass erfahren.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Da die Kommunisten nun gezwungen sind, auf eilig angesetzte Saalversammlungen auszuweichen, weist das Blatt darauf hin, dass die politischen Freiheiten der Kommunisten in Deutschland offenkundig immer noch ungleich größer seien als im bolschewistischen Russland.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Ferdinand_Friedensburg.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dr_Friedensburg,_vice-président_de_la_police_à_Berlin,_Rol_-_btv1b53143892d.jpg",
+        "alt_text": "Ferdinand Friedensburg",
+        "caption": "Ferdinand Friedensburg, deutscher Politiker (DDP, CDU), MdB, MdEP"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Friedensburg",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Ferdinand_Friedensburg",
+        "link_target": "Ferdinand Friedensburg"
+      },
+      {
+        "term": "Grzesinski",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Albert_Grzesinski",
+        "link_target": "Albert Grzesinski"
+      },
+      {
+        "term": "kommunistische",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kommunistische_Partei_Deutschlands",
+        "link_target": "Kommunistische Partei Deutschlands"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "date": "1926-10-14",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/L3PIHGKE253SYOWMJD2XVPCLLMD6Z5N6",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-10-14",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/YICECK3KOZI3AS6NFYVKBWNVGSIWUWAB",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Kölnische Zeitung",
+        "display_name": "Kölnische Zeitung",
+        "date": "1926-10-14",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/7WCF2SIF4LGSDVLPGBM4ZE3WD45UQ7CN",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/L3PIHGKE253SYOWMJD2XVPCLLMD6Z5N6",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-10-14"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/YICECK3KOZI3AS6NFYVKBWNVGSIWUWAB",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-10-14"
+      },
+      {
+        "id": 3,
+        "qid": "Q4",
+        "newspaper": "Kölnische Zeitung",
+        "display_name": "Kölnische Zeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/7WCF2SIF4LGSDVLPGBM4ZE3WD45UQ7CN",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-10-14"
+      }
+    ],
+    "editorial_note": "Das Verbot der Demonstration ist ein Beispiel für die harten Auseinandersetzungen zwischen der KPD und den staatlichen Ordnungskräften, die in Preußen meist von SPD-Ministern wie Carl Severing oder Albert Grzesinski geführt wurden. Der sogenannte 'Hohenzollernvergleich' bezog sich auf die Debatte um die Fürstenenteignung im Jahr 1926. Die gegensätzlichen Positionen von Sozialdemokraten und Kommunisten verhinderten bis zum Ende der Weimarer Republik ein gemeinsames Vorgehen dieser beiden Arbeiterparteien gegen den wachsenden Einfluss des Nationalsozialismus.",
+    "score": 100.0
+  }
+]
