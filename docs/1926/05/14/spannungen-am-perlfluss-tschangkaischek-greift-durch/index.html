@@ -66,9 +66,29 @@
             color: var(--rule);
         }
         .static-wrapper {
-            max-width: 800px;
+            max-width: var(--max-width);
             margin: 0 auto;
             padding: 0 1.5rem 3rem;
+        }
+        .static-content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .static-all-editions {
+            display: block;
+            text-align: center;
+            margin-top: 2rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--rule);
+            font-family: var(--font-ui);
+            font-size: 0.8rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: var(--accent);
+            text-decoration: none;
+        }
+        .static-all-editions:hover {
+            color: var(--accent-dark);
         }
         .static-article-nav {
             display: flex;
@@ -93,58 +113,78 @@
     </style>
 </head>
 <body>
+    <nav class="topbar">
+    <div class="topbar-inner">
+        <ul class="topbar-nav">
+            <li><a href="/">Heutige Ausgabe</a></li>
+            <li><a href="/">Archiv</a></li>
+            <li><a href="/chronik.html">Schlüsseldaten</a></li>
+            <li><a href="/about.html">Über das Projekt</a></li>
+        </ul>
+        <div class="topbar-search"></div>
+        <div class="topbar-auth">
+            <button class="btn-login">Anmelden</button>
+            <button class="btn-register">Registrieren</button>
+        </div>
+    </div>
+</nav>
     <header class="masthead">
         <p class="masthead-overline">Geschichte im Spiegel der zeitgenössischen Berichterstattung — Täglich neu erzählt</p>
         <h1 class="masthead-title"><a href="/">VOR 100 JAHREN</a></h1>
         <p class="masthead-subtitle">Die historische Presseschau</p>
         <div class="deco-line"><span class="deco-diamond"></span><span class="deco-diamond"></span><span class="deco-diamond"></span></div>
+        <p class="masthead-date">Freitag, 14. Mai 1926</p>
+        <p class="masthead-stats">7 Artikel aus 15 Originalquellen &middot; 5 Länder &middot; 4 Sprachen</p>
     </header>
 
     <div class="edition-nav">
         <a href="/1926/05/13/"><span class="arrow-left"></span> Vorige</a>
-        <span>Ausgabe 45 von 45</span>
-        <a href="#" class="disabled">Nächste <span class="arrow-right"></span></a>
+        <span>Ausgabe 45 von 197</span>
+        <a href="/1926/05/15/">Nächste <span class="arrow-right"></span></a>
     </div>
 
     <div class="static-wrapper">
-        <nav class="static-breadcrumb">
-            <a href="/">Startseite</a>
-            <span class="sep">&rsaquo;</span>
-            <a href="/1926/05/">Mai 1926</a>
-            <span class="sep">&rsaquo;</span>
-            <a href="../">14. Mai 1926</a>
-            <span class="sep">&rsaquo;</span>
-            <span>Spannungen am Perlfluss: Tschangkaischek greift durch</span>
-        </nav>
+        <div class="static-content">
+            <nav class="static-breadcrumb">
+                <a href="/">Startseite</a>
+                <span class="sep">&rsaquo;</span>
+                <a href="/1926/05/">Mai 1926</a>
+                <span class="sep">&rsaquo;</span>
+                <a href="../">14. Mai 1926</a>
+                <span class="sep">&rsaquo;</span>
+                <span>Spannungen am Perlfluss: Tschangkaischek greift durch</span>
+            </nav>
 
-        <article class="article article--standard">
-            <div class="article-meta">
-                <span class="article-type">Artikel</span>
-                <span class="article-category">Kolonien &amp; Übersee</span>
-            </div>
-            <h2 class="article-headline">Spannungen am Perlfluss: Tschangkaischek greift durch</h2>
-            <p class='article-subheadline'>Drohender kommunistischer Umsturz in Kanton — Blutige Studentenunruhen — Kuomintang-Führer verlassen die Stadt</p>
-            <div class="article-separator"></div>
-            <p class='article-dateline'>Hongkong, 14. Mai. (Eigener Drahtbericht.)</p>
-            <figure class="article-image">
+            <article class="article article--standard">
+                <div class="article-meta">
+                    <span class="article-type">Artikel</span>
+                    <span class="article-category">Kolonien &amp; Übersee</span>
+                </div>
+                <h2 class="article-headline">Spannungen am Perlfluss: Tschangkaischek greift durch</h2>
+                <p class='article-subheadline'>Drohender kommunistischer Umsturz in Kanton — Blutige Studentenunruhen — Kuomintang-Führer verlassen die Stadt</p>
+                <div class="article-separator"></div>
+                <p class='article-dateline'>Hongkong, 14. Mai. (Eigener Drahtbericht.)</p>
+                <figure class="article-image">
             <img src="../../../../images/Chiang_Kai-shek.jpg" alt="Chiang Kai-shek" loading="lazy">
             <figcaption>Chiang Kai-shek (Tschangkaischek), chinesischer Politiker und Militärführer
                 <span class="image-credit">Wikimedia Commons</span>
             </figcaption>
         </figure>
-            <div class="article-body"><p>Die südchinesische Metropole Kanton durchlebt gegenwärtig eine Phase höchster politischer Anspannung, die von Gerüchten über eine bevorstehende Machtübernahme radikaler Kräfte begleitet wird.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup> Wie der <em>Hong Kong Telegraph</em> berichtet, zirkulieren in der Stadt hartnäckige Spekulationen, wonach bereits am morgigen 15. Mai ein kommunistisches Regime ausgerufen werden solle.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup> Örtliche Geschäfte haben in den vergangenen Tagen rund 30.000 Abzeichen mit <a href="https://de.wikipedia.org/wiki/Bolschewismus" target="_blank" rel="noopener">bolschewistischen</a> Symbolen gefertigt.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup> An markanten Punkten der Stadt wurden zudem Plakate angebracht. Auf diesen fordern vereinigte Arbeiter das Ende der Kapitalisten und kündigen den Beginn der <a href="https://de.wikipedia.org/wiki/Kommunistische_Partei_Chinas" target="_blank" rel="noopener">kommunistischen</a> Herrschaft an.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup></p>
+                <div class="article-body"><p>Die südchinesische Metropole Kanton durchlebt gegenwärtig eine Phase höchster politischer Anspannung, die von Gerüchten über eine bevorstehende Machtübernahme radikaler Kräfte begleitet wird.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup> Wie der <em>Hong Kong Telegraph</em> berichtet, zirkulieren in der Stadt hartnäckige Spekulationen, wonach bereits am morgigen 15. Mai ein kommunistisches Regime ausgerufen werden solle.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup> Örtliche Geschäfte haben in den vergangenen Tagen rund 30.000 Abzeichen mit <a href="https://de.wikipedia.org/wiki/Bolschewismus" target="_blank" rel="noopener">bolschewistischen</a> Symbolen gefertigt.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup> An markanten Punkten der Stadt wurden zudem Plakate angebracht. Auf diesen fordern vereinigte Arbeiter das Ende der Kapitalisten und kündigen den Beginn der <a href="https://de.wikipedia.org/wiki/Kommunistische_Partei_Chinas" target="_blank" rel="noopener">kommunistischen</a> Herrschaft an.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup></p>
 <p>Angesichts dieser bedrohlichen Lage hat General Tschangkaischek entschlossenes Vorgehen angekündigt.<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="China Mail">[2]</a></sup> Die <em>China Mail</em> meldet, dass der Militärführer eine unmissverständliche Warnung aussprach: Jeder Versuch, die Regierungsstrukturen zu stören oder zu beseitigen, werde gewaltsam unterdrückt.<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="China Mail">[2]</a></sup> Die Autorität der radikalen Streikposten wird zunehmend infrage gestellt. Auch unter Arbeitern und Bauern kommt es zu Spannungen: Während ein Teil den kommunistischen Agitatoren folgt, stellen sich andere auf die Seite der nationalistischen Partei (<a href="https://de.wikipedia.org/wiki/Kuomintang" target="_blank" rel="noopener">Kuomintang</a>).<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="China Mail">[2]</a></sup></p>
 <p>Die tiefe Zerrissenheit der Bevölkerung zeigt sich besonders deutlich in der Studentenschaft. Diese ist längst in ein kommunistisches und ein antikommunistisches Lager gespalten.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup> Nachdem einer Gruppe kürzlich die Nutzung der Räumlichkeiten der <a href="https://de.wikipedia.org/wiki/Sun-Yat-sen-Universit%C3%A4t" target="_blank" rel="noopener">Kanton-Universität</a> verwehrt worden war, verlagerten sich die Versammlungen unter freiem Himmel auf den östlichen Paradeplatz.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup> Am sogenannten 'Demütigungstag' kam es in der Universität zu einem offenen Konflikt zwischen den rivalisierenden Gruppierungen. Dabei wurden zahlreiche Personen verletzt; drei Studenten mussten mit schweren Blessuren in ein Krankenhaus eingeliefert werden.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup></p>
 <p>Zusätzlich zur politischen Krise leidet die Kantoner Regierung unter erheblichen finanziellen Nöten.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup> Ein Versuch, das Salzmonopol im Distrikt Chao-Kew für zwei Millionen Dollar jährlich zu verpachten, droht zu scheitern.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup> Das Hauptproblem besteht darin, dass staatliche Einnahmen in einigen Fällen bereits für bis zu drei Jahre im Voraus eingetrieben wurden. Deshalb fehlt potenziellen Pächtern die Einkommensgrundlage.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup></p>
 <p>Die unübersichtliche Lage hat in den Führungskreisen der Kuomintang bereits spürbare Konsequenzen ausgelöst.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup> Nach vorliegenden Berichten hat der hohe Parteifunktionär <a href="https://de.wikipedia.org/wiki/Wang_Jingwei" target="_blank" rel="noopener">Wangtschingwei</a> Kanton in Richtung Hongkong verlassen.<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="China Mail">[2]</a></sup> Auch Kum Nai-kwong, der zeitweise sechs Ämter gleichzeitig innehatte und von Wangtschingwei beauftragt worden war, die zerstrittenen Studenten zu versöhnen, legte seine Posten nieder und reiste hastig in Richtung Wutschou (Wuzhou) ab.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup> Damit ist der Weg für eine entscheidende Kraftprobe am Perlfluss bereitet, deren Ausgang das Schicksal Südchinas bestimmen dürfte.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Hong Kong Telegraph">[1]</a></sup></p></div>
-            <details class="editorial-note" open>
+                <details class="editorial-note" open>
             <summary>Historische Einordnung</summary>
             <p>Im Frühjahr 1926 festigte Chiang Kai-shek (Tschangkaischek) seine Macht in Kanton durch den sogenannten Zhongshan-Schiff-Zwischenfall, der den Einfluss der Kommunisten innerhalb der Kuomintang schwächte. Dieser Konflikt markierte den Beginn von Chiangs Aufstieg zum Führer der Nationalisten. Wenige Monate später startete er den Nordfeldzug zur militärischen Einigung Chinas, was 1927 zum endgültigen Bruch mit der Kommunistischen Partei führte.</p>
         </details>
-            <div class="article-footnotes"><span class="footnotes-label">Quellenverweise:</span><ol class="footnote-list"><li id="fn-1" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22Hong+Kong+Telegraph%22+AND+date%3A1926-05-14" target="_blank" rel="noopener">Hong Kong Telegraph</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-14</span></li><li id="fn-2" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-05-14" target="_blank" rel="noopener">China Mail</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-14</span></li></ol></div>
-        </article>
+                <div class="article-footnotes"><span class="footnotes-label">Quellenverweise:</span><ol class="footnote-list"><li id="fn-1" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22Hong+Kong+Telegraph%22+AND+date%3A1926-05-14" target="_blank" rel="noopener">Hong Kong Telegraph</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-14</span></li><li id="fn-2" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-05-14" target="_blank" rel="noopener">China Mail</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-14</span></li></ol></div>
+            </article>
 
-        <nav class="static-article-nav"><a href="../wo-ist-die-norge-bange-ungewissheit-ueber-der-arktis/" class="static-nav-link">← Wo ist die Norge? Bange Ungewissheit über der Arktis</a><a href="../protest-gegen-das-verbot-kapitaen-ehrhardt-weist/" class="static-nav-link">Protest gegen das Verbot: Kapitän Ehrhardt weist Putschpläne zurück →</a></nav>
+            <nav class="static-article-nav"><a href="../wo-ist-die-norge-bange-ungewissheit-ueber-der-arktis/" class="static-nav-link">← Wo ist die Norge? Bange Ungewissheit über der Arktis</a><a href="../protest-gegen-das-verbot-kapitaen-ehrhardt-weist/" class="static-nav-link">Protest gegen das Verbot: Kapitän Ehrhardt weist Putschpläne zurück →</a></nav>
+            <a href="/" class="static-all-editions">Alle Ausgaben durchsuchen &rarr;</a>
+        </div>
     </div>
 </body>
 </html>

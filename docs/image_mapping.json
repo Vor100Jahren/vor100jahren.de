@@ -4692,5 +4692,60 @@
     "local_file": "1920s_Florida_land_boom.png",
     "local_path": "images/1920s_Florida_land_boom.png",
     "alt": "1920s Florida land boom"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Gerh_anschuetz_grab.JPG/960px-Gerh_anschuetz_grab.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Gerhard_Anschütz.jpg",
+    "local_path": "images/Gerhard_Anschütz.jpg",
+    "alt": "Gerhard Anschütz"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Henri_Wilhelm_August_Deterding.jpg/960px-Henri_Wilhelm_August_Deterding.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Henri_Deterding.jpg",
+    "local_path": "images/Henri_Deterding.jpg",
+    "alt": "Henri Deterding"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Joe_Guffey_%28D-PA%29.jpg/960px-Joe_Guffey_%28D-PA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Joseph_F._Guffey.jpg",
+    "local_path": "images/Joseph_F._Guffey.jpg",
+    "alt": "Joseph F. Guffey"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_the_National_Fascist_Party_%28PNF%29_variant_2.svg/960px-Flag_of_the_National_Fascist_Party_%28PNF%29_variant_2.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Italienischer_Faschismus.png",
+    "local_path": "images/Italienischer_Faschismus.png",
+    "alt": "Italienischer Faschismus"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Deutsche_Reichsbahn_Gesellschaft_logo.svg/960px-Deutsche_Reichsbahn_Gesellschaft_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Deutsche_Reichsbahn.png",
+    "local_path": "images/Deutsche_Reichsbahn.png",
+    "alt": "Deutsche Reichsbahn"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Emblem_of_the_Kuomintang.svg/960px-Emblem_of_the_Kuomintang.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Kuomintang.png",
+    "local_path": "images/Kuomintang.png",
+    "alt": "Kuomintang"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Neue_Wege_-_Bl%C3%A4tter_f%C3%BCr_religi%C3%B6se_Arbeit_1907_Titel.png/960px-Neue_Wege_-_Bl%C3%A4tter_f%C3%BCr_religi%C3%B6se_Arbeit_1907_Titel.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Neue_Wege.png",
+    "local_path": "images/Neue_Wege.png",
+    "alt": "Neue Wege"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Louis_Brandeis_Associate_Justice_c1916.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Louis_Brandeis_Associate_Justice_c1916.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Louis_Brandeis.jpg",
+    "local_path": "images/Louis_Brandeis.jpg",
+    "alt": "Louis Brandeis"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/960px-Flag_of_France.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Französisch-Westafrika.png",
+    "local_path": "images/Französisch-Westafrika.png",
+    "alt": "Französisch-Westafrika"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Theodor_Fritsch_1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Theodor_Fritsch_1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Theodor_Fritsch.jpg",
+    "local_path": "images/Theodor_Fritsch.jpg",
+    "alt": "Theodor Fritsch"
+  },
+  "https://en.wikipedia.org/wiki/%C3%89mile_Francqui#/media": {
+    "local_file": "Émile_Francqui.jpg",
+    "local_path": "images/Émile_Francqui.jpg",
+    "alt": "Émile Francqui"
   }
 }

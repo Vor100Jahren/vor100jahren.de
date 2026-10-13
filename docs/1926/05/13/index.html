@@ -43,9 +43,29 @@
             cursor: default;
         }
         .static-wrapper {
-            max-width: 800px;
+            max-width: var(--max-width);
             margin: 0 auto;
             padding: 0 1.5rem 3rem;
+        }
+        .static-content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .static-all-editions {
+            display: block;
+            text-align: center;
+            margin-top: 2rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--rule);
+            font-family: var(--font-ui);
+            font-size: 0.8rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: var(--accent);
+            text-decoration: none;
+        }
+        .static-all-editions:hover {
+            color: var(--accent-dark);
         }
         .static-day-title {
             font-family: var(--font-display);
@@ -74,9 +94,7 @@
         }
         .static-teaser-image img {
             width: 140px;
-            height: 105px;
-            object-fit: cover;
-            object-position: top center;
+            height: auto;
             border: 1px solid var(--rule);
         }
         .static-teaser-content {
@@ -131,22 +149,39 @@
     </style>
 </head>
 <body>
+    <nav class="topbar">
+    <div class="topbar-inner">
+        <ul class="topbar-nav">
+            <li><a href="/">Heutige Ausgabe</a></li>
+            <li><a href="/">Archiv</a></li>
+            <li><a href="/chronik.html">Schlüsseldaten</a></li>
+            <li><a href="/about.html">Über das Projekt</a></li>
+        </ul>
+        <div class="topbar-search"></div>
+        <div class="topbar-auth">
+            <button class="btn-login">Anmelden</button>
+            <button class="btn-register">Registrieren</button>
+        </div>
+    </div>
+</nav>
     <header class="masthead">
         <p class="masthead-overline">Geschichte im Spiegel der zeitgenössischen Berichterstattung — Täglich neu erzählt</p>
         <h1 class="masthead-title"><a href="/">VOR 100 JAHREN</a></h1>
         <p class="masthead-subtitle">Die historische Presseschau</p>
         <div class="deco-line"><span class="deco-diamond"></span><span class="deco-diamond"></span><span class="deco-diamond"></span></div>
+        <p class="masthead-date">Donnerstag, 13. Mai 1926</p>
+        <p class="masthead-stats">7 Artikel aus 14 Originalquellen &middot; 6 Länder &middot; 3 Sprachen</p>
     </header>
 
     <div class="edition-nav">
         <a href="/1926/05/12/"><span class="arrow-left"></span> Vorige</a>
-        <span>Ausgabe 44 von 45</span>
+        <span>Ausgabe 44 von 197</span>
         <a href="/1926/05/14/">Nächste <span class="arrow-right"></span></a>
     </div>
 
     <div class="static-wrapper">
-        <h2 class="static-day-title">Donnerstag, 13. Mai 1926</h2>
-        
+        <div class="static-content">
+            
         <div class="static-teaser">
             <div class="static-teaser-image">
                 <img src="../../../images/Kuno_von_Westarp.jpg" alt="Kuno von Westarp" loading="lazy">
@@ -223,6 +258,8 @@
                 <p class='static-teaser-sub'>Millionenanleihe für überdimensionierte Projekte — Vorwürfe der Bodenspekulation</p>
                 <a href="finanzskandal-um-madrids-baupolitik-kritik-am-municipio/" class="static-teaser-link">Weiterlesen →</a>
             </div>
+        </div>
+            <a href="/" class="static-all-editions">Alle Ausgaben durchsuchen &rarr;</a>
         </div>
     </div>
 </body>

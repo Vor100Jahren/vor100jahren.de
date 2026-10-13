@@ -66,9 +66,29 @@
             color: var(--rule);
         }
         .static-wrapper {
-            max-width: 800px;
+            max-width: var(--max-width);
             margin: 0 auto;
             padding: 0 1.5rem 3rem;
+        }
+        .static-content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .static-all-editions {
+            display: block;
+            text-align: center;
+            margin-top: 2rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--rule);
+            font-family: var(--font-ui);
+            font-size: 0.8rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: var(--accent);
+            text-decoration: none;
+        }
+        .static-all-editions:hover {
+            color: var(--accent-dark);
         }
         .static-article-nav {
             display: flex;
@@ -93,46 +113,64 @@
     </style>
 </head>
 <body>
+    <nav class="topbar">
+    <div class="topbar-inner">
+        <ul class="topbar-nav">
+            <li><a href="/">Heutige Ausgabe</a></li>
+            <li><a href="/">Archiv</a></li>
+            <li><a href="/chronik.html">Schlüsseldaten</a></li>
+            <li><a href="/about.html">Über das Projekt</a></li>
+        </ul>
+        <div class="topbar-search"></div>
+        <div class="topbar-auth">
+            <button class="btn-login">Anmelden</button>
+            <button class="btn-register">Registrieren</button>
+        </div>
+    </div>
+</nav>
     <header class="masthead">
         <p class="masthead-overline">Geschichte im Spiegel der zeitgenössischen Berichterstattung — Täglich neu erzählt</p>
         <h1 class="masthead-title"><a href="/">VOR 100 JAHREN</a></h1>
         <p class="masthead-subtitle">Die historische Presseschau</p>
         <div class="deco-line"><span class="deco-diamond"></span><span class="deco-diamond"></span><span class="deco-diamond"></span></div>
+        <p class="masthead-date">Donnerstag, 13. Mai 1926</p>
+        <p class="masthead-stats">7 Artikel aus 14 Originalquellen &middot; 6 Länder &middot; 3 Sprachen</p>
     </header>
 
     <div class="edition-nav">
         <a href="/1926/05/12/"><span class="arrow-left"></span> Vorige</a>
-        <span>Ausgabe 44 von 45</span>
+        <span>Ausgabe 44 von 197</span>
         <a href="/1926/05/14/">Nächste <span class="arrow-right"></span></a>
     </div>
 
     <div class="static-wrapper">
-        <nav class="static-breadcrumb">
-            <a href="/">Startseite</a>
-            <span class="sep">&rsaquo;</span>
-            <a href="/1926/05/">Mai 1926</a>
-            <span class="sep">&rsaquo;</span>
-            <a href="../">13. Mai 1926</a>
-            <span class="sep">&rsaquo;</span>
-            <span>Generalstreik in England beigelegt: Einigung in der Downing Street</span>
-        </nav>
+        <div class="static-content">
+            <nav class="static-breadcrumb">
+                <a href="/">Startseite</a>
+                <span class="sep">&rsaquo;</span>
+                <a href="/1926/05/">Mai 1926</a>
+                <span class="sep">&rsaquo;</span>
+                <a href="../">13. Mai 1926</a>
+                <span class="sep">&rsaquo;</span>
+                <span>Generalstreik in England beigelegt: Einigung in der Downing Street</span>
+            </nav>
 
-        <article class="article article--standard">
-            <div class="article-meta">
-                <span class="article-type">Artikel</span>
-                <span class="article-category">Arbeit &amp; Soziales</span>
-            </div>
-            <h2 class="article-headline">Generalstreik in England beigelegt: Einigung in der Downing Street</h2>
-            <p class='article-subheadline'>Gewerkschaftsrat ruft Ausstand bedingungslos ab — Bergarbeiter setzen den Kampf allein fort — Friedensappell des Königs an die Nation — Jubel an der Londoner Börse</p>
-            <div class="article-separator"></div>
-            <p class='article-dateline'>London, 13. Mai. (Eigener Drahtbericht.)</p>
-            <figure class="article-image">
+            <article class="article article--standard">
+                <div class="article-meta">
+                    <span class="article-type">Artikel</span>
+                    <span class="article-category">Arbeit &amp; Soziales</span>
+                </div>
+                <h2 class="article-headline">Generalstreik in England beigelegt: Einigung in der Downing Street</h2>
+                <p class='article-subheadline'>Gewerkschaftsrat ruft Ausstand bedingungslos ab — Bergarbeiter setzen den Kampf allein fort — Friedensappell des Königs an die Nation — Jubel an der Londoner Börse</p>
+                <div class="article-separator"></div>
+                <p class='article-dateline'>London, 13. Mai. (Eigener Drahtbericht.)</p>
+                <figure class="article-image">
             <img src="../../../../images/Georg_V..jpg" alt="Georg V." loading="lazy">
             <figcaption>Georg V., König des Vereinigten Königreiches von Großbritannien und Irland (1910–1936)
                 <span class="image-credit">Wikimedia Commons</span>
             </figcaption>
         </figure>
-            <div class="article-body"><p>Der gewaltige, neuntägige <a href="https://de.wikipedia.org/wiki/Generalstreik_in_Großbritannien_1926" target="_blank" rel="noopener">Generalstreik</a>, der das wirtschaftliche Leben Großbritanniens in seinen Grundfesten zu erschüttern drohte, ist beigelegt. Nach einer einstündigen Konferenz in der Downing Street erklärte der Generalsekretär des Gewerkschaftsrates, <a href="https://de.wikipedia.org/wiki/Arthur_Pugh" target="_blank" rel="noopener">Pugh</a>, den Ausstand formell für beendet.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Badische Presse">[1]</a></sup> In einer hastig verfassten Botschaft an alle beteiligten Organisationen im Lande teilte der Gewerkschaftsrat mit, dass der Generalstreik widerrufen werde, um Verhandlungen wieder aufnehmen zu können.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Badische Presse">[1]</a></sup> Die Abberufung erfolgte de facto bedingungslos; die britische Regierung unter Premierminister <a href="https://de.wikipedia.org/wiki/Stanley_Baldwin" target="_blank" rel="noopener">Baldwin</a> hatte zuvor auf der vorherigen Rücknahme des Streikbefehls bestanden, bevor offizielle Gespräche wieder aufgenommen werden konnten.<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="China Mail">[2]</a></sup></p>
+                <div class="article-body"><p>Der gewaltige, neuntägige <a href="https://de.wikipedia.org/wiki/Generalstreik_in_Großbritannien_1926" target="_blank" rel="noopener">Generalstreik</a>, der das wirtschaftliche Leben Großbritanniens in seinen Grundfesten zu erschüttern drohte, ist beigelegt. Nach einer einstündigen Konferenz in der Downing Street erklärte der Generalsekretär des Gewerkschaftsrates, <a href="https://de.wikipedia.org/wiki/Arthur_Pugh" target="_blank" rel="noopener">Pugh</a>, den Ausstand formell für beendet.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Badische Presse">[1]</a></sup> In einer hastig verfassten Botschaft an alle beteiligten Organisationen im Lande teilte der Gewerkschaftsrat mit, dass der Generalstreik widerrufen werde, um Verhandlungen wieder aufnehmen zu können.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Badische Presse">[1]</a></sup> Die Abberufung erfolgte de facto bedingungslos; die britische Regierung unter Premierminister <a href="https://de.wikipedia.org/wiki/Stanley_Baldwin" target="_blank" rel="noopener">Baldwin</a> hatte zuvor auf der vorherigen Rücknahme des Streikbefehls bestanden, bevor offizielle Gespräche wieder aufgenommen werden konnten.<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="China Mail">[2]</a></sup></p>
 <p>Der Tag begann in der britischen Hauptstadt zunächst mit erheblichen Aufregungen und widersprüchlichen Gerüchten. Am Vormittag war die Berichterstattung noch recht pessimistisch gestimmt. In wohlunterrichteten Kreisen rechnete niemand ernsthaft mit einer raschen und so vollständigen Kapitulation der großen Gewerkschaften.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Badische Presse">[1]</a></sup> Gegen 11 Uhr erschien jedoch der <em>Daily Chronicle</em>, der tagelang nicht gedruckt worden war, mit einem Flugblatt, das die sofortige Aufhebung des Ausstandes verkündete.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Badische Presse">[1]</a></sup> Diese unbestätigte Nachricht fand zunächst keinen Glauben und wurde an zuständiger Stelle dementiert. Erst am frühen Nachmittag wurde bekannt, dass der Ausschuss des Gewerkschaftsrates tatsächlich beim Premierminister war.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Badische Presse">[1]</a></sup></p>
 <p>Die öffentliche Ordnung konnte während der gesamten Dauer des Ringens überraschend gut aufrechterhalten werden. Die Regierung teilte mit, dass es fast nirgends zu gravierenden Sabotageversuchen gekommen sei. In der Provinz waren 200.000 und in London 40.000 freiwillige Polizisten im Einsatz.<sup class="source-ref"><a href="#fn-3" id="fnref-3" title="Westfälischer Merkur">[3]</a></sup> Auch der Personenverkehr entspannte sich; so verkehrten auf vier Hauptstrecken bereits wieder 4.500 Züge, und in London fuhren immerhin 850 Autobusse.<sup class="source-ref"><a href="#fn-3" id="fnref-3" title="Westfälischer Merkur">[3]</a></sup> Die Londoner <em>Times</em> sieht in diesem Zustand des Transportwesens ein klares Barometer für das unvermeidliche Scheitern des Ausstandes.<sup class="source-ref"><a href="#fn-4" id="fnref-4" title="Hong Kong Telegraph">[4]</a></sup> Dennoch gab es vereinzelte Unruhen. So meldet die <em>China Mail</em> aus Doncaster ernste Ausschreitungen: Über 80 Bergarbeiter wurden verhaftet, nachdem die Menge den Verkehr blockiert, einen Zeitungswagen demoliert und die berittene Polizei attackiert hatte.<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="China Mail">[2]</a></sup></p>
 <p>In einer feierlichen Botschaft an das britische Volk rief <a href="https://de.wikipedia.org/wiki/Georg_V._(Vereinigtes_K%C3%B6nigreich)" target="_blank" rel="noopener">König Georg V.</a> nach der Einigung dazu auf, die durch den Konflikt entstandene Verbitterung zu vergessen und für einen bleibenden industriellen Frieden zusammenzuarbeiten.<sup class="source-ref"><a href="#fn-5" id="fnref-5" title="Washington Post">[5]</a></sup> Die Nation habe eine Periode extremer Besorgnis durchlebt; nun sei es von größter Wichtigkeit, dass alle zusammenstünden.<sup class="source-ref"><a href="#fn-5" id="fnref-5" title="Washington Post">[5]</a></sup> Auch Premierminister Baldwin betonte im Unterhaus, das bis auf den letzten Platz gefüllt war, dass der aktuelle Anlass weder Raum für gegenseitige Vorwürfe noch für Böswilligkeit oder bloßen Triumph biete.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Badische Presse">[1]</a></sup><sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Evening Star (Washington, D.C.)">[6]</a></sup></p>
@@ -141,14 +179,16 @@
 <p>Eine der drängendsten Fragen der kommenden Tage bleibt die Wiedereinstellung der Streikenden. Macdonald warnte im Parlament davor, dass jeder, der das Ansehen der Gewerkschafter nach dem Streik beschädigen wolle, sich schwer täusche.<sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Evening Star (Washington, D.C.)">[6]</a></sup> Die Arbeiter müssten als freie Männer mit Selbstachtung behandelt werden.<sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Evening Star (Washington, D.C.)">[6]</a></sup> Premierminister Baldwin stellte zwar in Aussicht, dass alles geschehen werde, um den Konflikt im Kohlenbergbau zu lösen. Die Frage der Wiedereinstellung verwies er jedoch an die Arbeitgeber und Belegschaften selbst.<sup class="source-ref"><a href="#fn-5" id="fnref-5" title="Washington Post">[5]</a></sup><sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Evening Star (Washington, D.C.)">[6]</a></sup></p>
 <p>Hier deuten sich bedeutende Auseinandersetzungen an. Wie die <em>Neue Freie Presse</em> meldet, erklären viele Arbeitgeber, dass sie infolge des Produktionsrückganges ihre laufenden Geschäfte künftig mit einem verkleinerten Personalstamm führen können.<sup class="source-ref"><a href="#fn-10" id="fnref-10" title="Neue Freie Presse">[10]</a></sup> Bei der Zusammenstellung der Belegschaft sollen in erster Linie die Arbeitswilligen übernommen werden, während von den Streikenden nur die unbedingt notwendige Anzahl wieder eingestellt werden solle.<sup class="source-ref"><a href="#fn-10" id="fnref-10" title="Neue Freie Presse">[10]</a></sup> Auch die Londoner Zeitungsverlegervereinigung hat beschlossen, das streikende Personal vorerst nicht wieder einzustellen, bis die genauen Bedingungen dafür geprüft sind.<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="China Mail">[2]</a></sup></p>
 <p>An der Londoner Börse löste die Nachricht von der Beilegung des Konflikts einen beispiellosen Jubel aus, der den Betrieb für einige Minuten völlig unterbrach.<sup class="source-ref"><a href="#fn-10" id="fnref-10" title="Neue Freie Presse">[10]</a></sup> Es entwickelte sich ein lebhaftes Haussetreiben bei britischen Staatspapieren sowie Eisenbahn- und Industrieaktien; dabei waren Kurssteigerungen von mehreren Prozent innerhalb weniger Minuten zu verzeichnen.<sup class="source-ref"><a href="#fn-10" id="fnref-10" title="Neue Freie Presse">[10]</a></sup> Auch im Ausland wurde die friedliche Lösung mit großer Erleichterung aufgenommen. In Paris rief die Beendigung des Streiks eine förmliche Begeisterung hervor.<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="China Mail">[2]</a></sup> In Rom wird das Ende der Streikbewegung ebenfalls begrüßt; der <em>Giornale d'Italia</em> stellt fest, dass die sogenannte rote Politik, die Massen zu zersetzen und das britische System zu stürzen, endgültig gescheitert sei.<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="China Mail">[2]</a></sup> Dem amerikanischen <em>Evening Star</em> lässt sich entnehmen, dass das Verhalten der britischen Öffentlichkeit während der Krise auch in den Vereinigten Staaten breite Bewunderung findet.<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="China Mail">[2]</a></sup></p></div>
-            <details class="editorial-note" open>
+                <details class="editorial-note" open>
             <summary>Historische Einordnung</summary>
             <p>Der britische Generalstreik von 1926 ging als der größte Arbeitskampf in die britische Geschichte ein. Während die Dachgewerkschaft TUC den Ausstand nach neun Tagen abbrach, streikten die Bergarbeiter noch monatelang erfolglos weiter. Infolge des Streiks erließ die konservative Regierung 1927 den Trade Disputes and Trade Unions Act, der Sympathiestreiks fortan für illegal erklärte.</p>
         </details>
-            <div class="article-footnotes"><span class="footnotes-label">Quellenverweise:</span><ol class="footnote-list"><li id="fn-1" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/GGQY3Z2IJTX3W7C6LA2SDGPEIIXS243G" target="_blank" rel="noopener">Badische Presse</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-2" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-05-13" target="_blank" rel="noopener">China Mail</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-3" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/5WVQKRYZFCWPPBZYLQDXQZACP6LKXEAR" target="_blank" rel="noopener">Westfälischer Merkur</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-4" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22Hong+Kong+Telegraph%22+AND+date%3A1926-05-13" target="_blank" rel="noopener">Hong Kong Telegraph</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-5" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-05-13" target="_blank" rel="noopener">The Washington Post</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-6" class="footnote-item"><a href="https://chroniclingamerica.loc.gov/" target="_blank" rel="noopener">Evening Star (Washington, D.C.)</a> <span class="footnote-archive">(Library of Congress – Chronicling America)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-7" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/ZWZ6LXKLP25HLJ772H44VZA4C52TN2A5" target="_blank" rel="noopener">Vorwärts</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-8" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/RIVFY52YZO45VHEQQ2KYH4JPILML3VJV" target="_blank" rel="noopener">Deutsche Allgemeine Zeitung</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-9" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22Pravda%22+AND+date%3A1926-05-13" target="_blank" rel="noopener">Правда (Pravda)</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-10" class="footnote-item"><a href="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260513" target="_blank" rel="noopener">Neue Freie Presse</a> <span class="footnote-archive">(ANNO (Österreichische Nationalbibliothek))</span> <span class="footnote-date">1926-05-13</span></li></ol></div>
-        </article>
+                <div class="article-footnotes"><span class="footnotes-label">Quellenverweise:</span><ol class="footnote-list"><li id="fn-1" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/GGQY3Z2IJTX3W7C6LA2SDGPEIIXS243G" target="_blank" rel="noopener">Badische Presse</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-2" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22China+Mail%22+AND+date%3A1926-05-13" target="_blank" rel="noopener">China Mail</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-3" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/5WVQKRYZFCWPPBZYLQDXQZACP6LKXEAR" target="_blank" rel="noopener">Westfälischer Merkur</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-4" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22Hong+Kong+Telegraph%22+AND+date%3A1926-05-13" target="_blank" rel="noopener">Hong Kong Telegraph</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-5" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-05-13" target="_blank" rel="noopener">The Washington Post</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-6" class="footnote-item"><a href="https://chroniclingamerica.loc.gov/" target="_blank" rel="noopener">Evening Star (Washington, D.C.)</a> <span class="footnote-archive">(Library of Congress – Chronicling America)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-7" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/ZWZ6LXKLP25HLJ772H44VZA4C52TN2A5" target="_blank" rel="noopener">Vorwärts</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-8" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/RIVFY52YZO45VHEQQ2KYH4JPILML3VJV" target="_blank" rel="noopener">Deutsche Allgemeine Zeitung</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-9" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22Pravda%22+AND+date%3A1926-05-13" target="_blank" rel="noopener">Правда (Pravda)</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-10" class="footnote-item"><a href="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260513" target="_blank" rel="noopener">Neue Freie Presse</a> <span class="footnote-archive">(ANNO (Österreichische Nationalbibliothek))</span> <span class="footnote-date">1926-05-13</span></li></ol></div>
+            </article>
 
-        <nav class="static-article-nav"><a href="../reichstag-erzwingt-demission-kabinett-luther-nach/" class="static-nav-link">← Reichstag erzwingt Demission: Kabinett Luther nach Misstrauensvotum zurückgetreten</a><a href="../staatsstreich-in-warschau-marschall-pilsudski-rueckt-gegen/" class="static-nav-link">Staatsstreich in Warschau: Marschall Pilsudski rückt gegen die Regierung vor →</a></nav>
+            <nav class="static-article-nav"><a href="../reichstag-erzwingt-demission-kabinett-luther-nach/" class="static-nav-link">← Reichstag erzwingt Demission: Kabinett Luther nach Misstrauensvotum zurückgetreten</a><a href="../staatsstreich-in-warschau-marschall-pilsudski-rueckt-gegen/" class="static-nav-link">Staatsstreich in Warschau: Marschall Pilsudski rückt gegen die Regierung vor →</a></nav>
+            <a href="/" class="static-all-editions">Alle Ausgaben durchsuchen &rarr;</a>
+        </div>
     </div>
 </body>
 </html>

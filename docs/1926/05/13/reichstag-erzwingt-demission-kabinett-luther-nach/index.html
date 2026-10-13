@@ -66,9 +66,29 @@
             color: var(--rule);
         }
         .static-wrapper {
-            max-width: 800px;
+            max-width: var(--max-width);
             margin: 0 auto;
             padding: 0 1.5rem 3rem;
+        }
+        .static-content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .static-all-editions {
+            display: block;
+            text-align: center;
+            margin-top: 2rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--rule);
+            font-family: var(--font-ui);
+            font-size: 0.8rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: var(--accent);
+            text-decoration: none;
+        }
+        .static-all-editions:hover {
+            color: var(--accent-dark);
         }
         .static-article-nav {
             display: flex;
@@ -93,46 +113,64 @@
     </style>
 </head>
 <body>
+    <nav class="topbar">
+    <div class="topbar-inner">
+        <ul class="topbar-nav">
+            <li><a href="/">Heutige Ausgabe</a></li>
+            <li><a href="/">Archiv</a></li>
+            <li><a href="/chronik.html">Schlüsseldaten</a></li>
+            <li><a href="/about.html">Über das Projekt</a></li>
+        </ul>
+        <div class="topbar-search"></div>
+        <div class="topbar-auth">
+            <button class="btn-login">Anmelden</button>
+            <button class="btn-register">Registrieren</button>
+        </div>
+    </div>
+</nav>
     <header class="masthead">
         <p class="masthead-overline">Geschichte im Spiegel der zeitgenössischen Berichterstattung — Täglich neu erzählt</p>
         <h1 class="masthead-title"><a href="/">VOR 100 JAHREN</a></h1>
         <p class="masthead-subtitle">Die historische Presseschau</p>
         <div class="deco-line"><span class="deco-diamond"></span><span class="deco-diamond"></span><span class="deco-diamond"></span></div>
+        <p class="masthead-date">Donnerstag, 13. Mai 1926</p>
+        <p class="masthead-stats">7 Artikel aus 14 Originalquellen &middot; 6 Länder &middot; 3 Sprachen</p>
     </header>
 
     <div class="edition-nav">
         <a href="/1926/05/12/"><span class="arrow-left"></span> Vorige</a>
-        <span>Ausgabe 44 von 45</span>
+        <span>Ausgabe 44 von 197</span>
         <a href="/1926/05/14/">Nächste <span class="arrow-right"></span></a>
     </div>
 
     <div class="static-wrapper">
-        <nav class="static-breadcrumb">
-            <a href="/">Startseite</a>
-            <span class="sep">&rsaquo;</span>
-            <a href="/1926/05/">Mai 1926</a>
-            <span class="sep">&rsaquo;</span>
-            <a href="../">13. Mai 1926</a>
-            <span class="sep">&rsaquo;</span>
-            <span>Reichstag erzwingt Demission: Kabinett Luther nach Misstrauensvotum zurückgetreten</span>
-        </nav>
+        <div class="static-content">
+            <nav class="static-breadcrumb">
+                <a href="/">Startseite</a>
+                <span class="sep">&rsaquo;</span>
+                <a href="/1926/05/">Mai 1926</a>
+                <span class="sep">&rsaquo;</span>
+                <a href="../">13. Mai 1926</a>
+                <span class="sep">&rsaquo;</span>
+                <span>Reichstag erzwingt Demission: Kabinett Luther nach Misstrauensvotum zurückgetreten</span>
+            </nav>
 
-        <article class="article article--lead">
-            <div class="article-meta">
-                <span class="article-type">Hauptartikel</span>
-                <span class="article-category">Innenpolitik</span>
-            </div>
-            <h2 class="article-headline">Reichstag erzwingt Demission: Kabinett Luther nach Misstrauensvotum zurückgetreten</h2>
-            <p class='article-subheadline'>Demokratischer Missbilligungsantrag mit 176 gegen 146 Stimmen angenommen — Gesamtkabinett reicht beim Reichspräsidenten Rücktritt ein — Schwierige Verhandlungen zur Regierungsneubildung erwartet</p>
-            <div class="article-separator"></div>
-            <p class='article-dateline'>Berlin, 13. Mai.</p>
-            <figure class="article-image">
+            <article class="article article--lead">
+                <div class="article-meta">
+                    <span class="article-type">Hauptartikel</span>
+                    <span class="article-category">Innenpolitik</span>
+                </div>
+                <h2 class="article-headline">Reichstag erzwingt Demission: Kabinett Luther nach Misstrauensvotum zurückgetreten</h2>
+                <p class='article-subheadline'>Demokratischer Missbilligungsantrag mit 176 gegen 146 Stimmen angenommen — Gesamtkabinett reicht beim Reichspräsidenten Rücktritt ein — Schwierige Verhandlungen zur Regierungsneubildung erwartet</p>
+                <div class="article-separator"></div>
+                <p class='article-dateline'>Berlin, 13. Mai.</p>
+                <figure class="article-image">
             <img src="../../../../images/Kuno_von_Westarp.jpg" alt="Kuno von Westarp" loading="lazy">
             <figcaption>Kuno von Westarp, deutscher Jurist, Verwaltungsbeamter und Politiker (DkP, DNVP, KVP), MdR
                 <span class="image-credit">Wikimedia Commons</span>
             </figcaption>
         </figure>
-            <div class="article-body"><p>Das Reichskabinett hat am gestrigen Mittwochnachmittag dem Reichspräsidenten die Gesamtdemission überreicht.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Deutsche Allgemeine Zeitung">[1]</a></sup> Vorausgegangen war eine dramatische Sitzung des Reichstages, die mit einer schweren persönlichen Niederlage für Reichskanzler Dr. Hans Luther endete.<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="Washington Post">[2]</a></sup> Das Parlament nahm mit 176 gegen 146 Stimmen einen von der demokratischen Fraktion eingebrachten Missbilligungsantrag an, der sich ausdrücklich gegen die Person des Kanzlers richtete.<sup class="source-ref"><a href="#fn-3" id="fnref-3" title="Vorwärts">[3]</a></sup> Damit fand die tagelange, überaus erbittert geführte Debatte um die Flaggenverordnung der Reichsregierung ihren vorläufigen Höhepunkt und forderte ihr erstes prominentes politisches Opfer.<sup class="source-ref"><a href="#fn-4" id="fnref-4" title="Westfälischer Merkur">[4]</a></sup></p>
+                <div class="article-body"><p>Das Reichskabinett hat am gestrigen Mittwochnachmittag dem Reichspräsidenten die Gesamtdemission überreicht.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Deutsche Allgemeine Zeitung">[1]</a></sup> Vorausgegangen war eine dramatische Sitzung des Reichstages, die mit einer schweren persönlichen Niederlage für Reichskanzler Dr. Hans Luther endete.<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="Washington Post">[2]</a></sup> Das Parlament nahm mit 176 gegen 146 Stimmen einen von der demokratischen Fraktion eingebrachten Missbilligungsantrag an, der sich ausdrücklich gegen die Person des Kanzlers richtete.<sup class="source-ref"><a href="#fn-3" id="fnref-3" title="Vorwärts">[3]</a></sup> Damit fand die tagelange, überaus erbittert geführte Debatte um die Flaggenverordnung der Reichsregierung ihren vorläufigen Höhepunkt und forderte ihr erstes prominentes politisches Opfer.<sup class="source-ref"><a href="#fn-4" id="fnref-4" title="Westfälischer Merkur">[4]</a></sup></p>
 <p>Die entscheidende Plenarsitzung wurde am Vormittag mit großer Spannung erwartet. Bis zu den Abstimmungen schien die Lage völlig ungeklärt zu sein.<sup class="source-ref"><a href="#fn-4" id="fnref-4" title="Westfälischer Merkur">[4]</a></sup> Wie die <em>Neue Freie Presse</em> berichtet, wirkte der Reichskanzler bei seinem Erscheinen im Saal leidend und sehr gedrückt.<sup class="source-ref"><a href="#fn-5" id="fnref-5" title="Neue Freie Presse">[5]</a></sup> Zunächst ergriff der Führer der demokratischen Fraktion, der Abgeordnete Koch-Weser, das Wort und kündigte der Regierung die schärfste Opposition seiner Partei an.<sup class="source-ref"><a href="#fn-4" id="fnref-4" title="Westfälischer Merkur">[4]</a></sup> Er strich zwar die Vorzüge Luthers und dessen Erfolge in der Außen- und Handelspolitik heraus, warf ihm jedoch in der Flaggenpolitik ein gänzliches Versagen vor.<sup class="source-ref"><a href="#fn-4" id="fnref-4" title="Westfälischer Merkur">[4]</a></sup> Die Demokraten könnten nicht die Verantwortung in einem Kabinett übernehmen, das eine Politik verfolge, die von den Deutschnationalen abhängig sei.<sup class="source-ref"><a href="#fn-4" id="fnref-4" title="Westfälischer Merkur">[4]</a></sup> Als Koch-Weser ausführte, <a href="https://de.wikipedia.org/wiki/Kuno_von_Westarp" target="_blank" rel="noopener">Graf Westarp</a> habe gegen die demokratischen Forderungen nicht nur beim Reichskanzler, sondern auch bei Reichspräsident von <a href="https://de.wikipedia.org/wiki/Paul_von_Hindenburg" target="_blank" rel="noopener">Hindenburg</a> Einspruch erhoben, reagierte die Rechte mit dem Zuruf: „Vorsichtig“.<sup class="source-ref"><a href="#fn-4" id="fnref-4" title="Westfälischer Merkur">[4]</a></sup> Auf die rhetorische Frage Koch-Wesers, weshalb die Flaggenverordnung eine derart große Bedeutung erlangt habe, schallte es von der Rechten unter großer Heiterkeit zurück: „Weil Sie Minister werden wollen!“<sup class="source-ref"><a href="#fn-4" id="fnref-4" title="Westfälischer Merkur">[4]</a></sup></p>
 <p>Das Schicksal der Regierung besiegelte jedoch erst die Erklärung des deutschnationalen Fraktionsführers Graf Westarp.<sup class="source-ref"><a href="#fn-5" id="fnref-5" title="Neue Freie Presse">[5]</a></sup> Er rügte die vorangegangenen Erklärungen Luthers als ungenügend und kündigte an, dass seine Partei bei allen Abstimmungen Stimmenthaltung üben werde.<sup class="source-ref"><a href="#fn-5" id="fnref-5" title="Neue Freie Presse">[5]</a></sup> Wäre der Kanzler bei einer klaren Linie geblieben, hätten die Deutschnationalen vermutlich gegen die Misstrauensanträge gestimmt und so eine Mehrheit gegen ihn verhindert.<sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Badische Presse">[6]</a></sup> Da Luther jedoch noch am Dienstag erfolglos versucht hatte, den Demokraten entgegenzukommen, sahen die Deutschnationalen keinen Grund mehr, die Regierung zu stützen.<sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Badische Presse">[6]</a></sup></p>
 <p>Der Abstimmungsmarathon am Nachmittag barg bis zuletzt Überraschungen.<sup class="source-ref"><a href="#fn-5" id="fnref-5" title="Neue Freie Presse">[5]</a></sup> Zunächst wurde der Antrag der Völkischen, der eine Ablehnung des Flaggenerlasses wegen vermehrter Betonung der schwarz-rot-goldenen Farben forderte, mit 326 gegen 13 Stimmen deutlich abgewiesen.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Deutsche Allgemeine Zeitung">[1]</a></sup> Auch der Antrag der Sozialdemokraten, der das Misstrauen gegen Luther aussprach, fiel mit 111 gegen 176 Stimmen durch. Zentrum, Deutsche Volkspartei und Demokraten sprachen sich dagegen aus, während die Rechte sich der Stimme enthielt.<sup class="source-ref"><a href="#fn-5" id="fnref-5" title="Neue Freie Presse">[5]</a></sup></p>
@@ -141,11 +179,13 @@
 <p>Dem Vernehmen nach trug sich Reichspräsident von Hindenburg ernsthaft mit dem Gedanken, ebenfalls zurückzutreten, da sich die Kritik des Parlaments de facto gegen den von ihm unterzeichneten Erlass richtete.<sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Badische Presse">[6]</a></sup> Es scheint jedoch dem Einfluss Luthers gelungen zu sein, diese Staatskrise abzuwenden.<sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Badische Presse">[6]</a></sup> Der Kanzler wies das Staatsoberhaupt darauf hin, dass bei einem politisch fehlerhaften Rat stets nur der Kanzler, niemals aber der Reichspräsident dem Feuer der parlamentarischen Kritik ausgesetzt sei.<sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Badische Presse">[6]</a></sup> Der Reichspräsident nahm daraufhin die Demission des Kabinetts an und ersuchte die Minister, die Amtsgeschäfte vorläufig weiterzuführen.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Deutsche Allgemeine Zeitung">[1]</a></sup> Dr. Luther erklärte sich hierzu im Namen der Minister bereit, bat jedoch nachdrücklich darum, im Hinblick auf das personengebundene Votum so bald wie möglich endgültig von seinem Posten entbunden zu werden.<sup class="source-ref"><a href="#fn-1" id="fnref-1" title="Deutsche Allgemeine Zeitung">[1]</a></sup> Laut der <em>Badischen Presse</em> hat der scheidende Kanzler die Lust am politischen Geschäft verloren und beabsichtigt, sich aus der Politik zurückzuziehen.<sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Badische Presse">[6]</a></sup></p>
 <p>Über die Nachfolge herrscht in den Wandelgängen des Reichstages noch vollkommene Unklarheit.<sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Badische Presse">[6]</a></sup> Beobachter der Auslandspresse, wie die <em>Washington Post</em>, weisen darauf hin, dass Luther der erste Kanzler der Nachkriegszeit ist, der durch ein derart persönliches Misstrauensvotum gestürzt wurde.<sup class="source-ref"><a href="#fn-2" id="fnref-2" title="Washington Post">[2]</a></sup> Die drängendste Frage ist nun die Neubildung der Regierung. Das <em>Hamburger Echo</em> geht davon aus, dass der Reichspräsident zunächst den Reichstagspräsidenten Paul Löbe konsultieren und anschließend mit den Parteiführern sprechen wird, darunter voraussichtlich auch mit dem sozialdemokratischen Fraktionsvorsitzenden Hermann Müller.<sup class="source-ref"><a href="#fn-7" id="fnref-7" title="Hamburger Echo">[7]</a></sup></p>
 <p>Es kursieren bereits zahlreiche Namen für das Kanzleramt.<sup class="source-ref"><a href="#fn-5" id="fnref-5" title="Neue Freie Presse">[5]</a></sup> Zwar galt Außenminister Stresemann vielen als natürliche Wahl, doch verlautet aus seiner nächsten Umgebung, dass er unter keinen Umständen das Kanzleramt übernehmen werde, da er sich ausschließlich auf das Auswärtige Amt konzentrieren wolle.<sup class="source-ref"><a href="#fn-5" id="fnref-5" title="Neue Freie Presse">[5]</a></sup> In parlamentarischen Kreisen wird erwogen, das bisherige Kabinett weitgehend beisammenzuhalten und lediglich die Spitze neu zu besetzen.<sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Badische Presse">[6]</a></sup> Als Kandidaten der Deutschen Volkspartei werden Reichswirtschaftsminister Dr. Julius Curtius sowie der Fraktionsvorsitzende Ernst Scholz genannt.<sup class="source-ref"><a href="#fn-5" id="fnref-5" title="Neue Freie Presse">[5]</a></sup><sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Badische Presse">[6]</a></sup> Auch der Duisburger Oberbürgermeister Dr. Karl Jarres wird als möglicher Kandidat für die Regierungsbildung genannt.<sup class="source-ref"><a href="#fn-7" id="fnref-7" title="Hamburger Echo">[7]</a></sup> Die Erbitterung der bisherigen Regierungsparteien gegen die Demokraten ist allerdings groß, was eine Einigung erschweren dürfte.<sup class="source-ref"><a href="#fn-6" id="fnref-6" title="Badische Presse">[6]</a></sup> Die linksgerichtete Opposition sieht in den Vorgängen einen Beweis für die Handlungsunfähigkeit des Parlaments. Das <em>Hamburger Echo</em> forderte deutlich die Auflösung des Reichstages und bezeichnete die Vorgänge als Fortsetzung des Elendsbildes, das dieses Parlament seit seinem ersten Tag biete.<sup class="source-ref"><a href="#fn-7" id="fnref-7" title="Hamburger Echo">[7]</a></sup> Der Ausgang der Krise bleibt abzuwarten. Die politische Landschaft der Republik hat durch den Flaggenstreit jedoch eine tiefe Erschütterung erfahren.</p></div>
-            
-            <div class="article-footnotes"><span class="footnotes-label">Quellenverweise:</span><ol class="footnote-list"><li id="fn-1" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/RIVFY52YZO45VHEQQ2KYH4JPILML3VJV" target="_blank" rel="noopener">Deutsche Allgemeine Zeitung</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-2" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-05-13" target="_blank" rel="noopener">The Washington Post</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-3" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/ZWZ6LXKLP25HLJ772H44VZA4C52TN2A5" target="_blank" rel="noopener">Vorwärts</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-4" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/5WVQKRYZFCWPPBZYLQDXQZACP6LKXEAR" target="_blank" rel="noopener">Westfälischer Merkur</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-5" class="footnote-item"><a href="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260513" target="_blank" rel="noopener">Neue Freie Presse</a> <span class="footnote-archive">(ANNO (Österreichische Nationalbibliothek))</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-6" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/GGQY3Z2IJTX3W7C6LA2SDGPEIIXS243G" target="_blank" rel="noopener">Badische Presse</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-7" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/O5QRBU22QUGE4FW7VENJKDYLDVM3GSJB" target="_blank" rel="noopener">Hamburger Echo</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li></ol></div>
-        </article>
+                
+                <div class="article-footnotes"><span class="footnotes-label">Quellenverweise:</span><ol class="footnote-list"><li id="fn-1" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/RIVFY52YZO45VHEQQ2KYH4JPILML3VJV" target="_blank" rel="noopener">Deutsche Allgemeine Zeitung</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-2" class="footnote-item"><a href="https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-05-13" target="_blank" rel="noopener">The Washington Post</a> <span class="footnote-archive">(Internet Archive)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-3" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/ZWZ6LXKLP25HLJ772H44VZA4C52TN2A5" target="_blank" rel="noopener">Vorwärts</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-4" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/5WVQKRYZFCWPPBZYLQDXQZACP6LKXEAR" target="_blank" rel="noopener">Westfälischer Merkur</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-5" class="footnote-item"><a href="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260513" target="_blank" rel="noopener">Neue Freie Presse</a> <span class="footnote-archive">(ANNO (Österreichische Nationalbibliothek))</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-6" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/GGQY3Z2IJTX3W7C6LA2SDGPEIIXS243G" target="_blank" rel="noopener">Badische Presse</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li><li id="fn-7" class="footnote-item"><a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/O5QRBU22QUGE4FW7VENJKDYLDVM3GSJB" target="_blank" rel="noopener">Hamburger Echo</a> <span class="footnote-archive">(Deutsche Digitale Bibliothek)</span> <span class="footnote-date">1926-05-13</span></li></ol></div>
+            </article>
 
-        <nav class="static-article-nav"><a href="../generalstreik-in-england-beigelegt-einigung-in-der-downing/" class="static-nav-link">Generalstreik in England beigelegt: Einigung in der Downing Street →</a></nav>
+            <nav class="static-article-nav"><a href="../generalstreik-in-england-beigelegt-einigung-in-der-downing/" class="static-nav-link">Generalstreik in England beigelegt: Einigung in der Downing Street →</a></nav>
+            <a href="/" class="static-all-editions">Alle Ausgaben durchsuchen &rarr;</a>
+        </div>
     </div>
 </body>
 </html>
