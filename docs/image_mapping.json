@@ -4747,5 +4747,55 @@
     "local_file": "Émile_Francqui.jpg",
     "local_path": "images/Émile_Francqui.jpg",
     "alt": "Émile Francqui"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Luis_Durnwalder_S%C3%BCdtirol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Luis_Durnwalder_S%C3%BCdtirol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Landeshauptmann.jpg",
+    "local_path": "images/Landeshauptmann.jpg",
+    "alt": "Landeshauptmann"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/March_on_Rome_1922_-_Alle_porte_di_Roma.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-March_on_Rome_1922_-_Alle_porte_di_Roma.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Marsch_auf_Rom.png",
+    "local_path": "images/Marsch_auf_Rom.png",
+    "alt": "Marsch auf Rom"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bundesarchiv_Bild_102-06788%2C_Fritz_Thyssen.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_102-06788%2C_Fritz_Thyssen.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Fritz_Thyssen.jpg",
+    "local_path": "images/Fritz_Thyssen.jpg",
+    "alt": "Fritz Thyssen"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anton_Erkelenz_1943.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Anton_Erkelenz_1943.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Anton_Erkelenz.jpg",
+    "local_path": "images/Anton_Erkelenz.jpg",
+    "alt": "Anton Erkelenz"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Charles_Maurras%2C_photo_Studio_Harcourt%2C_1937.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Charles_Maurras%2C_photo_Studio_Harcourt%2C_1937.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Charles_Maurras.jpg",
+    "local_path": "images/Charles_Maurras.jpg",
+    "alt": "Charles Maurras"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DDP-Wahlkampf_1929.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-DDP-Wahlkampf_1929.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Deutsche_Demokratische_Partei.jpg",
+    "local_path": "images/Deutsche_Demokratische_Partei.jpg",
+    "alt": "Deutsche Demokratische Partei"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Comintern_Logo.svg/960px-Comintern_Logo.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Kommunistische_Internationale.png",
+    "local_path": "images/Kommunistische_Internationale.png",
+    "alt": "Kommunistische Internationale"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/China_imperialism_cartoon.jpg/960px-China_imperialism_cartoon.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Ungleiche_Verträge.jpg",
+    "local_path": "images/Ungleiche_Verträge.jpg",
+    "alt": "Ungleiche Verträge"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/IAA_Mobility_Logo_black.svg/960px-IAA_Mobility_Logo_black.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Internationale_Automobil-Ausstellung.png",
+    "local_path": "images/Internationale_Automobil-Ausstellung.png",
+    "alt": "Internationale Automobil-Ausstellung"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_ILO.svg/960px-Flag_of_ILO.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Internationale_Arbeitsorganisation.png",
+    "local_path": "images/Internationale_Arbeitsorganisation.png",
+    "alt": "Internationale Arbeitsorganisation"
   }
 }
