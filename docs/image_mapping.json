@@ -4921,5 +4921,75 @@
     "dates_used": [
       "1926-11-04"
     ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Arms_of_University_of_Oxford.svg/960px-Arms_of_University_of_Oxford.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "University_of_Oxford.png",
+    "local_path": "images/University_of_Oxford.png",
+    "alt": "University of Oxford"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hugo_Urbahns_1924.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Hugo_Urbahns_1924.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Hugo_Urbahns.jpg",
+    "local_path": "images/Hugo_Urbahns.jpg",
+    "alt": "Hugo Urbahns"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Iljo_Keisse_Robert_Bartko_Sixdays_Z%C3%BCrich_2007-2008.jpg/960px-Iljo_Keisse_Robert_Bartko_Sixdays_Z%C3%BCrich_2007-2008.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Sechstagerennen.jpg",
+    "local_path": "images/Sechstagerennen.jpg",
+    "alt": "Sechstagerennen"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bundesarchiv_Bild_102-05647%2C_Berlin%2C_Franz%C3%B6sischer_Botschafter_mit_Gattin.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_102-05647%2C_Berlin%2C_Franz%C3%B6sischer_Botschafter_mit_Gattin.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Pierre_de_Margerie.jpg",
+    "local_path": "images/Pierre_de_Margerie.jpg",
+    "alt": "Pierre de Margerie"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Benedetto_Croce_02.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Benedetto_Croce_02.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Benedetto_Croce.jpg",
+    "local_path": "images/Benedetto_Croce.jpg",
+    "alt": "Benedetto Croce"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/10_Downing_Street._MOD_45155532.jpg/960px-10_Downing_Street._MOD_45155532.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "10_Downing_Street.jpg",
+    "local_path": "images/10_Downing_Street.jpg",
+    "alt": "10 Downing Street"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Macia_2a_tongada_scans_003_editora_8_44_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Macia_2a_tongada_scans_003_editora_8_44_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Francesc_Macià.jpg",
+    "local_path": "images/Francesc_Macià.jpg",
+    "alt": "Francesc Macià"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Walther_Schreiber_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Walther_Schreiber_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Walther_Schreiber.jpg",
+    "local_path": "images/Walther_Schreiber.jpg",
+    "alt": "Walther Schreiber"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Euro_exchange_rate_to_DKK.svg/960px-Euro_exchange_rate_to_DKK.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Dänische_Krone.png",
+    "local_path": "images/Dänische_Krone.png",
+    "alt": "Dänische Krone"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Palacio_Municipal_de_La_Plata_20..JPG/960px-Palacio_Municipal_de_La_Plata_20..JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "La_Plata.jpg",
+    "local_path": "images/La_Plata.jpg",
+    "alt": "La Plata"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_the_League_of_Nations_%281939%29.svg/960px-Flag_of_the_League_of_Nations_%281939%29.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Völkerbund.png",
+    "local_path": "images/Völkerbund.png",
+    "alt": "Völkerbund"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Hamburg_airport_terminals.jpg/960px-Hamburg_airport_terminals.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Hamburg_Airport.jpg",
+    "local_path": "images/Hamburg_Airport.jpg",
+    "alt": "Hamburg Airport"
+  },
+  "Goldbarren.jpg": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gold_bullion_bars.jpg",
+    "credit": "Wikimedia Commons",
+    "license": "CC0 1.0 Public Domain"
+  },
+  "SPD_Logo.png": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:SPD_logo.svg",
+    "credit": "Wikimedia Commons",
+    "license": "Public Domain"
   }
 }
