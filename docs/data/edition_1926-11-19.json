@@ -1,0 +1,600 @@
+[
+  {
+    "index": 1,
+    "headline": "George Bernard Shaw lehnt das Preisgeld ab",
+    "subheadline": "Literaturnobelpreis ohne finanzielle Zuwendung — Dramatiker fordert anglo-schwedische Stiftung — Harte Verhandlungen um Filmrechte",
+    "dateline": "London, 19. November.",
+    "type": "Artikel",
+    "category": "Feuilleton",
+    "actual_words": 331,
+    "body_html": "<p>Der irische Dramatiker George Bernard Shaw hat für erhebliches Aufsehen gesorgt. Er hat der Schwedischen Akademie in Stockholm offiziell mitgeteilt, dass er die ehrenvolle Verleihung des Literaturnobelpreises für das Jahr 1925 zwar dankend annehme, das damit verbundene Preisgeld jedoch ablehne.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hong Kong Telegraph\">[2]</a></sup> Nach Angaben der Nachrichtenagentur Reuters beläuft sich die Dotierung in diesem Jahr auf eine Summe von rund 35.000 Dollar.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Hong Kong Telegraph\">[2]</a></sup> Diese für einen Schriftsteller überaus beträchtliche Summe möchte der exzentrische Autor nicht für sich selbst annehmen.</p>\n<p>Wie die <em>Los Angeles Times</em> detailliert ausführt, schlug Shaw dem Komitee stattdessen vor, das Geld vollständig einem gemeinnützigen Zweck zuzuführen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Konkret soll nach dem Willen des Schriftstellers eine Stiftung gegründet werden, deren Mittel dazu dienen, die Beziehungen und den Austausch in Literatur und Kunst zwischen Schweden und Großbritannien zu fördern.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Die amerikanische Tageszeitung zieht in diesem Zusammenhang eine historische Parallele zu dem ehemaligen US-Präsidenten <a href=\"https://en.wikipedia.org/wiki/Theodore_Roosevelt\" target=\"_blank\" rel=\"noopener\">Theodore Roosevelt</a>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Dieser hatte im Jahre 1906 nach dem Erhalt des Friedensnobelpreises in ähnlicher Weise verfügt und das Geld für öffentliche Zwecke gespendet.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup></p>\n<p>In der skandinavischen Presse wird die Geste des Dramatikers derweil mit einer gewissen Ironie betrachtet. Das <em>Hufvudstadsbladet</em> aus Stockholm merkt in einer Depesche nach London spitz an, Shaw habe mit seiner endgültigen Entscheidung überlegt abgewartet.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Hufvudstadsbladet\">[3]</a></sup> Er habe zunächst der gesamten Weltpresse und den Schriftstellern aller Länder Zeit geben wollen, ihre teils scharfen, teils bewundernden Meinungen über ihn und die Preisverleihung zu äußern. Erst danach setzte er, indem er auf das Geld verzichtete, den Schlusspunkt.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Hufvudstadsbladet\">[3]</a></sup></p>\n<p>Dass Shaws Verzicht in Schweden indes nicht einer plötzlichen Verachtung weltlicher Güter entspringt, zeigt ein geschäftlicher Vorgang jenseits des Ozeans.  Der bekannte amerikanische Filmproduzent <a href=\"https://de.wikipedia.org/wiki/Jesse_L._Lasky\" target=\"_blank\" rel=\"noopener\">Jesse Lasky</a> verhandelt gegenwärtig mit dem Iren über die Leinwandrechte an dessen frühem Roman <em>Cashel Byrons Beruf</em>.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Lasky, der für die Hauptrolle den Schwergewichtsboxer <a href=\"https://de.wikipedia.org/wiki/Gene_Tunney\" target=\"_blank\" rel=\"noopener\">Gene Tunney</a> verpflichten möchte, bot über einen Londoner Agenten zunächst 75.000 Dollar.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Dem <em>Daily Express</em> zufolge lehnte Shaw dieses Angebot jedoch ab.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup> Er ließ seine New Yorker Anwälte wissen, dass das Werk mindestens 100.000 Dollar wert sei, und wies sie an, die Verhandlungen entsprechend energisch zu führen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Los Angeles Times\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/George_Bernard_Shaw.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:George_Bernard_Shaw_in_1919.jpg",
+        "alt_text": "George Bernard Shaw",
+        "caption": "George Bernard Shaw, irischer Dramatiker und Literaturnobelpreistraeger 1925"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Theodore Roosevelt",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+        "link_target": "Theodore Roosevelt"
+      },
+      {
+        "term": "Jesse Lasky",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Jesse_L._Lasky",
+        "link_target": "Jesse L. Lasky"
+      },
+      {
+        "term": "Gene Tunney",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Gene_Tunney",
+        "link_target": "Gene Tunney"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Los Angeles Times",
+        "display_name": "Los Angeles Times",
+        "date": "1926-11-19",
+        "url": "https://archive.org/search?query=title%3A%22Los+Angeles+Times%22+AND+date%3A1926-11-19",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Hong Kong Telegraph",
+        "display_name": "Hong Kong Telegraph",
+        "date": "1926-11-19",
+        "url": "https://archive.org/search?query=title%3A%22Hong+Kong+Telegraph%22+AND+date%3A1926-11-19",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Hufvudstadsbladet",
+        "display_name": "Hufvudstadsbladet (Helsinki)",
+        "date": "1926-11-19",
+        "url": "https://digi.kansalliskirjasto.fi/search?query=&title=0356-0724&startDate=1926-11-19&endDate=1926-11-19&formats=NEWSPAPER",
+        "archive": "Digi (Kansalliskirjasto)",
+        "pages_cited": "S. 3",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Los Angeles Times",
+        "display_name": "Los Angeles Times",
+        "url": "https://archive.org/search?query=title%3A%22Los+Angeles+Times%22+AND+date%3A1926-11-19",
+        "archive": "Internet Archive",
+        "date": "1926-11-19"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Hong Kong Telegraph",
+        "display_name": "Hong Kong Telegraph",
+        "url": "https://archive.org/search?query=title%3A%22Hong+Kong+Telegraph%22+AND+date%3A1926-11-19",
+        "archive": "Internet Archive",
+        "date": "1926-11-19"
+      },
+      {
+        "id": 3,
+        "qid": "Q3",
+        "newspaper": "Hufvudstadsbladet",
+        "display_name": "Hufvudstadsbladet (Helsinki)",
+        "url": "https://digi.kansalliskirjasto.fi/search?query=&title=0356-0724&startDate=1926-11-19&endDate=1926-11-19&formats=NEWSPAPER",
+        "archive": "Digi (Kansalliskirjasto)",
+        "date": "1926-11-19"
+      }
+    ],
+    "editorial_note": "George Bernard Shaw erhielt den Literaturnobelpreis für das Jahr 1925, der ihm im November 1926 nachträglich zuerkannt wurde. Shaw sträubte sich zunächst gegen die Auszeichnung und nahm sie nur auf Drängen seiner Frau an. Mit dem abgelehnten Preisgeld wurde tatsächlich die 'Anglo-Swedish Literary Foundation' gegründet, die in den folgenden Jahrzehnten maßgeblich zur Übersetzung schwedischer Literatur — insbesondere der Werke von August Strindberg — ins Englische beitrug.",
+    "score": 150.0
+  },
+  {
+    "index": 2,
+    "headline": "Schrecksekunde für den Reichspräsidenten: Zwischenfall bei Hindenburgs Besuch in Dresden",
+    "subheadline": "Unerwarteter Vorfall auf offener Straße — Täter leidet an religiösen Wahnvorstellungen — Kommunistische Kundgebungen am Rande",
+    "dateline": "Dresden, 19. November. (Eigener Drahtbericht.)",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 431,
+    "body_html": "<p>Die feierliche Einweihung der neuen Infanterieschule in der sächsischen Landeshauptstadt wurde am gestrigen Donnerstag durch einen unerwarteten Zwischenfall überschattet, der für einen kurzen Augenblick Schlimmstes befürchten ließ.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Kölnische Zeitung\">[2]</a></sup> Wie das Polizeipräsidium mitteilt, durchbrach ein Zuschauer während der Fahrt des Reichspräsidenten von <a href=\"https://de.wikipedia.org/wiki/Paul_von_Hindenburg\" target=\"_blank\" rel=\"noopener\">Hindenburg</a> die polizeilichen Absperrungsketten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Kölnische Zeitung\">[2]</a></sup> Der Mann sprang auf das Trittbrett des Kraftwagens und versuchte, dem sichtlich überraschten Staatsoberhaupt ein Schreiben zu überreichen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Kölnische Zeitung\">[2]</a></sup></p>\n<p>Der Tag hatte festlich begonnen. Der Reichspräsident traf am Vormittag um 10 Uhr 45 Minuten mit einem Sonderzug auf dem Neustädter Bahnhof ein.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Kölnische Zeitung\">[2]</a></sup> Dort wurde er von Kultusminister Kaiser, der den erkrankten sächsischen Ministerpräsidenten vertrat, sowie von Reichswehrminister Dr. Geßler feierlich empfangen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Kölnische Zeitung\">[2]</a></sup> In einem offenen Automobil fuhr der Reichspräsident, begleitet von Minister Dr. Geßler, unter den stürmischen Begrüßungsrufen einer zahlreichen Menschenmenge durch die Königsbrücker Straße in Richtung Garnisonkirche.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Harburger Tageblatt\">[3]</a></sup> Militärvereine und Innungen bildeten dichtes Spalier entlang der Fahrstrecke.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Harburger Tageblatt\">[3]</a></sup></p>\n<p>An der Einmündung der Hellerstraße ereignete sich der Zwischenfall.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Der Mann, der auf das Trittbrett gesprungen war, rief dem Reichspräsidenten lautstark zu: „Du bist mein Heiland!“<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Harburger Tageblatt\">[3]</a></sup><sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Sächsische Staatszeitung\">[4]</a></sup> Herbeieilende Polizeibeamte griffen umgehend ein, rissen den Eindringling vom Wagen herunter und brachten ihn auf die nächste Wache.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Kölnische Zeitung\">[2]</a></sup> Wie die <em>Kölnische Zeitung</em> meldet, konnte rasch Entwarnung gegeben werden, da bei der Durchsuchung des Festgenommenen keine Waffe gefunden wurde.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Kölnische Zeitung\">[2]</a></sup> Ein politisch motiviertes Attentat wird damit ausgeschlossen — vielmehr handelte es sich bei dem Aufschrei um den Ausdruck religiöser Wahnideen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Auch die <em>Washington Post</em> notierte in einer kurzen Meldung, dass der Mann rasch verhaftet wurde und der Präsident seine Fahrt unbeschadet fortsetzen konnte.<sup class=\"source-ref\"><a href=\"#fn-5\" id=\"fnref-5\" title=\"Washington Post\">[5]</a></sup></p>\n<p>Bei der polizeilichen Vernehmung stellte sich heraus, dass es sich um den Kellner Max Krause handelt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Kölnische Zeitung\">[2]</a></sup> Nach Angaben der <em>Badischen Presse</em> leidet der Mann an chronischen Wahnvorstellungen und epileptischen Anfällen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Er war bereits viermal in einer Heil- und Pflegeanstalt untergebracht gewesen und erst am 14. September dieses Jahres gegen den Willen seiner Verwandten entlassen worden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Kölnische Zeitung\">[2]</a></sup> Das überreichte Schreiben entpuppte sich als eine harmlose Bittschrift.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Kölnische Zeitung\">[2]</a></sup> Krause wurde umgehend wieder in die Anstalt überführt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup></p>\n<p>Ungeachtet der kurzen Aufregung setzte der Reichspräsident sein Programm mit gewohnter Ruhe fort. Vor der Garnisonkirche schritt er die Front einer Ehrenkompanie des 10. Infanterieregiments ab, bevor er dem feierlichen Gottesdienst beiwohnte.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Harburger Tageblatt\">[3]</a></sup> Während die altsozialistische Zeitung <em>Volksstaat</em> den Besuch Hindenburgs freundlich kommentierte, kam es am Rande der Feierlichkeiten zu Störungen durch die extreme Linke.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Dem Bericht der <em>Sächsischen Staatszeitung</em> zufolge veranstalteten Kommunisten in den Abendstunden auf dem Altmarkt Kundgebungen, bei denen hetzerische Ansprachen gehalten und Kampflieder gesungen wurden.<sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Sächsische Staatszeitung\">[4]</a></sup> Die Polizei musste mit Überfallkommandos einschreiten, um die öffentlichen Straßen im inneren Stadtgebiet zu räumen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-4\" id=\"fnref-4\" title=\"Sächsische Staatszeitung\">[4]</a></sup> Der Reichspräsident selbst blieb davon unbehelligt; er traf am Nachmittag um 15 Uhr 48 Minuten wieder sicher in Berlin ein.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Kölnische Zeitung\">[2]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Paul_von_Hindenburg.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R17289,_Paul_v._Hindenburg.jpg",
+        "alt_text": "Paul von Hindenburg",
+        "caption": "Paul von Hindenburg, deutscher Generalfeldmarschall, Reichspräsident von 1925 bis 1934 (1847–1934)"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Hindenburg",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Paul_von_Hindenburg",
+        "link_target": "Paul von Hindenburg"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "date": "1926-11-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/B666UXLCTMJFUK355ZH7C2V7K4QGGFCW",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1, S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Kölnische Zeitung",
+        "display_name": "Kölnische Zeitung",
+        "date": "1926-11-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/DVCOY4Q4JEJKU6X2DMDTWLW6YCREF7JH",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-11-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/4FNGOASP7O5ROTZUOT523T4NCVEK5SOQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2, S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "date": "1926-11-19",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-11-19",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Sächsische Staatszeitung",
+        "display_name": "Sächsische Staatszeitung",
+        "date": "1926-11-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/TJM6Q3FIGG45CAONRHJ4Z5POYSJWNJGQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/B666UXLCTMJFUK355ZH7C2V7K4QGGFCW",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-11-19"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Kölnische Zeitung",
+        "display_name": "Kölnische Zeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/DVCOY4Q4JEJKU6X2DMDTWLW6YCREF7JH",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-11-19"
+      },
+      {
+        "id": 3,
+        "qid": "Q3",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/4FNGOASP7O5ROTZUOT523T4NCVEK5SOQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-11-19"
+      },
+      {
+        "id": 4,
+        "qid": "Q5",
+        "newspaper": "Sächsische Staatszeitung",
+        "display_name": "Sächsische Staatszeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/TJM6Q3FIGG45CAONRHJ4Z5POYSJWNJGQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-11-19"
+      },
+      {
+        "id": 5,
+        "qid": "Q4",
+        "newspaper": "Washington Post",
+        "display_name": "The Washington Post",
+        "url": "https://archive.org/search?query=title%3A%22Washington+Post%22+AND+date%3A1926-11-19",
+        "archive": "Internet Archive",
+        "date": "1926-11-19"
+      }
+    ],
+    "editorial_note": "Paul von Hindenburg wurde 1925 im zweiten Wahlgang zum Reichspräsidenten der Weimarer Republik gewählt. Er genoss vor allem in konservativen und militärischen Kreisen enormen Respekt, stieß jedoch bei der radikalen Linken auf starke Ablehnung. Der Vorfall verdeutlicht einerseits die noch wenig routinierten Sicherheitsvorkehrungen für ranghohe Politiker jener Zeit und andererseits das gespannte innenpolitische Klima, in dem auch Verwirrte rasch als Bedrohung wahrgenommen wurden. Hindenburg verblieb bis zu seinem Tod im August 1934 im Amt.",
+    "score": 150.0
+  },
+  {
+    "index": 3,
+    "headline": "Münchner Prozess gegen Hitler und Esser: Staatsanwalt fordert Haft",
+    "subheadline": "Hitler freigesprochen — Esser zu Freiheitsstrafe verurteilt — Nachspiel der gesprengten Reventlow-Versammlung",
+    "dateline": "München, 19. November.",
+    "type": "Artikel",
+    "category": "Justiz & Kriminalität",
+    "actual_words": 355,
+    "body_html": "<p>Vor dem hiesigen Amtsgericht hatten sich am gestrigen Donnerstag <a href=\"https://de.wikipedia.org/wiki/Adolf_Hitler\" target=\"_blank\" rel=\"noopener\">Adolf Hitler</a> und <a href=\"https://de.wikipedia.org/wiki/Hermann_Esser\" target=\"_blank\" rel=\"noopener\">Hermann Esser</a> wegen groben Unfugs zu verantworten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Den Hintergrund des Verfahrens bildete ein Tumult, der sich bereits im Februar dieses Jahres ereignet hatte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Damals hatte der nationalsozialistische Volksbund — eine der völkischen Konkurrenzgruppen — zu einer großen öffentlichen Versammlung im Hofbräuhaus eingeladen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Als Hauptredner waren der Reichstagsabgeordnete <a href=\"https://de.wikipedia.org/wiki/Ernst_Graf_zu_Reventlow\" target=\"_blank\" rel=\"noopener\">Graf Reventlow</a> und Albrecht von Graefe vorgesehen. Sie sollten über die <a href=\"https://de.wikipedia.org/wiki/Verträge_von_Locarno\" target=\"_blank\" rel=\"noopener\">Verträge von Locarno</a> und den Völkerbund referieren.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Westfälischer Merkur\">[2]</a></sup> Zu den Vorträgen kam es jedoch nicht, da Hitler und Esser mit zahlreicher Anhängerschaft erschienen und einen so starken Lärm verursachten, dass die Veranstaltung geschlossen und der Saal von der Polizei geräumt werden musste.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Westfälischer Merkur\">[2]</a></sup></p>\n<p>In der Verhandlung wiesen beide Angeklagte die Vorwürfe mit großem Nachdruck zurück.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Esser, der sich laut Berichten der <em>Badischen Presse</em> besonders energisch verteidigte, bestritt entschieden, gemeinsam mit Hitler eine Sprengung der Versammlung geplant zu haben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Er gab an, lediglich schriftlich um das Wort ersucht zu haben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Diese Meldung sei jedoch unterdrückt worden und habe den Versammlungsleiter nicht erreicht. Deshalb sei er auf einen Stuhl gestiegen, um zur Geschäftsordnung zu sprechen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Wäre ihm das Wort erteilt worden, so argumentierte Esser, wäre es zu keinem Tumult gekommen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Auch Hitler wies die Absicht einer systematischen Störung weit von sich.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Er betonte, die Unruhe sei bereits vor seinem Eingreifen entstanden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Sein einziges Anliegen sei es gewesen, als Diskussionsredner aufzutreten. Daher habe er ein eigenes Interesse am Fortgang der Versammlung gehabt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup></p>\n<p>Nach einer langwierigen Zeugenvernehmung hielt der Staatsanwalt an der Anklage fest.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Er beantragte für beide Angeklagte eine Haftstrafe von jeweils sechs Wochen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Außerdem forderte er den Widerruf der Bewährungsfrist, die Hitler und Esser zuvor für die Störung einer Bayernbundversammlung erhalten hatten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Damals war ihnen für zwei Drittel einer dreimonatigen Gefängnisstrafe Bewährung zugebilligt worden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup>  Nach den Plädoyers der Verteidigung und dem Schlusswort der Angeklagten wurde das Urteil erst gegen Mitternacht verkündet.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Das Gericht sprach Hitler von der Anklage des groben Unfugs frei.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup><sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Westfälischer Merkur\">[2]</a></sup> Esser hingegen wurde zu zwei Wochen Haft verurteilt; zugleich wurde die ihm bewilligte Bewährungsfrist von zwei Monaten widerrufen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Badische Presse\">[1]</a></sup> Der <em>Westfälische Merkur</em> fasst dieses Strafmaß zusammen und meldet, Esser sei damit faktisch zu zwei Monaten Haft verurteilt worden.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Westfälischer Merkur\">[2]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Adolf_Hitler.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "",
+        "alt_text": "Adolf Hitler",
+        "caption": "Adolf Hitler"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Adolf Hitler",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Adolf_Hitler",
+        "link_target": "Adolf Hitler"
+      },
+      {
+        "term": "Hermann Esser",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Hermann_Esser",
+        "link_target": "Hermann Esser"
+      },
+      {
+        "term": "Graf Reventlow",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Ernst_Graf_zu_Reventlow",
+        "link_target": "Ernst Graf zu Reventlow"
+      },
+      {
+        "term": "Verträge von Locarno",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Verträge_von_Locarno",
+        "link_target": "Verträge von Locarno"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "date": "1926-11-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/B666UXLCTMJFUK355ZH7C2V7K4QGGFCW",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Westfälischer Merkur",
+        "display_name": "Westfälischer Merkur",
+        "date": "1926-11-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/2AUT3ORNSJSFIGLV7VSY5WJES2C6UJQE",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Badische Presse",
+        "display_name": "Badische Presse",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/B666UXLCTMJFUK355ZH7C2V7K4QGGFCW",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-11-19"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Westfälischer Merkur",
+        "display_name": "Westfälischer Merkur",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/2AUT3ORNSJSFIGLV7VSY5WJES2C6UJQE",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-11-19"
+      }
+    ],
+    "editorial_note": "Der Prozess ist ein Beispiel für die milde Behandlung Hitlers durch die bayerische Justiz nach seiner vorzeitigen Haftentlassung Ende 1924. Die Auseinandersetzung im Hofbräuhaus zeigte die damaligen Machtkämpfe innerhalb der zersplitterten völkischen Bewegung. Konkurrenten wie Ernst Graf zu Reventlow schlossen sich im weiteren Verlauf der späten Weimarer Republik der erstarkenden NSDAP an.",
+    "score": 160.0
+  },
+  {
+    "index": 4,
+    "headline": "Arbeitslosenversicherungsgesetz verabschiedet: Neues soziales Sicherheitsnetz",
+    "subheadline": "Reichsrat billigt Gesetzentwurf für April 1927 — Krankenkassen als Träger — Streit um die Kostenverteilung der Krisenfürsorge",
+    "dateline": "Berlin, 19. November.",
+    "type": "Artikel",
+    "category": "Arbeit & Soziales",
+    "actual_words": 365,
+    "body_html": "<p>Der Reichsrat hat in seiner jüngsten Vollsitzung das <a href=\"https://de.wikipedia.org/wiki/Gesetz_über_Arbeitsvermittlung_und_Arbeitslosenversicherung\" target=\"_blank\" rel=\"noopener\">Gesetz über die Arbeitslosenversicherung</a> genehmigt, das am 1. April 1927 in Kraft treten soll.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Sächsische Staatszeitung\">[1]</a></sup> Nach jahrelangem Ringen erhält die Republik damit ein festeres soziales Netz zur Absicherung von Erwerbslosen. Nach Angaben der <em>Sächsischen Staatszeitung</em> werden die Krankenkassen als Einzugsstellen und Träger der Versicherung fungieren.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Sächsische Staatszeitung\">[1]</a></sup> Bedeutsam ist überdies, dass auch nicht krankenversicherungspflichtige Angestellte in das neue System einbezogen werden, sofern sie der Angestelltenversicherung unterliegen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup><sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Sächsische Staatszeitung\">[1]</a></sup></p>\n<p>Die reguläre Versicherungsdauer wird auf 26 Wochen festgesetzt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Sächsische Staatszeitung\">[1]</a></sup> Im Falle einer besonders ungünstigen Lage auf dem Arbeitsmarkt kann diese Frist auf 39 Wochen ausgedehnt werden.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Dem <em>Hamburger Echo</em> zufolge sind die Beiträge und Leistungen nach einem System von sieben Lohnklassen gestaffelt.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Hamburger Echo\">[3]</a></sup> In den unteren Klassen eins und zwei darf die Unterstützung 70 Prozent des Lohnes nicht übersteigen, in den mittleren Klassen 66 Prozent und in den oberen Lohnklassen 60 Prozent.<sup class=\"source-ref\"><a href=\"#fn-3\" id=\"fnref-3\" title=\"Hamburger Echo\">[3]</a></sup></p>\n<p>Besondere Aufmerksamkeit widmete der Reichsrat der sogenannten Krisenfürsorge. Diese soll greifen, wenn Arbeitslose die Anwartschaftszeit noch nicht erfüllt haben oder bereits ausgesteuert sind.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Die Zahlung wird in diesem Fall von einer strengen Bedürftigkeitsprüfung abhängig gemacht, die bei der regulären Versicherungsleistung nicht vorgesehen ist.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup><sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Sächsische Staatszeitung\">[1]</a></sup> Umstritten war bis zuletzt die Verteilung der Kosten für diese Krisenunterstützung. Die Ausschüsse hatten beschlossen, dass das Reich acht Neuntel und die Gemeinden ein Neuntel der Lasten tragen sollen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Die Reichsregierung forderte ein Verhältnis von drei Vierteln zu einem Viertel, konnte sich mit diesem Ansinnen jedoch nicht durchsetzen; der Vorschlag wurde einstimmig bei nur einer Stimmenthaltung abgelehnt.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Auf Antrag der Regierung wurde unterdessen die von den Ausschüssen vorgesehene Kurzarbeiterversicherung durch das Plenum wieder aus dem Gesetz gestrichen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Sächsische Staatszeitung\">[1]</a></sup></p>\n<p>Laut dem <em>Vorwärts</em> stößt die Ausgestaltung der Lohnklassen in weiten Kreisen auf scharfe Kritik.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Die wöchentlichen Mindestunterstützungssätze beginnen in der ersten Klasse bei 5,40 Mark und enden in der siebten Klasse bei 14,70 Mark.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Das sozialdemokratische Blatt bewertet diese Regelung als unzureichend und fordert den <a href=\"https://de.wikipedia.org/wiki/Reichstag_(Weimarer_Republik)\" target=\"_blank\" rel=\"noopener\">Reichstag</a> zu Nachbesserungen auf.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Ferner soll nach den Plänen der Regierung ein Notstock gebildet werden, der mindestens in einer Höhe gehalten wird, die zur Unterstützung von 400.000 Arbeitslosen für die Dauer von drei Monaten ausreicht.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup> Zur Finanzierung der Versicherung schlägt das Kabinett einen Beitragssatz von drei Prozent des Grundlohnes vor, was exakt dem aktuellen Satz der bisherigen Erwerbslosenfürsorge entspricht.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Vorwärts\">[2]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Reichstag_(Weimar_Republic).png",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Wappen_Deutsches_Reich_(Weimarer_Republik).svg",
+        "alt_text": "Reichstag (Weimar Republic)",
+        "caption": "Reichstag (Weimar Republic), Parlament der Weimarer Republik"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Gesetz über die Arbeitslosenversicherung",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Gesetz_über_Arbeitsvermittlung_und_Arbeitslosenversicherung",
+        "link_target": "Gesetz über Arbeitsvermittlung und Arbeitslosenversicherung"
+      },
+      {
+        "term": "Reichstag",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Reichstag_(Weimarer_Republik)",
+        "link_target": "Reichstag (Weimarer Republik)"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "date": "1926-11-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/2YVVF7BSQQ4SH6YUTIQ3FBTHE5BNQJMR",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Sächsische Staatszeitung",
+        "display_name": "Sächsische Staatszeitung",
+        "date": "1926-11-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/TJM6Q3FIGG45CAONRHJ4Z5POYSJWNJGQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Hamburger Echo",
+        "display_name": "Hamburger Echo",
+        "date": "1926-11-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/B55J6ONWMKXHFZAQORV46QR5WEKNB7NS",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1, S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q2",
+        "newspaper": "Sächsische Staatszeitung",
+        "display_name": "Sächsische Staatszeitung",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/TJM6Q3FIGG45CAONRHJ4Z5POYSJWNJGQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-11-19"
+      },
+      {
+        "id": 2,
+        "qid": "Q1",
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/2YVVF7BSQQ4SH6YUTIQ3FBTHE5BNQJMR",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-11-19"
+      },
+      {
+        "id": 3,
+        "qid": "Q3",
+        "newspaper": "Hamburger Echo",
+        "display_name": "Hamburger Echo",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/B55J6ONWMKXHFZAQORV46QR5WEKNB7NS",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-11-19"
+      }
+    ],
+    "editorial_note": "Das Gesetz über Arbeitsvermittlung und Arbeitslosenversicherung (AVAVG) wurde im Juli 1927 verabschiedet und trat am 1. Oktober 1927 in Kraft. Es begründete die moderne Arbeitslosenversicherung in Deutschland. Die im Reichsrat diskutierten Strukturen, wie die Krankenkassen als Einzugsstellen und die Finanzierung durch Beiträge der Sozialpartner, wurden weitgehend umgesetzt. In der Weltwirtschaftskrise ab 1929 geriet das System durch Massenarbeitslosigkeit jedoch rasch an seine finanziellen Grenzen. Dies trug maßgeblich zum politischen Zerfall der Weimarer Koalitionen bei.",
+    "score": 160.0
+  },
+  {
+    "index": 5,
+    "headline": "Wahlerfolg der deutschen Parteien in Oberschlesien",
+    "subheadline": "Deutliche Mehrheit bei den Gemeindewahlen — Warschauer Kreise von der Niederlage überrascht — Woiwode Garzinski rechtfertigt sich",
+    "dateline": "Warschau, 19. November.",
+    "type": "Artikel",
+    "category": "Innenpolitik",
+    "actual_words": 253,
+    "body_html": "<p>Nach der vorläufigen Zusammenstellung der Wahlergebnisse in Ostoberschlesien zeichnet sich ein klarer Sieg der deutschen Parteien ab.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Sie errangen in den Gemeindevertretungen insgesamt 335 Mandate, während sämtliche polnischen Listen zusammen lediglich 265 Sitze erobern konnten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Inzwischen räumt selbst die polnische Presse ein, dass etwa 60 Prozent der abgegebenen Stimmen auf deutsche Listen entfielen und nur 40 Prozent auf die polnischen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup></p>\n<p>Dieser für die polnische Seite ungünstige Ausgang hat in Warschauer politischen Kreisen laut dem <em>Harburger Tageblatt</em> erhebliche Verunsicherung und Meinungsverschiedenheiten hervorgerufen.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Die bürgerlichen Blätter Polens streiten heftig darüber, wer die politische Verantwortung für den Anstieg der deutschen Stimmen trägt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Die Schuld wird abwechselnd der früheren nationaldemokratischen Regierung, dem gegenwärtigen Kabinett unter <a href=\"https://de.wikipedia.org/wiki/Józef_Piłsudski\" target=\"_blank\" rel=\"noopener\">Józef Piłsudski</a> oder dem Politiker <a href=\"https://de.wikipedia.org/wiki/Wojciech_Korfanty\" target=\"_blank\" rel=\"noopener\">Wojciech Korfanty</a> zugeschrieben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup></p>\n<p>Unterdessen ist der oberschlesische Woiwode Garzinski in Warschau eingetroffen, um dem Innenminister über die Wahlen Bericht zu erstatten.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Nach Angaben des <em>Harburger Tageblatts</em> war er sichtlich bemüht, den Minister davon zu überzeugen, dass die Berichterstattung der Presse übertrieben sei.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Garzinski soll sogar behauptet haben, die Polen hätten gut abgeschnitten und 57 Prozent der Stimmen erhalten, während sie beim Plebiszit nur 53 Prozent erreicht hätten.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup></p>\n<p>Die Ursachenforschung in der polnischen Öffentlichkeit nimmt unterschiedliche Formen an. Während einige Stimmen die Niederlage als Missbilligung der Aufständischen-Nebenregierung werten, geben andere der schlechten wirtschaftlichen Lage die Schuld.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Bemerkenswert ist jedoch das Urteil des <em>Robotnik</em>, des Organs der polnischen Sozialdemokraten. Wie der <em>Vorwärts</em> zitiert, zieht das Blatt das bittere Fazit, dass das polnische Oberschlesien überwiegend von Deutschen bewohnt sei.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup> Man habe Deutschland durch die Abtrennung dieses Gebietes ein Unrecht zugefügt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Vorwärts\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Józef_Piłsudski.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Piłsudski_1921.jpg",
+        "alt_text": "Józef Piłsudski",
+        "caption": "Józef Piłsudski, polnischer Marschall und Diktator, Staatsmann (1867–1935)"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Józef Piłsudski",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Józef_Piłsudski",
+        "link_target": "Józef Piłsudski"
+      },
+      {
+        "term": "Wojciech Korfanty",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Wojciech_Korfanty",
+        "link_target": "Wojciech Korfanty"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-11-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/4FNGOASP7O5ROTZUOT523T4NCVEK5SOQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 1",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      },
+      {
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "date": "1926-11-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/2YVVF7BSQQ4SH6YUTIQ3FBTHE5BNQJMR",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 2",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q2",
+        "newspaper": "Vorwärts",
+        "display_name": "Vorwärts",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/2YVVF7BSQQ4SH6YUTIQ3FBTHE5BNQJMR",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-11-19"
+      },
+      {
+        "id": 2,
+        "qid": "Q1",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/4FNGOASP7O5ROTZUOT523T4NCVEK5SOQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-11-19"
+      }
+    ],
+    "editorial_note": "Nach der Volksabstimmung in Oberschlesien 1921 und den anschließenden Aufständen war das ressourcenreiche Gebiet 1922 zwischen dem Deutschen Reich und der Zweiten Polnischen Republik aufgeteilt worden. Der östliche, stark industrialisierte Teil fiel an Polen, wies jedoch weiterhin eine starke deutsche Minderheit auf. Die Wahlerfolge deutscher Parteien in Polnisch-Oberschlesien und die Lage der jeweiligen Minderheiten beiderseits der Grenze blieben während der gesamten Weimarer Republik ein zentraler Konfliktpunkt in den ohnehin angespannten deutsch-polnischen Beziehungen.",
+    "score": 130.0
+  },
+  {
+    "index": 6,
+    "headline": "Gedenkfeiern für Sun Yat-sen in Peking",
+    "subheadline": "Über 100.000 Menschen demonstrieren gegen den Imperialismus — Volksräte nach sowjetischem Vorbild in Hankau formiert",
+    "dateline": "Peking, 19. November.",
+    "type": "Artikel",
+    "category": "Gesellschaft",
+    "actual_words": 173,
+    "body_html": "<p>In der chinesischen Hauptstadt haben sich gewaltige Massenkundgebungen anlässlich des 60. Geburtstages des verstorbenen Revolutionsführers <a href=\"https://de.wikipedia.org/wiki/Sun_Yat-sen\" target=\"_blank\" rel=\"noopener\">Sun Yat-sen</a> vollzogen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Pravda\">[1]</a></sup> Wie die <em>Prawda</em> berichtet, strömten über 100.000 Menschen auf die Straßen, um das Andenken des Begründers der chinesischen Republik zu ehren.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Pravda\">[1]</a></sup></p>\n<p>Den Kern der historischen Prozession bildeten studentische Formationen, die zur Melodie von Chopins Trauermarsch durch die Hauptverkehrsadern der Stadt zogen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Pravda\">[1]</a></sup> Aus der Menge ertönten deutlich vernehmbare Rufe: „Nieder mit dem Imperialismus! Nieder mit dem Militarismus! Es lebe der Sun-Yat-senismus!“<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Pravda\">[1]</a></sup> Der Menschenstrom mündete schließlich in den Zentralpark, der von den alten kaiserlichen Palastmauern gesäumt wird.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Pravda\">[1]</a></sup> Von provisorischen Tribünen hielten Redner Ansprachen. Sie riefen das junge China dazu auf, das Werk ihres bedeutenden Führers weiterzuführen und zu vollenden.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Pravda\">[1]</a></sup></p>\n<p>Die revolutionäre Begeisterung, also das ideologische Erbe des Verstorbenen, breitet sich unaufhaltsam im Lande aus.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Nach verlässlichen Meldungen des <em>Harburger Tageblattes</em> aus Hankau (Hankou) organisiert die dortige Bevölkerung derzeit Volksräte, die in ihrem Aufbau stark den russischen Sowjets ähneln.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup> Währenddessen zieht der Mandschu-General <a href=\"https://en.wikipedia.org/wiki/Sun_Chuanfang\" target=\"_blank\" rel=\"noopener\">Sunschuanfang</a> seine Verbände bei Anking (Anqing) zusammen. Die Verlässlichkeit dieser Truppen gilt jedoch als zweifelhaft.<sup class=\"source-ref\"><a href=\"#fn-2\" id=\"fnref-2\" title=\"Harburger Tageblatt\">[2]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Sun_Yat-sen.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sun_Yat_Sen_portrait.jpg",
+        "alt_text": "Sun Yat-sen",
+        "caption": "Sun Yat-sen, Gruendervater der Republik China (1866-1925)"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Sun Yat-sen",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Sun_Yat-sen",
+        "link_target": "Sun Yat-sen"
+      },
+      {
+        "term": "Sunschuanfang",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sun_Chuanfang",
+        "link_target": "Sun Chuanfang"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Pravda",
+        "display_name": "Правда (Pravda)",
+        "date": "1926-11-19",
+        "url": "https://archive.org/search?query=title%3A%22Pravda%22+AND+date%3A1926-11-19",
+        "archive": "Internet Archive",
+        "pages_cited": "diverse",
+        "license": "Public Domain"
+      },
+      {
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "date": "1926-11-19",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/4FNGOASP7O5ROTZUOT523T4NCVEK5SOQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "pages_cited": "S. 3",
+        "license": "Gemeinfrei (Originalwerk) / Nutzungsbedingungen DDB"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Pravda",
+        "display_name": "Правда (Pravda)",
+        "url": "https://archive.org/search?query=title%3A%22Pravda%22+AND+date%3A1926-11-19",
+        "archive": "Internet Archive",
+        "date": "1926-11-19"
+      },
+      {
+        "id": 2,
+        "qid": "Q2",
+        "newspaper": "Harburger Tageblatt",
+        "display_name": "Harburger Tageblatt",
+        "url": "https://www.deutsche-digitale-bibliothek.de/newspaper/item/4FNGOASP7O5ROTZUOT523T4NCVEK5SOQ",
+        "archive": "Deutsche Digitale Bibliothek",
+        "date": "1926-11-19"
+      }
+    ],
+    "editorial_note": "Sun Yat-sen verstarb bereits im März 1925, wurde jedoch von der Kuomintang und den chinesischen Kommunisten gleichermaßen als Vater des modernen China verehrt. Zum Zeitpunkt dieser Gedenkfeiern befand sich die Nationalrevolutionäre Armee auf dem sogenannten Nordfeldzug (1926–1928), um die zerstrittenen Warlords zu besiegen und das Land zu einen. Das erwähnte Hankou wurde kurz darauf Teil der neuen linksgerichteten Nationalregierung in Wuhan, bevor das Bündnis zwischen Kommunisten und der Kuomintang unter Chiang Kai-shek im Jahr 1927 blutig zerbrach.",
+    "score": 140.0
+  },
+  {
+    "index": 7,
+    "headline": "Umfassende Reform der Beamten-Pensionskassen in Finnland",
+    "subheadline": "Neue Reglements für Witwen und Waisen genehmigt — Deutliche Erhöhung der Rentensätze bei steigenden Eigenbeiträgen",
+    "dateline": "Helsingfors, 19. November.",
+    "type": "Artikel",
+    "category": "Wirtschaft",
+    "actual_words": 193,
+    "body_html": "<p>Wie das <em>Hufvudstadsbladet</em> meldet, hat das finnische Finanzministerium am 12. November neue Statuten für die zivilen und militärischen Witwen- und Waisenkassen genehmigt.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hufvudstadsbladet\">[1]</a></sup> Damit kommt eine bereits vor dem <a href=\"https://de.wikipedia.org/wiki/Erster_Weltkrieg\" target=\"_blank\" rel=\"noopener\">Weltkrieg</a> debattierte Reform zu einem vorläufigen Abschluss.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hufvudstadsbladet\">[1]</a></sup> Die Neuordnung war unumgänglich geworden, nachdem der drastische Währungsverfall die alten Ruhegehälter weitgehend entwertet hatte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hufvudstadsbladet\">[1]</a></sup> Bisher existierten Fälle, in denen Rentenempfänger noch nach Reglements aus den Jahren 1819 oder 1835 abgefunden wurden — Beträge, die selbst mit großzügigen Teuerungszulagen kein Auskommen mehr sicherten.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hufvudstadsbladet\">[1]</a></sup></p>\n<p>Möglich wurde die Umgestaltung erst nachdem der Reichstag den staatlichen Zuschuss für das laufende Jahr um 1.600.000 <a href=\"https://de.wikipedia.org/wiki/Finnische_Mark\" target=\"_blank\" rel=\"noopener\">Mark</a> erhöht hatte.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hufvudstadsbladet\">[1]</a></sup>  Bislang umfasst die Reorganisation vier der sechs staatlichen Kassen, darunter jene für die Zivilverwaltung und die Universität.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hufvudstadsbladet\">[1]</a></sup> Die mathematischen Grundlagen für das neue System hat der Sachverständige Professor <a href=\"https://de.wikipedia.org/wiki/Rolf_Witting\" target=\"_blank\" rel=\"noopener\">Rolf Witting</a> berechnet.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hufvudstadsbladet\">[1]</a></sup></p>\n<p>Die Anpassungen fallen beachtlich aus: Die niedrigsten Renten werden auf annähernd das Neunfache, die höchsten auf knapp das Vierfache der Sätze von 1913 angehoben.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hufvudstadsbladet\">[1]</a></sup> Nach dem neuen, zwölf Klassen umfassenden System schwanken die Auszahlungen künftig zwischen 1.360 und 8.640 Mark jährlich.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hufvudstadsbladet\">[1]</a></sup> Allerdings müssen auch die Beamten höhere Lasten tragen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hufvudstadsbladet\">[1]</a></sup> Ihre Beiträge steigen beträchtlich an und decken fortan die Hälfte des gesamten Finanzbedarfs der Kassen.<sup class=\"source-ref\"><a href=\"#fn-1\" id=\"fnref-1\" title=\"Hufvudstadsbladet\">[1]</a></sup></p>",
+    "images": [
+      {
+        "url": "images/Lauri_Kristian_Relander.jpg",
+        "credit": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lauri_Kristian_Relander,_1920s.jpg",
+        "alt_text": "Lauri Kristian Relander",
+        "caption": "Lauri Kristian Relander, Staatspraesident Finnlands 1925-1931"
+      }
+    ],
+    "wikipedia_links": [
+      {
+        "term": "Weltkrieg",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Erster_Weltkrieg",
+        "link_target": "Erster Weltkrieg"
+      },
+      {
+        "term": "Mark",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Finnische_Mark",
+        "link_target": "Finnische Mark"
+      },
+      {
+        "term": "Rolf Witting",
+        "wikipedia_url": "https://de.wikipedia.org/wiki/Rolf_Witting",
+        "link_target": "Rolf Witting"
+      }
+    ],
+    "primary_sources": [
+      {
+        "newspaper": "Hufvudstadsbladet",
+        "display_name": "Hufvudstadsbladet (Helsinki)",
+        "date": "1926-11-19",
+        "url": "https://digi.kansalliskirjasto.fi/search?query=&title=0356-0724&startDate=1926-11-19&endDate=1926-11-19&formats=NEWSPAPER",
+        "archive": "Digi (Kansalliskirjasto)",
+        "pages_cited": "S. 3",
+        "license": "Public Domain"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": 1,
+        "qid": "Q1",
+        "newspaper": "Hufvudstadsbladet",
+        "display_name": "Hufvudstadsbladet (Helsinki)",
+        "url": "https://digi.kansalliskirjasto.fi/search?query=&title=0356-0724&startDate=1926-11-19&endDate=1926-11-19&formats=NEWSPAPER",
+        "archive": "Digi (Kansalliskirjasto)",
+        "date": "1926-11-19"
+      }
+    ],
+    "editorial_note": "Die Reform der finnischen Pensionskassen in den 1920er Jahren spiegelte die Notwendigkeit wider, die massiven Inflationsfolgen der Nachkriegszeit abzufedern. Der neu gegründete finnische Staat musste seine Verwaltung modernisieren und zugleich die soziale Absicherung der Beamtenschaft an die neue Währungsrealität anpassen. Professor Rolf Witting, der die Reform berechnete, wurde später ein bedeutender finnischer Politiker und fungierte während des Zweiten Weltkriegs als Außenminister des Landes.",
+    "score": 120.0
+  }
+]

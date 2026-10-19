@@ -4991,5 +4991,140 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:SPD_logo.svg",
     "credit": "Wikimedia Commons",
     "license": "Public Domain"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/WP_Zille_Selbstportr%C3%A4t.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-WP_Zille_Selbstportr%C3%A4t.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Heinrich_Zille.jpg",
+    "local_path": "images/Heinrich_Zille.jpg",
+    "alt": "Heinrich Zille"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Washington_Lu%C3%ADs_%28foto%29.jpg/960px-Washington_Lu%C3%ADs_%28foto%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Washington_Luís_Pereira_de_Sousa.jpg",
+    "local_path": "images/Washington_Luís_Pereira_de_Sousa.jpg",
+    "alt": "Washington Luís Pereira de Sousa"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bundesarchiv_Bild_183-R99514%2C_Berlin%2C_Wilhelmplatz%2C_Hotel_%22Kaiserhof%22.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_183-R99514%2C_Berlin%2C_Wilhelmplatz%2C_Hotel_%22Kaiserhof%22.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Hotel_Kaiserhof_(Berlin).jpg",
+    "local_path": "images/Hotel_Kaiserhof_(Berlin).jpg",
+    "alt": "Hotel Kaiserhof (Berlin)"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Badge_of_the_National_Fascist_Party_%281926%E2%80%931943%29_blank_version.svg/960px-Badge_of_the_National_Fascist_Party_%281926%E2%80%931943%29_blank_version.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Partito_Nazionale_Fascista.png",
+    "local_path": "images/Partito_Nazionale_Fascista.png",
+    "alt": "Partito Nazionale Fascista"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg/960px-Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Martin_Luther.jpg",
+    "local_path": "images/Martin_Luther.jpg",
+    "alt": "Martin Luther"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Kairo_Museum_Sitzstatue_Chephren_08.jpg/960px-Kairo_Museum_Sitzstatue_Chephren_08.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Chephren.jpg",
+    "local_path": "images/Chephren.jpg",
+    "alt": "Chephren"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/James_Franck.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-James_Franck.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "James_Franck.jpg",
+    "local_path": "images/James_Franck.jpg",
+    "alt": "James Franck"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Georg_Kaiser.jpg/960px-Georg_Kaiser.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Georg_Kaiser.jpg",
+    "local_path": "images/Georg_Kaiser.jpg",
+    "alt": "Georg Kaiser"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Germany_Italy_Locator.png/960px-Germany_Italy_Locator.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Deutsch-italienische_Beziehungen.png",
+    "local_path": "images/Deutsch-italienische_Beziehungen.png",
+    "alt": "Deutsch-italienische Beziehungen"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_the_Social_Democratic_Party_of_Germany.svg/960px-Flag_of_the_Social_Democratic_Party_of_Germany.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Sozialdemokratische_Partei_Deutschlands.png",
+    "local_path": "images/Sozialdemokratische_Partei_Deutschlands.png",
+    "alt": "Sozialdemokratische Partei Deutschlands"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Hermann_Luppe.jpg/960px-Hermann_Luppe.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Hermann_Luppe.jpg",
+    "local_path": "images/Hermann_Luppe.jpg",
+    "alt": "Hermann Luppe"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo_of_the_Communist_Party_of_Indonesia.svg/960px-Logo_of_the_Communist_Party_of_Indonesia.svg.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Kommunistische_Partei_Indonesiens.png",
+    "local_path": "images/Kommunistische_Partei_Indonesiens.png",
+    "alt": "Kommunistische Partei Indonesiens"
+  },
+  "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8d/Herbert_Samuel.jpg/960px-Herbert_Samuel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Herbert_Samuel_1st_Viscount_Samuel.jpg",
+    "local_path": "images/Herbert_Samuel_1st_Viscount_Samuel.jpg",
+    "alt": "Herbert Samuel, 1st Viscount Samuel"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bundesarchiv_Bild_183-E00795%2C_Julius_Dorpm%C3%BCller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_183-E00795%2C_Julius_Dorpm%C3%BCller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Julius_Dorpmüller.jpg",
+    "local_path": "images/Julius_Dorpmüller.jpg",
+    "alt": "Julius Dorpmüller"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Louis_Loucheur.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Louis_Loucheur.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Louis_Loucheur.jpg",
+    "local_path": "images/Louis_Loucheur.jpg",
+    "alt": "Louis Loucheur"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg/960px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Theodore_Roosevelt.jpg",
+    "local_path": "images/Theodore_Roosevelt.jpg",
+    "alt": "Theodore Roosevelt"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/James_Franck_1925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-James_Franck_1925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "James_Franck.jpg",
+    "local_path": "images/James_Franck.jpg",
+    "alt": "James Franck"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Gion_Higashi_maiko_Hinay%C5%AB_in_Seirai-in_Temple_08.jpg/960px-Gion_Higashi_maiko_Hinay%C5%AB_in_Seirai-in_Temple_08.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Geisha.jpg",
+    "local_path": "images/Geisha.jpg",
+    "alt": "Geisha"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Monongahela_River_-_Southsidefromwash.jpg/960px-Monongahela_River_-_Southsidefromwash.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Monongahela_River.jpg",
+    "local_path": "images/Monongahela_River.jpg",
+    "alt": "Monongahela River"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bundesarchiv_Bild_183-R17289%2C_Paul_v._Hindenburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_183-R17289%2C_Paul_v._Hindenburg.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Paul_von_Hindenburg.jpg",
+    "local_path": "images/Paul_von_Hindenburg.jpg",
+    "alt": "Paul von Hindenburg"
+  },
+  "https://thumb.wikimedia.org/wikipedia/de/thumb/8/82/Corriere_della_Sierra_-_La_Domenica_del_corriere_1914_07_05.jpg/960px-Corriere_della_Sierra_-_La_Domenica_del_corriere_1914_07_05.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Erster_Weltkrieg.jpg",
+    "local_path": "images/Erster_Weltkrieg.jpg",
+    "alt": "Erster Weltkrieg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesarchiv_Bild_146-1968-100-04A%2C_Otto_Karl_Ge%C3%9Fler.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Bundesarchiv_Bild_146-1968-100-04A%2C_Otto_Karl_Ge%C3%9Fler.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Otto_Geßler.jpg",
+    "local_path": "images/Otto_Geßler.jpg",
+    "alt": "Otto Geßler"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/RIAN_archive_35522_Teeming_operation_in_the_blast_furnace_plant_of_the_Kuibyshev_Steel_Works_in_Kramatorsk.jpg/960px-RIAN_archive_35522_Teeming_operation_in_the_blast_furnace_plant_of_the_Kuibyshev_Steel_Works_in_Kramatorsk.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail": {
+    "local_file": "Stahlerzeugung.jpg",
+    "local_path": "images/Stahlerzeugung.jpg",
+    "alt": "Stahlerzeugung"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/GeneralMotors.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-GeneralMotors.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "General_Motors.jpg",
+    "local_path": "images/General_Motors.jpg",
+    "alt": "General Motors"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Heliograph-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Heliograph-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Heliograph.jpg",
+    "local_path": "images/Heliograph.jpg",
+    "alt": "Heliograph"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arthur_Holitscher_%28vor_1926%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Arthur_Holitscher_%28vor_1926%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Arthur_Holitscher.jpg",
+    "local_path": "images/Arthur_Holitscher.jpg",
+    "alt": "Arthur Holitscher"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Walter_Gempp%2C_c._1928.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled/800px-Walter_Gempp%2C_c._1928.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled": {
+    "local_file": "Walter_Gempp.jpg",
+    "local_path": "images/Walter_Gempp.jpg",
+    "alt": "Walter Gempp"
   }
 }
